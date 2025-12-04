@@ -1,0 +1,12 @@
+- pkg:cargo/signet-journal@0.0.1-alpha
+- pkg:cargo/signet-journal@0.10.0
+- pkg:cargo/signet-journal@0.10.1
+- pkg:cargo/signet-journal@0.10.2
+- pkg:cargo/signet-journal@0.11.0
+- pkg:cargo/signet-journal@0.11.1
+- pkg:cargo/signet-journal@0.11.2
+- pkg:cargo/signet-journal@0.12.0
+- pkg:cargo/signet-journal@0.13.0
+- pkg:cargo/signet-journal@0.14.0
+- pkg:cargo/signet-journal@0.15.0
+- pkg:cargo/signet-journal@0.16.0-rc.0
