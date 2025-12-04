@@ -1,3 +1,4 @@
 - pkg:cargo/rust-x402@0.1.0
 - pkg:cargo/rust-x402@0.1.1
 - pkg:cargo/rust-x402@0.2.2
+- pkg:cargo/rust-x402@0.3.0
