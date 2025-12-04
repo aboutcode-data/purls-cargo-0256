@@ -1,0 +1,4 @@
+- pkg:cargo/starknet-rust@0.17.0
+- pkg:cargo/starknet-rust@0.17.1
+- pkg:cargo/starknet-rust@0.18.0
+- pkg:cargo/starknet-rust@0.18.0-rc.0

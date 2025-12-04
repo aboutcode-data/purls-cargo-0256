@@ -1,0 +1,3 @@
+- pkg:cargo/starknet-rust-contract@0.16.0
+- pkg:cargo/starknet-rust-contract@0.17.0
+- pkg:cargo/starknet-rust-contract@0.17.0-rc.0

@@ -1,0 +1,8 @@
+- pkg:cargo/stasis@0.4.11
+- pkg:cargo/stasis@0.4.12
+- pkg:cargo/stasis@0.5.1
+- pkg:cargo/stasis@0.5.2
+- pkg:cargo/stasis@0.6.0
+- pkg:cargo/stasis@0.6.1
+- pkg:cargo/stasis@0.6.2
+- pkg:cargo/stasis@0.7.0

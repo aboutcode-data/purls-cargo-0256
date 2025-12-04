@@ -1,0 +1,10 @@
+- pkg:cargo/flyteidl2@0.1.0
+- pkg:cargo/flyteidl2@2.0.0-alpha10
+- pkg:cargo/flyteidl2@2.0.0-alpha13
+- pkg:cargo/flyteidl2@2.0.0-alpha14
+- pkg:cargo/flyteidl2@2.0.0-alpha15
+- pkg:cargo/flyteidl2@2.0.0-alpha4
+- pkg:cargo/flyteidl2@2.0.0-alpha6
+- pkg:cargo/flyteidl2@2.0.0-alpha7
+- pkg:cargo/flyteidl2@2.0.0-alpha8
+- pkg:cargo/flyteidl2@2.0.0-alpha9

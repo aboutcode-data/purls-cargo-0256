@@ -1,0 +1,4 @@
+- pkg:cargo/opencc-jieba-rs@0.6.0
+- pkg:cargo/opencc-jieba-rs@0.7.0
+- pkg:cargo/opencc-jieba-rs@0.7.1
+- pkg:cargo/opencc-jieba-rs@0.7.2
