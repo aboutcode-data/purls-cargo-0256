@@ -1,0 +1,4 @@
+- pkg:cargo/nostr-android-signer@0.1.0
+- pkg:cargo/nostr-android-signer@0.43.0-alpha.1
+- pkg:cargo/nostr-android-signer@0.43.0-alpha.2
+- pkg:cargo/nostr-android-signer@0.44.0
