@@ -1,0 +1,5 @@
+- pkg:cargo/asimov-huggingface@25.0.0
+- pkg:cargo/asimov-huggingface@25.0.0-dev.24
+- pkg:cargo/asimov-huggingface@25.0.0-dev.25
+- pkg:cargo/asimov-huggingface@25.0.1
+- pkg:cargo/asimov-huggingface@25.0.2
