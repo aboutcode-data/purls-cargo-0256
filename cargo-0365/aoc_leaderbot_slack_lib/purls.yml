@@ -1,0 +1,3 @@
+- pkg:cargo/aoc_leaderbot_slack_lib@0.3.0
+- pkg:cargo/aoc_leaderbot_slack_lib@1.0.0
+- pkg:cargo/aoc_leaderbot_slack_lib@2.0.0
