@@ -1,0 +1,4 @@
+- pkg:cargo/spacejson-derive@0.0.12
+- pkg:cargo/spacejson-derive@0.0.13
+- pkg:cargo/spacejson-derive@0.0.13-pre.1
+- pkg:cargo/spacejson-derive@0.0.14
