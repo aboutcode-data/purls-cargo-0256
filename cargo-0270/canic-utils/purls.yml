@@ -8,3 +8,5 @@
 - pkg:cargo/canic-utils@0.4.5
 - pkg:cargo/canic-utils@0.4.6
 - pkg:cargo/canic-utils@0.4.7
+- pkg:cargo/canic-utils@0.4.8
+- pkg:cargo/canic-utils@0.4.9
