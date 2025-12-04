@@ -8,6 +8,8 @@
 - pkg:cargo/canic-testkit@0.3.7
 - pkg:cargo/canic-testkit@0.3.8
 - pkg:cargo/canic-testkit@0.3.9
+- pkg:cargo/canic-testkit@0.4.11
+- pkg:cargo/canic-testkit@0.4.12
 - pkg:cargo/canic-testkit@0.4.4
 - pkg:cargo/canic-testkit@0.4.5
 - pkg:cargo/canic-testkit@0.4.6
