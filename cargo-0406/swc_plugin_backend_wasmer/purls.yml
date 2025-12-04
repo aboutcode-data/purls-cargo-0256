@@ -1,0 +1,7 @@
+- pkg:cargo/swc_plugin_backend_wasmer@0.1.0
+- pkg:cargo/swc_plugin_backend_wasmer@1.0.0
+- pkg:cargo/swc_plugin_backend_wasmer@2.0.0
+- pkg:cargo/swc_plugin_backend_wasmer@3.0.0
+- pkg:cargo/swc_plugin_backend_wasmer@4.0.0
+- pkg:cargo/swc_plugin_backend_wasmer@5.0.0
+- pkg:cargo/swc_plugin_backend_wasmer@6.0.0

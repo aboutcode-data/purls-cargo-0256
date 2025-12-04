@@ -1,0 +1,17 @@
+- pkg:cargo/swh-graph-grpc-server@6.0.0
+- pkg:cargo/swh-graph-grpc-server@6.1.0
+- pkg:cargo/swh-graph-grpc-server@6.2.0
+- pkg:cargo/swh-graph-grpc-server@6.3.1
+- pkg:cargo/swh-graph-grpc-server@6.7.0
+- pkg:cargo/swh-graph-grpc-server@6.7.4
+- pkg:cargo/swh-graph-grpc-server@6.7.5
+- pkg:cargo/swh-graph-grpc-server@7.0.0
+- pkg:cargo/swh-graph-grpc-server@8.0.10
+- pkg:cargo/swh-graph-grpc-server@8.0.11
+- pkg:cargo/swh-graph-grpc-server@8.0.4
+- pkg:cargo/swh-graph-grpc-server@8.0.5
+- pkg:cargo/swh-graph-grpc-server@8.0.6
+- pkg:cargo/swh-graph-grpc-server@8.0.7
+- pkg:cargo/swh-graph-grpc-server@8.0.8
+- pkg:cargo/swh-graph-grpc-server@8.0.9
+- pkg:cargo/swh-graph-grpc-server@9.0.2
