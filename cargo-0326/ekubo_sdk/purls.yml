@@ -21,3 +21,4 @@
 - pkg:cargo/ekubo_sdk@0.1.8
 - pkg:cargo/ekubo_sdk@0.1.9
 - pkg:cargo/ekubo_sdk@1.0.0
+- pkg:cargo/ekubo_sdk@1.0.1
