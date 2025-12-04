@@ -9,3 +9,4 @@
 - pkg:cargo/dioxus-use-js-macro@0.2.0-alpha.6
 - pkg:cargo/dioxus-use-js-macro@0.2.0-alpha.7
 - pkg:cargo/dioxus-use-js-macro@0.2.1
+- pkg:cargo/dioxus-use-js-macro@0.3.0
