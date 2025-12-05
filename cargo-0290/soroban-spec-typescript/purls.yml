@@ -52,3 +52,4 @@
 - pkg:cargo/soroban-spec-typescript@23.1.4
 - pkg:cargo/soroban-spec-typescript@23.2.0
 - pkg:cargo/soroban-spec-typescript@23.2.1
+- pkg:cargo/soroban-spec-typescript@23.3.0
