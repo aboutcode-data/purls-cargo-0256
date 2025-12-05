@@ -22,3 +22,4 @@
 - pkg:cargo/alpm-sys@4.0.1
 - pkg:cargo/alpm-sys@4.0.2
 - pkg:cargo/alpm-sys@4.0.3
+- pkg:cargo/alpm-sys@5.0.0
