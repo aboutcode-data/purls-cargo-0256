@@ -38,6 +38,11 @@
 - pkg:cargo/ore-api@3.7.12
 - pkg:cargo/ore-api@3.7.13
 - pkg:cargo/ore-api@3.7.13-alpha.1
+- pkg:cargo/ore-api@3.7.14
+- pkg:cargo/ore-api@3.7.14-alpha.1
+- pkg:cargo/ore-api@3.7.15-alpha.1
+- pkg:cargo/ore-api@3.7.16
+- pkg:cargo/ore-api@3.7.16-alpha.1
 - pkg:cargo/ore-api@3.7.2
 - pkg:cargo/ore-api@3.7.3
 - pkg:cargo/ore-api@3.7.4
