@@ -99,3 +99,5 @@
 - pkg:cargo/vtcode-commons@0.47.5
 - pkg:cargo/vtcode-commons@0.47.6
 - pkg:cargo/vtcode-commons@0.47.7
+- pkg:cargo/vtcode-commons@0.47.8
+- pkg:cargo/vtcode-commons@0.47.9
