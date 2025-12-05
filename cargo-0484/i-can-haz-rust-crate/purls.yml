@@ -1,0 +1,4 @@
+- pkg:cargo/i-can-haz-rust-crate@0.0.0-prerelease.0
+- pkg:cargo/i-can-haz-rust-crate@0.1.0
+- pkg:cargo/i-can-haz-rust-crate@0.1.0-1
+- pkg:cargo/i-can-haz-rust-crate@0.1.0-post2
