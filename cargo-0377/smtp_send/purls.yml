@@ -1,6 +1,9 @@
 - pkg:cargo/smtp_send@0.1.10
 - pkg:cargo/smtp_send@0.1.11
 - pkg:cargo/smtp_send@0.1.12
+- pkg:cargo/smtp_send@0.1.13
+- pkg:cargo/smtp_send@0.1.14
+- pkg:cargo/smtp_send@0.1.15
 - pkg:cargo/smtp_send@0.1.2
 - pkg:cargo/smtp_send@0.1.3
 - pkg:cargo/smtp_send@0.1.4
