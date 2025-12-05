@@ -28,3 +28,4 @@
 - pkg:cargo/ntex-server@3.0.0-pre.4
 - pkg:cargo/ntex-server@3.1.0
 - pkg:cargo/ntex-server@3.2.0
+- pkg:cargo/ntex-server@3.3.0
