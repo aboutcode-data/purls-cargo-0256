@@ -72,5 +72,6 @@
 - pkg:cargo/surrealdb-core@3.0.0-alpha.13
 - pkg:cargo/surrealdb-core@3.0.0-alpha.14
 - pkg:cargo/surrealdb-core@3.0.0-alpha.16
+- pkg:cargo/surrealdb-core@3.0.0-alpha.17
 - pkg:cargo/surrealdb-core@3.0.0-alpha.8
 - pkg:cargo/surrealdb-core@3.0.0-alpha.9
