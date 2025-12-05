@@ -3,3 +3,4 @@
 - pkg:cargo/pulseengine-mcp-security-middleware@0.11.0
 - pkg:cargo/pulseengine-mcp-security-middleware@0.12.0
 - pkg:cargo/pulseengine-mcp-security-middleware@0.13.0
+- pkg:cargo/pulseengine-mcp-security-middleware@0.14.0
