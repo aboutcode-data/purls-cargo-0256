@@ -4,3 +4,5 @@
 - pkg:cargo/shuffle@0.1.3
 - pkg:cargo/shuffle@0.1.6
 - pkg:cargo/shuffle@0.1.7
+- pkg:cargo/shuffle@0.2.0
+- pkg:cargo/shuffle@0.2.1

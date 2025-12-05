@@ -11,3 +11,4 @@
 - pkg:cargo/waiter-trait@0.8.1
 - pkg:cargo/waiter-trait@0.8.2
 - pkg:cargo/waiter-trait@0.9.0
+- pkg:cargo/waiter-trait@0.9.1

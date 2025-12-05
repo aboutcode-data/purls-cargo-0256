@@ -7,3 +7,5 @@
 - pkg:cargo/automodel-cli@0.3.3
 - pkg:cargo/automodel-cli@0.4.0
 - pkg:cargo/automodel-cli@0.4.1
+- pkg:cargo/automodel-cli@0.4.2
+- pkg:cargo/automodel-cli@0.4.3
