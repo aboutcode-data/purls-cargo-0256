@@ -86,6 +86,7 @@
 - pkg:cargo/binstalk@0.28.56
 - pkg:cargo/binstalk@0.28.57
 - pkg:cargo/binstalk@0.28.58
+- pkg:cargo/binstalk@0.28.59
 - pkg:cargo/binstalk@0.28.6
 - pkg:cargo/binstalk@0.28.7
 - pkg:cargo/binstalk@0.28.8
