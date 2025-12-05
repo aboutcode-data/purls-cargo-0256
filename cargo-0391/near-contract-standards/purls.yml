@@ -43,6 +43,7 @@
 - pkg:cargo/near-contract-standards@5.2.0
 - pkg:cargo/near-contract-standards@5.2.1
 - pkg:cargo/near-contract-standards@5.20.0
+- pkg:cargo/near-contract-standards@5.20.1
 - pkg:cargo/near-contract-standards@5.3.0
 - pkg:cargo/near-contract-standards@5.4.0
 - pkg:cargo/near-contract-standards@5.5.0
