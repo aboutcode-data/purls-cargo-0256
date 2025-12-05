@@ -138,6 +138,7 @@
 - pkg:cargo/swc_ecma_compat_es2019@30.0.0
 - pkg:cargo/swc_ecma_compat_es2019@31.0.0
 - pkg:cargo/swc_ecma_compat_es2019@32.0.0
+- pkg:cargo/swc_ecma_compat_es2019@32.0.1
 - pkg:cargo/swc_ecma_compat_es2019@4.0.0
 - pkg:cargo/swc_ecma_compat_es2019@5.0.0
 - pkg:cargo/swc_ecma_compat_es2019@6.0.0
