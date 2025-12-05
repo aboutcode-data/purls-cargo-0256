@@ -8,6 +8,7 @@
 - pkg:cargo/plotlars@0.11.1
 - pkg:cargo/plotlars@0.11.2
 - pkg:cargo/plotlars@0.11.3
+- pkg:cargo/plotlars@0.11.4
 - pkg:cargo/plotlars@0.2.0
 - pkg:cargo/plotlars@0.2.1
 - pkg:cargo/plotlars@0.2.2
