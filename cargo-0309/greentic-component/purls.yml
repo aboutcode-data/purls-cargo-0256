@@ -6,6 +6,7 @@
 - pkg:cargo/greentic-component@0.4.0
 - pkg:cargo/greentic-component@0.4.10
 - pkg:cargo/greentic-component@0.4.11
+- pkg:cargo/greentic-component@0.4.12
 - pkg:cargo/greentic-component@0.4.4
 - pkg:cargo/greentic-component@0.4.5
 - pkg:cargo/greentic-component@0.4.6

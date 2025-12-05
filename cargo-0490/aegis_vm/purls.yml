@@ -8,3 +8,5 @@
 - pkg:cargo/aegis_vm@0.1.5
 - pkg:cargo/aegis_vm@0.1.51
 - pkg:cargo/aegis_vm@0.1.52
+- pkg:cargo/aegis_vm@0.2.0
+- pkg:cargo/aegis_vm@0.2.1

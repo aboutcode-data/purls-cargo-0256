@@ -5,6 +5,7 @@
 - pkg:cargo/error2@0.10.2
 - pkg:cargo/error2@0.10.3
 - pkg:cargo/error2@0.10.4
+- pkg:cargo/error2@0.10.5
 - pkg:cargo/error2@0.2.0
 - pkg:cargo/error2@0.3.0
 - pkg:cargo/error2@0.3.1
