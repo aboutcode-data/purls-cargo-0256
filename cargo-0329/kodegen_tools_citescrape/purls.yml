@@ -23,3 +23,4 @@
 - pkg:cargo/kodegen_tools_citescrape@0.6.0
 - pkg:cargo/kodegen_tools_citescrape@0.6.1
 - pkg:cargo/kodegen_tools_citescrape@0.6.2
+- pkg:cargo/kodegen_tools_citescrape@0.8.0

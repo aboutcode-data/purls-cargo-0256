@@ -19,3 +19,4 @@
 - pkg:cargo/kodegen_server_http@0.5.1
 - pkg:cargo/kodegen_server_http@0.5.2
 - pkg:cargo/kodegen_server_http@0.6.0
+- pkg:cargo/kodegen_server_http@0.8.0
