@@ -13,6 +13,7 @@
 - pkg:cargo/s2json-derive@1.42.0
 - pkg:cargo/s2json-derive@1.43.0
 - pkg:cargo/s2json-derive@1.44.0
+- pkg:cargo/s2json-derive@1.45.0
 - pkg:cargo/s2json-derive@1.5.0
 - pkg:cargo/s2json-derive@1.6.0
 - pkg:cargo/s2json-derive@1.7.0
