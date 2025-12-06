@@ -1,2 +1,3 @@
 - pkg:cargo/miden-utils-indexing@0.19.0
 - pkg:cargo/miden-utils-indexing@0.19.1
+- pkg:cargo/miden-utils-indexing@0.20.0
