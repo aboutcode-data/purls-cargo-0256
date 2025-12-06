@@ -41,6 +41,9 @@
 - pkg:cargo/piston_window@0.130.0
 - pkg:cargo/piston_window@0.131.0
 - pkg:cargo/piston_window@0.132.0
+- pkg:cargo/piston_window@0.133.0
+- pkg:cargo/piston_window@0.133.1
+- pkg:cargo/piston_window@0.134.0
 - pkg:cargo/piston_window@0.14.0
 - pkg:cargo/piston_window@0.15.0
 - pkg:cargo/piston_window@0.16.0
