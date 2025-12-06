@@ -1,1 +1,2 @@
 - pkg:cargo/pathdedup@0.2.0
+- pkg:cargo/pathdedup@1.0.0
