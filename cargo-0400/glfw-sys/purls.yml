@@ -18,3 +18,4 @@
 - pkg:cargo/glfw-sys@4.0.0%2B3.3.5
 - pkg:cargo/glfw-sys@5.0.0%2B3.3.9
 - pkg:cargo/glfw-sys@6.0.0
+- pkg:cargo/glfw-sys@7.0.0
