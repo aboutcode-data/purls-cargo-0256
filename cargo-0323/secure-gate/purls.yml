@@ -23,3 +23,4 @@
 - pkg:cargo/secure-gate@0.5.7
 - pkg:cargo/secure-gate@0.5.8
 - pkg:cargo/secure-gate@0.5.9
+- pkg:cargo/secure-gate@0.6.0
