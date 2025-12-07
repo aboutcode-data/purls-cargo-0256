@@ -13,3 +13,4 @@
 - pkg:cargo/delaunay@0.5.2
 - pkg:cargo/delaunay@0.5.3
 - pkg:cargo/delaunay@0.5.4
+- pkg:cargo/delaunay@0.6.0
