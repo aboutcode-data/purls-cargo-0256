@@ -55,6 +55,7 @@
 - pkg:cargo/sc-chain-spec@44.0.0
 - pkg:cargo/sc-chain-spec@45.0.0
 - pkg:cargo/sc-chain-spec@46.0.0
+- pkg:cargo/sc-chain-spec@47.0.0
 - pkg:cargo/sc-chain-spec@5.0.0
 - pkg:cargo/sc-chain-spec@6.0.0
 - pkg:cargo/sc-chain-spec@7.0.0
