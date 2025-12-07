@@ -17,6 +17,7 @@
 - pkg:cargo/polkadot-runtime-metrics@21.0.0
 - pkg:cargo/polkadot-runtime-metrics@22.0.0
 - pkg:cargo/polkadot-runtime-metrics@23.0.0
+- pkg:cargo/polkadot-runtime-metrics@24.0.0
 - pkg:cargo/polkadot-runtime-metrics@3.0.0
 - pkg:cargo/polkadot-runtime-metrics@3.0.0-dev.1
 - pkg:cargo/polkadot-runtime-metrics@4.0.0

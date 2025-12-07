@@ -32,6 +32,7 @@
 - pkg:cargo/staging-xcm-executor@20.0.1
 - pkg:cargo/staging-xcm-executor@21.0.0
 - pkg:cargo/staging-xcm-executor@22.0.0
+- pkg:cargo/staging-xcm-executor@23.0.0
 - pkg:cargo/staging-xcm-executor@3.0.0
 - pkg:cargo/staging-xcm-executor@3.0.0-dev.1
 - pkg:cargo/staging-xcm-executor@4.0.0

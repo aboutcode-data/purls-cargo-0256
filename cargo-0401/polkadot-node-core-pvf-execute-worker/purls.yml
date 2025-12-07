@@ -15,6 +15,7 @@
 - pkg:cargo/polkadot-node-core-pvf-execute-worker@20.0.0
 - pkg:cargo/polkadot-node-core-pvf-execute-worker@21.0.0
 - pkg:cargo/polkadot-node-core-pvf-execute-worker@22.0.0
+- pkg:cargo/polkadot-node-core-pvf-execute-worker@23.0.0
 - pkg:cargo/polkadot-node-core-pvf-execute-worker@3.0.0
 - pkg:cargo/polkadot-node-core-pvf-execute-worker@3.0.0-dev.1
 - pkg:cargo/polkadot-node-core-pvf-execute-worker@4.0.0

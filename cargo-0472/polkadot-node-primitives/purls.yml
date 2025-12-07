@@ -20,6 +20,7 @@
 - pkg:cargo/polkadot-node-primitives@20.0.0
 - pkg:cargo/polkadot-node-primitives@20.1.0
 - pkg:cargo/polkadot-node-primitives@21.0.0
+- pkg:cargo/polkadot-node-primitives@21.0.1
 - pkg:cargo/polkadot-node-primitives@22.0.0
 - pkg:cargo/polkadot-node-primitives@22.1.0
 - pkg:cargo/polkadot-node-primitives@3.0.0
