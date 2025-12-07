@@ -1,4 +1,5 @@
 - pkg:cargo/turbomcp-proxy@2.2.1
 - pkg:cargo/turbomcp-proxy@2.2.2
 - pkg:cargo/turbomcp-proxy@2.2.3
+- pkg:cargo/turbomcp-proxy@2.3.0
 - pkg:cargo/turbomcp-proxy@2.3.0-rc
