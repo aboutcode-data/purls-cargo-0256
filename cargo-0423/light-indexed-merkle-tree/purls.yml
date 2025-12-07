@@ -15,3 +15,4 @@
 - pkg:cargo/light-indexed-merkle-tree@3.0.0
 - pkg:cargo/light-indexed-merkle-tree@4.0.0
 - pkg:cargo/light-indexed-merkle-tree@4.0.1
+- pkg:cargo/light-indexed-merkle-tree@5.0.0
