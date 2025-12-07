@@ -41,6 +41,7 @@
 - pkg:cargo/ra-ap-rustc_abi@0.139.0
 - pkg:cargo/ra-ap-rustc_abi@0.14.0
 - pkg:cargo/ra-ap-rustc_abi@0.140.0
+- pkg:cargo/ra-ap-rustc_abi@0.141.0
 - pkg:cargo/ra-ap-rustc_abi@0.15.0
 - pkg:cargo/ra-ap-rustc_abi@0.16.0
 - pkg:cargo/ra-ap-rustc_abi@0.17.0
