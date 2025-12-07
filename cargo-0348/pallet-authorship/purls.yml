@@ -52,6 +52,7 @@
 - pkg:cargo/pallet-authorship@41.0.0
 - pkg:cargo/pallet-authorship@42.0.0
 - pkg:cargo/pallet-authorship@43.0.0
+- pkg:cargo/pallet-authorship@44.0.0
 - pkg:cargo/pallet-authorship@5.0.0
 - pkg:cargo/pallet-authorship@6.0.0
 - pkg:cargo/pallet-authorship@7.0.0

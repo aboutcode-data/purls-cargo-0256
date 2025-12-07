@@ -58,6 +58,7 @@
 - pkg:cargo/pallet-transaction-payment@41.0.0
 - pkg:cargo/pallet-transaction-payment@42.0.0
 - pkg:cargo/pallet-transaction-payment@43.0.0
+- pkg:cargo/pallet-transaction-payment@44.0.0
 - pkg:cargo/pallet-transaction-payment@5.0.0
 - pkg:cargo/pallet-transaction-payment@6.0.0
 - pkg:cargo/pallet-transaction-payment@7.0.0

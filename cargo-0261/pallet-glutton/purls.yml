@@ -21,6 +21,7 @@
 - pkg:cargo/pallet-glutton@27.0.0
 - pkg:cargo/pallet-glutton@28.0.0
 - pkg:cargo/pallet-glutton@29.0.0
+- pkg:cargo/pallet-glutton@30.0.0
 - pkg:cargo/pallet-glutton@4.0.0
 - pkg:cargo/pallet-glutton@5.0.0
 - pkg:cargo/pallet-glutton@6.0.0
