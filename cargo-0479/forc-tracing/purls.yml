@@ -108,3 +108,4 @@
 - pkg:cargo/forc-tracing@0.70.0
 - pkg:cargo/forc-tracing@0.70.1
 - pkg:cargo/forc-tracing@0.70.2
+- pkg:cargo/forc-tracing@0.71.0
