@@ -1,5 +1,6 @@
 - pkg:cargo/alpine-protocol-sdk@0.1.11
 - pkg:cargo/alpine-protocol-sdk@0.1.13
 - pkg:cargo/alpine-protocol-sdk@0.1.14
+- pkg:cargo/alpine-protocol-sdk@0.1.15
 - pkg:cargo/alpine-protocol-sdk@0.1.6
 - pkg:cargo/alpine-protocol-sdk@0.1.7

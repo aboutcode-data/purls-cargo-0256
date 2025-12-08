@@ -1,4 +1,5 @@
 - pkg:cargo/externaldns-webhook@2024.11.22
 - pkg:cargo/externaldns-webhook@2025.10.17
 - pkg:cargo/externaldns-webhook@2025.10.18
+- pkg:cargo/externaldns-webhook@2025.12.9
 - pkg:cargo/externaldns-webhook@2025.3.4
