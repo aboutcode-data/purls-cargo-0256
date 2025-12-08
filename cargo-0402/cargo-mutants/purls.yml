@@ -62,3 +62,4 @@
 - pkg:cargo/cargo-mutants@25.2.2-pre2
 - pkg:cargo/cargo-mutants@25.3.0
 - pkg:cargo/cargo-mutants@25.3.1
+- pkg:cargo/cargo-mutants@26.0.0
