@@ -180,6 +180,7 @@
 - pkg:cargo/rerun_c@0.27.1-rc.1
 - pkg:cargo/rerun_c@0.27.2
 - pkg:cargo/rerun_c@0.27.2-rc.2
+- pkg:cargo/rerun_c@0.27.3
 - pkg:cargo/rerun_c@0.27.3-rc.1
 - pkg:cargo/rerun_c@0.27.3-rc.2
 - pkg:cargo/rerun_c@0.27.3-rc.4
