@@ -20,6 +20,7 @@
 - pkg:cargo/sc-consensus-beefy-rpc@30.0.0
 - pkg:cargo/sc-consensus-beefy-rpc@31.0.0
 - pkg:cargo/sc-consensus-beefy-rpc@32.0.0
+- pkg:cargo/sc-consensus-beefy-rpc@33.0.0
 - pkg:cargo/sc-consensus-beefy-rpc@4.0.0
 - pkg:cargo/sc-consensus-beefy-rpc@5.0.0
 - pkg:cargo/sc-consensus-beefy-rpc@6.0.0
