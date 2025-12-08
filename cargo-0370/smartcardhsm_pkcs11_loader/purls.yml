@@ -4,4 +4,5 @@
 - pkg:cargo/smartcardhsm_pkcs11_loader@5.11.2
 - pkg:cargo/smartcardhsm_pkcs11_loader@5.12.0
 - pkg:cargo/smartcardhsm_pkcs11_loader@5.12.1
+- pkg:cargo/smartcardhsm_pkcs11_loader@5.13.0
 - pkg:cargo/smartcardhsm_pkcs11_loader@5.9.0
