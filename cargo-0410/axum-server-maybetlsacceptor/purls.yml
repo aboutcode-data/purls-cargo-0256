@@ -1,1 +1,2 @@
 - pkg:cargo/axum-server-maybetlsacceptor@0.7.0
+- pkg:cargo/axum-server-maybetlsacceptor@0.8.0
