@@ -21,6 +21,7 @@
 - pkg:cargo/jirust-cli@0.16.10
 - pkg:cargo/jirust-cli@0.16.11
 - pkg:cargo/jirust-cli@0.16.12
+- pkg:cargo/jirust-cli@0.16.13
 - pkg:cargo/jirust-cli@0.16.2
 - pkg:cargo/jirust-cli@0.16.3
 - pkg:cargo/jirust-cli@0.16.4
