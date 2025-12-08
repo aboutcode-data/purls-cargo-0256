@@ -1,3 +1,4 @@
 - pkg:cargo/rstest-bdd@0.1.0
 - pkg:cargo/rstest-bdd@0.1.0-alpha2
 - pkg:cargo/rstest-bdd@0.1.0-alpha4
+- pkg:cargo/rstest-bdd@0.2.0
