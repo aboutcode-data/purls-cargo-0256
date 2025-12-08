@@ -42,6 +42,7 @@
 - pkg:cargo/mmr-gadget@46.0.0
 - pkg:cargo/mmr-gadget@47.0.0
 - pkg:cargo/mmr-gadget@48.0.0
+- pkg:cargo/mmr-gadget@49.0.0
 - pkg:cargo/mmr-gadget@5.0.0
 - pkg:cargo/mmr-gadget@6.0.0
 - pkg:cargo/mmr-gadget@7.0.0
