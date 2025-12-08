@@ -19,6 +19,7 @@
 - pkg:cargo/collectives-westend-runtime@22.0.0
 - pkg:cargo/collectives-westend-runtime@22.0.1
 - pkg:cargo/collectives-westend-runtime@23.0.0
+- pkg:cargo/collectives-westend-runtime@24.0.0
 - pkg:cargo/collectives-westend-runtime@3.0.0
 - pkg:cargo/collectives-westend-runtime@4.0.0
 - pkg:cargo/collectives-westend-runtime@4.0.1
