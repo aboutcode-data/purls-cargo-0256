@@ -39,6 +39,7 @@
 - pkg:cargo/generate-bags@41.0.0
 - pkg:cargo/generate-bags@42.0.0
 - pkg:cargo/generate-bags@43.0.0
+- pkg:cargo/generate-bags@44.0.0
 - pkg:cargo/generate-bags@5.0.0
 - pkg:cargo/generate-bags@6.0.0
 - pkg:cargo/generate-bags@7.0.0
