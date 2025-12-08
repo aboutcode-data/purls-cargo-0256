@@ -1,4 +1,5 @@
 - pkg:cargo/fusen-register@0.8.10
+- pkg:cargo/fusen-register@0.8.11
 - pkg:cargo/fusen-register@0.8.2
 - pkg:cargo/fusen-register@0.8.3
 - pkg:cargo/fusen-register@0.8.5
