@@ -80,3 +80,4 @@
 - pkg:cargo/multiversx-sc-derive@0.63.0
 - pkg:cargo/multiversx-sc-derive@0.63.1
 - pkg:cargo/multiversx-sc-derive@0.63.2
+- pkg:cargo/multiversx-sc-derive@0.63.3
