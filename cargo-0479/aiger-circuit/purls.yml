@@ -1,1 +1,2 @@
 - pkg:cargo/aiger-circuit@1.0.1
+- pkg:cargo/aiger-circuit@1.0.2
