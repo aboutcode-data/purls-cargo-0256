@@ -20,6 +20,7 @@
 - pkg:cargo/pallet-dev-mode@23.0.0
 - pkg:cargo/pallet-dev-mode@24.0.0
 - pkg:cargo/pallet-dev-mode@25.0.0
+- pkg:cargo/pallet-dev-mode@26.0.0
 - pkg:cargo/pallet-dev-mode@4.0.0
 - pkg:cargo/pallet-dev-mode@5.0.0
 - pkg:cargo/pallet-dev-mode@6.0.0
