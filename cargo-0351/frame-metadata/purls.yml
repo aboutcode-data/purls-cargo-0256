@@ -30,3 +30,4 @@
 - pkg:cargo/frame-metadata@21.0.0
 - pkg:cargo/frame-metadata@22.0.0
 - pkg:cargo/frame-metadata@23.0.0
+- pkg:cargo/frame-metadata@23.0.1
