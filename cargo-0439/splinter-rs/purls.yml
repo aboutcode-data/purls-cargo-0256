@@ -1,6 +1,7 @@
 - pkg:cargo/splinter-rs@0.1.0
 - pkg:cargo/splinter-rs@0.1.1
 - pkg:cargo/splinter-rs@0.1.2
+- pkg:cargo/splinter-rs@0.10.0
 - pkg:cargo/splinter-rs@0.2.0
 - pkg:cargo/splinter-rs@0.3.0
 - pkg:cargo/splinter-rs@0.3.1

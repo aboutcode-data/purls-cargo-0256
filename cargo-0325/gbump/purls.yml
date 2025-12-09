@@ -19,3 +19,4 @@
 - pkg:cargo/gbump@1.1.2
 - pkg:cargo/gbump@1.1.3
 - pkg:cargo/gbump@1.2.0
+- pkg:cargo/gbump@1.3.0
