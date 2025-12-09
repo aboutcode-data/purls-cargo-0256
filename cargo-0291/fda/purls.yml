@@ -87,6 +87,7 @@
 - pkg:cargo/fda@0.200.0
 - pkg:cargo/fda@0.201.0
 - pkg:cargo/fda@0.202.0
+- pkg:cargo/fda@0.203.0
 - pkg:cargo/fda@0.26.0
 - pkg:cargo/fda@0.27.0
 - pkg:cargo/fda@0.28.0
