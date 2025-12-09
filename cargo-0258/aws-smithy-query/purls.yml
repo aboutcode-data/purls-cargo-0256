@@ -54,4 +54,5 @@
 - pkg:cargo/aws-smithy-query@0.60.6
 - pkg:cargo/aws-smithy-query@0.60.7
 - pkg:cargo/aws-smithy-query@0.60.8
+- pkg:cargo/aws-smithy-query@0.60.9
 - pkg:cargo/aws-smithy-query@0.61.0
