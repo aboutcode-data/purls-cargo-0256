@@ -36,3 +36,4 @@
 - pkg:cargo/stak-libc@0.11.7
 - pkg:cargo/stak-libc@0.11.8
 - pkg:cargo/stak-libc@0.11.9
+- pkg:cargo/stak-libc@0.12.0
