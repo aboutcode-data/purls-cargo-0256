@@ -6,4 +6,6 @@
 - pkg:cargo/kit-cli@0.1.19
 - pkg:cargo/kit-cli@0.1.22
 - pkg:cargo/kit-cli@0.1.23
+- pkg:cargo/kit-cli@0.1.25
+- pkg:cargo/kit-cli@0.1.26
 - pkg:cargo/kit-cli@0.1.4
