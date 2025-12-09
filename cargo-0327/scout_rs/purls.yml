@@ -27,3 +27,4 @@
 - pkg:cargo/scout_rs@0.7.7
 - pkg:cargo/scout_rs@0.7.8
 - pkg:cargo/scout_rs@0.8.0
+- pkg:cargo/scout_rs@0.8.1
