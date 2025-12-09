@@ -29,6 +29,7 @@
 - pkg:cargo/stewball@0.5.31
 - pkg:cargo/stewball@0.5.32
 - pkg:cargo/stewball@0.5.33
+- pkg:cargo/stewball@0.5.34
 - pkg:cargo/stewball@0.5.4
 - pkg:cargo/stewball@0.5.5
 - pkg:cargo/stewball@0.5.6
