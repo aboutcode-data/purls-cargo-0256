@@ -3,3 +3,5 @@
 - pkg:cargo/i-can-haz-rust-crate@0.1.0-1
 - pkg:cargo/i-can-haz-rust-crate@0.1.0-post2
 - pkg:cargo/i-can-haz-rust-crate@0.1.1
+- pkg:cargo/i-can-haz-rust-crate@0.1.2%2Btester
+- pkg:cargo/i-can-haz-rust-crate@0.1.2-1%2Btester2
