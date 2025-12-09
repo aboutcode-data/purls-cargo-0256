@@ -8,3 +8,4 @@
 - pkg:cargo/neli-proc-macros@0.2.0-rc2
 - pkg:cargo/neli-proc-macros@0.2.0-rc3
 - pkg:cargo/neli-proc-macros@0.2.1
+- pkg:cargo/neli-proc-macros@0.2.2
