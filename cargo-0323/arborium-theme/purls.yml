@@ -1,2 +1,5 @@
 - pkg:cargo/arborium-theme@0.3.0
 - pkg:cargo/arborium-theme@0.700.0
+- pkg:cargo/arborium-theme@0.900.0
+- pkg:cargo/arborium-theme@0.901.0
+- pkg:cargo/arborium-theme@1.0.0

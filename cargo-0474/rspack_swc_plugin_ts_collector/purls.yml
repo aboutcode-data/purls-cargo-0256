@@ -29,3 +29,4 @@
 - pkg:cargo/rspack_swc_plugin_ts_collector@0.6.4
 - pkg:cargo/rspack_swc_plugin_ts_collector@0.6.5
 - pkg:cargo/rspack_swc_plugin_ts_collector@0.6.6
+- pkg:cargo/rspack_swc_plugin_ts_collector@0.6.7
