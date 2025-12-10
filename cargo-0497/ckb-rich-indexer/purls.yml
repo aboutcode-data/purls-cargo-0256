@@ -36,3 +36,4 @@
 - pkg:cargo/ckb-rich-indexer@1.0.0
 - pkg:cargo/ckb-rich-indexer@1.0.0-rc1
 - pkg:cargo/ckb-rich-indexer@1.0.0-rc2
+- pkg:cargo/ckb-rich-indexer@1.0.1

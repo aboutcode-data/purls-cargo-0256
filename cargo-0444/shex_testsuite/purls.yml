@@ -15,6 +15,7 @@
 - pkg:cargo/shex_testsuite@0.1.118
 - pkg:cargo/shex_testsuite@0.1.120
 - pkg:cargo/shex_testsuite@0.1.121
+- pkg:cargo/shex_testsuite@0.1.146
 - pkg:cargo/shex_testsuite@0.1.19
 - pkg:cargo/shex_testsuite@0.1.28
 - pkg:cargo/shex_testsuite@0.1.29
