@@ -10,3 +10,4 @@
 - pkg:cargo/jmespath_extensions@0.3.4
 - pkg:cargo/jmespath_extensions@0.3.5
 - pkg:cargo/jmespath_extensions@0.3.6
+- pkg:cargo/jmespath_extensions@0.4.0

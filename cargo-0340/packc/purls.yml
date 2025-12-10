@@ -15,6 +15,7 @@
 - pkg:cargo/packc@0.4.12
 - pkg:cargo/packc@0.4.13
 - pkg:cargo/packc@0.4.14
+- pkg:cargo/packc@0.4.15
 - pkg:cargo/packc@0.4.2
 - pkg:cargo/packc@0.4.3
 - pkg:cargo/packc@0.4.4
