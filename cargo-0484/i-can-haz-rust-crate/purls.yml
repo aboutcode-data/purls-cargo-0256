@@ -6,4 +6,17 @@
 - pkg:cargo/i-can-haz-rust-crate@0.1.2%2Btester
 - pkg:cargo/i-can-haz-rust-crate@0.1.2-1%2Btester2
 - pkg:cargo/i-can-haz-rust-crate@0.1.3
+- pkg:cargo/i-can-haz-rust-crate@0.1.3-post1
 - pkg:cargo/i-can-haz-rust-crate@0.1.3-rc.1
+- pkg:cargo/i-can-haz-rust-crate@0.1.3-rc1
+- pkg:cargo/i-can-haz-rust-crate@0.1.3-rc6
+- pkg:cargo/i-can-haz-rust-crate@0.1.4
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-1
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-post.13
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-post.131
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-post.200
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-post1
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-post111
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-post12
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-post2
+- pkg:cargo/i-can-haz-rust-crate@0.1.4-rc1
