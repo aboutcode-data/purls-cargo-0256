@@ -8,4 +8,6 @@
 - pkg:cargo/kit-cli@0.1.23
 - pkg:cargo/kit-cli@0.1.25
 - pkg:cargo/kit-cli@0.1.26
+- pkg:cargo/kit-cli@0.1.29
+- pkg:cargo/kit-cli@0.1.31
 - pkg:cargo/kit-cli@0.1.4
