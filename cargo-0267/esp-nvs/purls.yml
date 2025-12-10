@@ -1,3 +1,4 @@
 - pkg:cargo/esp-nvs@0.1.0
 - pkg:cargo/esp-nvs@0.1.1
+- pkg:cargo/esp-nvs@0.1.2
 - pkg:cargo/esp-nvs@1.0.0-rc.0
