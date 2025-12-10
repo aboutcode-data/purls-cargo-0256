@@ -4,6 +4,7 @@
 - pkg:cargo/sublime_standard_tools@0.0.12
 - pkg:cargo/sublime_standard_tools@0.0.13
 - pkg:cargo/sublime_standard_tools@0.0.14
+- pkg:cargo/sublime_standard_tools@0.0.15
 - pkg:cargo/sublime_standard_tools@0.0.2
 - pkg:cargo/sublime_standard_tools@0.0.3
 - pkg:cargo/sublime_standard_tools@0.0.4
