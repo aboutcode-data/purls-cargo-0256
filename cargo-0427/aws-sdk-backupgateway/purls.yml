@@ -129,3 +129,4 @@
 - pkg:cargo/aws-sdk-backupgateway@1.89.0
 - pkg:cargo/aws-sdk-backupgateway@1.9.0
 - pkg:cargo/aws-sdk-backupgateway@1.90.0
+- pkg:cargo/aws-sdk-backupgateway@1.91.0

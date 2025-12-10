@@ -117,3 +117,4 @@
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.91.0
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.92.0
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.93.0
+- pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.94.0

@@ -7,6 +7,7 @@
 - pkg:cargo/aws-sdk-qbusiness@1.103.0
 - pkg:cargo/aws-sdk-qbusiness@1.104.0
 - pkg:cargo/aws-sdk-qbusiness@1.105.0
+- pkg:cargo/aws-sdk-qbusiness@1.106.0
 - pkg:cargo/aws-sdk-qbusiness@1.11.0
 - pkg:cargo/aws-sdk-qbusiness@1.12.0
 - pkg:cargo/aws-sdk-qbusiness@1.13.0
