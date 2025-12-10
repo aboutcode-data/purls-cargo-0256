@@ -75,3 +75,4 @@
 - pkg:cargo/torn-api@4.2.0
 - pkg:cargo/torn-api@4.7.0
 - pkg:cargo/torn-api@5.0.2
+- pkg:cargo/torn-api@5.1.0

@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-plugin-frame@1.1.1
+- pkg:cargo/tauri-plugin-frame@1.1.2
