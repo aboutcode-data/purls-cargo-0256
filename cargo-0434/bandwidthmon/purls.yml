@@ -1,4 +1,5 @@
 - pkg:cargo/bandwidthmon@0.1.1
+- pkg:cargo/bandwidthmon@0.1.10
 - pkg:cargo/bandwidthmon@0.1.2
 - pkg:cargo/bandwidthmon@0.1.6
 - pkg:cargo/bandwidthmon@0.1.7
