@@ -60,3 +60,5 @@
 - pkg:cargo/gemini-client-api@5.5.7
 - pkg:cargo/gemini-client-api@5.5.8
 - pkg:cargo/gemini-client-api@5.6.0
+- pkg:cargo/gemini-client-api@5.6.1
+- pkg:cargo/gemini-client-api@5.6.2
