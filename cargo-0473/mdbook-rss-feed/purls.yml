@@ -17,3 +17,4 @@
 - pkg:cargo/mdbook-rss-feed@1.1.0
 - pkg:cargo/mdbook-rss-feed@1.2.0
 - pkg:cargo/mdbook-rss-feed@1.3.0
+- pkg:cargo/mdbook-rss-feed@1.3.1
