@@ -108,6 +108,7 @@
 - pkg:cargo/ast-grep-dynamic@0.39.7
 - pkg:cargo/ast-grep-dynamic@0.39.9
 - pkg:cargo/ast-grep-dynamic@0.40.0
+- pkg:cargo/ast-grep-dynamic@0.40.1
 - pkg:cargo/ast-grep-dynamic@0.5.0
 - pkg:cargo/ast-grep-dynamic@0.5.1
 - pkg:cargo/ast-grep-dynamic@0.5.2
