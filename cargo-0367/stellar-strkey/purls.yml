@@ -4,6 +4,7 @@
 - pkg:cargo/stellar-strkey@0.0.12
 - pkg:cargo/stellar-strkey@0.0.13
 - pkg:cargo/stellar-strkey@0.0.14
+- pkg:cargo/stellar-strkey@0.0.15
 - pkg:cargo/stellar-strkey@0.0.2
 - pkg:cargo/stellar-strkey@0.0.6
 - pkg:cargo/stellar-strkey@0.0.7
