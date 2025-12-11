@@ -24,6 +24,8 @@
 - pkg:cargo/canic-testkit@0.5.12
 - pkg:cargo/canic-testkit@0.5.13
 - pkg:cargo/canic-testkit@0.5.14
+- pkg:cargo/canic-testkit@0.5.15
+- pkg:cargo/canic-testkit@0.5.16
 - pkg:cargo/canic-testkit@0.5.3
 - pkg:cargo/canic-testkit@0.5.4
 - pkg:cargo/canic-testkit@0.5.5

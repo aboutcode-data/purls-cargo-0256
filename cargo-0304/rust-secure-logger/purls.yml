@@ -1,1 +1,2 @@
 - pkg:cargo/rust-secure-logger@0.1.0
+- pkg:cargo/rust-secure-logger@2.0.0

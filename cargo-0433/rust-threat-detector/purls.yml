@@ -1,1 +1,2 @@
 - pkg:cargo/rust-threat-detector@0.1.0
+- pkg:cargo/rust-threat-detector@2.0.0
