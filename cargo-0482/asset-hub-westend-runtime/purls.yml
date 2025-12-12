@@ -52,4 +52,5 @@
 - pkg:cargo/asset-hub-westend-runtime@0.36.2
 - pkg:cargo/asset-hub-westend-runtime@0.37.0
 - pkg:cargo/asset-hub-westend-runtime@0.38.0
+- pkg:cargo/asset-hub-westend-runtime@0.38.1
 - pkg:cargo/asset-hub-westend-runtime@0.9.420
