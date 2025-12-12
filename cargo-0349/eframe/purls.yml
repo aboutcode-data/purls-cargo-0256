@@ -41,6 +41,7 @@
 - pkg:cargo/eframe@0.32.3
 - pkg:cargo/eframe@0.33.0
 - pkg:cargo/eframe@0.33.2
+- pkg:cargo/eframe@0.33.3
 - pkg:cargo/eframe@0.7.0
 - pkg:cargo/eframe@0.8.0
 - pkg:cargo/eframe@0.9.0

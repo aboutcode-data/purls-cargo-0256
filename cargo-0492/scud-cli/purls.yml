@@ -3,3 +3,4 @@
 - pkg:cargo/scud-cli@1.19.3
 - pkg:cargo/scud-cli@1.20.0
 - pkg:cargo/scud-cli@1.21.0
+- pkg:cargo/scud-cli@1.22.0
