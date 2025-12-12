@@ -2,6 +2,7 @@
 - pkg:cargo/mqttv5-cli@0.11.2
 - pkg:cargo/mqttv5-cli@0.11.3
 - pkg:cargo/mqttv5-cli@0.12.0
+- pkg:cargo/mqttv5-cli@0.13.0
 - pkg:cargo/mqttv5-cli@0.4.0
 - pkg:cargo/mqttv5-cli@0.4.1
 - pkg:cargo/mqttv5-cli@0.4.2
