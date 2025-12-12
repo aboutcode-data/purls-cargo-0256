@@ -3,4 +3,6 @@
 - pkg:cargo/lmrc-rabbitmq@0.3.12
 - pkg:cargo/lmrc-rabbitmq@0.3.13
 - pkg:cargo/lmrc-rabbitmq@0.3.14
+- pkg:cargo/lmrc-rabbitmq@0.3.15
+- pkg:cargo/lmrc-rabbitmq@0.3.16
 - pkg:cargo/lmrc-rabbitmq@0.3.9

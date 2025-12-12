@@ -37,6 +37,7 @@
 - pkg:cargo/pharmsol@0.20.0
 - pkg:cargo/pharmsol@0.21.0
 - pkg:cargo/pharmsol@0.22.0
+- pkg:cargo/pharmsol@0.22.1
 - pkg:cargo/pharmsol@0.3.1
 - pkg:cargo/pharmsol@0.3.2
 - pkg:cargo/pharmsol@0.4.0

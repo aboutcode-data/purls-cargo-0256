@@ -36,5 +36,6 @@
 - pkg:cargo/emath@0.32.3
 - pkg:cargo/emath@0.33.0
 - pkg:cargo/emath@0.33.2
+- pkg:cargo/emath@0.33.3
 - pkg:cargo/emath@0.8.0
 - pkg:cargo/emath@0.9.0
