@@ -1,4 +1,11 @@
+- pkg:cargo/reload_self@0.1.10
+- pkg:cargo/reload_self@0.1.11
+- pkg:cargo/reload_self@0.1.12
+- pkg:cargo/reload_self@0.1.13
+- pkg:cargo/reload_self@0.1.14
 - pkg:cargo/reload_self@0.1.2
 - pkg:cargo/reload_self@0.1.3
 - pkg:cargo/reload_self@0.1.4
 - pkg:cargo/reload_self@0.1.5
+- pkg:cargo/reload_self@0.1.7
+- pkg:cargo/reload_self@0.1.9
