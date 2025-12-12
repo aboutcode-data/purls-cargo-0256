@@ -7,6 +7,8 @@
 - pkg:cargo/tcping@1.2.2
 - pkg:cargo/tcping@1.2.20
 - pkg:cargo/tcping@1.2.21
+- pkg:cargo/tcping@1.2.23
+- pkg:cargo/tcping@1.2.24
 - pkg:cargo/tcping@1.2.3
 - pkg:cargo/tcping@1.2.4
 - pkg:cargo/tcping@1.2.5
