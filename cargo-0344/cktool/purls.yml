@@ -5,3 +5,4 @@
 - pkg:cargo/cktool@0.2.2
 - pkg:cargo/cktool@1.0.0
 - pkg:cargo/cktool@1.1.0
+- pkg:cargo/cktool@1.1.1

@@ -61,6 +61,8 @@
 - pkg:cargo/facet-json@0.29.1
 - pkg:cargo/facet-json@0.30.0
 - pkg:cargo/facet-json@0.31.0
+- pkg:cargo/facet-json@0.32.1
+- pkg:cargo/facet-json@0.32.2
 - pkg:cargo/facet-json@0.7.0
 - pkg:cargo/facet-json@0.8.0
 - pkg:cargo/facet-json@0.8.1

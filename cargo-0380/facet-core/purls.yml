@@ -53,6 +53,9 @@
 - pkg:cargo/facet-core@0.31.6
 - pkg:cargo/facet-core@0.31.7
 - pkg:cargo/facet-core@0.31.8
+- pkg:cargo/facet-core@0.32.0
+- pkg:cargo/facet-core@0.32.1
+- pkg:cargo/facet-core@0.32.2
 - pkg:cargo/facet-core@0.4.0
 - pkg:cargo/facet-core@0.4.1
 - pkg:cargo/facet-core@0.4.2

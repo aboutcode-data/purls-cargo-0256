@@ -32,3 +32,4 @@
 - pkg:cargo/s2n-quic-dc@0.67.0
 - pkg:cargo/s2n-quic-dc@0.68.0
 - pkg:cargo/s2n-quic-dc@0.69.0
+- pkg:cargo/s2n-quic-dc@0.70.0

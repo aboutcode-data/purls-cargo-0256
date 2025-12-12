@@ -50,6 +50,9 @@
 - pkg:cargo/facet-reflect@0.31.6
 - pkg:cargo/facet-reflect@0.31.7
 - pkg:cargo/facet-reflect@0.31.8
+- pkg:cargo/facet-reflect@0.32.0
+- pkg:cargo/facet-reflect@0.32.1
+- pkg:cargo/facet-reflect@0.32.2
 - pkg:cargo/facet-reflect@0.6.0
 - pkg:cargo/facet-reflect@0.6.1
 - pkg:cargo/facet-reflect@0.6.2
