@@ -5,3 +5,4 @@
 - pkg:cargo/prqlc-macros@0.13.5
 - pkg:cargo/prqlc-macros@0.13.6
 - pkg:cargo/prqlc-macros@0.13.7
+- pkg:cargo/prqlc-macros@0.13.8

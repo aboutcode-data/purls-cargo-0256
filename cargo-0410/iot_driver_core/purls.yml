@@ -7,6 +7,9 @@
 - pkg:cargo/iot_driver_core@0.13.4
 - pkg:cargo/iot_driver_core@0.13.5
 - pkg:cargo/iot_driver_core@0.13.6
+- pkg:cargo/iot_driver_core@0.13.7
+- pkg:cargo/iot_driver_core@0.13.8
+- pkg:cargo/iot_driver_core@0.13.9
 - pkg:cargo/iot_driver_core@0.2.0
 - pkg:cargo/iot_driver_core@0.3.0
 - pkg:cargo/iot_driver_core@0.4.0
