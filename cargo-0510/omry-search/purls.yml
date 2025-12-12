@@ -2,6 +2,8 @@
 - pkg:cargo/omry-search@0.11.0
 - pkg:cargo/omry-search@0.11.1
 - pkg:cargo/omry-search@0.12.0
+- pkg:cargo/omry-search@0.13.0
+- pkg:cargo/omry-search@0.13.1
 - pkg:cargo/omry-search@0.3.0
 - pkg:cargo/omry-search@0.3.1
 - pkg:cargo/omry-search@0.4.0
