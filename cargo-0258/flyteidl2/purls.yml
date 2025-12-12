@@ -3,6 +3,7 @@
 - pkg:cargo/flyteidl2@2.0.0-alpha13
 - pkg:cargo/flyteidl2@2.0.0-alpha14
 - pkg:cargo/flyteidl2@2.0.0-alpha15
+- pkg:cargo/flyteidl2@2.0.0-alpha16
 - pkg:cargo/flyteidl2@2.0.0-alpha4
 - pkg:cargo/flyteidl2@2.0.0-alpha6
 - pkg:cargo/flyteidl2@2.0.0-alpha7

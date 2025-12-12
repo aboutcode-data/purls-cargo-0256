@@ -15,6 +15,7 @@
 - pkg:cargo/starbase_sandbox@0.10.0
 - pkg:cargo/starbase_sandbox@0.10.1
 - pkg:cargo/starbase_sandbox@0.10.2
+- pkg:cargo/starbase_sandbox@0.10.3
 - pkg:cargo/starbase_sandbox@0.3.0
 - pkg:cargo/starbase_sandbox@0.4.0
 - pkg:cargo/starbase_sandbox@0.4.1
