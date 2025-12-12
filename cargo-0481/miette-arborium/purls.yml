@@ -1,2 +1,3 @@
 - pkg:cargo/miette-arborium@0.1.3
 - pkg:cargo/miette-arborium@0.700.0
+- pkg:cargo/miette-arborium@1.1.5
