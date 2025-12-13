@@ -1,5 +1,6 @@
 - pkg:cargo/cuenv-events@0.12.2
 - pkg:cargo/cuenv-events@0.13.2
+- pkg:cargo/cuenv-events@0.13.3
 - pkg:cargo/cuenv-events@0.8.6
 - pkg:cargo/cuenv-events@0.9.0
 - pkg:cargo/cuenv-events@0.9.1
