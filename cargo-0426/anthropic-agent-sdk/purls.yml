@@ -1,1 +1,2 @@
 - pkg:cargo/anthropic-agent-sdk@0.2.60
+- pkg:cargo/anthropic-agent-sdk@0.2.67
