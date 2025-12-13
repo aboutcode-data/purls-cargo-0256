@@ -98,6 +98,7 @@
 - pkg:cargo/aws-sdk-connect@1.141.0
 - pkg:cargo/aws-sdk-connect@1.142.0
 - pkg:cargo/aws-sdk-connect@1.143.0
+- pkg:cargo/aws-sdk-connect@1.144.0
 - pkg:cargo/aws-sdk-connect@1.15.0
 - pkg:cargo/aws-sdk-connect@1.16.0
 - pkg:cargo/aws-sdk-connect@1.17.0
