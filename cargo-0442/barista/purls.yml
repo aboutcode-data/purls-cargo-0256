@@ -5,3 +5,5 @@
 - pkg:cargo/barista@0.16.1
 - pkg:cargo/barista@0.16.2
 - pkg:cargo/barista@0.16.3
+- pkg:cargo/barista@0.16.7
+- pkg:cargo/barista@0.16.8
