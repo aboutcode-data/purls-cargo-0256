@@ -1,1 +1,2 @@
 - pkg:cargo/rustx_core@0.2.0
+- pkg:cargo/rustx_core@0.3.0
