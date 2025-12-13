@@ -1,3 +1,4 @@
 - pkg:cargo/webbuf_blake3@0.13.1
 - pkg:cargo/webbuf_blake3@0.13.2
+- pkg:cargo/webbuf_blake3@0.15.0
 - pkg:cargo/webbuf_blake3@0.8.5
