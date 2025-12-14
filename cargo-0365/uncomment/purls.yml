@@ -10,6 +10,8 @@
 - pkg:cargo/uncomment@2.1.1-rc.5
 - pkg:cargo/uncomment@2.1.1-rc.6
 - pkg:cargo/uncomment@2.1.1-rc.7
+- pkg:cargo/uncomment@2.10.2
+- pkg:cargo/uncomment@2.10.3
 - pkg:cargo/uncomment@2.2.0
 - pkg:cargo/uncomment@2.2.2
 - pkg:cargo/uncomment@2.2.3
