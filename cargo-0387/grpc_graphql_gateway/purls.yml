@@ -19,3 +19,4 @@
 - pkg:cargo/grpc_graphql_gateway@0.2.8
 - pkg:cargo/grpc_graphql_gateway@0.2.9
 - pkg:cargo/grpc_graphql_gateway@0.3.0
+- pkg:cargo/grpc_graphql_gateway@0.3.1
