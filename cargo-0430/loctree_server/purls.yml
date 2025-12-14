@@ -1,2 +1,3 @@
 - pkg:cargo/loctree_server@0.1.4
 - pkg:cargo/loctree_server@0.1.7
+- pkg:cargo/loctree_server@0.1.9
