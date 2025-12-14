@@ -1,4 +1,5 @@
 - pkg:cargo/accord-rs@0.0.11
+- pkg:cargo/accord-rs@0.0.12
 - pkg:cargo/accord-rs@0.0.2
 - pkg:cargo/accord-rs@0.0.3
 - pkg:cargo/accord-rs@0.0.5
