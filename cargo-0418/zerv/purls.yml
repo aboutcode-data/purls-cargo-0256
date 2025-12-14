@@ -109,3 +109,5 @@
 - pkg:cargo/zerv@0.7.9
 - pkg:cargo/zerv@0.7.90
 - pkg:cargo/zerv@0.7.91
+- pkg:cargo/zerv@0.7.92
+- pkg:cargo/zerv@0.7.93
