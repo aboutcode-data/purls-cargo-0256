@@ -5,3 +5,4 @@
 - pkg:cargo/evm-interpreter@1.0.0-beta.1
 - pkg:cargo/evm-interpreter@1.0.0-beta.2
 - pkg:cargo/evm-interpreter@1.0.1
+- pkg:cargo/evm-interpreter@1.1.0
