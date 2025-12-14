@@ -19,6 +19,7 @@
 - pkg:cargo/fresh-editor@0.1.41
 - pkg:cargo/fresh-editor@0.1.42
 - pkg:cargo/fresh-editor@0.1.43
+- pkg:cargo/fresh-editor@0.1.44
 - pkg:cargo/fresh-editor@0.1.7
 - pkg:cargo/fresh-editor@0.1.8
 - pkg:cargo/fresh-editor@0.1.9
