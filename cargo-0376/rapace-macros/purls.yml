@@ -2,3 +2,4 @@
 - pkg:cargo/rapace-macros@0.1.1
 - pkg:cargo/rapace-macros@0.2.0
 - pkg:cargo/rapace-macros@0.3.0
+- pkg:cargo/rapace-macros@0.4.0
