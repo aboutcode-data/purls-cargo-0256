@@ -20,6 +20,7 @@
 - pkg:cargo/humble-cli@0.19.1
 - pkg:cargo/humble-cli@0.19.2
 - pkg:cargo/humble-cli@0.19.3
+- pkg:cargo/humble-cli@0.19.4
 - pkg:cargo/humble-cli@0.7.1
 - pkg:cargo/humble-cli@0.8.0
 - pkg:cargo/humble-cli@0.9.0
