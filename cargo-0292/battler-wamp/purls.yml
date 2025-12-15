@@ -14,3 +14,6 @@
 - pkg:cargo/battler-wamp@0.3.2
 - pkg:cargo/battler-wamp@0.3.3
 - pkg:cargo/battler-wamp@0.3.4
+- pkg:cargo/battler-wamp@0.4.0
+- pkg:cargo/battler-wamp@0.4.1
+- pkg:cargo/battler-wamp@0.5.0
