@@ -8,3 +8,4 @@
 - pkg:cargo/async-embedded-sdmmc@0.2.3
 - pkg:cargo/async-embedded-sdmmc@0.2.4
 - pkg:cargo/async-embedded-sdmmc@0.3.0
+- pkg:cargo/async-embedded-sdmmc@0.3.1
