@@ -107,3 +107,4 @@
 - pkg:cargo/mycelium-base@8.1.1-rc.3
 - pkg:cargo/mycelium-base@8.1.1-rc.4
 - pkg:cargo/mycelium-base@8.1.1-rc.5
+- pkg:cargo/mycelium-base@8.2.0

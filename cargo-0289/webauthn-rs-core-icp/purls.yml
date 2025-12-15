@@ -1,1 +1,2 @@
 - pkg:cargo/webauthn-rs-core-icp@0.4.8
+- pkg:cargo/webauthn-rs-core-icp@0.4.9

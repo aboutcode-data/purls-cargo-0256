@@ -50,6 +50,7 @@
 - pkg:cargo/tycho-client@0.121.1
 - pkg:cargo/tycho-client@0.121.2
 - pkg:cargo/tycho-client@0.122.0
+- pkg:cargo/tycho-client@0.122.1
 - pkg:cargo/tycho-client@0.63.1
 - pkg:cargo/tycho-client@0.64.1
 - pkg:cargo/tycho-client@0.64.2
