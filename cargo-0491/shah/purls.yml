@@ -22,6 +22,7 @@
 - pkg:cargo/shah@1.15.2
 - pkg:cargo/shah@1.15.3
 - pkg:cargo/shah@1.15.4
+- pkg:cargo/shah@1.15.5
 - pkg:cargo/shah@1.4.0
 - pkg:cargo/shah@1.5.0
 - pkg:cargo/shah@1.6.0
