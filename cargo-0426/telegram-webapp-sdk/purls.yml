@@ -11,3 +11,4 @@
 - pkg:cargo/telegram-webapp-sdk@0.2.5
 - pkg:cargo/telegram-webapp-sdk@0.2.8
 - pkg:cargo/telegram-webapp-sdk@0.3.0
+- pkg:cargo/telegram-webapp-sdk@0.3.1
