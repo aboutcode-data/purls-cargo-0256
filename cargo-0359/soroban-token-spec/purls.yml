@@ -22,3 +22,4 @@
 - pkg:cargo/soroban-token-spec@23.1.0
 - pkg:cargo/soroban-token-spec@23.1.1
 - pkg:cargo/soroban-token-spec@23.2.1
+- pkg:cargo/soroban-token-spec@23.3.0
