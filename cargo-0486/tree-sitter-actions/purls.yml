@@ -5,3 +5,4 @@
 - pkg:cargo/tree-sitter-actions@0.3.45
 - pkg:cargo/tree-sitter-actions@0.4.45
 - pkg:cargo/tree-sitter-actions@0.4.46
+- pkg:cargo/tree-sitter-actions@0.4.47
