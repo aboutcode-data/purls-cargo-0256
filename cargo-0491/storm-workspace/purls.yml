@@ -43,6 +43,7 @@
 - pkg:cargo/storm-workspace@0.19.66
 - pkg:cargo/storm-workspace@0.19.67
 - pkg:cargo/storm-workspace@0.19.68
+- pkg:cargo/storm-workspace@0.19.69
 - pkg:cargo/storm-workspace@0.2.2
 - pkg:cargo/storm-workspace@0.2.3
 - pkg:cargo/storm-workspace@0.6.2
