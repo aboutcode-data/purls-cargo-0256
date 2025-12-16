@@ -8,6 +8,7 @@
 - pkg:cargo/oauth-testharness@0.4.14
 - pkg:cargo/oauth-testharness@0.4.15
 - pkg:cargo/oauth-testharness@0.4.16
+- pkg:cargo/oauth-testharness@0.4.18
 - pkg:cargo/oauth-testharness@0.4.2
 - pkg:cargo/oauth-testharness@0.4.4
 - pkg:cargo/oauth-testharness@0.4.6
