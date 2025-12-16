@@ -1,2 +1,5 @@
 - pkg:cargo/grubble@4.0.0
 - pkg:cargo/grubble@4.1.0
+- pkg:cargo/grubble@4.4.4
+- pkg:cargo/grubble@4.4.6
+- pkg:cargo/grubble@4.5.0
