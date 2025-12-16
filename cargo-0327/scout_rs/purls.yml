@@ -29,3 +29,4 @@
 - pkg:cargo/scout_rs@0.8.0
 - pkg:cargo/scout_rs@0.8.1
 - pkg:cargo/scout_rs@0.9.0
+- pkg:cargo/scout_rs@0.91.0
