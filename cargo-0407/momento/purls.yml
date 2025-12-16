@@ -85,6 +85,7 @@
 - pkg:cargo/momento@0.57.0
 - pkg:cargo/momento@0.58.0
 - pkg:cargo/momento@0.58.1
+- pkg:cargo/momento@0.59.0
 - pkg:cargo/momento@0.6.0
 - pkg:cargo/momento@0.7.0
 - pkg:cargo/momento@0.7.1
