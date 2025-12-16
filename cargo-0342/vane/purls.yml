@@ -10,3 +10,4 @@
 - pkg:cargo/vane@0.4.2
 - pkg:cargo/vane@0.4.5
 - pkg:cargo/vane@0.4.7
+- pkg:cargo/vane@0.5.0
