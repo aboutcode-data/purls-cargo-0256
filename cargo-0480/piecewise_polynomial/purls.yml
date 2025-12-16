@@ -2,3 +2,5 @@
 - pkg:cargo/piecewise_polynomial@0.1.1
 - pkg:cargo/piecewise_polynomial@0.2.0
 - pkg:cargo/piecewise_polynomial@0.2.1
+- pkg:cargo/piecewise_polynomial@0.2.2
+- pkg:cargo/piecewise_polynomial@0.2.3
