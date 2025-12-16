@@ -7,3 +7,4 @@
 - pkg:cargo/od_opencv@0.1.7
 - pkg:cargo/od_opencv@0.1.8
 - pkg:cargo/od_opencv@0.2.0
+- pkg:cargo/od_opencv@0.3.0
