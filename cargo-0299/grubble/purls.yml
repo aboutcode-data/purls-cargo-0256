@@ -3,3 +3,7 @@
 - pkg:cargo/grubble@4.4.4
 - pkg:cargo/grubble@4.4.6
 - pkg:cargo/grubble@4.5.0
+- pkg:cargo/grubble@4.6.0
+- pkg:cargo/grubble@4.7.0
+- pkg:cargo/grubble@4.7.1
+- pkg:cargo/grubble@4.7.2
