@@ -55,6 +55,7 @@
 - pkg:cargo/quillmark@0.19.1
 - pkg:cargo/quillmark@0.2.0
 - pkg:cargo/quillmark@0.2.1
+- pkg:cargo/quillmark@0.20.0
 - pkg:cargo/quillmark@0.3.0
 - pkg:cargo/quillmark@0.3.1
 - pkg:cargo/quillmark@0.3.2
