@@ -31,3 +31,4 @@
 - pkg:cargo/ombrac-macros@0.6.3
 - pkg:cargo/ombrac-macros@0.6.4
 - pkg:cargo/ombrac-macros@0.6.5
+- pkg:cargo/ombrac-macros@0.6.6
