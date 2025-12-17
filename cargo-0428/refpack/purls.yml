@@ -13,3 +13,4 @@
 - pkg:cargo/refpack@5.0.0
 - pkg:cargo/refpack@5.0.1
 - pkg:cargo/refpack@5.0.2
+- pkg:cargo/refpack@5.0.3
