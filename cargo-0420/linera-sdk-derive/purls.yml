@@ -24,6 +24,7 @@
 - pkg:cargo/linera-sdk-derive@0.15.5
 - pkg:cargo/linera-sdk-derive@0.15.6
 - pkg:cargo/linera-sdk-derive@0.15.7
+- pkg:cargo/linera-sdk-derive@0.15.8
 - pkg:cargo/linera-sdk-derive@0.3.0
 - pkg:cargo/linera-sdk-derive@0.4.0
 - pkg:cargo/linera-sdk-derive@0.4.1
