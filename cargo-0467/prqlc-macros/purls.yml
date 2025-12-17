@@ -1,4 +1,5 @@
 - pkg:cargo/prqlc-macros@0.13.0
+- pkg:cargo/prqlc-macros@0.13.10
 - pkg:cargo/prqlc-macros@0.13.2
 - pkg:cargo/prqlc-macros@0.13.3
 - pkg:cargo/prqlc-macros@0.13.4
@@ -6,3 +7,4 @@
 - pkg:cargo/prqlc-macros@0.13.6
 - pkg:cargo/prqlc-macros@0.13.7
 - pkg:cargo/prqlc-macros@0.13.8
+- pkg:cargo/prqlc-macros@0.13.9
