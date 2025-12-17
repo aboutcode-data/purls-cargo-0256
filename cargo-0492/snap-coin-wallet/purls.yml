@@ -2,3 +2,7 @@
 - pkg:cargo/snap-coin-wallet@1.0.3
 - pkg:cargo/snap-coin-wallet@1.0.4
 - pkg:cargo/snap-coin-wallet@1.0.5
+- pkg:cargo/snap-coin-wallet@2.0.0
+- pkg:cargo/snap-coin-wallet@2.2.0
+- pkg:cargo/snap-coin-wallet@3.0.0
+- pkg:cargo/snap-coin-wallet@3.0.1
