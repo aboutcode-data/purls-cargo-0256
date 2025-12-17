@@ -32,3 +32,4 @@
 - pkg:cargo/finite_element_method@0.9.5
 - pkg:cargo/finite_element_method@0.9.6
 - pkg:cargo/finite_element_method@0.9.7
+- pkg:cargo/finite_element_method@0.9.8
