@@ -1,1 +1,5 @@
 - pkg:cargo/fusefiles@0.6.0
+- pkg:cargo/fusefiles@0.6.1
+- pkg:cargo/fusefiles@0.6.2
+- pkg:cargo/fusefiles@0.6.3
+- pkg:cargo/fusefiles@0.6.4
