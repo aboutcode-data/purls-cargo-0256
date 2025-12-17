@@ -1,3 +1,4 @@
 - pkg:cargo/rcp-tools-filegen@0.19.0
 - pkg:cargo/rcp-tools-filegen@0.20.0
 - pkg:cargo/rcp-tools-filegen@0.21.1
+- pkg:cargo/rcp-tools-filegen@0.23.0
