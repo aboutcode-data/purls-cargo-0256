@@ -2,6 +2,7 @@
 - pkg:cargo/kanata-parser@0.1101.0
 - pkg:cargo/kanata-parser@0.1102.0
 - pkg:cargo/kanata-parser@0.1103.0
+- pkg:cargo/kanata-parser@0.1105.0
 - pkg:cargo/kanata-parser@0.150.0
 - pkg:cargo/kanata-parser@0.150.2
 - pkg:cargo/kanata-parser@0.150.3
