@@ -12,3 +12,4 @@
 - pkg:cargo/serde_spanned@1.0.1
 - pkg:cargo/serde_spanned@1.0.2
 - pkg:cargo/serde_spanned@1.0.3
+- pkg:cargo/serde_spanned@1.0.4
