@@ -19,3 +19,4 @@
 - pkg:cargo/ntex-tokio@0.5.4
 - pkg:cargo/ntex-tokio@3.0.0
 - pkg:cargo/ntex-tokio@3.0.0-pre.0
+- pkg:cargo/ntex-tokio@3.1.0

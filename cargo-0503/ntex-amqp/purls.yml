@@ -123,3 +123,4 @@
 - pkg:cargo/ntex-amqp@5.1.0
 - pkg:cargo/ntex-amqp@5.1.1
 - pkg:cargo/ntex-amqp@5.1.2
+- pkg:cargo/ntex-amqp@5.2.0
