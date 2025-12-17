@@ -37,6 +37,7 @@
 - pkg:cargo/bumpalo@3.18.0
 - pkg:cargo/bumpalo@3.18.1
 - pkg:cargo/bumpalo@3.19.0
+- pkg:cargo/bumpalo@3.19.1
 - pkg:cargo/bumpalo@3.2.0
 - pkg:cargo/bumpalo@3.2.1
 - pkg:cargo/bumpalo@3.3.0

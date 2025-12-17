@@ -28,6 +28,7 @@
 - pkg:cargo/redox_installer@0.2.35
 - pkg:cargo/redox_installer@0.2.36
 - pkg:cargo/redox_installer@0.2.37
+- pkg:cargo/redox_installer@0.2.38
 - pkg:cargo/redox_installer@0.2.4
 - pkg:cargo/redox_installer@0.2.5
 - pkg:cargo/redox_installer@0.2.6
