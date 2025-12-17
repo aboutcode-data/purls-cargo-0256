@@ -14,3 +14,4 @@
 - pkg:cargo/hpke-rs-crypto@0.3.0
 - pkg:cargo/hpke-rs-crypto@0.3.0-alpha.1
 - pkg:cargo/hpke-rs-crypto@0.3.0-alpha.2
+- pkg:cargo/hpke-rs-crypto@0.4.0
