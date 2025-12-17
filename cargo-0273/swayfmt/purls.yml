@@ -119,3 +119,4 @@
 - pkg:cargo/swayfmt@0.70.0
 - pkg:cargo/swayfmt@0.70.1
 - pkg:cargo/swayfmt@0.70.2
+- pkg:cargo/swayfmt@0.70.3

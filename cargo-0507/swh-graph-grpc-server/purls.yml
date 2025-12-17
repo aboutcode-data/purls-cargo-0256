@@ -15,3 +15,4 @@
 - pkg:cargo/swh-graph-grpc-server@8.0.8
 - pkg:cargo/swh-graph-grpc-server@8.0.9
 - pkg:cargo/swh-graph-grpc-server@9.0.2
+- pkg:cargo/swh-graph-grpc-server@9.0.3
