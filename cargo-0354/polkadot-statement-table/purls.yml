@@ -17,6 +17,7 @@
 - pkg:cargo/polkadot-statement-table@20.0.0
 - pkg:cargo/polkadot-statement-table@21.0.0
 - pkg:cargo/polkadot-statement-table@22.0.0
+- pkg:cargo/polkadot-statement-table@23.0.0
 - pkg:cargo/polkadot-statement-table@3.0.0
 - pkg:cargo/polkadot-statement-table@3.0.0-dev.1
 - pkg:cargo/polkadot-statement-table@4.0.0

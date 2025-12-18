@@ -19,5 +19,6 @@
 - pkg:cargo/worktable_codegen@0.7.0
 - pkg:cargo/worktable_codegen@0.7.1
 - pkg:cargo/worktable_codegen@0.7.2
+- pkg:cargo/worktable_codegen@0.8.14
 - pkg:cargo/worktable_codegen@0.8.4
 - pkg:cargo/worktable_codegen@0.8.6
