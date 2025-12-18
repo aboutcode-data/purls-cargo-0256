@@ -39,6 +39,7 @@
 - pkg:cargo/sp-consensus-pow@0.43.0
 - pkg:cargo/sp-consensus-pow@0.44.0
 - pkg:cargo/sp-consensus-pow@0.45.0
+- pkg:cargo/sp-consensus-pow@0.46.0
 - pkg:cargo/sp-consensus-pow@0.8.0
 - pkg:cargo/sp-consensus-pow@0.8.0-alpha.3
 - pkg:cargo/sp-consensus-pow@0.8.0-alpha.5

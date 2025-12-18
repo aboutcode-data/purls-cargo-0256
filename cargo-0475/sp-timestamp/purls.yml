@@ -50,6 +50,7 @@
 - pkg:cargo/sp-timestamp@38.0.0
 - pkg:cargo/sp-timestamp@39.0.0
 - pkg:cargo/sp-timestamp@4.0.0
+- pkg:cargo/sp-timestamp@40.0.0
 - pkg:cargo/sp-timestamp@5.0.0
 - pkg:cargo/sp-timestamp@6.0.0
 - pkg:cargo/sp-timestamp@7.0.0

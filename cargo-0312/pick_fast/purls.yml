@@ -2,6 +2,8 @@
 - pkg:cargo/pick_fast@0.1.10
 - pkg:cargo/pick_fast@0.1.11
 - pkg:cargo/pick_fast@0.1.12
+- pkg:cargo/pick_fast@0.1.14
+- pkg:cargo/pick_fast@0.1.15
 - pkg:cargo/pick_fast@0.1.2
 - pkg:cargo/pick_fast@0.1.3
 - pkg:cargo/pick_fast@0.1.4
