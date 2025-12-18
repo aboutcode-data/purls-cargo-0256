@@ -1,5 +1,6 @@
 - pkg:cargo/mozjs_sys@0.1.0
 - pkg:cargo/mozjs_sys@0.140.5-6
+- pkg:cargo/mozjs_sys@0.140.5-7
 - pkg:cargo/mozjs_sys@0.50.0
 - pkg:cargo/mozjs_sys@0.50.1
 - pkg:cargo/mozjs_sys@0.51.0
