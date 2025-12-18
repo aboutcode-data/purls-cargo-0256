@@ -1,1 +1,2 @@
 - pkg:cargo/ggen-cli-validation@4.0.0
+- pkg:cargo/ggen-cli-validation@5.0.0
