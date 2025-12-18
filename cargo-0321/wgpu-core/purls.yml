@@ -68,3 +68,4 @@
 - pkg:cargo/wgpu-core@27.0.0
 - pkg:cargo/wgpu-core@27.0.1
 - pkg:cargo/wgpu-core@27.0.3
+- pkg:cargo/wgpu-core@28.0.0
