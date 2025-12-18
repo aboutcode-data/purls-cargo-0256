@@ -683,6 +683,7 @@
 - pkg:cargo/swc_ecma_parser@29.0.2
 - pkg:cargo/swc_ecma_parser@3.0.0
 - pkg:cargo/swc_ecma_parser@3.0.1
+- pkg:cargo/swc_ecma_parser@30.0.0
 - pkg:cargo/swc_ecma_parser@4.0.0
 - pkg:cargo/swc_ecma_parser@5.0.0
 - pkg:cargo/swc_ecma_parser@6.0.0
