@@ -7,3 +7,4 @@
 - pkg:cargo/lance-bitpacking@0.38.2
 - pkg:cargo/lance-bitpacking@0.38.3
 - pkg:cargo/lance-bitpacking@0.39.0
+- pkg:cargo/lance-bitpacking@1.0.0
