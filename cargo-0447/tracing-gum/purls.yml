@@ -15,6 +15,7 @@
 - pkg:cargo/tracing-gum@20.0.0
 - pkg:cargo/tracing-gum@21.0.0
 - pkg:cargo/tracing-gum@22.0.0
+- pkg:cargo/tracing-gum@23.0.0
 - pkg:cargo/tracing-gum@3.0.0
 - pkg:cargo/tracing-gum@3.0.0-dev.1
 - pkg:cargo/tracing-gum@4.0.0
