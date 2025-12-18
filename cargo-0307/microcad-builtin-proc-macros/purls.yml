@@ -7,4 +7,5 @@
 - pkg:cargo/microcad-builtin-proc-macros@0.2.16
 - pkg:cargo/microcad-builtin-proc-macros@0.2.17
 - pkg:cargo/microcad-builtin-proc-macros@0.2.18
+- pkg:cargo/microcad-builtin-proc-macros@0.2.19
 - pkg:cargo/microcad-builtin-proc-macros@0.2.9
