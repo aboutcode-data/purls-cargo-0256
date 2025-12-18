@@ -41,6 +41,7 @@
 - pkg:cargo/sc-executor@0.44.0
 - pkg:cargo/sc-executor@0.45.0
 - pkg:cargo/sc-executor@0.46.0
+- pkg:cargo/sc-executor@0.47.0
 - pkg:cargo/sc-executor@0.8.0
 - pkg:cargo/sc-executor@0.8.0-alpha.2
 - pkg:cargo/sc-executor@0.8.0-alpha.3

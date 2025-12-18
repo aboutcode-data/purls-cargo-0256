@@ -39,6 +39,7 @@
 - pkg:cargo/sc-sysinfo@43.0.0
 - pkg:cargo/sc-sysinfo@44.0.0
 - pkg:cargo/sc-sysinfo@45.0.0
+- pkg:cargo/sc-sysinfo@46.0.0
 - pkg:cargo/sc-sysinfo@6.0.0
 - pkg:cargo/sc-sysinfo@7.0.0
 - pkg:cargo/sc-sysinfo@8.0.0

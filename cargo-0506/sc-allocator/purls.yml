@@ -29,6 +29,7 @@
 - pkg:cargo/sc-allocator@32.0.0
 - pkg:cargo/sc-allocator@33.0.0
 - pkg:cargo/sc-allocator@34.0.0
+- pkg:cargo/sc-allocator@35.0.0
 - pkg:cargo/sc-allocator@4.0.0-dev
 - pkg:cargo/sc-allocator@4.1.0
 - pkg:cargo/sc-allocator@5.0.0
