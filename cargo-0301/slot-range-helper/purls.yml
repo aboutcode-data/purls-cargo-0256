@@ -16,6 +16,7 @@
 - pkg:cargo/slot-range-helper@19.0.0
 - pkg:cargo/slot-range-helper@2.0.0
 - pkg:cargo/slot-range-helper@20.0.0
+- pkg:cargo/slot-range-helper@21.0.0
 - pkg:cargo/slot-range-helper@3.0.0
 - pkg:cargo/slot-range-helper@3.0.0-dev.1
 - pkg:cargo/slot-range-helper@4.0.0
