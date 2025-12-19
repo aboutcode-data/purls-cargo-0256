@@ -48,6 +48,7 @@
 - pkg:cargo/qcs-api-client-openapi@0.13.6-dev.8
 - pkg:cargo/qcs-api-client-openapi@0.13.8
 - pkg:cargo/qcs-api-client-openapi@0.13.8-dev.1
+- pkg:cargo/qcs-api-client-openapi@0.14.0-kstrand.2
 - pkg:cargo/qcs-api-client-openapi@0.3.1
 - pkg:cargo/qcs-api-client-openapi@0.3.2
 - pkg:cargo/qcs-api-client-openapi@0.3.4
