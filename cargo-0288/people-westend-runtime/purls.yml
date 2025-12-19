@@ -15,6 +15,7 @@
 - pkg:cargo/people-westend-runtime@0.2.0
 - pkg:cargo/people-westend-runtime@0.2.1
 - pkg:cargo/people-westend-runtime@0.20.0
+- pkg:cargo/people-westend-runtime@0.21.0
 - pkg:cargo/people-westend-runtime@0.3.0
 - pkg:cargo/people-westend-runtime@0.4.0
 - pkg:cargo/people-westend-runtime@0.5.0
