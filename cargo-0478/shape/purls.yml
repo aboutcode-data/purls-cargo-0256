@@ -14,6 +14,7 @@
 - pkg:cargo/shape@0.5.4
 - pkg:cargo/shape@0.6.0
 - pkg:cargo/shape@0.6.0-preview.0
+- pkg:cargo/shape@0.7.0
 - pkg:cargo/shape@0.7.0-preview.0
 - pkg:cargo/shape@0.7.0-preview.1
 - pkg:cargo/shape@0.7.0-preview.2

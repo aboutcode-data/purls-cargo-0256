@@ -123,3 +123,4 @@
 - pkg:cargo/shadow-rs@1.2.1
 - pkg:cargo/shadow-rs@1.3.0
 - pkg:cargo/shadow-rs@1.4.0
+- pkg:cargo/shadow-rs@1.5.0
