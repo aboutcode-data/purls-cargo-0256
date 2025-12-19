@@ -212,3 +212,4 @@
 - pkg:cargo/opencv@0.97.0
 - pkg:cargo/opencv@0.97.1
 - pkg:cargo/opencv@0.97.2
+- pkg:cargo/opencv@0.98.0

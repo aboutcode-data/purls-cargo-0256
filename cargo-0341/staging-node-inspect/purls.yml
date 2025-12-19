@@ -20,4 +20,5 @@
 - pkg:cargo/staging-node-inspect@0.30.0
 - pkg:cargo/staging-node-inspect@0.31.0
 - pkg:cargo/staging-node-inspect@0.32.0
+- pkg:cargo/staging-node-inspect@0.33.0
 - pkg:cargo/staging-node-inspect@0.9.0

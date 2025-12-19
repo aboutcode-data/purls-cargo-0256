@@ -21,6 +21,7 @@
 - pkg:cargo/polkadot-runtime-common@21.0.0
 - pkg:cargo/polkadot-runtime-common@22.0.0
 - pkg:cargo/polkadot-runtime-common@23.0.0
+- pkg:cargo/polkadot-runtime-common@24.0.0
 - pkg:cargo/polkadot-runtime-common@3.0.0
 - pkg:cargo/polkadot-runtime-common@3.0.0-dev.1
 - pkg:cargo/polkadot-runtime-common@4.0.0
