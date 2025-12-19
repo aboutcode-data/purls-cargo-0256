@@ -9,6 +9,7 @@
 - pkg:cargo/deno_npm_installer@0.16.0
 - pkg:cargo/deno_npm_installer@0.17.0
 - pkg:cargo/deno_npm_installer@0.18.0
+- pkg:cargo/deno_npm_installer@0.19.0
 - pkg:cargo/deno_npm_installer@0.2.0
 - pkg:cargo/deno_npm_installer@0.3.0
 - pkg:cargo/deno_npm_installer@0.4.0
