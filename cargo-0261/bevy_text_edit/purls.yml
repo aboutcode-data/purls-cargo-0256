@@ -23,3 +23,4 @@
 - pkg:cargo/bevy_text_edit@0.6.2
 - pkg:cargo/bevy_text_edit@0.7.0
 - pkg:cargo/bevy_text_edit@0.7.0-rc.0
+- pkg:cargo/bevy_text_edit@0.8.0-rc.1
