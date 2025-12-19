@@ -34,6 +34,7 @@
 - pkg:cargo/pallet-nfts@36.0.0
 - pkg:cargo/pallet-nfts@37.0.0
 - pkg:cargo/pallet-nfts@38.0.0
+- pkg:cargo/pallet-nfts@39.0.0
 - pkg:cargo/pallet-nfts@4.0.0
 - pkg:cargo/pallet-nfts@5.0.0
 - pkg:cargo/pallet-nfts@6.0.0

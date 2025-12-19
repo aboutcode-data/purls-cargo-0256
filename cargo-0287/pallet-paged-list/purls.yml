@@ -15,6 +15,7 @@
 - pkg:cargo/pallet-paged-list@0.20.0
 - pkg:cargo/pallet-paged-list@0.21.0
 - pkg:cargo/pallet-paged-list@0.22.0
+- pkg:cargo/pallet-paged-list@0.23.0
 - pkg:cargo/pallet-paged-list@0.3.0
 - pkg:cargo/pallet-paged-list@0.4.0
 - pkg:cargo/pallet-paged-list@0.5.0

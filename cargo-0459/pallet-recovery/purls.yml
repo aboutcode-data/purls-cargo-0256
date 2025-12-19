@@ -54,6 +54,7 @@
 - pkg:cargo/pallet-recovery@42.0.0
 - pkg:cargo/pallet-recovery@43.0.0
 - pkg:cargo/pallet-recovery@44.0.0
+- pkg:cargo/pallet-recovery@45.0.0
 - pkg:cargo/pallet-recovery@5.0.0
 - pkg:cargo/pallet-recovery@6.0.0
 - pkg:cargo/pallet-recovery@7.0.0

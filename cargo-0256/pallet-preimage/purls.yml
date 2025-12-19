@@ -41,6 +41,7 @@
 - pkg:cargo/pallet-preimage@42.0.0
 - pkg:cargo/pallet-preimage@43.0.0
 - pkg:cargo/pallet-preimage@44.0.0
+- pkg:cargo/pallet-preimage@45.0.0
 - pkg:cargo/pallet-preimage@5.0.0
 - pkg:cargo/pallet-preimage@6.0.0
 - pkg:cargo/pallet-preimage@7.0.0

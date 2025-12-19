@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-whitelist@41.0.0
 - pkg:cargo/pallet-whitelist@42.0.0
 - pkg:cargo/pallet-whitelist@43.0.0
+- pkg:cargo/pallet-whitelist@44.0.0
 - pkg:cargo/pallet-whitelist@5.0.0
 - pkg:cargo/pallet-whitelist@6.0.0
 - pkg:cargo/pallet-whitelist@7.0.0

@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-transaction-storage@41.0.0
 - pkg:cargo/pallet-transaction-storage@42.0.0
 - pkg:cargo/pallet-transaction-storage@43.0.0
+- pkg:cargo/pallet-transaction-storage@44.0.0
 - pkg:cargo/pallet-transaction-storage@5.0.0
 - pkg:cargo/pallet-transaction-storage@6.0.0
 - pkg:cargo/pallet-transaction-storage@7.0.0

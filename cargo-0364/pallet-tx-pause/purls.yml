@@ -15,6 +15,7 @@
 - pkg:cargo/pallet-tx-pause@23.0.0
 - pkg:cargo/pallet-tx-pause@24.0.0
 - pkg:cargo/pallet-tx-pause@25.0.0
+- pkg:cargo/pallet-tx-pause@26.0.0
 - pkg:cargo/pallet-tx-pause@4.0.0
 - pkg:cargo/pallet-tx-pause@5.0.0
 - pkg:cargo/pallet-tx-pause@5.0.0-dev.1
