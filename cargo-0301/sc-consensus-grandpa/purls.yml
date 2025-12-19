@@ -33,3 +33,4 @@
 - pkg:cargo/sc-consensus-grandpa@0.37.0
 - pkg:cargo/sc-consensus-grandpa@0.38.0
 - pkg:cargo/sc-consensus-grandpa@0.39.0
+- pkg:cargo/sc-consensus-grandpa@0.40.0

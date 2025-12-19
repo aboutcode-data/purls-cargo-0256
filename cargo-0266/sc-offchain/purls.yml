@@ -60,6 +60,7 @@
 - pkg:cargo/sc-offchain@48.0.0
 - pkg:cargo/sc-offchain@49.0.0
 - pkg:cargo/sc-offchain@5.0.0
+- pkg:cargo/sc-offchain@50.0.0
 - pkg:cargo/sc-offchain@6.0.0
 - pkg:cargo/sc-offchain@7.0.0
 - pkg:cargo/sc-offchain@8.0.0
