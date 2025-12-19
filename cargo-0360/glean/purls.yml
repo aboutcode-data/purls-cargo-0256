@@ -139,3 +139,4 @@
 - pkg:cargo/glean@66.1.1
 - pkg:cargo/glean@66.1.2
 - pkg:cargo/glean@66.2.0
+- pkg:cargo/glean@66.3.0
