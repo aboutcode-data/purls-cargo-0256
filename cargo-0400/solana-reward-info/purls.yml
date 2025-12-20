@@ -3,3 +3,4 @@
 - pkg:cargo/solana-reward-info@2.2.0
 - pkg:cargo/solana-reward-info@2.2.1
 - pkg:cargo/solana-reward-info@3.0.0
+- pkg:cargo/solana-reward-info@4.0.0
