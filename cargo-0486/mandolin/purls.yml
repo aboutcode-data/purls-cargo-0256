@@ -22,3 +22,5 @@
 - pkg:cargo/mandolin@0.2.2
 - pkg:cargo/mandolin@0.2.3
 - pkg:cargo/mandolin@0.2.3-alpha.1
+- pkg:cargo/mandolin@0.2.4
+- pkg:cargo/mandolin@0.2.4-alpha.1
