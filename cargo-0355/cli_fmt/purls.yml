@@ -1,1 +1,2 @@
 - pkg:cargo/cli_fmt@0.2.0
+- pkg:cargo/cli_fmt@0.3.0

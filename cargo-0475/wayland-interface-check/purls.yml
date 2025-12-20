@@ -5,6 +5,7 @@
 - pkg:cargo/wayland-interface-check@0.12.2
 - pkg:cargo/wayland-interface-check@0.13.0
 - pkg:cargo/wayland-interface-check@0.13.1
+- pkg:cargo/wayland-interface-check@0.13.2
 - pkg:cargo/wayland-interface-check@0.8.0
 - pkg:cargo/wayland-interface-check@0.8.1
 - pkg:cargo/wayland-interface-check@0.9.1
