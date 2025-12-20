@@ -30,3 +30,4 @@
 - pkg:cargo/canic-cdk@0.6.6
 - pkg:cargo/canic-cdk@0.6.7
 - pkg:cargo/canic-cdk@0.6.8
+- pkg:cargo/canic-cdk@0.6.9
