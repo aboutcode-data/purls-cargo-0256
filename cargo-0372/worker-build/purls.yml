@@ -25,3 +25,4 @@
 - pkg:cargo/worker-build@0.1.9
 - pkg:cargo/worker-build@0.7.0
 - pkg:cargo/worker-build@0.7.1
+- pkg:cargo/worker-build@0.7.2
