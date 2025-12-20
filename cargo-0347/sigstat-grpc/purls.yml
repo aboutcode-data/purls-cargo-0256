@@ -142,6 +142,7 @@
 - pkg:cargo/sigstat-grpc@0.13.1-beta.2512140246
 - pkg:cargo/sigstat-grpc@0.14.1-beta.2512170241
 - pkg:cargo/sigstat-grpc@0.14.1-beta.2512190242
+- pkg:cargo/sigstat-grpc@0.14.1-beta.2512200239
 - pkg:cargo/sigstat-grpc@0.14.1-rc.2512160223
 - pkg:cargo/sigstat-grpc@0.14.1-rc.2512162207
 - pkg:cargo/sigstat-grpc@0.14.1-rc.2512190311
