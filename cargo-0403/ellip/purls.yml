@@ -22,3 +22,4 @@
 - pkg:cargo/ellip@0.5.7
 - pkg:cargo/ellip@0.5.9
 - pkg:cargo/ellip@1.0.0
+- pkg:cargo/ellip@1.0.1
