@@ -2,6 +2,7 @@
 - pkg:cargo/es-fluent-manager-bevy@0.17.10
 - pkg:cargo/es-fluent-manager-bevy@0.17.11
 - pkg:cargo/es-fluent-manager-bevy@0.17.12
+- pkg:cargo/es-fluent-manager-bevy@0.17.13
 - pkg:cargo/es-fluent-manager-bevy@0.17.2
 - pkg:cargo/es-fluent-manager-bevy@0.17.3
 - pkg:cargo/es-fluent-manager-bevy@0.17.4
