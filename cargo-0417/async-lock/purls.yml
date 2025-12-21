@@ -29,3 +29,4 @@
 - pkg:cargo/async-lock@3.3.0
 - pkg:cargo/async-lock@3.4.0
 - pkg:cargo/async-lock@3.4.1
+- pkg:cargo/async-lock@3.4.2
