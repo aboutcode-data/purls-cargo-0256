@@ -68,6 +68,10 @@
 - pkg:cargo/eunice@0.2.59
 - pkg:cargo/eunice@0.2.6
 - pkg:cargo/eunice@0.2.60
+- pkg:cargo/eunice@0.2.61
+- pkg:cargo/eunice@0.2.62
+- pkg:cargo/eunice@0.2.63
 - pkg:cargo/eunice@0.2.7
 - pkg:cargo/eunice@0.2.8
 - pkg:cargo/eunice@0.2.9
+- pkg:cargo/eunice@1.0.0
