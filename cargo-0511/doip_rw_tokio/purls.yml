@@ -1,1 +1,2 @@
 - pkg:cargo/doip_rw_tokio@0.1.0
+- pkg:cargo/doip_rw_tokio@0.1.1
