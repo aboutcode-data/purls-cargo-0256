@@ -1,3 +1,7 @@
 - pkg:cargo/sendly@0.9.5
 - pkg:cargo/sendly@1.0.1
 - pkg:cargo/sendly@1.0.3
+- pkg:cargo/sendly@1.0.5
+- pkg:cargo/sendly@1.0.6
+- pkg:cargo/sendly@1.0.7
+- pkg:cargo/sendly@1.0.8
