@@ -12,3 +12,4 @@
 - pkg:cargo/ggen-core@4.0.0
 - pkg:cargo/ggen-core@5.0.0
 - pkg:cargo/ggen-core@5.0.1
+- pkg:cargo/ggen-core@5.0.2
