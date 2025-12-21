@@ -1,1 +1,2 @@
 - pkg:cargo/memchr-rs@1.0.0
+- pkg:cargo/memchr-rs@1.0.1
