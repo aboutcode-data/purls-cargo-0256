@@ -25,3 +25,4 @@
 - pkg:cargo/cfspeedtest@1.4.1
 - pkg:cargo/cfspeedtest@2.0.0
 - pkg:cargo/cfspeedtest@2.0.1
+- pkg:cargo/cfspeedtest@2.0.2
