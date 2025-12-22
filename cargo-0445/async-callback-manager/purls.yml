@@ -1,5 +1,6 @@
 - pkg:cargo/async-callback-manager@0.0.1
 - pkg:cargo/async-callback-manager@0.0.10
+- pkg:cargo/async-callback-manager@0.0.11
 - pkg:cargo/async-callback-manager@0.0.2
 - pkg:cargo/async-callback-manager@0.0.3
 - pkg:cargo/async-callback-manager@0.0.4
