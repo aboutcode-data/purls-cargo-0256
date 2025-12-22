@@ -1,1 +1,2 @@
 - pkg:cargo/cuenv-github@0.15.7
+- pkg:cargo/cuenv-github@0.16.0

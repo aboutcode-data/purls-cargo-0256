@@ -55,3 +55,4 @@
 - pkg:cargo/gitlab-ci-ls@1.2.2
 - pkg:cargo/gitlab-ci-ls@1.2.3
 - pkg:cargo/gitlab-ci-ls@1.2.4
+- pkg:cargo/gitlab-ci-ls@1.2.5
