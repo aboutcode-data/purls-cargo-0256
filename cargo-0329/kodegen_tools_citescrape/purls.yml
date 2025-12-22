@@ -11,6 +11,8 @@
 - pkg:cargo/kodegen_tools_citescrape@0.10.14
 - pkg:cargo/kodegen_tools_citescrape@0.10.15
 - pkg:cargo/kodegen_tools_citescrape@0.10.16
+- pkg:cargo/kodegen_tools_citescrape@0.10.17
+- pkg:cargo/kodegen_tools_citescrape@0.10.18
 - pkg:cargo/kodegen_tools_citescrape@0.10.2
 - pkg:cargo/kodegen_tools_citescrape@0.10.3
 - pkg:cargo/kodegen_tools_citescrape@0.10.4
