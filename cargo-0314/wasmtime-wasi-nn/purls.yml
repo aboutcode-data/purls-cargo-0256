@@ -128,6 +128,7 @@
 - pkg:cargo/wasmtime-wasi-nn@39.0.1
 - pkg:cargo/wasmtime-wasi-nn@4.0.0
 - pkg:cargo/wasmtime-wasi-nn@4.0.1
+- pkg:cargo/wasmtime-wasi-nn@40.0.0
 - pkg:cargo/wasmtime-wasi-nn@5.0.0
 - pkg:cargo/wasmtime-wasi-nn@5.0.1
 - pkg:cargo/wasmtime-wasi-nn@6.0.0
