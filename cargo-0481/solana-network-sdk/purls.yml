@@ -19,3 +19,4 @@
 - pkg:cargo/solana-network-sdk@0.4.6
 - pkg:cargo/solana-network-sdk@0.4.7
 - pkg:cargo/solana-network-sdk@0.4.8
+- pkg:cargo/solana-network-sdk@0.5.5
