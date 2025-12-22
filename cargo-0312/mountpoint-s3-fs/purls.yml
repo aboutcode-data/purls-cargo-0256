@@ -15,3 +15,4 @@
 - pkg:cargo/mountpoint-s3-fs@0.8.1
 - pkg:cargo/mountpoint-s3-fs@0.8.2
 - pkg:cargo/mountpoint-s3-fs@0.8.3
+- pkg:cargo/mountpoint-s3-fs@0.8.4
