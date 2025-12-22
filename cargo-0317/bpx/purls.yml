@@ -34,4 +34,6 @@
 - pkg:cargo/bpx@4.0.0-rc.12.0.0
 - pkg:cargo/bpx@4.0.0-rc.13.0.0
 - pkg:cargo/bpx@4.0.0-rc.13.1.0
+- pkg:cargo/bpx@4.0.0-rc.13.2.0
+- pkg:cargo/bpx@4.0.0-rc.13.3.0
 - pkg:cargo/bpx@4.0.0-rc.9.0.0
