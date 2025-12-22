@@ -4,3 +4,4 @@
 - pkg:cargo/io_uring_buf_ring@0.2.0
 - pkg:cargo/io_uring_buf_ring@0.2.1
 - pkg:cargo/io_uring_buf_ring@0.2.2
+- pkg:cargo/io_uring_buf_ring@0.2.3
