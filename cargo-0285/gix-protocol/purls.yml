@@ -42,3 +42,4 @@
 - pkg:cargo/gix-protocol@0.52.0
 - pkg:cargo/gix-protocol@0.52.1
 - pkg:cargo/gix-protocol@0.53.0
+- pkg:cargo/gix-protocol@0.54.0
