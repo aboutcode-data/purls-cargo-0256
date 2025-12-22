@@ -9,3 +9,7 @@
 - pkg:cargo/miette-arborium@2.0.0
 - pkg:cargo/miette-arborium@2.1.0
 - pkg:cargo/miette-arborium@2.3.2
+- pkg:cargo/miette-arborium@2.4.0
+- pkg:cargo/miette-arborium@2.4.1
+- pkg:cargo/miette-arborium@2.4.2
+- pkg:cargo/miette-arborium@2.4.3

@@ -11,6 +11,7 @@
 - pkg:cargo/pallet-encointer-faucet@20.2.0
 - pkg:cargo/pallet-encointer-faucet@20.2.1
 - pkg:cargo/pallet-encointer-faucet@20.2.2
+- pkg:cargo/pallet-encointer-faucet@21.2.0
 - pkg:cargo/pallet-encointer-faucet@3.0.0
 - pkg:cargo/pallet-encointer-faucet@3.0.1
 - pkg:cargo/pallet-encointer-faucet@3.0.2

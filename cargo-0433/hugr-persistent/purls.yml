@@ -8,3 +8,4 @@
 - pkg:cargo/hugr-persistent@0.3.2
 - pkg:cargo/hugr-persistent@0.3.3
 - pkg:cargo/hugr-persistent@0.3.4
+- pkg:cargo/hugr-persistent@0.4.0
