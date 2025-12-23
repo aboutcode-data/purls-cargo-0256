@@ -1,3 +1,4 @@
 - pkg:cargo/leptos_color@0.6.14
 - pkg:cargo/leptos_color@0.7.0
 - pkg:cargo/leptos_color@0.8.0
+- pkg:cargo/leptos_color@0.8.1
