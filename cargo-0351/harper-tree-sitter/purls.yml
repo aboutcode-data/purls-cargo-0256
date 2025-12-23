@@ -68,3 +68,4 @@
 - pkg:cargo/harper-tree-sitter@1.0.0
 - pkg:cargo/harper-tree-sitter@1.1.0
 - pkg:cargo/harper-tree-sitter@1.2.0
+- pkg:cargo/harper-tree-sitter@1.3.0
