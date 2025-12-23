@@ -88,3 +88,4 @@
 - pkg:cargo/domaincheck@0.4.9
 - pkg:cargo/domaincheck@0.4.90
 - pkg:cargo/domaincheck@0.4.91
+- pkg:cargo/domaincheck@0.4.92

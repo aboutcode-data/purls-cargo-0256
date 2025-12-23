@@ -1,1 +1,5 @@
 - pkg:cargo/envoy-cli@0.1.0
+- pkg:cargo/envoy-cli@0.1.2
+- pkg:cargo/envoy-cli@0.1.3
+- pkg:cargo/envoy-cli@0.1.3-hotfix
+- pkg:cargo/envoy-cli@0.1.3-release
