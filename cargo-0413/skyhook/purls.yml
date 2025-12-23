@@ -34,6 +34,7 @@
 - pkg:cargo/skyhook@0.5.34
 - pkg:cargo/skyhook@0.5.35
 - pkg:cargo/skyhook@0.5.36
+- pkg:cargo/skyhook@0.5.37
 - pkg:cargo/skyhook@0.5.4
 - pkg:cargo/skyhook@0.5.5
 - pkg:cargo/skyhook@0.5.6
