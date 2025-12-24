@@ -52,3 +52,4 @@
 - pkg:cargo/modelrelay@0.9.1
 - pkg:cargo/modelrelay@0.91.0
 - pkg:cargo/modelrelay@0.93.0
+- pkg:cargo/modelrelay@0.93.1

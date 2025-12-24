@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_objectstorage_k8s_io@2.20251028.185515
 - pkg:cargo/kcr_objectstorage_k8s_io@2.20251104.185300
 - pkg:cargo/kcr_objectstorage_k8s_io@2.20251125.185309
+- pkg:cargo/kcr_objectstorage_k8s_io@2.20251223.185757
