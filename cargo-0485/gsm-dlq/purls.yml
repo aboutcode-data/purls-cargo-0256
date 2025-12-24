@@ -15,6 +15,7 @@
 - pkg:cargo/gsm-dlq@0.4.14
 - pkg:cargo/gsm-dlq@0.4.16
 - pkg:cargo/gsm-dlq@0.4.17
+- pkg:cargo/gsm-dlq@0.4.18
 - pkg:cargo/gsm-dlq@0.4.2
 - pkg:cargo/gsm-dlq@0.4.3
 - pkg:cargo/gsm-dlq@0.4.5
