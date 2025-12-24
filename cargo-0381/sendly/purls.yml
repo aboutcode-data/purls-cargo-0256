@@ -8,3 +8,5 @@
 - pkg:cargo/sendly@1.1.0
 - pkg:cargo/sendly@2.2.0
 - pkg:cargo/sendly@2.3.0
+- pkg:cargo/sendly@3.0.0
+- pkg:cargo/sendly@3.1.0

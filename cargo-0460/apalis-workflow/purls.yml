@@ -7,3 +7,4 @@
 - pkg:cargo/apalis-workflow@0.1.0-alpha.7
 - pkg:cargo/apalis-workflow@0.1.0-beta.1
 - pkg:cargo/apalis-workflow@0.1.0-beta.2
+- pkg:cargo/apalis-workflow@0.1.0-rc.1
