@@ -2,3 +2,5 @@
 - pkg:cargo/smart-patcher@0.3.0
 - pkg:cargo/smart-patcher@0.3.0-1
 - pkg:cargo/smart-patcher@0.4.0
+- pkg:cargo/smart-patcher@0.4.1
+- pkg:cargo/smart-patcher@0.4.2
