@@ -152,6 +152,7 @@
 - pkg:cargo/swc_ecma_compat_bugfixes@35.0.0
 - pkg:cargo/swc_ecma_compat_bugfixes@36.0.0
 - pkg:cargo/swc_ecma_compat_bugfixes@37.0.0
+- pkg:cargo/swc_ecma_compat_bugfixes@38.0.0
 - pkg:cargo/swc_ecma_compat_bugfixes@4.0.0
 - pkg:cargo/swc_ecma_compat_bugfixes@5.0.0
 - pkg:cargo/swc_ecma_compat_bugfixes@6.0.0
