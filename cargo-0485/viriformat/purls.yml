@@ -4,3 +4,4 @@
 - pkg:cargo/viriformat@1.2.0
 - pkg:cargo/viriformat@2.0.0
 - pkg:cargo/viriformat@2.0.1
+- pkg:cargo/viriformat@3.0.0
