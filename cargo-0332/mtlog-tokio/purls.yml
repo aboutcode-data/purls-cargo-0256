@@ -1,3 +1,4 @@
 - pkg:cargo/mtlog-tokio@0.1.0
 - pkg:cargo/mtlog-tokio@0.1.1
 - pkg:cargo/mtlog-tokio@0.1.2
+- pkg:cargo/mtlog-tokio@0.2.0
