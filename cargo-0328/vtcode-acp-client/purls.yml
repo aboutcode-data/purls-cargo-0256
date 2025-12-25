@@ -168,3 +168,4 @@
 - pkg:cargo/vtcode-acp-client@0.52.4
 - pkg:cargo/vtcode-acp-client@0.52.5
 - pkg:cargo/vtcode-acp-client@0.52.9
+- pkg:cargo/vtcode-acp-client@0.53.0
