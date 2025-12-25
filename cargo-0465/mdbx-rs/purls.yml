@@ -3,3 +3,4 @@
 - pkg:cargo/mdbx-rs@0.2.30
 - pkg:cargo/mdbx-rs@0.2.31
 - pkg:cargo/mdbx-rs@0.2.32
+- pkg:cargo/mdbx-rs@0.2.33
