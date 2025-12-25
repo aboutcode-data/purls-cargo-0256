@@ -162,7 +162,9 @@
 - pkg:cargo/vtcode-acp-client@0.51.2
 - pkg:cargo/vtcode-acp-client@0.52.0
 - pkg:cargo/vtcode-acp-client@0.52.1
+- pkg:cargo/vtcode-acp-client@0.52.10
 - pkg:cargo/vtcode-acp-client@0.52.2
 - pkg:cargo/vtcode-acp-client@0.52.3
 - pkg:cargo/vtcode-acp-client@0.52.4
 - pkg:cargo/vtcode-acp-client@0.52.5
+- pkg:cargo/vtcode-acp-client@0.52.9
