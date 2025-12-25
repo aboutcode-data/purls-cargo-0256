@@ -2,3 +2,4 @@
 - pkg:cargo/rstest-bdd-macros@0.1.0-alpha2
 - pkg:cargo/rstest-bdd-macros@0.1.0-alpha4
 - pkg:cargo/rstest-bdd-macros@0.2.0
+- pkg:cargo/rstest-bdd-macros@0.3.0
