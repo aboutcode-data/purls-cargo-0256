@@ -35,6 +35,7 @@
 - pkg:cargo/octofhir-fhirpath@0.4.30
 - pkg:cargo/octofhir-fhirpath@0.4.31
 - pkg:cargo/octofhir-fhirpath@0.4.32
+- pkg:cargo/octofhir-fhirpath@0.4.33
 - pkg:cargo/octofhir-fhirpath@0.4.4
 - pkg:cargo/octofhir-fhirpath@0.4.5
 - pkg:cargo/octofhir-fhirpath@0.4.6
