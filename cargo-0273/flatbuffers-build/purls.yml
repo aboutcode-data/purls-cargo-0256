@@ -6,3 +6,4 @@
 - pkg:cargo/flatbuffers-build@0.2.1%2Bflatc-24.3.25
 - pkg:cargo/flatbuffers-build@0.2.2%2Bflatc-25.2.10
 - pkg:cargo/flatbuffers-build@0.2.3%2Bflatc-25.2.10
+- pkg:cargo/flatbuffers-build@0.2.4%2Bflatc-25.12.19

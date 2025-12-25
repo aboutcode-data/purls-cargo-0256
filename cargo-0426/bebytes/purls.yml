@@ -41,3 +41,4 @@
 - pkg:cargo/bebytes@2.8.0
 - pkg:cargo/bebytes@2.9.0
 - pkg:cargo/bebytes@3.0.0
+- pkg:cargo/bebytes@3.0.1
