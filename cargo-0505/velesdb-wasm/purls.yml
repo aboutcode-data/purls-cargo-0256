@@ -1,1 +1,2 @@
 - pkg:cargo/velesdb-wasm@0.2.0
+- pkg:cargo/velesdb-wasm@0.4.0
