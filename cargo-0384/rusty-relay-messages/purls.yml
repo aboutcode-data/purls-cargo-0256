@@ -11,3 +11,4 @@
 - pkg:cargo/rusty-relay-messages@0.5.1
 - pkg:cargo/rusty-relay-messages@0.6.0
 - pkg:cargo/rusty-relay-messages@0.6.1
+- pkg:cargo/rusty-relay-messages@0.6.2
