@@ -8,3 +8,4 @@
 - pkg:cargo/tx3-resolver@0.11.5
 - pkg:cargo/tx3-resolver@0.12.0
 - pkg:cargo/tx3-resolver@0.13.0
+- pkg:cargo/tx3-resolver@0.14.0

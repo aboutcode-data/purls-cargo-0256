@@ -24,7 +24,10 @@
 - pkg:cargo/kam@0.5.15
 - pkg:cargo/kam@0.5.16
 - pkg:cargo/kam@0.5.17
+- pkg:cargo/kam@0.5.18
+- pkg:cargo/kam@0.5.19
 - pkg:cargo/kam@0.5.2
+- pkg:cargo/kam@0.5.20
 - pkg:cargo/kam@0.5.4
 - pkg:cargo/kam@0.5.6
 - pkg:cargo/kam@0.5.8
