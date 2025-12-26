@@ -27,3 +27,5 @@
 - pkg:cargo/smr-swap@0.8.4
 - pkg:cargo/smr-swap@0.8.5
 - pkg:cargo/smr-swap@0.8.6
+- pkg:cargo/smr-swap@0.8.7
+- pkg:cargo/smr-swap@0.9.0
