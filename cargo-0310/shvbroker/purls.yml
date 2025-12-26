@@ -1,2 +1,4 @@
+- pkg:cargo/shvbroker@3.19.12
+- pkg:cargo/shvbroker@3.19.13
 - pkg:cargo/shvbroker@3.19.7
 - pkg:cargo/shvbroker@3.19.8
