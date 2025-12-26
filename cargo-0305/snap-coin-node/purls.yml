@@ -20,3 +20,4 @@
 - pkg:cargo/snap-coin-node@6.2.0
 - pkg:cargo/snap-coin-node@8.0.0
 - pkg:cargo/snap-coin-node@8.0.1
+- pkg:cargo/snap-coin-node@8.1.0
