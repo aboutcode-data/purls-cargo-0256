@@ -63,3 +63,4 @@
 - pkg:cargo/grpc_graphql_gateway@0.7.5
 - pkg:cargo/grpc_graphql_gateway@0.7.6
 - pkg:cargo/grpc_graphql_gateway@0.7.7
+- pkg:cargo/grpc_graphql_gateway@0.7.8
