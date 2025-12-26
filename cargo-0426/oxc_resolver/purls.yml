@@ -65,6 +65,7 @@
 - pkg:cargo/oxc_resolver@11.15.0
 - pkg:cargo/oxc_resolver@11.16.0
 - pkg:cargo/oxc_resolver@11.16.1
+- pkg:cargo/oxc_resolver@11.16.2
 - pkg:cargo/oxc_resolver@11.2.0
 - pkg:cargo/oxc_resolver@11.2.1
 - pkg:cargo/oxc_resolver@11.3.0
