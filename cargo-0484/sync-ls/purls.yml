@@ -65,3 +65,4 @@
 - pkg:cargo/sync-ls@0.14.4
 - pkg:cargo/sync-ls@0.14.4-rc1
 - pkg:cargo/sync-ls@0.14.6-rc1
+- pkg:cargo/sync-ls@0.14.6-rc2
