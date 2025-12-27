@@ -17,3 +17,4 @@
 - pkg:cargo/reovim@0.6.22
 - pkg:cargo/reovim@0.6.4
 - pkg:cargo/reovim@0.6.5
+- pkg:cargo/reovim@0.7.8
