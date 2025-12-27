@@ -87,6 +87,7 @@
 - pkg:cargo/feanor-math@3.5.1
 - pkg:cargo/feanor-math@3.5.10
 - pkg:cargo/feanor-math@3.5.11
+- pkg:cargo/feanor-math@3.5.12
 - pkg:cargo/feanor-math@3.5.2
 - pkg:cargo/feanor-math@3.5.3
 - pkg:cargo/feanor-math@3.5.4
