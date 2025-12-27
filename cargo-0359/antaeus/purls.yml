@@ -9,3 +9,5 @@
 - pkg:cargo/antaeus@0.2.7
 - pkg:cargo/antaeus@0.2.7-beta.3
 - pkg:cargo/antaeus@0.2.7-rc.1
+- pkg:cargo/antaeus@0.2.7-rc.3
+- pkg:cargo/antaeus@0.2.8
