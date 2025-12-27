@@ -26,3 +26,4 @@
 - pkg:cargo/rawdb@0.4.4
 - pkg:cargo/rawdb@0.4.5
 - pkg:cargo/rawdb@0.4.6
+- pkg:cargo/rawdb@0.5.0
