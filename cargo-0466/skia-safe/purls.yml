@@ -91,3 +91,4 @@
 - pkg:cargo/skia-safe@0.89.1
 - pkg:cargo/skia-safe@0.90.0
 - pkg:cargo/skia-safe@0.91.0
+- pkg:cargo/skia-safe@0.91.1
