@@ -130,6 +130,7 @@
 - pkg:cargo/dprint@0.50.0
 - pkg:cargo/dprint@0.50.1
 - pkg:cargo/dprint@0.50.2
+- pkg:cargo/dprint@0.51.0
 - pkg:cargo/dprint@0.6.0
 - pkg:cargo/dprint@0.6.1
 - pkg:cargo/dprint@0.6.2
