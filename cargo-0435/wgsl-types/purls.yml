@@ -4,3 +4,4 @@
 - pkg:cargo/wgsl-types@0.0.4
 - pkg:cargo/wgsl-types@0.3.0
 - pkg:cargo/wgsl-types@0.3.1
+- pkg:cargo/wgsl-types@0.3.2
