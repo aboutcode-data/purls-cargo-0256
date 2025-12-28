@@ -13,6 +13,7 @@
 - pkg:cargo/ic_mple_log@0.15.0
 - pkg:cargo/ic_mple_log@0.16.0
 - pkg:cargo/ic_mple_log@0.16.1
+- pkg:cargo/ic_mple_log@0.17.0
 - pkg:cargo/ic_mple_log@0.7.1
 - pkg:cargo/ic_mple_log@0.8.0
 - pkg:cargo/ic_mple_log@0.8.1
