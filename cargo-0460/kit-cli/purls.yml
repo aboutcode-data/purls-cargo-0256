@@ -21,3 +21,5 @@
 - pkg:cargo/kit-cli@0.1.55
 - pkg:cargo/kit-cli@0.1.58
 - pkg:cargo/kit-cli@0.1.61
+- pkg:cargo/kit-cli@0.1.64
+- pkg:cargo/kit-cli@0.1.67
