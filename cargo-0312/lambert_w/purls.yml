@@ -74,6 +74,7 @@
 - pkg:cargo/lambert_w@1.2.31
 - pkg:cargo/lambert_w@1.2.32
 - pkg:cargo/lambert_w@1.2.33
+- pkg:cargo/lambert_w@1.2.34
 - pkg:cargo/lambert_w@1.2.4
 - pkg:cargo/lambert_w@1.2.5
 - pkg:cargo/lambert_w@1.2.6
