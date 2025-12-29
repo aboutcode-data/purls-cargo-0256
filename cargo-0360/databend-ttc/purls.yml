@@ -25,3 +25,4 @@
 - pkg:cargo/databend-ttc@0.31.0
 - pkg:cargo/databend-ttc@0.32.0
 - pkg:cargo/databend-ttc@0.33.0
+- pkg:cargo/databend-ttc@0.33.1
