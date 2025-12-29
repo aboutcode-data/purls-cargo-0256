@@ -38,3 +38,4 @@
 - pkg:cargo/pkgsrc@0.4.2
 - pkg:cargo/pkgsrc@0.5.1
 - pkg:cargo/pkgsrc@0.5.2
+- pkg:cargo/pkgsrc@0.5.3

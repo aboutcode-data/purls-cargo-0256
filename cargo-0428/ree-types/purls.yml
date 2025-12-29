@@ -6,6 +6,7 @@
 - pkg:cargo/ree-types@0.11.2
 - pkg:cargo/ree-types@0.11.3
 - pkg:cargo/ree-types@0.12.0
+- pkg:cargo/ree-types@0.12.1
 - pkg:cargo/ree-types@0.3.0
 - pkg:cargo/ree-types@0.8.0
 - pkg:cargo/ree-types@0.8.1
