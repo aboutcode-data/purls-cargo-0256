@@ -1,1 +1,2 @@
 - pkg:cargo/msixbundle-cli@1.0.0
+- pkg:cargo/msixbundle-cli@1.0.1
