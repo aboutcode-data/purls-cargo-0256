@@ -37,3 +37,5 @@
 - pkg:cargo/versatiles_geometry@2.2.0
 - pkg:cargo/versatiles_geometry@2.3.0
 - pkg:cargo/versatiles_geometry@2.3.1
+- pkg:cargo/versatiles_geometry@3.0.1-rc.1
+- pkg:cargo/versatiles_geometry@3.0.1-rc.2

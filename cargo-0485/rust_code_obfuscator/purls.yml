@@ -7,3 +7,4 @@
 - pkg:cargo/rust_code_obfuscator@0.2.7
 - pkg:cargo/rust_code_obfuscator@0.2.8
 - pkg:cargo/rust_code_obfuscator@0.2.9
+- pkg:cargo/rust_code_obfuscator@0.3.0

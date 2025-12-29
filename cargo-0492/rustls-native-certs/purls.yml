@@ -19,3 +19,4 @@
 - pkg:cargo/rustls-native-certs@0.8.0
 - pkg:cargo/rustls-native-certs@0.8.1
 - pkg:cargo/rustls-native-certs@0.8.2
+- pkg:cargo/rustls-native-certs@0.8.3
