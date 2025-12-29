@@ -14,3 +14,4 @@
 - pkg:cargo/cargo-detect-package@1.0.4
 - pkg:cargo/cargo-detect-package@1.0.5
 - pkg:cargo/cargo-detect-package@1.0.6
+- pkg:cargo/cargo-detect-package@1.0.7
