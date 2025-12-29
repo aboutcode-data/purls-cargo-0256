@@ -14,3 +14,4 @@
 - pkg:cargo/esphome-native-api@1.1.6
 - pkg:cargo/esphome-native-api@1.2.0
 - pkg:cargo/esphome-native-api@2.0.0
+- pkg:cargo/esphome-native-api@2.0.1
