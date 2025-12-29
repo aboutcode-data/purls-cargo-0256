@@ -39,3 +39,4 @@
 - pkg:cargo/linked@0.2.8
 - pkg:cargo/linked@0.2.9
 - pkg:cargo/linked@1.0.0
+- pkg:cargo/linked@1.0.1
