@@ -4,3 +4,4 @@
 - pkg:cargo/releasor@1.3.0
 - pkg:cargo/releasor@1.4.0
 - pkg:cargo/releasor@1.4.1
+- pkg:cargo/releasor@1.5.0
