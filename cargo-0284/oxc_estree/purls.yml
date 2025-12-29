@@ -4,6 +4,7 @@
 - pkg:cargo/oxc_estree@0.103.0
 - pkg:cargo/oxc_estree@0.104.0
 - pkg:cargo/oxc_estree@0.105.0
+- pkg:cargo/oxc_estree@0.106.0
 - pkg:cargo/oxc_estree@0.32.0
 - pkg:cargo/oxc_estree@0.33.0
 - pkg:cargo/oxc_estree@0.34.0
