@@ -2,3 +2,4 @@
 - pkg:cargo/obfuscator_derive@0.2.3
 - pkg:cargo/obfuscator_derive@0.2.4
 - pkg:cargo/obfuscator_derive@0.2.5
+- pkg:cargo/obfuscator_derive@0.3.0
