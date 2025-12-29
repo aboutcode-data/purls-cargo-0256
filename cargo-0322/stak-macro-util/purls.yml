@@ -133,3 +133,4 @@
 - pkg:cargo/stak-macro-util@0.12.0
 - pkg:cargo/stak-macro-util@0.12.1
 - pkg:cargo/stak-macro-util@0.12.2
+- pkg:cargo/stak-macro-util@0.12.3
