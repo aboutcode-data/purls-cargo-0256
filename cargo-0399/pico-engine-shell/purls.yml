@@ -1,1 +1,4 @@
 - pkg:cargo/pico-engine-shell@0.1.0
+- pkg:cargo/pico-engine-shell@0.1.1
+- pkg:cargo/pico-engine-shell@0.1.2
+- pkg:cargo/pico-engine-shell@0.1.3
