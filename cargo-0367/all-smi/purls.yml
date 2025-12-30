@@ -3,6 +3,8 @@
 - pkg:cargo/all-smi@0.13.0
 - pkg:cargo/all-smi@0.13.1
 - pkg:cargo/all-smi@0.14.0
+- pkg:cargo/all-smi@0.15.0
+- pkg:cargo/all-smi@0.15.1
 - pkg:cargo/all-smi@0.3.1
 - pkg:cargo/all-smi@0.3.2
 - pkg:cargo/all-smi@0.3.3
