@@ -19,3 +19,4 @@
 - pkg:cargo/stm32f1-hal@0.7.3
 - pkg:cargo/stm32f1-hal@0.7.4
 - pkg:cargo/stm32f1-hal@0.7.5
+- pkg:cargo/stm32f1-hal@0.8.0
