@@ -11,3 +11,5 @@
 - pkg:cargo/kaioken@0.7.1
 - pkg:cargo/kaioken@0.8.0
 - pkg:cargo/kaioken@1.0.0
+- pkg:cargo/kaioken@1.1.0
+- pkg:cargo/kaioken@1.1.1
