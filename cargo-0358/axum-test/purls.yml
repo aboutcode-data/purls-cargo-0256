@@ -77,6 +77,7 @@
 - pkg:cargo/axum-test@18.3.0
 - pkg:cargo/axum-test@18.4.0
 - pkg:cargo/axum-test@18.4.1
+- pkg:cargo/axum-test@18.5.0
 - pkg:cargo/axum-test@2.0.0
 - pkg:cargo/axum-test@3.0.0
 - pkg:cargo/axum-test@3.1.0
