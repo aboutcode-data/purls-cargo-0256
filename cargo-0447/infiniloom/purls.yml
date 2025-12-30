@@ -17,3 +17,5 @@
 - pkg:cargo/infiniloom@0.4.8
 - pkg:cargo/infiniloom@0.4.9
 - pkg:cargo/infiniloom@0.5.0
+- pkg:cargo/infiniloom@0.5.2
+- pkg:cargo/infiniloom@0.5.3
