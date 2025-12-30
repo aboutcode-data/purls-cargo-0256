@@ -2,3 +2,4 @@
 - pkg:cargo/testscript-rs@0.2.3
 - pkg:cargo/testscript-rs@0.2.4
 - pkg:cargo/testscript-rs@0.2.7
+- pkg:cargo/testscript-rs@0.2.9
