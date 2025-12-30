@@ -7,3 +7,4 @@
 - pkg:cargo/cel@0.11.4
 - pkg:cargo/cel@0.11.5
 - pkg:cargo/cel@0.11.6
+- pkg:cargo/cel@0.12.0
