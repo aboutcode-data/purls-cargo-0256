@@ -36,6 +36,7 @@
 - pkg:cargo/tokei@13.0.0-alpha.7
 - pkg:cargo/tokei@13.0.0-alpha.8
 - pkg:cargo/tokei@13.0.0-alpha.9
+- pkg:cargo/tokei@14.0.0
 - pkg:cargo/tokei@2.0.0
 - pkg:cargo/tokei@2.1.0
 - pkg:cargo/tokei@2.1.1
