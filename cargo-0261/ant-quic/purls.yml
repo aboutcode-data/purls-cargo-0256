@@ -49,6 +49,9 @@
 - pkg:cargo/ant-quic@0.14.80
 - pkg:cargo/ant-quic@0.14.81
 - pkg:cargo/ant-quic@0.14.82
+- pkg:cargo/ant-quic@0.14.83
+- pkg:cargo/ant-quic@0.14.84
+- pkg:cargo/ant-quic@0.14.87
 - pkg:cargo/ant-quic@0.2.0
 - pkg:cargo/ant-quic@0.2.1
 - pkg:cargo/ant-quic@0.3.0

@@ -10,3 +10,4 @@
 - pkg:cargo/zarrs_storage@0.3.3
 - pkg:cargo/zarrs_storage@0.3.4
 - pkg:cargo/zarrs_storage@0.4.0
+- pkg:cargo/zarrs_storage@0.4.1
