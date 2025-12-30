@@ -6,3 +6,4 @@
 - pkg:cargo/sm2@0.14.0-pre.0
 - pkg:cargo/sm2@0.14.0-rc.0
 - pkg:cargo/sm2@0.14.0-rc.1
+- pkg:cargo/sm2@0.14.0-rc.2
