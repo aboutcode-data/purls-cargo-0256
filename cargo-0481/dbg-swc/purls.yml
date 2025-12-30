@@ -1177,6 +1177,7 @@
 - pkg:cargo/dbg-swc@40.0.0
 - pkg:cargo/dbg-swc@41.0.0
 - pkg:cargo/dbg-swc@42.0.0
+- pkg:cargo/dbg-swc@43.0.0
 - pkg:cargo/dbg-swc@5.0.0
 - pkg:cargo/dbg-swc@6.0.0
 - pkg:cargo/dbg-swc@7.0.0
