@@ -23,6 +23,7 @@
 - pkg:cargo/atsamd-hal@0.22.1
 - pkg:cargo/atsamd-hal@0.22.2
 - pkg:cargo/atsamd-hal@0.23.0
+- pkg:cargo/atsamd-hal@0.23.1
 - pkg:cargo/atsamd-hal@0.4.0
 - pkg:cargo/atsamd-hal@0.4.1
 - pkg:cargo/atsamd-hal@0.5.0
