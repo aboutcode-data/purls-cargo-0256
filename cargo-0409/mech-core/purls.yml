@@ -75,5 +75,6 @@
 - pkg:cargo/mech-core@0.2.71
 - pkg:cargo/mech-core@0.2.72
 - pkg:cargo/mech-core@0.2.73
+- pkg:cargo/mech-core@0.2.74
 - pkg:cargo/mech-core@0.2.8
 - pkg:cargo/mech-core@0.2.9
