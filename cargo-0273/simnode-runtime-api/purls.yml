@@ -6,4 +6,5 @@
 - pkg:cargo/simnode-runtime-api@16.0.0
 - pkg:cargo/simnode-runtime-api@2412.0.0
 - pkg:cargo/simnode-runtime-api@2503.0.0
+- pkg:cargo/simnode-runtime-api@2503.1.0
 - pkg:cargo/simnode-runtime-api@2506.0.0
