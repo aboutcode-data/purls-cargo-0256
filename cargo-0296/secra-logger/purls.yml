@@ -1,3 +1,5 @@
 - pkg:cargo/secra-logger@0.1.0
 - pkg:cargo/secra-logger@0.3.0
 - pkg:cargo/secra-logger@1.0.1
+- pkg:cargo/secra-logger@1.0.3
+- pkg:cargo/secra-logger@1.0.4
