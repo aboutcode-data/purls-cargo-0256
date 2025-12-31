@@ -94,3 +94,4 @@
 - pkg:cargo/nu-lint@0.0.94
 - pkg:cargo/nu-lint@0.0.95
 - pkg:cargo/nu-lint@0.0.96
+- pkg:cargo/nu-lint@0.0.97
