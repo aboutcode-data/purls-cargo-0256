@@ -4,3 +4,5 @@
 - pkg:cargo/opendal-util@0.2.1
 - pkg:cargo/opendal-util@0.3.0
 - pkg:cargo/opendal-util@0.4.0
+- pkg:cargo/opendal-util@0.5.0
+- pkg:cargo/opendal-util@0.6.0
