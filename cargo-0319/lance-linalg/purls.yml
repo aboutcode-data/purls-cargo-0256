@@ -109,3 +109,4 @@
 - pkg:cargo/lance-linalg@0.9.8
 - pkg:cargo/lance-linalg@0.9.9
 - pkg:cargo/lance-linalg@1.0.0
+- pkg:cargo/lance-linalg@1.0.1

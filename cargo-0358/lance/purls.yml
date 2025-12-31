@@ -162,3 +162,4 @@
 - pkg:cargo/lance@0.9.8
 - pkg:cargo/lance@0.9.9
 - pkg:cargo/lance@1.0.0
+- pkg:cargo/lance@1.0.1
