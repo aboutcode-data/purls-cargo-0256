@@ -10,3 +10,4 @@
 - pkg:cargo/libcdio-sys@0.5.1
 - pkg:cargo/libcdio-sys@0.5.2
 - pkg:cargo/libcdio-sys@1.0.0
+- pkg:cargo/libcdio-sys@2.0.0
