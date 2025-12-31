@@ -19,3 +19,4 @@
 - pkg:cargo/tinymist-package@0.14.0-rc1
 - pkg:cargo/tinymist-package@0.14.0-rc2
 - pkg:cargo/tinymist-package@0.14.6-rc2
+- pkg:cargo/tinymist-package@0.14.6-rc3
