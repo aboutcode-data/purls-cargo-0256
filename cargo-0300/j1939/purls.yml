@@ -20,3 +20,4 @@
 - pkg:cargo/j1939@0.1.32
 - pkg:cargo/j1939@0.1.33
 - pkg:cargo/j1939@0.2.0
+- pkg:cargo/j1939@0.2.1
