@@ -45,3 +45,4 @@
 - pkg:cargo/kumono@0.55.1
 - pkg:cargo/kumono@0.56.0
 - pkg:cargo/kumono@0.56.2
+- pkg:cargo/kumono@0.56.3
