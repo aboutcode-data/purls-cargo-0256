@@ -15,6 +15,7 @@
 - pkg:cargo/bl4-cli@0.5.15
 - pkg:cargo/bl4-cli@0.5.16
 - pkg:cargo/bl4-cli@0.5.19
+- pkg:cargo/bl4-cli@0.5.20
 - pkg:cargo/bl4-cli@0.5.3
 - pkg:cargo/bl4-cli@0.5.4
 - pkg:cargo/bl4-cli@0.5.5
