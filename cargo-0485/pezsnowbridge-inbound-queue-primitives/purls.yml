@@ -1,1 +1,2 @@
 - pkg:cargo/pezsnowbridge-inbound-queue-primitives@0.1.0
+- pkg:cargo/pezsnowbridge-inbound-queue-primitives@0.9.0
