@@ -25,3 +25,4 @@
 - pkg:cargo/primitive_fixed_point_decimal@0.9.1
 - pkg:cargo/primitive_fixed_point_decimal@1.0.0
 - pkg:cargo/primitive_fixed_point_decimal@1.0.1
+- pkg:cargo/primitive_fixed_point_decimal@1.1.0
