@@ -57,3 +57,4 @@
 - pkg:cargo/jiq@3.8.1
 - pkg:cargo/jiq@3.8.2
 - pkg:cargo/jiq@3.8.3
+- pkg:cargo/jiq@3.9.0
