@@ -1,3 +1,4 @@
+- pkg:cargo/inbq_genpy@0.10.0
 - pkg:cargo/inbq_genpy@0.2.0
 - pkg:cargo/inbq_genpy@0.2.1
 - pkg:cargo/inbq_genpy@0.3.0
