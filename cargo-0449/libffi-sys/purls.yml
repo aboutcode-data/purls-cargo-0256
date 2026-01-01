@@ -48,3 +48,4 @@
 - pkg:cargo/libffi-sys@3.3.2
 - pkg:cargo/libffi-sys@3.3.3
 - pkg:cargo/libffi-sys@4.0.0
+- pkg:cargo/libffi-sys@4.1.0
