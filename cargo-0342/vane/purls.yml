@@ -33,4 +33,7 @@
 - pkg:cargo/vane@0.6.9
 - pkg:cargo/vane@0.7.0
 - pkg:cargo/vane@0.7.12
+- pkg:cargo/vane@0.7.16
 - pkg:cargo/vane@0.7.2
+- pkg:cargo/vane@0.7.20
+- pkg:cargo/vane@0.8.0
