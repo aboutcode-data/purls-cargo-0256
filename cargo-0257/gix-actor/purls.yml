@@ -39,3 +39,4 @@
 - pkg:cargo/gix-actor@0.35.6
 - pkg:cargo/gix-actor@0.36.0
 - pkg:cargo/gix-actor@0.36.1
+- pkg:cargo/gix-actor@0.37.0
