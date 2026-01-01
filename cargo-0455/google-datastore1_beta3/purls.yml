@@ -19,3 +19,4 @@
 - pkg:cargo/google-datastore1_beta3@5.0.4%2B20240226
 - pkg:cargo/google-datastore1_beta3@5.0.5%2B20240617
 - pkg:cargo/google-datastore1_beta3@6.0.0%2B20240617
+- pkg:cargo/google-datastore1_beta3@7.0.0%2B20251216

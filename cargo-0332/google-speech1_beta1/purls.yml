@@ -19,3 +19,4 @@
 - pkg:cargo/google-speech1_beta1@5.0.4%2B20181005
 - pkg:cargo/google-speech1_beta1@5.0.5%2B20181005
 - pkg:cargo/google-speech1_beta1@6.0.0%2B20181005
+- pkg:cargo/google-speech1_beta1@7.0.0%2B20181005

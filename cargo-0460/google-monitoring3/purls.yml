@@ -34,3 +34,4 @@
 - pkg:cargo/google-monitoring3@5.0.4%2B20240225
 - pkg:cargo/google-monitoring3@5.0.5%2B20240623
 - pkg:cargo/google-monitoring3@6.0.0%2B20240623
+- pkg:cargo/google-monitoring3@7.0.0%2B20251215

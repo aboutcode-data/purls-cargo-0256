@@ -20,3 +20,4 @@
 - pkg:cargo/google-firebaseremoteconfig1@5.0.4%2B20171129
 - pkg:cargo/google-firebaseremoteconfig1@5.0.5%2B20171129
 - pkg:cargo/google-firebaseremoteconfig1@6.0.0%2B20171129
+- pkg:cargo/google-firebaseremoteconfig1@7.0.0%2B20171129
