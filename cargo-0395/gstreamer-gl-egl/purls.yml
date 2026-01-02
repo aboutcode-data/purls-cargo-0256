@@ -16,3 +16,4 @@
 - pkg:cargo/gstreamer-gl-egl@0.23.6
 - pkg:cargo/gstreamer-gl-egl@0.24.0
 - pkg:cargo/gstreamer-gl-egl@0.24.4
+- pkg:cargo/gstreamer-gl-egl@0.25.0-alpha.1

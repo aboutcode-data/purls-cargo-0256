@@ -1,1 +1,2 @@
 - pkg:cargo/gstreamer-vulkan-sys@0.0.0
+- pkg:cargo/gstreamer-vulkan-sys@0.25.0-alpha.1

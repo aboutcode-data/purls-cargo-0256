@@ -16,3 +16,4 @@
 - pkg:cargo/gstreamer-controller@0.24.2
 - pkg:cargo/gstreamer-controller@0.24.3
 - pkg:cargo/gstreamer-controller@0.24.4
+- pkg:cargo/gstreamer-controller@0.25.0-alpha.1
