@@ -1,3 +1,4 @@
 - pkg:cargo/qail-qdrant@0.14.10
 - pkg:cargo/qail-qdrant@0.14.12
 - pkg:cargo/qail-qdrant@0.14.13
+- pkg:cargo/qail-qdrant@0.14.14
