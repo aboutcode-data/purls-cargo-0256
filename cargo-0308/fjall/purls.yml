@@ -67,6 +67,7 @@
 - pkg:cargo/fjall@2.7.6
 - pkg:cargo/fjall@2.8.0
 - pkg:cargo/fjall@2.9.0
+- pkg:cargo/fjall@3.0.0
 - pkg:cargo/fjall@3.0.0-pre.0
 - pkg:cargo/fjall@3.0.0-pre.1
 - pkg:cargo/fjall@3.0.0-pre.2
