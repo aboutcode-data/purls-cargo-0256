@@ -2,3 +2,4 @@
 - pkg:cargo/google-clis-common@5.0.0
 - pkg:cargo/google-clis-common@6.0.0
 - pkg:cargo/google-clis-common@7.0.0
+- pkg:cargo/google-clis-common@8.0.0

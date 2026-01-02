@@ -11,3 +11,4 @@
 - pkg:cargo/google-analyticsreporting4-cli@3.1.0%2B20220215
 - pkg:cargo/google-analyticsreporting4-cli@5.0.4%2B20240123
 - pkg:cargo/google-analyticsreporting4-cli@6.0.0%2B20240123
+- pkg:cargo/google-analyticsreporting4-cli@7.0.0%2B20240123

@@ -19,3 +19,4 @@
 - pkg:cargo/google-translate2-cli@3.1.0%2B20170525
 - pkg:cargo/google-translate2-cli@5.0.4%2B20170525
 - pkg:cargo/google-translate2-cli@6.0.0%2B20170525
+- pkg:cargo/google-translate2-cli@7.0.0%2B20170525

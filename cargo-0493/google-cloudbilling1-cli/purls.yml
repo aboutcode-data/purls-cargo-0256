@@ -19,3 +19,4 @@
 - pkg:cargo/google-cloudbilling1-cli@3.1.0%2B20220305
 - pkg:cargo/google-cloudbilling1-cli@5.0.4%2B20240214
 - pkg:cargo/google-cloudbilling1-cli@6.0.0%2B20240614
+- pkg:cargo/google-cloudbilling1-cli@7.0.0%2B20251203

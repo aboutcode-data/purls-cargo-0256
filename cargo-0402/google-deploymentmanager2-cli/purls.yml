@@ -22,3 +22,4 @@
 - pkg:cargo/google-deploymentmanager2-cli@3.1.0%2B20220225
 - pkg:cargo/google-deploymentmanager2-cli@5.0.4%2B20240229
 - pkg:cargo/google-deploymentmanager2-cli@6.0.0%2B20240404
+- pkg:cargo/google-deploymentmanager2-cli@7.0.0%2B20251205

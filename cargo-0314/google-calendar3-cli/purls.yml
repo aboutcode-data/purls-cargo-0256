@@ -21,3 +21,4 @@
 - pkg:cargo/google-calendar3-cli@3.1.0%2B20220217
 - pkg:cargo/google-calendar3-cli@5.0.4%2B20240223
 - pkg:cargo/google-calendar3-cli@6.0.0%2B20240523
+- pkg:cargo/google-calendar3-cli@7.0.0%2B20251214

@@ -28,3 +28,4 @@
 - pkg:cargo/google-drive3-cli@5.0.2-beta-1%2B20220225
 - pkg:cargo/google-drive3-cli@5.0.4%2B20240227
 - pkg:cargo/google-drive3-cli@6.0.0%2B20240618
+- pkg:cargo/google-drive3-cli@7.0.0%2B20251218
