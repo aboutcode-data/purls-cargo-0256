@@ -5,3 +5,4 @@
 - pkg:cargo/libgraphql-macros@0.0.6
 - pkg:cargo/libgraphql-macros@0.0.7
 - pkg:cargo/libgraphql-macros@0.0.8
+- pkg:cargo/libgraphql-macros@0.0.9
