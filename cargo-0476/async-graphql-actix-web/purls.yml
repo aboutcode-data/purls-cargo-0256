@@ -342,3 +342,4 @@
 - pkg:cargo/async-graphql-actix-web@7.0.7
 - pkg:cargo/async-graphql-actix-web@7.0.8
 - pkg:cargo/async-graphql-actix-web@7.0.9
+- pkg:cargo/async-graphql-actix-web@7.1.0
