@@ -30,6 +30,8 @@
 - pkg:cargo/packc@0.4.28
 - pkg:cargo/packc@0.4.29
 - pkg:cargo/packc@0.4.3
+- pkg:cargo/packc@0.4.30
+- pkg:cargo/packc@0.4.31
 - pkg:cargo/packc@0.4.4
 - pkg:cargo/packc@0.4.5
 - pkg:cargo/packc@0.4.6
