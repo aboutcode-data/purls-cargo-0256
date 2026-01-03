@@ -25,5 +25,6 @@
 - pkg:cargo/typst-shim@0.14.0
 - pkg:cargo/typst-shim@0.14.0-rc1
 - pkg:cargo/typst-shim@0.14.0-rc2
+- pkg:cargo/typst-shim@0.14.6
 - pkg:cargo/typst-shim@0.14.6-rc2
 - pkg:cargo/typst-shim@0.14.6-rc3
