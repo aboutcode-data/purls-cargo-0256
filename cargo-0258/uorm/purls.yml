@@ -10,3 +10,5 @@
 - pkg:cargo/uorm@0.6.2
 - pkg:cargo/uorm@0.6.4
 - pkg:cargo/uorm@0.6.5
+- pkg:cargo/uorm@0.7.0
+- pkg:cargo/uorm@0.7.1
