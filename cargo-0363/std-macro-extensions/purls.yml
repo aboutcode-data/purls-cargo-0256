@@ -48,6 +48,7 @@
 - pkg:cargo/std-macro-extensions@0.26.6
 - pkg:cargo/std-macro-extensions@0.26.7
 - pkg:cargo/std-macro-extensions@0.26.8
+- pkg:cargo/std-macro-extensions@0.26.9
 - pkg:cargo/std-macro-extensions@0.3.0
 - pkg:cargo/std-macro-extensions@0.4.0
 - pkg:cargo/std-macro-extensions@0.5.0
