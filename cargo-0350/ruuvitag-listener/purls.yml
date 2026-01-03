@@ -11,3 +11,4 @@
 - pkg:cargo/ruuvitag-listener@0.5.5
 - pkg:cargo/ruuvitag-listener@0.6.0
 - pkg:cargo/ruuvitag-listener@0.6.1
+- pkg:cargo/ruuvitag-listener@0.7.0

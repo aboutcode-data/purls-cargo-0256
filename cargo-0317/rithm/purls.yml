@@ -25,6 +25,7 @@
 - pkg:cargo/rithm@14.5.0
 - pkg:cargo/rithm@14.6.0
 - pkg:cargo/rithm@14.7.0
+- pkg:cargo/rithm@14.7.1
 - pkg:cargo/rithm@2.0.0
 - pkg:cargo/rithm@3.0.0
 - pkg:cargo/rithm@4.0.0
