@@ -25,3 +25,4 @@
 - pkg:cargo/secure-gate@0.5.9
 - pkg:cargo/secure-gate@0.6.0
 - pkg:cargo/secure-gate@0.6.1
+- pkg:cargo/secure-gate@0.7.0-rc.1
