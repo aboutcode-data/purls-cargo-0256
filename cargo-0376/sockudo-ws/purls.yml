@@ -21,3 +21,5 @@
 - pkg:cargo/sockudo-ws@1.6.8
 - pkg:cargo/sockudo-ws@1.6.9
 - pkg:cargo/sockudo-ws@1.7.0
+- pkg:cargo/sockudo-ws@1.7.1
+- pkg:cargo/sockudo-ws@1.7.2
