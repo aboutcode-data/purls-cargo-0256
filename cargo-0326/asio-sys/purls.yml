@@ -4,3 +4,4 @@
 - pkg:cargo/asio-sys@0.2.2
 - pkg:cargo/asio-sys@0.2.3
 - pkg:cargo/asio-sys@0.2.4
+- pkg:cargo/asio-sys@0.2.5
