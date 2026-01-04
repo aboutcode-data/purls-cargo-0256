@@ -15,3 +15,4 @@
 - pkg:cargo/maudit@0.6.6
 - pkg:cargo/maudit@0.6.7
 - pkg:cargo/maudit@0.7.0
+- pkg:cargo/maudit@0.8.0
