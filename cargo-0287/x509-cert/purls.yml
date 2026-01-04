@@ -16,3 +16,4 @@
 - pkg:cargo/x509-cert@0.3.0-rc.0
 - pkg:cargo/x509-cert@0.3.0-rc.1
 - pkg:cargo/x509-cert@0.3.0-rc.2
+- pkg:cargo/x509-cert@0.3.0-rc.3
