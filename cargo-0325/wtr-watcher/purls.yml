@@ -10,3 +10,4 @@
 - pkg:cargo/wtr-watcher@0.13.8
 - pkg:cargo/wtr-watcher@0.14.0
 - pkg:cargo/wtr-watcher@0.14.1
+- pkg:cargo/wtr-watcher@0.14.2
