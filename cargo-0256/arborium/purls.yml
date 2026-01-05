@@ -26,3 +26,4 @@
 - pkg:cargo/arborium@2.4.6
 - pkg:cargo/arborium@2.4.7
 - pkg:cargo/arborium@2.5.0
+- pkg:cargo/arborium@2.6.0
