@@ -1,5 +1,6 @@
 - pkg:cargo/chartjs_image@6.1.1
 - pkg:cargo/chartjs_image@6.1.10
+- pkg:cargo/chartjs_image@6.1.11
 - pkg:cargo/chartjs_image@6.1.2
 - pkg:cargo/chartjs_image@6.1.3
 - pkg:cargo/chartjs_image@6.1.4
