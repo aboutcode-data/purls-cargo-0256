@@ -5,6 +5,7 @@
 - pkg:cargo/oxc_cfg@0.104.0
 - pkg:cargo/oxc_cfg@0.105.0
 - pkg:cargo/oxc_cfg@0.106.0
+- pkg:cargo/oxc_cfg@0.107.0
 - pkg:cargo/oxc_cfg@0.15.0
 - pkg:cargo/oxc_cfg@0.16.0
 - pkg:cargo/oxc_cfg@0.16.1
