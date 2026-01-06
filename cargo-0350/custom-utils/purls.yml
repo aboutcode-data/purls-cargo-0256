@@ -13,6 +13,7 @@
 - pkg:cargo/custom-utils@0.10.19
 - pkg:cargo/custom-utils@0.10.2
 - pkg:cargo/custom-utils@0.10.20
+- pkg:cargo/custom-utils@0.10.21
 - pkg:cargo/custom-utils@0.10.3
 - pkg:cargo/custom-utils@0.10.4
 - pkg:cargo/custom-utils@0.10.5
