@@ -34,4 +34,5 @@
 - pkg:cargo/typedb-protocol@3.4.0
 - pkg:cargo/typedb-protocol@3.4.0-rc0
 - pkg:cargo/typedb-protocol@3.7.0
+- pkg:cargo/typedb-protocol@3.7.0-alpha-0
 - pkg:cargo/typedb-protocol@3.7.0-rc0
