@@ -3,3 +3,4 @@
 - pkg:cargo/nexus-channel@0.2.3
 - pkg:cargo/nexus-channel@0.2.4
 - pkg:cargo/nexus-channel@0.2.5
+- pkg:cargo/nexus-channel@0.3.0
