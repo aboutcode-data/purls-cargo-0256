@@ -1,1 +1,2 @@
 - pkg:cargo/conda_share@2.0.0
+- pkg:cargo/conda_share@2.0.1
