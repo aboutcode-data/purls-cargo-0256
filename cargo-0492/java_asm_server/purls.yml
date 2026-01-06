@@ -6,3 +6,4 @@
 - pkg:cargo/java_asm_server@0.0.15
 - pkg:cargo/java_asm_server@0.1.0
 - pkg:cargo/java_asm_server@0.1.1
+- pkg:cargo/java_asm_server@0.1.3

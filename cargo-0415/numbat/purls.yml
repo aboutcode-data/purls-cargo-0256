@@ -13,6 +13,7 @@
 - pkg:cargo/numbat@1.15.0
 - pkg:cargo/numbat@1.16.0
 - pkg:cargo/numbat@1.17.0
+- pkg:cargo/numbat@1.18.0
 - pkg:cargo/numbat@1.5.0
 - pkg:cargo/numbat@1.6.0
 - pkg:cargo/numbat@1.6.1
