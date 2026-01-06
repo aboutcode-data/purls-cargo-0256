@@ -16,3 +16,4 @@
 - pkg:cargo/v_frame@0.3.7
 - pkg:cargo/v_frame@0.3.8
 - pkg:cargo/v_frame@0.3.9
+- pkg:cargo/v_frame@0.4.0
