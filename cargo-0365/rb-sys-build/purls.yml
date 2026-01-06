@@ -26,6 +26,7 @@
 - pkg:cargo/rb-sys-build@0.9.121
 - pkg:cargo/rb-sys-build@0.9.122
 - pkg:cargo/rb-sys-build@0.9.123
+- pkg:cargo/rb-sys-build@0.9.124
 - pkg:cargo/rb-sys-build@0.9.13
 - pkg:cargo/rb-sys-build@0.9.14
 - pkg:cargo/rb-sys-build@0.9.15
