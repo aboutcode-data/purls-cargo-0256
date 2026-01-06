@@ -5,3 +5,4 @@
 - pkg:cargo/rustdx-complete@0.6.3
 - pkg:cargo/rustdx-complete@0.6.4
 - pkg:cargo/rustdx-complete@0.6.6
+- pkg:cargo/rustdx-complete@1.0.0
