@@ -164,3 +164,4 @@
 - pkg:cargo/lemmy_utils@1.0.0-alpha.3
 - pkg:cargo/lemmy_utils@1.0.0-alpha.4
 - pkg:cargo/lemmy_utils@1.0.0-alpha.5
+- pkg:cargo/lemmy_utils@1.0.0-test-arm-rasky-v1.0
