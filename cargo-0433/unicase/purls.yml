@@ -25,3 +25,4 @@
 - pkg:cargo/unicase@2.7.0
 - pkg:cargo/unicase@2.8.0
 - pkg:cargo/unicase@2.8.1
+- pkg:cargo/unicase@2.9.0
