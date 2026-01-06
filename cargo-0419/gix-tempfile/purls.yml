@@ -18,6 +18,7 @@
 - pkg:cargo/gix-tempfile@19.0.0
 - pkg:cargo/gix-tempfile@19.0.1
 - pkg:cargo/gix-tempfile@20.0.0
+- pkg:cargo/gix-tempfile@20.0.1
 - pkg:cargo/gix-tempfile@3.0.2
 - pkg:cargo/gix-tempfile@4.0.0
 - pkg:cargo/gix-tempfile@4.1.0

@@ -46,3 +46,4 @@
 - pkg:cargo/gix-index@0.43.0
 - pkg:cargo/gix-index@0.44.0
 - pkg:cargo/gix-index@0.45.0
+- pkg:cargo/gix-index@0.45.1
