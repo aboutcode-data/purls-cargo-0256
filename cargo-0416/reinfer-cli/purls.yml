@@ -65,6 +65,7 @@
 - pkg:cargo/reinfer-cli@0.38.12
 - pkg:cargo/reinfer-cli@0.38.13
 - pkg:cargo/reinfer-cli@0.38.14
+- pkg:cargo/reinfer-cli@0.38.15
 - pkg:cargo/reinfer-cli@0.38.2
 - pkg:cargo/reinfer-cli@0.38.3
 - pkg:cargo/reinfer-cli@0.38.4

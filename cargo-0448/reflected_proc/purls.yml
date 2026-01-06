@@ -31,6 +31,7 @@
 - pkg:cargo/reflected_proc@0.24.0
 - pkg:cargo/reflected_proc@0.25.0
 - pkg:cargo/reflected_proc@0.26.0
+- pkg:cargo/reflected_proc@0.27.0
 - pkg:cargo/reflected_proc@0.3.0
 - pkg:cargo/reflected_proc@0.3.2
 - pkg:cargo/reflected_proc@0.4.0
