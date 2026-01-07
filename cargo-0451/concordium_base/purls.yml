@@ -19,3 +19,4 @@
 - pkg:cargo/concordium_base@8.0.0-alpha.2
 - pkg:cargo/concordium_base@8.0.0-alpha.3
 - pkg:cargo/concordium_base@9.0.0
+- pkg:cargo/concordium_base@9.1.0
