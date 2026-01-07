@@ -61,5 +61,6 @@
 - pkg:cargo/vortex-fastlanes@0.56.0
 - pkg:cargo/vortex-fastlanes@0.57.0-rc.0
 - pkg:cargo/vortex-fastlanes@0.57.2
+- pkg:cargo/vortex-fastlanes@0.58.0
 - pkg:cargo/vortex-fastlanes@0.7.0
 - pkg:cargo/vortex-fastlanes@0.9.0
