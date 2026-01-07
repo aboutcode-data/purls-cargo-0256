@@ -39,3 +39,4 @@
 - pkg:cargo/codspeed-criterion-compat@4.0.5
 - pkg:cargo/codspeed-criterion-compat@4.1.0
 - pkg:cargo/codspeed-criterion-compat@4.2.0
+- pkg:cargo/codspeed-criterion-compat@4.2.1
