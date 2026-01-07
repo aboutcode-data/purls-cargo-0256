@@ -13,3 +13,4 @@
 - pkg:cargo/cross-stream@0.6.5
 - pkg:cargo/cross-stream@0.7.0
 - pkg:cargo/cross-stream@0.7.1
+- pkg:cargo/cross-stream@0.8.0
