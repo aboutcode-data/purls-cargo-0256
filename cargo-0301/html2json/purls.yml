@@ -2,3 +2,4 @@
 - pkg:cargo/html2json@0.1.1
 - pkg:cargo/html2json@0.1.2
 - pkg:cargo/html2json@0.2.0
+- pkg:cargo/html2json@0.3.0
