@@ -81,6 +81,7 @@
 - pkg:cargo/bashrs@6.49.0
 - pkg:cargo/bashrs@6.5.0
 - pkg:cargo/bashrs@6.50.0
+- pkg:cargo/bashrs@6.51.0
 - pkg:cargo/bashrs@6.6.0
 - pkg:cargo/bashrs@6.7.0
 - pkg:cargo/bashrs@6.8.0
