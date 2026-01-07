@@ -19,6 +19,7 @@
 - pkg:cargo/proto_rs@0.6.21
 - pkg:cargo/proto_rs@0.6.22
 - pkg:cargo/proto_rs@0.6.23
+- pkg:cargo/proto_rs@0.6.24
 - pkg:cargo/proto_rs@0.6.3
 - pkg:cargo/proto_rs@0.6.4
 - pkg:cargo/proto_rs@0.6.6
