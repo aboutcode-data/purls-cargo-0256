@@ -14,3 +14,4 @@
 - pkg:cargo/miden-assembly-syntax@0.19.1
 - pkg:cargo/miden-assembly-syntax@0.20.0
 - pkg:cargo/miden-assembly-syntax@0.20.1
+- pkg:cargo/miden-assembly-syntax@0.20.2

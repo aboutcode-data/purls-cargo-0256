@@ -1,5 +1,6 @@
 - pkg:cargo/hemoglobin@0.1.0
 - pkg:cargo/hemoglobin@0.10.0
+- pkg:cargo/hemoglobin@0.11.0-alpha.1
 - pkg:cargo/hemoglobin@0.2.0
 - pkg:cargo/hemoglobin@0.3.0
 - pkg:cargo/hemoglobin@0.4.0
