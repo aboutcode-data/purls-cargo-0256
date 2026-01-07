@@ -1,1 +1,3 @@
 - pkg:cargo/swisseph-wasm@0.1.0
+- pkg:cargo/swisseph-wasm@0.1.4
+- pkg:cargo/swisseph-wasm@0.1.4-pre.3
