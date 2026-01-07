@@ -14,3 +14,4 @@
 - pkg:cargo/cassandra-protocol@3.1.1
 - pkg:cargo/cassandra-protocol@3.2.0
 - pkg:cargo/cassandra-protocol@3.3.0
+- pkg:cargo/cassandra-protocol@4.0.0
