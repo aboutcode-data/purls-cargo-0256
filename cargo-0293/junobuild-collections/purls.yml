@@ -20,3 +20,4 @@
 - pkg:cargo/junobuild-collections@0.2.4
 - pkg:cargo/junobuild-collections@0.2.5
 - pkg:cargo/junobuild-collections@0.2.6
+- pkg:cargo/junobuild-collections@0.3.0
