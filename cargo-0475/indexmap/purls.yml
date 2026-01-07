@@ -35,6 +35,7 @@
 - pkg:cargo/indexmap@2.11.4
 - pkg:cargo/indexmap@2.12.0
 - pkg:cargo/indexmap@2.12.1
+- pkg:cargo/indexmap@2.13.0
 - pkg:cargo/indexmap@2.2.0
 - pkg:cargo/indexmap@2.2.1
 - pkg:cargo/indexmap@2.2.2
