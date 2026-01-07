@@ -10,3 +10,4 @@
 - pkg:cargo/fsel@2.2.3-seedclay
 - pkg:cargo/fsel@2.3.0-seedclay
 - pkg:cargo/fsel@2.4.0-seedclay
+- pkg:cargo/fsel@2.5.0-seedclay
