@@ -33,3 +33,5 @@
 - pkg:cargo/biodivine-lib-param-bn@0.6.2
 - pkg:cargo/biodivine-lib-param-bn@0.6.3
 - pkg:cargo/biodivine-lib-param-bn@0.7.0
+- pkg:cargo/biodivine-lib-param-bn@0.7.1
+- pkg:cargo/biodivine-lib-param-bn@0.7.2

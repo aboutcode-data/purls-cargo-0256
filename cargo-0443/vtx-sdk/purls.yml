@@ -1,4 +1,5 @@
 - pkg:cargo/vtx-sdk@0.1.1
+- pkg:cargo/vtx-sdk@0.1.10
 - pkg:cargo/vtx-sdk@0.1.2
 - pkg:cargo/vtx-sdk@0.1.4
 - pkg:cargo/vtx-sdk@0.1.7
