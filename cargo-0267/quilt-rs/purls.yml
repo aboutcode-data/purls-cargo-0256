@@ -18,6 +18,7 @@
 - pkg:cargo/quilt-rs@0.23.0
 - pkg:cargo/quilt-rs@0.24.0
 - pkg:cargo/quilt-rs@0.24.0-alpha.1
+- pkg:cargo/quilt-rs@0.25.0
 - pkg:cargo/quilt-rs@0.3.0
 - pkg:cargo/quilt-rs@0.3.1
 - pkg:cargo/quilt-rs@0.3.2
