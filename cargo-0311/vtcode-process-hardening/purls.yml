@@ -23,3 +23,4 @@
 - pkg:cargo/vtcode-process-hardening@0.58.9
 - pkg:cargo/vtcode-process-hardening@0.59.0
 - pkg:cargo/vtcode-process-hardening@0.59.1
+- pkg:cargo/vtcode-process-hardening@0.59.2
