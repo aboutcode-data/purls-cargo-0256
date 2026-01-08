@@ -1,3 +1,5 @@
 - pkg:cargo/squirrel_tools@0.0.1
 - pkg:cargo/squirrel_tools@0.0.2
+- pkg:cargo/squirrel_tools@0.0.4-pre8
 - pkg:cargo/squirrel_tools@0.1.0
+- pkg:cargo/squirrel_tools@0.1.0-pre5
