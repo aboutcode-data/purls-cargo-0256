@@ -49,3 +49,4 @@
 - pkg:cargo/whoami@2.0.0-pre.1
 - pkg:cargo/whoami@2.0.0-pre.2
 - pkg:cargo/whoami@2.0.0-pre.3
+- pkg:cargo/whoami@2.0.1
