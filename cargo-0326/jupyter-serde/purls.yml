@@ -11,3 +11,4 @@
 - pkg:cargo/jupyter-serde@0.7.0
 - pkg:cargo/jupyter-serde@0.8.0
 - pkg:cargo/jupyter-serde@0.9.0
+- pkg:cargo/jupyter-serde@1.0.0

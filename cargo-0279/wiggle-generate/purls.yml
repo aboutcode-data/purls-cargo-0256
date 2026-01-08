@@ -139,6 +139,7 @@
 - pkg:cargo/wiggle-generate@4.0.0
 - pkg:cargo/wiggle-generate@4.0.1
 - pkg:cargo/wiggle-generate@40.0.0
+- pkg:cargo/wiggle-generate@40.0.1
 - pkg:cargo/wiggle-generate@5.0.0
 - pkg:cargo/wiggle-generate@5.0.1
 - pkg:cargo/wiggle-generate@6.0.0
