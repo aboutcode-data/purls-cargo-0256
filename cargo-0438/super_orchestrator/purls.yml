@@ -17,6 +17,7 @@
 - pkg:cargo/super_orchestrator@0.17.1
 - pkg:cargo/super_orchestrator@0.17.2
 - pkg:cargo/super_orchestrator@0.17.3
+- pkg:cargo/super_orchestrator@0.18.0
 - pkg:cargo/super_orchestrator@0.2.0
 - pkg:cargo/super_orchestrator@0.3.0
 - pkg:cargo/super_orchestrator@0.3.1
