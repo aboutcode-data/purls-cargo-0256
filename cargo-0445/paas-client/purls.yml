@@ -1,5 +1,6 @@
 - pkg:cargo/paas-client@0.10.0
 - pkg:cargo/paas-client@0.11.0
+- pkg:cargo/paas-client@0.13.0
 - pkg:cargo/paas-client@0.5.2
 - pkg:cargo/paas-client@0.5.3
 - pkg:cargo/paas-client@0.5.6
