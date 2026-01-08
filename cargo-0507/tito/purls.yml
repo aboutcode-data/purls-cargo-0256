@@ -58,6 +58,7 @@
 - pkg:cargo/tito@0.3.19
 - pkg:cargo/tito@0.3.2
 - pkg:cargo/tito@0.3.20
+- pkg:cargo/tito@0.3.21
 - pkg:cargo/tito@0.3.3
 - pkg:cargo/tito@0.3.4
 - pkg:cargo/tito@0.3.5
