@@ -1,3 +1,5 @@
 - pkg:cargo/cuml-wrapper-rs@0.2.0
 - pkg:cargo/cuml-wrapper-rs@0.3.0
 - pkg:cargo/cuml-wrapper-rs@0.3.1
+- pkg:cargo/cuml-wrapper-rs@0.3.2
+- pkg:cargo/cuml-wrapper-rs@0.3.3
