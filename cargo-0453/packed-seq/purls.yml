@@ -15,3 +15,4 @@
 - pkg:cargo/packed-seq@4.1.1
 - pkg:cargo/packed-seq@4.2.0
 - pkg:cargo/packed-seq@4.3.0
+- pkg:cargo/packed-seq@4.4.0
