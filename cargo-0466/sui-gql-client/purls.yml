@@ -43,3 +43,4 @@
 - pkg:cargo/sui-gql-client@0.23.0
 - pkg:cargo/sui-gql-client@0.23.1
 - pkg:cargo/sui-gql-client@0.24.0
+- pkg:cargo/sui-gql-client@0.25.0

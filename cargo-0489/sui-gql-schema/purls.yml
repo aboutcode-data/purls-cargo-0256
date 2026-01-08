@@ -18,6 +18,7 @@
 - pkg:cargo/sui-gql-schema@0.14.0
 - pkg:cargo/sui-gql-schema@0.15.0
 - pkg:cargo/sui-gql-schema@0.16.0
+- pkg:cargo/sui-gql-schema@0.17.0
 - pkg:cargo/sui-gql-schema@0.7.1
 - pkg:cargo/sui-gql-schema@0.7.2
 - pkg:cargo/sui-gql-schema@0.7.3
