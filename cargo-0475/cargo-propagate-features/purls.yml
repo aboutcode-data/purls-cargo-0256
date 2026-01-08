@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-propagate-features@0.0.1
+- pkg:cargo/cargo-propagate-features@0.0.2
