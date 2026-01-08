@@ -24,3 +24,4 @@
 - pkg:cargo/r53-ddns@1.0.6
 - pkg:cargo/r53-ddns@1.0.7
 - pkg:cargo/r53-ddns@1.0.9
+- pkg:cargo/r53-ddns@1.1.0
