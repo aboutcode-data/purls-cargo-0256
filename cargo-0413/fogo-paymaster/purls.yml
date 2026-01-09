@@ -3,6 +3,7 @@
 - pkg:cargo/fogo-paymaster@0.4.0
 - pkg:cargo/fogo-paymaster@0.5.0
 - pkg:cargo/fogo-paymaster@0.5.1
+- pkg:cargo/fogo-paymaster@0.5.10
 - pkg:cargo/fogo-paymaster@0.5.2
 - pkg:cargo/fogo-paymaster@0.5.4
 - pkg:cargo/fogo-paymaster@0.5.5
