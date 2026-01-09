@@ -58,6 +58,7 @@
 - pkg:cargo/rasn-cms@0.28.0
 - pkg:cargo/rasn-cms@0.28.1
 - pkg:cargo/rasn-cms@0.28.2
+- pkg:cargo/rasn-cms@0.28.3
 - pkg:cargo/rasn-cms@0.4.1
 - pkg:cargo/rasn-cms@0.5.0
 - pkg:cargo/rasn-cms@0.5.1

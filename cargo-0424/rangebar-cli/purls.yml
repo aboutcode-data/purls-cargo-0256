@@ -2,3 +2,4 @@
 - pkg:cargo/rangebar-cli@5.0.1
 - pkg:cargo/rangebar-cli@5.1.0
 - pkg:cargo/rangebar-cli@5.2.0
+- pkg:cargo/rangebar-cli@6.0.0
