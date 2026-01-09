@@ -31,6 +31,7 @@
 - pkg:cargo/xml5ever@0.35.0
 - pkg:cargo/xml5ever@0.36.0
 - pkg:cargo/xml5ever@0.36.1
+- pkg:cargo/xml5ever@0.37.0
 - pkg:cargo/xml5ever@0.4.0
 - pkg:cargo/xml5ever@0.4.1
 - pkg:cargo/xml5ever@0.4.2
