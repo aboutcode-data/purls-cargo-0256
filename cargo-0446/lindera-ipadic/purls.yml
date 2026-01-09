@@ -97,3 +97,4 @@
 - pkg:cargo/lindera-ipadic@1.4.2
 - pkg:cargo/lindera-ipadic@1.5.0
 - pkg:cargo/lindera-ipadic@1.5.1
+- pkg:cargo/lindera-ipadic@2.0.0

@@ -23,6 +23,7 @@
 - pkg:cargo/chia-consensus@0.33.0
 - pkg:cargo/chia-consensus@0.34.0
 - pkg:cargo/chia-consensus@0.35.0
+- pkg:cargo/chia-consensus@0.35.1
 - pkg:cargo/chia-consensus@0.36.0
 - pkg:cargo/chia-consensus@0.6.0
 - pkg:cargo/chia-consensus@0.6.1
