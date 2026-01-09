@@ -2,3 +2,4 @@
 - pkg:cargo/qail-redis@0.14.14
 - pkg:cargo/qail-redis@0.14.15
 - pkg:cargo/qail-redis@0.14.16
+- pkg:cargo/qail-redis@0.14.18
