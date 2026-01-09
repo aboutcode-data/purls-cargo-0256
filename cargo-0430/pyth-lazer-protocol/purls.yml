@@ -34,6 +34,7 @@
 - pkg:cargo/pyth-lazer-protocol@0.25.0
 - pkg:cargo/pyth-lazer-protocol@0.26.0
 - pkg:cargo/pyth-lazer-protocol@0.27.0
+- pkg:cargo/pyth-lazer-protocol@0.28.0
 - pkg:cargo/pyth-lazer-protocol@0.3.0
 - pkg:cargo/pyth-lazer-protocol@0.3.1
 - pkg:cargo/pyth-lazer-protocol@0.3.2
