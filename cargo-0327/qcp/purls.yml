@@ -16,3 +16,4 @@
 - pkg:cargo/qcp@0.5.2
 - pkg:cargo/qcp@0.6.0
 - pkg:cargo/qcp@0.7.0
+- pkg:cargo/qcp@0.8.0
