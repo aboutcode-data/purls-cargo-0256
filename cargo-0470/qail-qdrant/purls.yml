@@ -5,3 +5,4 @@
 - pkg:cargo/qail-qdrant@0.14.15
 - pkg:cargo/qail-qdrant@0.14.16
 - pkg:cargo/qail-qdrant@0.14.18
+- pkg:cargo/qail-qdrant@0.14.19

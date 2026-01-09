@@ -1,1 +1,2 @@
 - pkg:cargo/axum-jetpack@0.8.0
+- pkg:cargo/axum-jetpack@0.8.1
