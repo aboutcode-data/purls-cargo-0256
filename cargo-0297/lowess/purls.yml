@@ -9,3 +9,6 @@
 - pkg:cargo/lowess@0.5.3
 - pkg:cargo/lowess@0.6.0
 - pkg:cargo/lowess@0.7.0
+- pkg:cargo/lowess@0.99.5
+- pkg:cargo/lowess@0.99.6
+- pkg:cargo/lowess@0.99.7
