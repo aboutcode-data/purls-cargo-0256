@@ -61,3 +61,4 @@
 - pkg:cargo/pkarr@3.9.1
 - pkg:cargo/pkarr@4.0.0
 - pkg:cargo/pkarr@5.0.0
+- pkg:cargo/pkarr@5.0.2
