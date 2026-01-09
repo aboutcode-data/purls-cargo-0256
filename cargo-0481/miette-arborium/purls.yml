@@ -19,3 +19,4 @@
 - pkg:cargo/miette-arborium@2.4.7
 - pkg:cargo/miette-arborium@2.5.0
 - pkg:cargo/miette-arborium@2.6.0
+- pkg:cargo/miette-arborium@2.6.1
