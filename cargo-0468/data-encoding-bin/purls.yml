@@ -12,3 +12,4 @@
 - pkg:cargo/data-encoding-bin@0.3.5
 - pkg:cargo/data-encoding-bin@0.3.6
 - pkg:cargo/data-encoding-bin@0.3.7
+- pkg:cargo/data-encoding-bin@0.3.8
