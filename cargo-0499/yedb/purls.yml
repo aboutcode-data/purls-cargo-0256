@@ -48,3 +48,5 @@
 - pkg:cargo/yedb@0.4.6
 - pkg:cargo/yedb@0.4.7
 - pkg:cargo/yedb@0.4.9
+- pkg:cargo/yedb@0.5.0
+- pkg:cargo/yedb@0.5.1

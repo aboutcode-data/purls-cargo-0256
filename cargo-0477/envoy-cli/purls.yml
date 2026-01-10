@@ -7,3 +7,4 @@
 - pkg:cargo/envoy-cli@0.1.5
 - pkg:cargo/envoy-cli@0.1.6
 - pkg:cargo/envoy-cli@0.1.6-hotfix
+- pkg:cargo/envoy-cli@0.1.7
