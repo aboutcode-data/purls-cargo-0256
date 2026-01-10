@@ -22,3 +22,5 @@
 - pkg:cargo/revolt-result@0.8.4
 - pkg:cargo/revolt-result@0.8.7
 - pkg:cargo/revolt-result@0.8.8
+- pkg:cargo/revolt-result@0.9.3
+- pkg:cargo/revolt-result@0.9.4
