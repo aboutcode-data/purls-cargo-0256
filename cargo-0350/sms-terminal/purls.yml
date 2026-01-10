@@ -5,3 +5,4 @@
 - pkg:cargo/sms-terminal@1.0.3
 - pkg:cargo/sms-terminal@1.1.2
 - pkg:cargo/sms-terminal@1.1.3
+- pkg:cargo/sms-terminal@2.1.0
