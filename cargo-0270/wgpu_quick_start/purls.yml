@@ -4,3 +4,4 @@
 - pkg:cargo/wgpu_quick_start@0.28.3
 - pkg:cargo/wgpu_quick_start@0.28.4
 - pkg:cargo/wgpu_quick_start@0.28.5
+- pkg:cargo/wgpu_quick_start@0.28.6
