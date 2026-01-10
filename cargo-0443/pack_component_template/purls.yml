@@ -41,6 +41,7 @@
 - pkg:cargo/pack_component_template@0.4.41
 - pkg:cargo/pack_component_template@0.4.42
 - pkg:cargo/pack_component_template@0.4.43
+- pkg:cargo/pack_component_template@0.4.45
 - pkg:cargo/pack_component_template@0.4.5
 - pkg:cargo/pack_component_template@0.4.6
 - pkg:cargo/pack_component_template@0.4.7
