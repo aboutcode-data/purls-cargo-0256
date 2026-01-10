@@ -34,6 +34,7 @@
 - pkg:cargo/stream-download@0.22.7
 - pkg:cargo/stream-download@0.22.8
 - pkg:cargo/stream-download@0.22.9
+- pkg:cargo/stream-download@0.23.0
 - pkg:cargo/stream-download@0.3.0
 - pkg:cargo/stream-download@0.4.0
 - pkg:cargo/stream-download@0.4.1
