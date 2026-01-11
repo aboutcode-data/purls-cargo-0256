@@ -11,3 +11,4 @@
 - pkg:cargo/tauri-plugin-velesdb@0.8.9
 - pkg:cargo/tauri-plugin-velesdb@1.0.0
 - pkg:cargo/tauri-plugin-velesdb@1.0.1
+- pkg:cargo/tauri-plugin-velesdb@1.1.0
