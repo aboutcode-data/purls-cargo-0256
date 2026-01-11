@@ -8,3 +8,4 @@
 - pkg:cargo/mimalloc-safe@0.1.53
 - pkg:cargo/mimalloc-safe@0.1.54
 - pkg:cargo/mimalloc-safe@0.1.55
+- pkg:cargo/mimalloc-safe@0.1.56
