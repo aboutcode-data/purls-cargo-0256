@@ -11,3 +11,4 @@
 - pkg:cargo/cloudflare-r2-rs@0.6.6
 - pkg:cargo/cloudflare-r2-rs@0.6.7
 - pkg:cargo/cloudflare-r2-rs@0.6.8
+- pkg:cargo/cloudflare-r2-rs@0.7.0

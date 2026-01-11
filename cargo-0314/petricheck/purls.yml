@@ -1,3 +1,4 @@
 - pkg:cargo/petricheck@0.0.1
 - pkg:cargo/petricheck@0.1.0
 - pkg:cargo/petricheck@0.2.0
+- pkg:cargo/petricheck@0.2.1
