@@ -8,3 +8,4 @@
 - pkg:cargo/rizlib@0.4.7
 - pkg:cargo/rizlib@0.4.8
 - pkg:cargo/rizlib@1.0.0
+- pkg:cargo/rizlib@1.1.0
