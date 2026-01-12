@@ -21,3 +21,4 @@
 - pkg:cargo/datafusion-physical-expr-common@50.2.0
 - pkg:cargo/datafusion-physical-expr-common@50.3.0
 - pkg:cargo/datafusion-physical-expr-common@51.0.0
+- pkg:cargo/datafusion-physical-expr-common@52.0.0

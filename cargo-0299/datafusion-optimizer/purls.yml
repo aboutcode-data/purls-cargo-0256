@@ -52,5 +52,6 @@
 - pkg:cargo/datafusion-optimizer@50.2.0
 - pkg:cargo/datafusion-optimizer@50.3.0
 - pkg:cargo/datafusion-optimizer@51.0.0
+- pkg:cargo/datafusion-optimizer@52.0.0
 - pkg:cargo/datafusion-optimizer@9.0.0
 - pkg:cargo/datafusion-optimizer@9.0.0-placeholder
