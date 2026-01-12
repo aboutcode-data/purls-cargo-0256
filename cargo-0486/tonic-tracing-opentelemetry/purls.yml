@@ -26,3 +26,4 @@
 - pkg:cargo/tonic-tracing-opentelemetry@0.29.1
 - pkg:cargo/tonic-tracing-opentelemetry@0.30.0
 - pkg:cargo/tonic-tracing-opentelemetry@0.32.0
+- pkg:cargo/tonic-tracing-opentelemetry@0.32.1
