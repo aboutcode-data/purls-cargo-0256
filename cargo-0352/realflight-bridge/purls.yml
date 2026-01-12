@@ -11,3 +11,4 @@
 - pkg:cargo/realflight-bridge@0.4.1
 - pkg:cargo/realflight-bridge@0.4.2
 - pkg:cargo/realflight-bridge@0.5.0
+- pkg:cargo/realflight-bridge@1.0.0
