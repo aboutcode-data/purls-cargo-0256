@@ -33,3 +33,5 @@
 - pkg:cargo/fqdn@0.4.6
 - pkg:cargo/fqdn@0.4.7
 - pkg:cargo/fqdn@0.5.0
+- pkg:cargo/fqdn@0.5.1
+- pkg:cargo/fqdn@0.5.2
