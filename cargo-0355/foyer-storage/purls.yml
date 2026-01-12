@@ -38,6 +38,7 @@
 - pkg:cargo/foyer-storage@0.21.1
 - pkg:cargo/foyer-storage@0.22.1
 - pkg:cargo/foyer-storage@0.22.1-rc1
+- pkg:cargo/foyer-storage@0.22.2
 - pkg:cargo/foyer-storage@0.3.0
 - pkg:cargo/foyer-storage@0.4.0
 - pkg:cargo/foyer-storage@0.5.0
