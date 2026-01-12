@@ -9,3 +9,4 @@
 - pkg:cargo/pdf_oxide@0.2.4
 - pkg:cargo/pdf_oxide@0.2.5
 - pkg:cargo/pdf_oxide@0.2.6
+- pkg:cargo/pdf_oxide@0.3.0
