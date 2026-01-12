@@ -8,3 +8,4 @@
 - pkg:cargo/tower-http-tracing@0.2.0
 - pkg:cargo/tower-http-tracing@0.3.0
 - pkg:cargo/tower-http-tracing@0.3.1
+- pkg:cargo/tower-http-tracing@0.3.2
