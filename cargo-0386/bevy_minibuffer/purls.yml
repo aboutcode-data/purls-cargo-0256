@@ -3,3 +3,4 @@
 - pkg:cargo/bevy_minibuffer@0.3.0
 - pkg:cargo/bevy_minibuffer@0.4.0
 - pkg:cargo/bevy_minibuffer@0.4.1
+- pkg:cargo/bevy_minibuffer@0.5.0
