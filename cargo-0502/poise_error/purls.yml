@@ -5,3 +5,5 @@
 - pkg:cargo/poise_error@1.4.0
 - pkg:cargo/poise_error@1.5.0
 - pkg:cargo/poise_error@1.6.0
+- pkg:cargo/poise_error@1.7.0
+- pkg:cargo/poise_error@1.7.1
