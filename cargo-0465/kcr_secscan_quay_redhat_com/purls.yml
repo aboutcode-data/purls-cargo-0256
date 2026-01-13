@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_secscan_quay_redhat_com@2.20250916.22401
 - pkg:cargo/kcr_secscan_quay_redhat_com@2.20250923.22417
 - pkg:cargo/kcr_secscan_quay_redhat_com@2.20250930.22441
+- pkg:cargo/kcr_secscan_quay_redhat_com@3.20260113.30033
