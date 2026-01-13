@@ -31,3 +31,4 @@
 - pkg:cargo/hawkeye-fmt@6.2.0
 - pkg:cargo/hawkeye-fmt@6.3.0
 - pkg:cargo/hawkeye-fmt@6.4.0
+- pkg:cargo/hawkeye-fmt@6.4.1
