@@ -41,6 +41,7 @@
 - pkg:cargo/supabase-plus@0.8.1
 - pkg:cargo/supabase-plus@0.8.10
 - pkg:cargo/supabase-plus@0.8.11
+- pkg:cargo/supabase-plus@0.8.12
 - pkg:cargo/supabase-plus@0.8.3
 - pkg:cargo/supabase-plus@0.8.6
 - pkg:cargo/supabase-plus@0.8.9
