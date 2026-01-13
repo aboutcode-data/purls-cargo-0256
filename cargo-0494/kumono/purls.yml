@@ -53,3 +53,5 @@
 - pkg:cargo/kumono@0.58.0
 - pkg:cargo/kumono@0.58.1
 - pkg:cargo/kumono@0.58.2
+- pkg:cargo/kumono@0.59.0
+- pkg:cargo/kumono@0.60.0
