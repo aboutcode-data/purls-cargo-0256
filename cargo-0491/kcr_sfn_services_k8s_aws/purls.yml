@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_sfn_services_k8s_aws@2.20250916.172836
 - pkg:cargo/kcr_sfn_services_k8s_aws@2.20250923.172638
 - pkg:cargo/kcr_sfn_services_k8s_aws@2.20250930.172855
+- pkg:cargo/kcr_sfn_services_k8s_aws@3.20260113.174229

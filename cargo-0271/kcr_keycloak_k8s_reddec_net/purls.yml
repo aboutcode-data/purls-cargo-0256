@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_keycloak_k8s_reddec_net@2.20250916.163424
 - pkg:cargo/kcr_keycloak_k8s_reddec_net@2.20250923.163506
 - pkg:cargo/kcr_keycloak_k8s_reddec_net@2.20250930.163451
+- pkg:cargo/kcr_keycloak_k8s_reddec_net@3.20260113.164816
