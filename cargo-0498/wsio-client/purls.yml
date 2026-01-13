@@ -26,3 +26,4 @@
 - pkg:cargo/wsio-client@0.7.7
 - pkg:cargo/wsio-client@0.7.8
 - pkg:cargo/wsio-client@0.7.9
+- pkg:cargo/wsio-client@0.8.0
