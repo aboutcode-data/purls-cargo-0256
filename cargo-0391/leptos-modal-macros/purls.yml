@@ -1,2 +1,5 @@
 - pkg:cargo/leptos-modal-macros@0.0.2
 - pkg:cargo/leptos-modal-macros@0.0.3
+- pkg:cargo/leptos-modal-macros@0.2.0
+- pkg:cargo/leptos-modal-macros@0.3.0
+- pkg:cargo/leptos-modal-macros@0.3.1
