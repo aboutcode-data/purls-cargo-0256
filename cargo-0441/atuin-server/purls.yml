@@ -24,6 +24,7 @@
 - pkg:cargo/atuin-server@18.0.2
 - pkg:cargo/atuin-server@18.1.0
 - pkg:cargo/atuin-server@18.10.0
+- pkg:cargo/atuin-server@18.11.0
 - pkg:cargo/atuin-server@18.2.0
 - pkg:cargo/atuin-server@18.3.0
 - pkg:cargo/atuin-server@18.4.0

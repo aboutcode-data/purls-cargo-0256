@@ -1,2 +1,3 @@
 - pkg:cargo/atuin-server-sqlite@18.10.0
+- pkg:cargo/atuin-server-sqlite@18.11.0
 - pkg:cargo/atuin-server-sqlite@18.8.0
