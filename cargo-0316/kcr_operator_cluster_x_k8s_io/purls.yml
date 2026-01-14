@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_operator_cluster_x_k8s_io@2.20250923.215647
 - pkg:cargo/kcr_operator_cluster_x_k8s_io@2.20250930.215657
 - pkg:cargo/kcr_operator_cluster_x_k8s_io@2.20251007.215655
+- pkg:cargo/kcr_operator_cluster_x_k8s_io@3.20260113.215708

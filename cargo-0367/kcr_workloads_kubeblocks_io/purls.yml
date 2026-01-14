@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_workloads_kubeblocks_io@2.20250923.194300
 - pkg:cargo/kcr_workloads_kubeblocks_io@2.20250930.194311
 - pkg:cargo/kcr_workloads_kubeblocks_io@2.20260106.194621
+- pkg:cargo/kcr_workloads_kubeblocks_io@3.20260113.194332
