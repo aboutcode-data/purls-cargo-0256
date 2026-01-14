@@ -6,3 +6,5 @@
 - pkg:cargo/bt_string_utils@0.2.4
 - pkg:cargo/bt_string_utils@0.2.5
 - pkg:cargo/bt_string_utils@0.2.6
+- pkg:cargo/bt_string_utils@0.2.7
+- pkg:cargo/bt_string_utils@0.2.8
