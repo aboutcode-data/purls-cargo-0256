@@ -1,1 +1,2 @@
 - pkg:cargo/ash-wasm@1.0.0
+- pkg:cargo/ash-wasm@2.3.0
