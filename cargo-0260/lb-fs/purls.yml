@@ -9,3 +9,4 @@
 - pkg:cargo/lb-fs@25.12.1
 - pkg:cargo/lb-fs@25.12.15
 - pkg:cargo/lb-fs@25.9.17
+- pkg:cargo/lb-fs@26.1.13
