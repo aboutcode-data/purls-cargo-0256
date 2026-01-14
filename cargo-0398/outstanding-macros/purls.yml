@@ -2,3 +2,4 @@
 - pkg:cargo/outstanding-macros@0.13.0
 - pkg:cargo/outstanding-macros@0.14.0
 - pkg:cargo/outstanding-macros@0.15.0
+- pkg:cargo/outstanding-macros@1.0.0
