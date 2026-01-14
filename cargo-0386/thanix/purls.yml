@@ -26,3 +26,4 @@
 - pkg:cargo/thanix@0.1.0-beta.9
 - pkg:cargo/thanix@1.0.0
 - pkg:cargo/thanix@1.0.1
+- pkg:cargo/thanix@1.0.2
