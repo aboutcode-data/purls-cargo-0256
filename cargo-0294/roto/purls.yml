@@ -1,5 +1,6 @@
 - pkg:cargo/roto@0.1.0
 - pkg:cargo/roto@0.1.0-rc0
+- pkg:cargo/roto@0.10.0
 - pkg:cargo/roto@0.2.0
 - pkg:cargo/roto@0.2.0-rc0
 - pkg:cargo/roto@0.3.0
