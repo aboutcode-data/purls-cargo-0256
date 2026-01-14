@@ -14,3 +14,4 @@
 - pkg:cargo/kcr_jobset_x_k8s_io@2.20251001.54643
 - pkg:cargo/kcr_jobset_x_k8s_io@2.20251015.54622
 - pkg:cargo/kcr_jobset_x_k8s_io@2.20251224.55217
+- pkg:cargo/kcr_jobset_x_k8s_io@3.20260114.55316

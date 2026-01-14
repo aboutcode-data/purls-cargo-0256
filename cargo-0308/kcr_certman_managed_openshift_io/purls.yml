@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_certman_managed_openshift_io@2.20250917.23538
 - pkg:cargo/kcr_certman_managed_openshift_io@2.20250924.23842
 - pkg:cargo/kcr_certman_managed_openshift_io@2.20251001.25002
+- pkg:cargo/kcr_certman_managed_openshift_io@3.20260114.31541
