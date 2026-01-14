@@ -17,3 +17,5 @@
 - pkg:cargo/release-rule-verification@1.1.99999999-dev.20251114
 - pkg:cargo/release-rule-verification@1.2.1-alpha.8
 - pkg:cargo/release-rule-verification@1.2.1-beta.8
+- pkg:cargo/release-rule-verification@2.1.0
+- pkg:cargo/release-rule-verification@2.2.0
