@@ -3,6 +3,7 @@
 - pkg:cargo/formatorbit-core@0.10.3
 - pkg:cargo/formatorbit-core@0.10.4
 - pkg:cargo/formatorbit-core@0.10.5
+- pkg:cargo/formatorbit-core@0.10.6
 - pkg:cargo/formatorbit-core@0.2.0
 - pkg:cargo/formatorbit-core@0.2.1
 - pkg:cargo/formatorbit-core@0.9.0
