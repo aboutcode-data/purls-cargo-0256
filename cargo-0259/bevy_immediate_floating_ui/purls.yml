@@ -1,1 +1,2 @@
 - pkg:cargo/bevy_immediate_floating_ui@0.4.0
+- pkg:cargo/bevy_immediate_floating_ui@0.5.0
