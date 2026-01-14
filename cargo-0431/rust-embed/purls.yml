@@ -53,6 +53,7 @@
 - pkg:cargo/rust-embed@8.0.0
 - pkg:cargo/rust-embed@8.1.0
 - pkg:cargo/rust-embed@8.10.0
+- pkg:cargo/rust-embed@8.11.0
 - pkg:cargo/rust-embed@8.2.0
 - pkg:cargo/rust-embed@8.3.0
 - pkg:cargo/rust-embed@8.4.0
