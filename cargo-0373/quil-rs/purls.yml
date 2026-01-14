@@ -155,6 +155,7 @@
 - pkg:cargo/quil-rs@0.33.0-rc.2
 - pkg:cargo/quil-rs@0.33.0-rc.3
 - pkg:cargo/quil-rs@0.33.0-rc.4
+- pkg:cargo/quil-rs@0.34.0
 - pkg:cargo/quil-rs@0.8.0
 - pkg:cargo/quil-rs@0.8.1
 - pkg:cargo/quil-rs@0.8.2

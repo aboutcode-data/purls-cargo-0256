@@ -3,3 +3,7 @@
 - pkg:cargo/sledgehammer_bindgen_macro@0.5.1
 - pkg:cargo/sledgehammer_bindgen_macro@0.6.0
 - pkg:cargo/sledgehammer_bindgen_macro@0.6.1
+- pkg:cargo/sledgehammer_bindgen_macro@0.6.2
+- pkg:cargo/sledgehammer_bindgen_macro@0.6.3
+- pkg:cargo/sledgehammer_bindgen_macro@0.6.4
+- pkg:cargo/sledgehammer_bindgen_macro@0.6.5

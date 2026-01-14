@@ -16,3 +16,4 @@
 - pkg:cargo/slog-scope@4.2.0
 - pkg:cargo/slog-scope@4.3.0
 - pkg:cargo/slog-scope@4.4.0
+- pkg:cargo/slog-scope@4.4.1
