@@ -67,6 +67,7 @@
 - pkg:cargo/stak@0.12.6
 - pkg:cargo/stak@0.12.7
 - pkg:cargo/stak@0.12.8
+- pkg:cargo/stak@0.12.9
 - pkg:cargo/stak@0.2.1
 - pkg:cargo/stak@0.2.10
 - pkg:cargo/stak@0.2.11
