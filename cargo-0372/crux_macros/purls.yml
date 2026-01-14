@@ -31,3 +31,4 @@
 - pkg:cargo/crux_macros@0.7.0-rc3
 - pkg:cargo/crux_macros@0.7.0-rc4
 - pkg:cargo/crux_macros@0.8.0-rc1
+- pkg:cargo/crux_macros@0.8.0-rc2
