@@ -1,4 +1,5 @@
 - pkg:cargo/tinycbor-derive@0.1.0
+- pkg:cargo/tinycbor-derive@0.10.0
 - pkg:cargo/tinycbor-derive@0.2.0
 - pkg:cargo/tinycbor-derive@0.2.1
 - pkg:cargo/tinycbor-derive@0.2.2
@@ -12,3 +13,4 @@
 - pkg:cargo/tinycbor-derive@0.7.0
 - pkg:cargo/tinycbor-derive@0.7.1
 - pkg:cargo/tinycbor-derive@0.8.0
+- pkg:cargo/tinycbor-derive@0.9.0
