@@ -12,6 +12,7 @@
 - pkg:cargo/bevy_defer@0.14.0
 - pkg:cargo/bevy_defer@0.15.0
 - pkg:cargo/bevy_defer@0.15.1
+- pkg:cargo/bevy_defer@0.17.0
 - pkg:cargo/bevy_defer@0.2.0
 - pkg:cargo/bevy_defer@0.3.0
 - pkg:cargo/bevy_defer@0.3.1

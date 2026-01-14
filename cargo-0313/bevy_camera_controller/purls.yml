@@ -1,3 +1,4 @@
 - pkg:cargo/bevy_camera_controller@0.0.1
+- pkg:cargo/bevy_camera_controller@0.18.0
 - pkg:cargo/bevy_camera_controller@0.18.0-rc.1
 - pkg:cargo/bevy_camera_controller@0.18.0-rc.2
