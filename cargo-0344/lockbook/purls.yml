@@ -9,3 +9,4 @@
 - pkg:cargo/lockbook@25.12.1
 - pkg:cargo/lockbook@25.12.15
 - pkg:cargo/lockbook@25.9.17
+- pkg:cargo/lockbook@26.1.13
