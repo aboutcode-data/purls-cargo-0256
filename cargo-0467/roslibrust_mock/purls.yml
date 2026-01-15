@@ -5,3 +5,4 @@
 - pkg:cargo/roslibrust_mock@0.16.0
 - pkg:cargo/roslibrust_mock@0.17.0
 - pkg:cargo/roslibrust_mock@0.18.0
+- pkg:cargo/roslibrust_mock@0.19.0
