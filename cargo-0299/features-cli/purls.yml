@@ -1,6 +1,7 @@
 - pkg:cargo/features-cli@0.1.0
 - pkg:cargo/features-cli@0.10.0
 - pkg:cargo/features-cli@0.10.1
+- pkg:cargo/features-cli@0.10.10
 - pkg:cargo/features-cli@0.10.2
 - pkg:cargo/features-cli@0.10.3
 - pkg:cargo/features-cli@0.10.4
