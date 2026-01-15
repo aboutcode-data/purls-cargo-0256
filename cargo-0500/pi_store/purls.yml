@@ -30,3 +30,4 @@
 - pkg:cargo/pi_store@0.7.1
 - pkg:cargo/pi_store@0.8.0
 - pkg:cargo/pi_store@0.8.1
+- pkg:cargo/pi_store@0.9.0
