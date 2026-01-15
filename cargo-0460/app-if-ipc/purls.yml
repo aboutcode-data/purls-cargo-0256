@@ -1,1 +1,2 @@
 - pkg:cargo/app-if-ipc@0.10.0
+- pkg:cargo/app-if-ipc@0.10.1

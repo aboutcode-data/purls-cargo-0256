@@ -16,6 +16,7 @@
 - pkg:cargo/revm-context@11.1.0
 - pkg:cargo/revm-context@12.0.0
 - pkg:cargo/revm-context@12.1.0
+- pkg:cargo/revm-context@13.0.0
 - pkg:cargo/revm-context@2.0.0
 - pkg:cargo/revm-context@3.0.0
 - pkg:cargo/revm-context@3.0.1

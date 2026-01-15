@@ -56,6 +56,7 @@
 - pkg:cargo/revm-interpreter@30.0.0
 - pkg:cargo/revm-interpreter@31.0.0
 - pkg:cargo/revm-interpreter@31.1.0
+- pkg:cargo/revm-interpreter@32.0.0
 - pkg:cargo/revm-interpreter@4.0.0
 - pkg:cargo/revm-interpreter@5.0.0
 - pkg:cargo/revm-interpreter@6.0.0

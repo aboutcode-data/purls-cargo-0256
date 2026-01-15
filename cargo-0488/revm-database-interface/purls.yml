@@ -23,3 +23,4 @@
 - pkg:cargo/revm-database-interface@8.0.3
 - pkg:cargo/revm-database-interface@8.0.4
 - pkg:cargo/revm-database-interface@8.0.5
+- pkg:cargo/revm-database-interface@9.0.0
