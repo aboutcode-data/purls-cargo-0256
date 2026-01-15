@@ -1,1 +1,2 @@
 - pkg:cargo/iceoryx2-loggers@0.8.0
+- pkg:cargo/iceoryx2-loggers@0.8.1
