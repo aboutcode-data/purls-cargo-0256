@@ -5,3 +5,4 @@
 - pkg:cargo/bevy_2d_screen_space_lightmaps@0.16.0
 - pkg:cargo/bevy_2d_screen_space_lightmaps@0.17.0
 - pkg:cargo/bevy_2d_screen_space_lightmaps@0.17.1
+- pkg:cargo/bevy_2d_screen_space_lightmaps@0.18.0
