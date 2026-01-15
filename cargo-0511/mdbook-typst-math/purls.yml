@@ -2,3 +2,4 @@
 - pkg:cargo/mdbook-typst-math@0.1.1
 - pkg:cargo/mdbook-typst-math@0.2.0
 - pkg:cargo/mdbook-typst-math@0.2.1
+- pkg:cargo/mdbook-typst-math@0.3.0
