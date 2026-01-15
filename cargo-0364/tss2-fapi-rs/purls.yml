@@ -30,3 +30,4 @@
 - pkg:cargo/tss2-fapi-rs@0.6.0
 - pkg:cargo/tss2-fapi-rs@0.6.1
 - pkg:cargo/tss2-fapi-rs@0.6.2
+- pkg:cargo/tss2-fapi-rs@0.7.0
