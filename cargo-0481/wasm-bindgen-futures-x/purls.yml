@@ -1,1 +1,2 @@
 - pkg:cargo/wasm-bindgen-futures-x@0.4.56-alpha.0
+- pkg:cargo/wasm-bindgen-futures-x@0.4.56-alpha.1
