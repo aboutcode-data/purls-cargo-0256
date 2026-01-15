@@ -1,5 +1,6 @@
 - pkg:cargo/approxim@0.6.0
 - pkg:cargo/approxim@0.6.1
+- pkg:cargo/approxim@0.6.10
 - pkg:cargo/approxim@0.6.2
 - pkg:cargo/approxim@0.6.3
 - pkg:cargo/approxim@0.6.4
