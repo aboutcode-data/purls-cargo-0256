@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_executor_testkube_io@2.20250918.150134
 - pkg:cargo/kcr_executor_testkube_io@2.20250925.150112
 - pkg:cargo/kcr_executor_testkube_io@2.20251002.150138
+- pkg:cargo/kcr_executor_testkube_io@3.20260115.151222
