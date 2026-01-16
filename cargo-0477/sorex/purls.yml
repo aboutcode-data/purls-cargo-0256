@@ -1,2 +1,4 @@
 - pkg:cargo/sorex@0.2.4
 - pkg:cargo/sorex@0.2.5
+- pkg:cargo/sorex@1.0.0
+- pkg:cargo/sorex@1.0.1
