@@ -4,3 +4,4 @@
 - pkg:cargo/generic-array-struct@0.3.1
 - pkg:cargo/generic-array-struct@0.3.1-bc
 - pkg:cargo/generic-array-struct@0.3.2
+- pkg:cargo/generic-array-struct@0.3.3
