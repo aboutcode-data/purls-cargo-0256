@@ -3,3 +3,4 @@
 - pkg:cargo/terraphim_persistence@1.4.10
 - pkg:cargo/terraphim_persistence@1.4.7
 - pkg:cargo/terraphim_persistence@1.4.8
+- pkg:cargo/terraphim_persistence@1.5.0
