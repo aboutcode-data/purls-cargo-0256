@@ -73,3 +73,4 @@
 - pkg:cargo/modelrelay@5.1.0
 - pkg:cargo/modelrelay@5.12.0
 - pkg:cargo/modelrelay@5.4.0
+- pkg:cargo/modelrelay@6.0.0
