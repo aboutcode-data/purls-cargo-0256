@@ -33,4 +33,5 @@
 - pkg:cargo/gsm-provider-registry@0.4.31
 - pkg:cargo/gsm-provider-registry@0.4.32
 - pkg:cargo/gsm-provider-registry@0.4.33
+- pkg:cargo/gsm-provider-registry@0.4.34
 - pkg:cargo/gsm-provider-registry@0.4.5
