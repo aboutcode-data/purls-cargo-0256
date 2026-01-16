@@ -21,3 +21,4 @@
 - pkg:cargo/safer_ffi-proc_macros@0.1.9-rc2
 - pkg:cargo/safer_ffi-proc_macros@0.1.9-rc3
 - pkg:cargo/safer_ffi-proc_macros@0.2.0-alpha.0
+- pkg:cargo/safer_ffi-proc_macros@0.2.0-rc1
