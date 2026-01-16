@@ -6,3 +6,4 @@
 - pkg:cargo/swc_experimental_ast_macros@0.3.4
 - pkg:cargo/swc_experimental_ast_macros@0.3.5
 - pkg:cargo/swc_experimental_ast_macros@0.4.0
+- pkg:cargo/swc_experimental_ast_macros@0.4.1
