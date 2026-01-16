@@ -13,3 +13,4 @@
 - pkg:cargo/kcr_notification_toolkit_fluxcd_io@2.20250919.111052
 - pkg:cargo/kcr_notification_toolkit_fluxcd_io@2.20250926.111109
 - pkg:cargo/kcr_notification_toolkit_fluxcd_io@2.20251003.111121
+- pkg:cargo/kcr_notification_toolkit_fluxcd_io@3.20260116.111433

@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_security_istio_io@2.20250919.103559
 - pkg:cargo/kcr_security_istio_io@2.20250926.103634
 - pkg:cargo/kcr_security_istio_io@2.20251003.103435
+- pkg:cargo/kcr_security_istio_io@3.20260116.104422
