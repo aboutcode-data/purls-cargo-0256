@@ -8,3 +8,5 @@
 - pkg:cargo/assay-metrics@1.7.0
 - pkg:cargo/assay-metrics@1.8.0
 - pkg:cargo/assay-metrics@1.9.0
+- pkg:cargo/assay-metrics@2.1.2
+- pkg:cargo/assay-metrics@2.1.3

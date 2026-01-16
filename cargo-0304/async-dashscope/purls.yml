@@ -2,6 +2,7 @@
 - pkg:cargo/async-dashscope@0.10.0
 - pkg:cargo/async-dashscope@0.10.1
 - pkg:cargo/async-dashscope@0.11.1
+- pkg:cargo/async-dashscope@0.12.0
 - pkg:cargo/async-dashscope@0.2.0
 - pkg:cargo/async-dashscope@0.2.1
 - pkg:cargo/async-dashscope@0.2.2
