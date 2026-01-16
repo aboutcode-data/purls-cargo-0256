@@ -116,6 +116,7 @@
 - pkg:cargo/mysql@25.0.1
 - pkg:cargo/mysql@26.0.0
 - pkg:cargo/mysql@26.0.1
+- pkg:cargo/mysql@27.0.0
 - pkg:cargo/mysql@3.0.0
 - pkg:cargo/mysql@4.0.0
 - pkg:cargo/mysql@5.0.0
