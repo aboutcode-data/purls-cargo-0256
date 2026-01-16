@@ -57,6 +57,8 @@
 - pkg:cargo/sync-ls@0.13.37-rc1
 - pkg:cargo/sync-ls@0.13.39
 - pkg:cargo/sync-ls@0.13.39-rc1
+- pkg:cargo/sync-ls@0.13.41
+- pkg:cargo/sync-ls@0.13.41-rc1
 - pkg:cargo/sync-ls@0.14.0
 - pkg:cargo/sync-ls@0.14.0-rc1
 - pkg:cargo/sync-ls@0.14.0-rc2
