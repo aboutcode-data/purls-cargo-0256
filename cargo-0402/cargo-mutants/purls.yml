@@ -63,3 +63,6 @@
 - pkg:cargo/cargo-mutants@25.3.0
 - pkg:cargo/cargo-mutants@25.3.1
 - pkg:cargo/cargo-mutants@26.0.0
+- pkg:cargo/cargo-mutants@26.1.0
+- pkg:cargo/cargo-mutants@26.1.1
+- pkg:cargo/cargo-mutants@26.1.2
