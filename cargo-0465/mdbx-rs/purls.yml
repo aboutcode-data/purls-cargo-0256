@@ -13,3 +13,4 @@
 - pkg:cargo/mdbx-rs@0.2.72
 - pkg:cargo/mdbx-rs@0.3.0
 - pkg:cargo/mdbx-rs@0.4.0
+- pkg:cargo/mdbx-rs@0.4.2
