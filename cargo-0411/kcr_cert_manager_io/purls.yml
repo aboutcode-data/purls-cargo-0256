@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_cert_manager_io@1.20250823.142237
 - pkg:cargo/kcr_cert_manager_io@2.20250913.141919
 - pkg:cargo/kcr_cert_manager_io@2.20250927.142100
+- pkg:cargo/kcr_cert_manager_io@3.20260117.142700
