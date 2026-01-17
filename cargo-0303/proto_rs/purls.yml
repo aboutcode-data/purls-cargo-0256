@@ -33,3 +33,4 @@
 - pkg:cargo/proto_rs@0.7.4
 - pkg:cargo/proto_rs@0.7.5
 - pkg:cargo/proto_rs@0.7.6
+- pkg:cargo/proto_rs@0.7.7
