@@ -6,6 +6,7 @@
 - pkg:cargo/bindex@0.0.14
 - pkg:cargo/bindex@0.0.15
 - pkg:cargo/bindex@0.0.16
+- pkg:cargo/bindex@0.0.17
 - pkg:cargo/bindex@0.0.2
 - pkg:cargo/bindex@0.0.3
 - pkg:cargo/bindex@0.0.4
