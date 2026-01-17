@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_autoscaling_k8s_io@2.20250927.82254
 - pkg:cargo/kcr_autoscaling_k8s_io@2.20251025.82400
 - pkg:cargo/kcr_autoscaling_k8s_io@2.20251213.82705
+- pkg:cargo/kcr_autoscaling_k8s_io@3.20260117.82808
