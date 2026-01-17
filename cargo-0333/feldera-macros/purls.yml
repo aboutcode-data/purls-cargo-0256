@@ -1,1 +1,2 @@
 - pkg:cargo/feldera-macros@0.223.0
+- pkg:cargo/feldera-macros@0.224.0
