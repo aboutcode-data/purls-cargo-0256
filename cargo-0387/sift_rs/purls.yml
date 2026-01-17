@@ -23,3 +23,4 @@
 - pkg:cargo/sift_rs@0.7.0-rc.8
 - pkg:cargo/sift_rs@0.7.0-rc.9
 - pkg:cargo/sift_rs@0.7.1
+- pkg:cargo/sift_rs@0.7.2
