@@ -28,3 +28,4 @@
 - pkg:cargo/libheif-sys@4.0.1%2B1.19.7
 - pkg:cargo/libheif-sys@4.1.0%2B1.19.8
 - pkg:cargo/libheif-sys@5.0.0%2B1.20.2
+- pkg:cargo/libheif-sys@5.1.0%2B1.21.1
