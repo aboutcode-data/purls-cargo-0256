@@ -31,6 +31,7 @@
 - pkg:cargo/gsm-translator@0.4.3
 - pkg:cargo/gsm-translator@0.4.31
 - pkg:cargo/gsm-translator@0.4.34
+- pkg:cargo/gsm-translator@0.4.35
 - pkg:cargo/gsm-translator@0.4.5
 - pkg:cargo/gsm-translator@0.4.7
 - pkg:cargo/gsm-translator@0.4.8
