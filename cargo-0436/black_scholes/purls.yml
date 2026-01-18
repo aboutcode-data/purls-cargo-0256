@@ -5,6 +5,7 @@
 - pkg:cargo/black_scholes@0.10.1
 - pkg:cargo/black_scholes@0.10.2
 - pkg:cargo/black_scholes@0.11.0
+- pkg:cargo/black_scholes@0.11.1
 - pkg:cargo/black_scholes@0.2.2
 - pkg:cargo/black_scholes@0.2.3
 - pkg:cargo/black_scholes@0.2.4
