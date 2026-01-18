@@ -13,3 +13,4 @@
 - pkg:cargo/brk_rolldown_plugin_data_uri@0.5.1
 - pkg:cargo/brk_rolldown_plugin_data_uri@0.6.0
 - pkg:cargo/brk_rolldown_plugin_data_uri@0.7.0
+- pkg:cargo/brk_rolldown_plugin_data_uri@0.8.0
