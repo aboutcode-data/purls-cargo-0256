@@ -6,3 +6,4 @@
 - pkg:cargo/kcr_snapshot_storage_k8s_io@1.20250823.185149
 - pkg:cargo/kcr_snapshot_storage_k8s_io@2.20250913.184943
 - pkg:cargo/kcr_snapshot_storage_k8s_io@2.20250927.185011
+- pkg:cargo/kcr_snapshot_storage_k8s_io@3.20260117.185533
