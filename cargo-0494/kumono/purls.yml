@@ -64,3 +64,4 @@
 - pkg:cargo/kumono@0.62.0
 - pkg:cargo/kumono@0.62.1
 - pkg:cargo/kumono@0.62.2
+- pkg:cargo/kumono@0.63.0
