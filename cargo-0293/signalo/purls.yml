@@ -9,3 +9,5 @@
 - pkg:cargo/signalo@0.4.0
 - pkg:cargo/signalo@0.5.0
 - pkg:cargo/signalo@0.6.0
+- pkg:cargo/signalo@0.6.1
+- pkg:cargo/signalo@0.7.0
