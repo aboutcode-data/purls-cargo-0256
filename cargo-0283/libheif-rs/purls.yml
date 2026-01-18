@@ -40,3 +40,4 @@
 - pkg:cargo/libheif-rs@2.5.1
 - pkg:cargo/libheif-rs@2.5.2
 - pkg:cargo/libheif-rs@2.6.0
+- pkg:cargo/libheif-rs@2.6.1
