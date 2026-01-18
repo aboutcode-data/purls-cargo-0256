@@ -5,3 +5,4 @@
 - pkg:cargo/egui_graph@0.7.0
 - pkg:cargo/egui_graph@0.7.1
 - pkg:cargo/egui_graph@0.8.0
+- pkg:cargo/egui_graph@0.9.0

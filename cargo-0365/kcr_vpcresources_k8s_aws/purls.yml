@@ -6,3 +6,4 @@
 - pkg:cargo/kcr_vpcresources_k8s_aws@1.20250824.162926
 - pkg:cargo/kcr_vpcresources_k8s_aws@2.20250914.162547
 - pkg:cargo/kcr_vpcresources_k8s_aws@2.20250928.162707
+- pkg:cargo/kcr_vpcresources_k8s_aws@3.20260118.163312
