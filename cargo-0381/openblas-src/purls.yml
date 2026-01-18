@@ -4,6 +4,7 @@
 - pkg:cargo/openblas-src@0.10.11
 - pkg:cargo/openblas-src@0.10.12
 - pkg:cargo/openblas-src@0.10.13
+- pkg:cargo/openblas-src@0.10.14
 - pkg:cargo/openblas-src@0.10.2
 - pkg:cargo/openblas-src@0.10.3
 - pkg:cargo/openblas-src@0.10.4
