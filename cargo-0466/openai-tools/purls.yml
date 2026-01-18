@@ -17,3 +17,4 @@
 - pkg:cargo/openai-tools@0.8.0
 - pkg:cargo/openai-tools@1.0.0
 - pkg:cargo/openai-tools@1.0.1
+- pkg:cargo/openai-tools@1.0.4
