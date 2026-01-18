@@ -19,3 +19,4 @@
 - pkg:cargo/sframe@0.9.0
 - pkg:cargo/sframe@1.0.0
 - pkg:cargo/sframe@1.0.1
+- pkg:cargo/sframe@1.1.0

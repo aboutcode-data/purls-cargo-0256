@@ -4,3 +4,4 @@
 - pkg:cargo/spire_enum@0.7.0
 - pkg:cargo/spire_enum@0.7.1
 - pkg:cargo/spire_enum@0.7.2
+- pkg:cargo/spire_enum@1.0.0
