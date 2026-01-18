@@ -6,3 +6,4 @@
 - pkg:cargo/rust-ethernet-ip@0.5.4
 - pkg:cargo/rust-ethernet-ip@0.5.5
 - pkg:cargo/rust-ethernet-ip@0.6.0
+- pkg:cargo/rust-ethernet-ip@0.6.1
