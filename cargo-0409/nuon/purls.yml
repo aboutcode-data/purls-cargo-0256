@@ -12,6 +12,7 @@
 - pkg:cargo/nuon@0.108.0
 - pkg:cargo/nuon@0.109.0
 - pkg:cargo/nuon@0.109.1
+- pkg:cargo/nuon@0.110.0
 - pkg:cargo/nuon@0.93.0
 - pkg:cargo/nuon@0.94.0
 - pkg:cargo/nuon@0.94.1
