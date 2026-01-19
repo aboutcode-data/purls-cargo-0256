@@ -21,3 +21,4 @@
 - pkg:cargo/dotstate@0.2.6
 - pkg:cargo/dotstate@0.2.7
 - pkg:cargo/dotstate@0.2.8
+- pkg:cargo/dotstate@0.2.9
