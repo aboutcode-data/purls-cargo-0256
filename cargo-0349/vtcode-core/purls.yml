@@ -232,6 +232,8 @@
 - pkg:cargo/vtcode-core@0.65.3
 - pkg:cargo/vtcode-core@0.65.4
 - pkg:cargo/vtcode-core@0.65.5
+- pkg:cargo/vtcode-core@0.66.0
+- pkg:cargo/vtcode-core@0.66.1
 - pkg:cargo/vtcode-core@0.8.1
 - pkg:cargo/vtcode-core@0.8.11
 - pkg:cargo/vtcode-core@0.8.12
