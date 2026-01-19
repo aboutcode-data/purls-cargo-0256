@@ -1,1 +1,2 @@
+- pkg:cargo/cranpose-runtime-std@0.0.30
 - pkg:cargo/cranpose-runtime-std@0.1.0
