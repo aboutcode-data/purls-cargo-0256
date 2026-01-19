@@ -12,3 +12,4 @@
 - pkg:cargo/regex-mel@0.9.0-pre.4
 - pkg:cargo/regex-mel@0.9.0-pre.5
 - pkg:cargo/regex-mel@0.9.1
+- pkg:cargo/regex-mel@0.9.2
