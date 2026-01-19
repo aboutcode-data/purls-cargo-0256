@@ -69,6 +69,7 @@
 - pkg:cargo/euclid@0.22.1
 - pkg:cargo/euclid@0.22.10
 - pkg:cargo/euclid@0.22.11
+- pkg:cargo/euclid@0.22.13
 - pkg:cargo/euclid@0.22.2
 - pkg:cargo/euclid@0.22.3
 - pkg:cargo/euclid@0.22.4
