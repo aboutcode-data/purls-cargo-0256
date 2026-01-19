@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250824.210939
 - pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@2.20250914.210847
 - pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@2.20250928.210905
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@3.20260118.211052

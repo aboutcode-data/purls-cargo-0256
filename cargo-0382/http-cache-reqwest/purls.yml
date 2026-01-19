@@ -33,3 +33,4 @@
 - pkg:cargo/http-cache-reqwest@0.9.0
 - pkg:cargo/http-cache-reqwest@1.0.0-alpha.1
 - pkg:cargo/http-cache-reqwest@1.0.0-alpha.2
+- pkg:cargo/http-cache-reqwest@1.0.0-alpha.3

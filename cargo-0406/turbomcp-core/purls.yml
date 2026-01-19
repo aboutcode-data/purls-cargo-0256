@@ -21,6 +21,7 @@
 - pkg:cargo/turbomcp-core@1.1.0-exp.5
 - pkg:cargo/turbomcp-core@1.1.0-exp.6
 - pkg:cargo/turbomcp-core@1.1.2
+- pkg:cargo/turbomcp-core@3.0.0-beta.1
 - pkg:cargo/turbomcp-core@3.0.0-exp
 - pkg:cargo/turbomcp-core@3.0.0-exp.1
 - pkg:cargo/turbomcp-core@3.0.0-exp.2
