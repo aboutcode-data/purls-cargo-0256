@@ -8,3 +8,4 @@
 - pkg:cargo/tomat@2.6.0
 - pkg:cargo/tomat@2.7.0
 - pkg:cargo/tomat@2.8.0
+- pkg:cargo/tomat@2.8.1
