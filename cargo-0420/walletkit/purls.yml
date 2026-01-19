@@ -19,3 +19,4 @@
 - pkg:cargo/walletkit@0.2.1
 - pkg:cargo/walletkit@0.2.3
 - pkg:cargo/walletkit@0.2.4
+- pkg:cargo/walletkit@0.3.1
