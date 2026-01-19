@@ -34,6 +34,7 @@
 - pkg:cargo/krill@0.15.0-rc3
 - pkg:cargo/krill@0.15.0-rc4
 - pkg:cargo/krill@0.15.0-rc5
+- pkg:cargo/krill@0.15.1
 - pkg:cargo/krill@0.3.0
 - pkg:cargo/krill@0.4.0
 - pkg:cargo/krill@0.4.1
