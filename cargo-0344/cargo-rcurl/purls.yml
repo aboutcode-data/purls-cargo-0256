@@ -2,3 +2,4 @@
 - pkg:cargo/cargo-rcurl@0.0.31
 - pkg:cargo/cargo-rcurl@0.0.32
 - pkg:cargo/cargo-rcurl@0.0.33
+- pkg:cargo/cargo-rcurl@0.0.34
