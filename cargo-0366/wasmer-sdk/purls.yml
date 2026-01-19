@@ -1,1 +1,2 @@
 - pkg:cargo/wasmer-sdk@6.1.0
+- pkg:cargo/wasmer-sdk@7.0.0-alpha.2
