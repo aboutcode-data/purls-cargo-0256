@@ -19,3 +19,4 @@
 - pkg:cargo/hapi-rs@0.9.3
 - pkg:cargo/hapi-rs@20.5.0
 - pkg:cargo/hapi-rs@21.0.0
+- pkg:cargo/hapi-rs@21.0.1
