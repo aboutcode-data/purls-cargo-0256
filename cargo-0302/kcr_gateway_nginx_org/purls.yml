@@ -19,3 +19,4 @@
 - pkg:cargo/kcr_gateway_nginx_org@2.20251117.112912
 - pkg:cargo/kcr_gateway_nginx_org@2.20260105.113246
 - pkg:cargo/kcr_gateway_nginx_org@2.20260112.113325
+- pkg:cargo/kcr_gateway_nginx_org@3.20260119.113505

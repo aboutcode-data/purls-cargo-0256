@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_secrets_hashicorp_com@2.20250915.104738
 - pkg:cargo/kcr_secrets_hashicorp_com@2.20250922.104945
 - pkg:cargo/kcr_secrets_hashicorp_com@2.20250929.104855
+- pkg:cargo/kcr_secrets_hashicorp_com@3.20260119.105833
