@@ -14,3 +14,4 @@
 - pkg:cargo/dump_syms@2.3.3
 - pkg:cargo/dump_syms@2.3.4
 - pkg:cargo/dump_syms@2.3.5
+- pkg:cargo/dump_syms@2.3.6
