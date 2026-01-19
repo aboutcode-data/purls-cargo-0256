@@ -33,6 +33,7 @@
 - pkg:cargo/parui@1.0.16
 - pkg:cargo/parui@1.0.17
 - pkg:cargo/parui@1.0.18
+- pkg:cargo/parui@1.0.19
 - pkg:cargo/parui@1.0.2
 - pkg:cargo/parui@1.0.3
 - pkg:cargo/parui@1.0.4
