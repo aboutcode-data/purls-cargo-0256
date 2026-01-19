@@ -10,6 +10,7 @@
 - pkg:cargo/cargo-lock@10.0.1
 - pkg:cargo/cargo-lock@10.1.0
 - pkg:cargo/cargo-lock@11.0.0
+- pkg:cargo/cargo-lock@11.0.1
 - pkg:cargo/cargo-lock@2.0.0
 - pkg:cargo/cargo-lock@2.0.0-pre
 - pkg:cargo/cargo-lock@3.0.0
