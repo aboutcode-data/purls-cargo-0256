@@ -111,6 +111,7 @@
 - pkg:cargo/armour@0.29.4
 - pkg:cargo/armour@0.29.5
 - pkg:cargo/armour@0.29.6
+- pkg:cargo/armour@0.29.7
 - pkg:cargo/armour@0.3.0
 - pkg:cargo/armour@0.3.1
 - pkg:cargo/armour@0.3.2
