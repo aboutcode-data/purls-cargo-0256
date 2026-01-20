@@ -34,3 +34,5 @@
 - pkg:cargo/actix-form-data@0.7.0-beta.6
 - pkg:cargo/actix-form-data@0.7.0-beta.7
 - pkg:cargo/actix-form-data@0.7.0-beta.8
+- pkg:cargo/actix-form-data@0.7.0-rc.1
+- pkg:cargo/actix-form-data@0.7.0-rc.2
