@@ -27,6 +27,10 @@
 - pkg:cargo/greentic-component@0.4.31
 - pkg:cargo/greentic-component@0.4.33
 - pkg:cargo/greentic-component@0.4.34
+- pkg:cargo/greentic-component@0.4.35
+- pkg:cargo/greentic-component@0.4.37
+- pkg:cargo/greentic-component@0.4.38
+- pkg:cargo/greentic-component@0.4.39
 - pkg:cargo/greentic-component@0.4.4
 - pkg:cargo/greentic-component@0.4.5
 - pkg:cargo/greentic-component@0.4.6
