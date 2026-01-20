@@ -1,3 +1,4 @@
 - pkg:cargo/terraphim_agent@1.0.0
 - pkg:cargo/terraphim_agent@1.4.10
 - pkg:cargo/terraphim_agent@1.4.7
+- pkg:cargo/terraphim_agent@1.5.2
