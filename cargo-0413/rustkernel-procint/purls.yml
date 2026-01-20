@@ -1,1 +1,2 @@
 - pkg:cargo/rustkernel-procint@0.1.1
+- pkg:cargo/rustkernel-procint@0.2.0

@@ -1,5 +1,6 @@
 - pkg:cargo/RustyPage@1.0.11
 - pkg:cargo/RustyPage@1.0.12
+- pkg:cargo/RustyPage@1.0.16
 - pkg:cargo/RustyPage@1.0.2
 - pkg:cargo/RustyPage@1.0.3
 - pkg:cargo/RustyPage@1.0.5
