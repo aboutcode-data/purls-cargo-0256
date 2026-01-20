@@ -19,3 +19,4 @@
 - pkg:cargo/wasmtime-internal-winch@40.0.0
 - pkg:cargo/wasmtime-internal-winch@40.0.1
 - pkg:cargo/wasmtime-internal-winch@40.0.2
+- pkg:cargo/wasmtime-internal-winch@41.0.0

@@ -7,3 +7,4 @@
 - pkg:cargo/watchexec-supervisor@4.0.0
 - pkg:cargo/watchexec-supervisor@5.0.0
 - pkg:cargo/watchexec-supervisor@5.0.1
+- pkg:cargo/watchexec-supervisor@5.0.2
