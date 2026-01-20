@@ -3,3 +3,4 @@
 - pkg:cargo/light-zero-copy@0.3.0
 - pkg:cargo/light-zero-copy@0.4.0
 - pkg:cargo/light-zero-copy@0.5.0
+- pkg:cargo/light-zero-copy@0.6.0
