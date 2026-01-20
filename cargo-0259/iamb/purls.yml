@@ -1,5 +1,6 @@
 - pkg:cargo/iamb@0.0.1
 - pkg:cargo/iamb@0.0.10
+- pkg:cargo/iamb@0.0.11
 - pkg:cargo/iamb@0.0.11-alpha.1
 - pkg:cargo/iamb@0.0.2
 - pkg:cargo/iamb@0.0.3
