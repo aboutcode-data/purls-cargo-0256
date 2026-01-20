@@ -82,6 +82,7 @@
 - pkg:cargo/cranelift-control@0.127.0
 - pkg:cargo/cranelift-control@0.127.1
 - pkg:cargo/cranelift-control@0.127.2
+- pkg:cargo/cranelift-control@0.128.0
 - pkg:cargo/cranelift-control@0.96.0
 - pkg:cargo/cranelift-control@0.96.1
 - pkg:cargo/cranelift-control@0.96.2
