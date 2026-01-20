@@ -1,1 +1,2 @@
+- pkg:cargo/jetstream_cloudflare@11.0.0
 - pkg:cargo/jetstream_cloudflare@9.5.0
