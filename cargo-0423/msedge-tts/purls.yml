@@ -4,3 +4,5 @@
 - pkg:cargo/msedge-tts@0.2.2
 - pkg:cargo/msedge-tts@0.2.3
 - pkg:cargo/msedge-tts@0.2.4
+- pkg:cargo/msedge-tts@0.2.5
+- pkg:cargo/msedge-tts@0.3.0
