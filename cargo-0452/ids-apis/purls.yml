@@ -1,5 +1,6 @@
 - pkg:cargo/ids-apis@0.1.0
 - pkg:cargo/ids-apis@0.1.10
+- pkg:cargo/ids-apis@0.1.100
 - pkg:cargo/ids-apis@0.1.11
 - pkg:cargo/ids-apis@0.1.12
 - pkg:cargo/ids-apis@0.1.13
@@ -94,3 +95,5 @@
 - pkg:cargo/ids-apis@0.1.97
 - pkg:cargo/ids-apis@0.1.98
 - pkg:cargo/ids-apis@0.1.99
+- pkg:cargo/ids-apis@1.0.2
+- pkg:cargo/ids-apis@1.0.3
