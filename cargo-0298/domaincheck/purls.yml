@@ -1,4 +1,5 @@
 - pkg:cargo/domaincheck@0.4.10
+- pkg:cargo/domaincheck@0.4.100
 - pkg:cargo/domaincheck@0.4.11
 - pkg:cargo/domaincheck@0.4.12
 - pkg:cargo/domaincheck@0.4.13
