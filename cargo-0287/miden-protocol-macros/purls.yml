@@ -1,1 +1,2 @@
 - pkg:cargo/miden-protocol-macros@0.13.0
+- pkg:cargo/miden-protocol-macros@0.13.1
