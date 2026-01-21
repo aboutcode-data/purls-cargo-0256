@@ -1,5 +1,6 @@
 - pkg:cargo/jetstream_wireformat@11.0.0
 - pkg:cargo/jetstream_wireformat@11.0.2
+- pkg:cargo/jetstream_wireformat@11.1.0
 - pkg:cargo/jetstream_wireformat@5.0.0
 - pkg:cargo/jetstream_wireformat@5.1.4
 - pkg:cargo/jetstream_wireformat@5.2.0
