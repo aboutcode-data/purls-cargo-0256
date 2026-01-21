@@ -16,3 +16,4 @@
 - pkg:cargo/codspeed-criterion-compat-walltime@4.1.0
 - pkg:cargo/codspeed-criterion-compat-walltime@4.2.0
 - pkg:cargo/codspeed-criterion-compat-walltime@4.2.1
+- pkg:cargo/codspeed-criterion-compat-walltime@4.3.0

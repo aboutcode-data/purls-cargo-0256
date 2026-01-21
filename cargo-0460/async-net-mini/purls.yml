@@ -1,1 +1,2 @@
 - pkg:cargo/async-net-mini@2.0.0
+- pkg:cargo/async-net-mini@3.0.0
