@@ -1,1 +1,2 @@
 - pkg:cargo/aarch32-rt@0.1.0
+- pkg:cargo/aarch32-rt@0.2.0
