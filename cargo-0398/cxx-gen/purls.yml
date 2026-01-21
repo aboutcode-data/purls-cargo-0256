@@ -117,6 +117,8 @@
 - pkg:cargo/cxx-gen@0.7.190
 - pkg:cargo/cxx-gen@0.7.191
 - pkg:cargo/cxx-gen@0.7.192
+- pkg:cargo/cxx-gen@0.7.193
+- pkg:cargo/cxx-gen@0.7.194
 - pkg:cargo/cxx-gen@0.7.2
 - pkg:cargo/cxx-gen@0.7.20
 - pkg:cargo/cxx-gen@0.7.21
