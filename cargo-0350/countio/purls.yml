@@ -24,3 +24,4 @@
 - pkg:cargo/countio@0.2.7
 - pkg:cargo/countio@0.2.8
 - pkg:cargo/countio@0.2.9
+- pkg:cargo/countio@0.3.0
