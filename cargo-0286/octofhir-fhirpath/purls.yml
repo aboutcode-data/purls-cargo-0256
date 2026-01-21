@@ -40,6 +40,7 @@
 - pkg:cargo/octofhir-fhirpath@0.4.35
 - pkg:cargo/octofhir-fhirpath@0.4.36
 - pkg:cargo/octofhir-fhirpath@0.4.37
+- pkg:cargo/octofhir-fhirpath@0.4.38
 - pkg:cargo/octofhir-fhirpath@0.4.4
 - pkg:cargo/octofhir-fhirpath@0.4.5
 - pkg:cargo/octofhir-fhirpath@0.4.6
