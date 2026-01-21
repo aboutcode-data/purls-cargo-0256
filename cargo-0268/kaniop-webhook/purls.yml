@@ -7,3 +7,4 @@
 - pkg:cargo/kaniop-webhook@0.1.9
 - pkg:cargo/kaniop-webhook@0.3.2
 - pkg:cargo/kaniop-webhook@0.4.0
+- pkg:cargo/kaniop-webhook@0.4.1
