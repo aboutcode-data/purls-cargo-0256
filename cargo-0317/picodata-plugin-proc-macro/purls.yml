@@ -20,3 +20,4 @@
 - pkg:cargo/picodata-plugin-proc-macro@25.4.4
 - pkg:cargo/picodata-plugin-proc-macro@25.5.1
 - pkg:cargo/picodata-plugin-proc-macro@25.5.2
+- pkg:cargo/picodata-plugin-proc-macro@25.5.3
