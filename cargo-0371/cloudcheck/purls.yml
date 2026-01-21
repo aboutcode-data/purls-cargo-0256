@@ -15,3 +15,4 @@
 - pkg:cargo/cloudcheck@8.7.0
 - pkg:cargo/cloudcheck@8.7.1
 - pkg:cargo/cloudcheck@8.7.2
+- pkg:cargo/cloudcheck@8.8.0
