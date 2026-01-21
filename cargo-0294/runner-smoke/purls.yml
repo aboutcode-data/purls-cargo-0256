@@ -3,3 +3,7 @@
 - pkg:cargo/runner-smoke@0.4.17
 - pkg:cargo/runner-smoke@0.4.18
 - pkg:cargo/runner-smoke@0.4.19
+- pkg:cargo/runner-smoke@0.4.20
+- pkg:cargo/runner-smoke@0.4.21
+- pkg:cargo/runner-smoke@0.4.22
+- pkg:cargo/runner-smoke@0.4.23
