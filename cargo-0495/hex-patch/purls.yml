@@ -8,6 +8,7 @@
 - pkg:cargo/hex-patch@1.12.2
 - pkg:cargo/hex-patch@1.12.3
 - pkg:cargo/hex-patch@1.12.4
+- pkg:cargo/hex-patch@1.12.5
 - pkg:cargo/hex-patch@1.6.0
 - pkg:cargo/hex-patch@1.6.1
 - pkg:cargo/hex-patch@1.6.2
