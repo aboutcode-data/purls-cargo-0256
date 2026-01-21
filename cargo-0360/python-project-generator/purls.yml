@@ -177,3 +177,4 @@
 - pkg:cargo/python-project-generator@2.5.2
 - pkg:cargo/python-project-generator@3.0.0
 - pkg:cargo/python-project-generator@3.1.0
+- pkg:cargo/python-project-generator@3.1.1
