@@ -1,4 +1,5 @@
 - pkg:cargo/quilkin-macros@0.1.0
+- pkg:cargo/quilkin-macros@0.10.0
 - pkg:cargo/quilkin-macros@0.2.0
 - pkg:cargo/quilkin-macros@0.2.0-dev
 - pkg:cargo/quilkin-macros@0.3.0
