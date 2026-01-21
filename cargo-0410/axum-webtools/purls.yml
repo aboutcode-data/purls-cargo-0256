@@ -23,6 +23,7 @@
 - pkg:cargo/axum-webtools@0.1.29
 - pkg:cargo/axum-webtools@0.1.30
 - pkg:cargo/axum-webtools@0.1.31
+- pkg:cargo/axum-webtools@0.1.32
 - pkg:cargo/axum-webtools@0.1.4
 - pkg:cargo/axum-webtools@0.1.5
 - pkg:cargo/axum-webtools@0.1.6
