@@ -1,1 +1,2 @@
 - pkg:cargo/oxidite-macros@0.1.0
+- pkg:cargo/oxidite-macros@2.0.0
