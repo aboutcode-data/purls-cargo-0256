@@ -1,1 +1,2 @@
 - pkg:cargo/arm-sysregs@0.1.0
+- pkg:cargo/arm-sysregs@0.2.0
