@@ -5,3 +5,4 @@
 - pkg:cargo/hidreport@0.4.0
 - pkg:cargo/hidreport@0.4.1
 - pkg:cargo/hidreport@0.5.0
+- pkg:cargo/hidreport@0.6.0
