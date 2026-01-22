@@ -19,3 +19,4 @@
 - pkg:cargo/cargo-credential-libsecret@0.5.1
 - pkg:cargo/cargo-credential-libsecret@0.5.2
 - pkg:cargo/cargo-credential-libsecret@0.5.3
+- pkg:cargo/cargo-credential-libsecret@0.5.4

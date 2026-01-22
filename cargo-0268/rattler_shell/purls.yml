@@ -92,6 +92,9 @@
 - pkg:cargo/rattler_shell@0.25.13
 - pkg:cargo/rattler_shell@0.25.14
 - pkg:cargo/rattler_shell@0.25.15
+- pkg:cargo/rattler_shell@0.25.16
+- pkg:cargo/rattler_shell@0.25.17
+- pkg:cargo/rattler_shell@0.25.18
 - pkg:cargo/rattler_shell@0.25.2
 - pkg:cargo/rattler_shell@0.25.3
 - pkg:cargo/rattler_shell@0.25.4
