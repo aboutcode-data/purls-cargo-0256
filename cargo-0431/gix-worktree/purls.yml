@@ -44,3 +44,4 @@
 - pkg:cargo/gix-worktree@0.44.0
 - pkg:cargo/gix-worktree@0.45.0
 - pkg:cargo/gix-worktree@0.46.0
+- pkg:cargo/gix-worktree@0.47.0
