@@ -61,6 +61,7 @@
 - pkg:cargo/rasn-cap@0.28.3
 - pkg:cargo/rasn-cap@0.28.4
 - pkg:cargo/rasn-cap@0.28.5
+- pkg:cargo/rasn-cap@0.28.6
 - pkg:cargo/rasn-cap@0.8.0
 - pkg:cargo/rasn-cap@0.8.2
 - pkg:cargo/rasn-cap@0.9.0
