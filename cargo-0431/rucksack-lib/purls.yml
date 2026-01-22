@@ -1,3 +1,4 @@
+- pkg:cargo/rucksack-lib@0.10.0
 - pkg:cargo/rucksack-lib@0.8.0
 - pkg:cargo/rucksack-lib@0.8.0-rc1
 - pkg:cargo/rucksack-lib@0.8.0-rc2
