@@ -55,6 +55,7 @@
 - pkg:cargo/pallet-contracts@43.0.0
 - pkg:cargo/pallet-contracts@44.0.0
 - pkg:cargo/pallet-contracts@45.0.0
+- pkg:cargo/pallet-contracts@45.0.1
 - pkg:cargo/pallet-contracts@5.0.0
 - pkg:cargo/pallet-contracts@6.0.0
 - pkg:cargo/pallet-contracts@7.0.0
