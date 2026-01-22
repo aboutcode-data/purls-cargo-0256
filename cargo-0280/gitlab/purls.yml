@@ -142,6 +142,7 @@
 - pkg:cargo/gitlab@0.1805.0
 - pkg:cargo/gitlab@0.1806.0
 - pkg:cargo/gitlab@0.1807.0
+- pkg:cargo/gitlab@0.1808.0
 - pkg:cargo/gitlab@0.816.0
 - pkg:cargo/gitlab@0.817.0
 - pkg:cargo/gitlab@0.817.1

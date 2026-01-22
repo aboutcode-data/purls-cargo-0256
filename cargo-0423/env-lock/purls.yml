@@ -3,3 +3,4 @@
 - pkg:cargo/env-lock@0.1.2
 - pkg:cargo/env-lock@1.0.0
 - pkg:cargo/env-lock@1.0.1
+- pkg:cargo/env-lock@1.0.2
