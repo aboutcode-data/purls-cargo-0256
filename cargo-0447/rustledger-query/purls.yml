@@ -1,3 +1,4 @@
 - pkg:cargo/rustledger-query@0.1.0
 - pkg:cargo/rustledger-query@0.3.0
 - pkg:cargo/rustledger-query@0.4.0
+- pkg:cargo/rustledger-query@0.5.2
