@@ -1,3 +1,4 @@
 - pkg:cargo/feim@0.24.0
 - pkg:cargo/feim@0.24.1
 - pkg:cargo/feim@0.24.2
+- pkg:cargo/feim@0.25.1

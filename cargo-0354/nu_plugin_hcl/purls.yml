@@ -9,6 +9,7 @@
 - pkg:cargo/nu_plugin_hcl@0.108.0
 - pkg:cargo/nu_plugin_hcl@0.109.0
 - pkg:cargo/nu_plugin_hcl@0.109.1
+- pkg:cargo/nu_plugin_hcl@0.110.0
 - pkg:cargo/nu_plugin_hcl@0.80.0
 - pkg:cargo/nu_plugin_hcl@0.81.0
 - pkg:cargo/nu_plugin_hcl@0.82.0

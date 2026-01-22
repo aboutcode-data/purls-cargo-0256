@@ -28,3 +28,5 @@
 - pkg:cargo/scud-cli@1.41.2
 - pkg:cargo/scud-cli@1.41.3
 - pkg:cargo/scud-cli@1.41.4
+- pkg:cargo/scud-cli@1.41.5
+- pkg:cargo/scud-cli@1.42.0
