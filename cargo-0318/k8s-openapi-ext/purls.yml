@@ -68,3 +68,4 @@
 - pkg:cargo/k8s-openapi-ext@0.27.0
 - pkg:cargo/k8s-openapi-ext@0.27.1
 - pkg:cargo/k8s-openapi-ext@0.27.2
+- pkg:cargo/k8s-openapi-ext@0.27.3
