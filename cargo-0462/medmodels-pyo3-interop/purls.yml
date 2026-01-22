@@ -1,1 +1,2 @@
 - pkg:cargo/medmodels-pyo3-interop@0.4.7
+- pkg:cargo/medmodels-pyo3-interop@0.4.8
