@@ -19,4 +19,5 @@
 - pkg:cargo/yazi-core@25.4.8
 - pkg:cargo/yazi-core@25.5.28
 - pkg:cargo/yazi-core@25.5.31
+- pkg:cargo/yazi-core@26.1.22
 - pkg:cargo/yazi-core@26.1.4
