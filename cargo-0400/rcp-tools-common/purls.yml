@@ -3,3 +3,4 @@
 - pkg:cargo/rcp-tools-common@0.21.1
 - pkg:cargo/rcp-tools-common@0.22.0
 - pkg:cargo/rcp-tools-common@0.23.0
+- pkg:cargo/rcp-tools-common@0.24.0
