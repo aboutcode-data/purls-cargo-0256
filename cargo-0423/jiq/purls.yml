@@ -60,6 +60,7 @@
 - pkg:cargo/jiq@3.13.0
 - pkg:cargo/jiq@3.13.1
 - pkg:cargo/jiq@3.13.10
+- pkg:cargo/jiq@3.13.11
 - pkg:cargo/jiq@3.13.2
 - pkg:cargo/jiq@3.13.3
 - pkg:cargo/jiq@3.13.4
