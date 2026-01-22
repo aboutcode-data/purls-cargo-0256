@@ -1,3 +1,4 @@
 - pkg:cargo/bottle-orm-macro@0.1.0
 - pkg:cargo/bottle-orm-macro@0.1.1
 - pkg:cargo/bottle-orm-macro@0.2.2-rc.3
+- pkg:cargo/bottle-orm-macro@0.3.1
