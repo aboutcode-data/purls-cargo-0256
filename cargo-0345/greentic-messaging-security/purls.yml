@@ -39,6 +39,7 @@
 - pkg:cargo/greentic-messaging-security@0.4.36
 - pkg:cargo/greentic-messaging-security@0.4.37
 - pkg:cargo/greentic-messaging-security@0.4.40
+- pkg:cargo/greentic-messaging-security@0.4.42
 - pkg:cargo/greentic-messaging-security@0.4.5
 - pkg:cargo/greentic-messaging-security@0.4.7
 - pkg:cargo/greentic-messaging-security@0.4.8
