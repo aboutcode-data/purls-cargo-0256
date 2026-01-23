@@ -22,3 +22,4 @@
 - pkg:cargo/kcr_cilium_io@2.20251212.70212
 - pkg:cargo/kcr_cilium_io@2.20251226.70155
 - pkg:cargo/kcr_cilium_io@3.20260116.71252
+- pkg:cargo/kcr_cilium_io@3.20260123.71440
