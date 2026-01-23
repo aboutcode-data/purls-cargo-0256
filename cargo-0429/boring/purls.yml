@@ -37,6 +37,7 @@
 - pkg:cargo/boring@4.2.0
 - pkg:cargo/boring@4.20.0
 - pkg:cargo/boring@4.21.0
+- pkg:cargo/boring@4.21.1
 - pkg:cargo/boring@4.3.0
 - pkg:cargo/boring@4.4.0
 - pkg:cargo/boring@4.4.1

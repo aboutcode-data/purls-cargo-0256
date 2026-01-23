@@ -16,3 +16,4 @@
 - pkg:cargo/raxb-axum@0.4.8
 - pkg:cargo/raxb-axum@0.5.0
 - pkg:cargo/raxb-axum@0.5.1
+- pkg:cargo/raxb-axum@0.6.0
