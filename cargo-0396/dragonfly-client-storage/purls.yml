@@ -215,3 +215,4 @@
 - pkg:cargo/dragonfly-client-storage@1.2.4
 - pkg:cargo/dragonfly-client-storage@1.2.5
 - pkg:cargo/dragonfly-client-storage@1.2.6
+- pkg:cargo/dragonfly-client-storage@1.2.7
