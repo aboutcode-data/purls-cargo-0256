@@ -10,3 +10,4 @@
 - pkg:cargo/archive-to-parquet@0.6.0
 - pkg:cargo/archive-to-parquet@0.7.0
 - pkg:cargo/archive-to-parquet@0.8.0
+- pkg:cargo/archive-to-parquet@0.9.0
