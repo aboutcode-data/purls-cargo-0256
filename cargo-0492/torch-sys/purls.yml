@@ -30,6 +30,7 @@
 - pkg:cargo/torch-sys@0.2.1
 - pkg:cargo/torch-sys@0.20.0
 - pkg:cargo/torch-sys@0.22.0
+- pkg:cargo/torch-sys@0.23.0
 - pkg:cargo/torch-sys@0.3.0
 - pkg:cargo/torch-sys@0.3.1
 - pkg:cargo/torch-sys@0.4.0
