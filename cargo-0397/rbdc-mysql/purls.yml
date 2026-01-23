@@ -61,3 +61,4 @@
 - pkg:cargo/rbdc-mysql@4.6.1
 - pkg:cargo/rbdc-mysql@4.6.2
 - pkg:cargo/rbdc-mysql@4.7.0
+- pkg:cargo/rbdc-mysql@4.7.1
