@@ -16,6 +16,7 @@
 - pkg:cargo/theframework@0.1.30
 - pkg:cargo/theframework@0.1.33
 - pkg:cargo/theframework@0.1.4
+- pkg:cargo/theframework@0.1.40
 - pkg:cargo/theframework@0.1.5
 - pkg:cargo/theframework@0.1.6
 - pkg:cargo/theframework@0.1.7
