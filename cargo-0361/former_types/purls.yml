@@ -25,6 +25,7 @@
 - pkg:cargo/former_types@2.31.0
 - pkg:cargo/former_types@2.32.0
 - pkg:cargo/former_types@2.33.0
+- pkg:cargo/former_types@2.34.0
 - pkg:cargo/former_types@2.4.0
 - pkg:cargo/former_types@2.5.0
 - pkg:cargo/former_types@2.6.0
