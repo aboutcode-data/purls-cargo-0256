@@ -95,6 +95,8 @@
 - pkg:cargo/ids-apis@0.1.97
 - pkg:cargo/ids-apis@0.1.98
 - pkg:cargo/ids-apis@0.1.99
+- pkg:cargo/ids-apis@1.0.10
+- pkg:cargo/ids-apis@1.0.11
 - pkg:cargo/ids-apis@1.0.2
 - pkg:cargo/ids-apis@1.0.3
 - pkg:cargo/ids-apis@1.0.4
