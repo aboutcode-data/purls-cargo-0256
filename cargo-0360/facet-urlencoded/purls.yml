@@ -64,6 +64,7 @@
 - pkg:cargo/facet-urlencoded@0.41.0
 - pkg:cargo/facet-urlencoded@0.42.0
 - pkg:cargo/facet-urlencoded@0.43.0
+- pkg:cargo/facet-urlencoded@0.43.1
 - pkg:cargo/facet-urlencoded@0.7.0
 - pkg:cargo/facet-urlencoded@0.8.0
 - pkg:cargo/facet-urlencoded@0.8.1

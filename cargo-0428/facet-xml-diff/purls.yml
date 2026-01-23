@@ -1,2 +1,3 @@
 - pkg:cargo/facet-xml-diff@0.0.0
 - pkg:cargo/facet-xml-diff@0.43.0
+- pkg:cargo/facet-xml-diff@0.43.1
