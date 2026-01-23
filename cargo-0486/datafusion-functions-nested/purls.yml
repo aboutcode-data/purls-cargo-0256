@@ -19,3 +19,4 @@
 - pkg:cargo/datafusion-functions-nested@50.3.0
 - pkg:cargo/datafusion-functions-nested@51.0.0
 - pkg:cargo/datafusion-functions-nested@52.0.0
+- pkg:cargo/datafusion-functions-nested@52.1.0

@@ -53,5 +53,6 @@
 - pkg:cargo/datafusion-physical-expr@50.3.0
 - pkg:cargo/datafusion-physical-expr@51.0.0
 - pkg:cargo/datafusion-physical-expr@52.0.0
+- pkg:cargo/datafusion-physical-expr@52.1.0
 - pkg:cargo/datafusion-physical-expr@8.0.0
 - pkg:cargo/datafusion-physical-expr@9.0.0

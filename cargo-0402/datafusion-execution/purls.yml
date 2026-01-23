@@ -42,3 +42,4 @@
 - pkg:cargo/datafusion-execution@50.3.0
 - pkg:cargo/datafusion-execution@51.0.0
 - pkg:cargo/datafusion-execution@52.0.0
+- pkg:cargo/datafusion-execution@52.1.0

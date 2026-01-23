@@ -18,3 +18,4 @@
 - pkg:cargo/datafusion-functions-aggregate-common@50.3.0
 - pkg:cargo/datafusion-functions-aggregate-common@51.0.0
 - pkg:cargo/datafusion-functions-aggregate-common@52.0.0
+- pkg:cargo/datafusion-functions-aggregate-common@52.1.0

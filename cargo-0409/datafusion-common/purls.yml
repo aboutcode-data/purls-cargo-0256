@@ -53,6 +53,7 @@
 - pkg:cargo/datafusion-common@50.3.0
 - pkg:cargo/datafusion-common@51.0.0
 - pkg:cargo/datafusion-common@52.0.0
+- pkg:cargo/datafusion-common@52.1.0
 - pkg:cargo/datafusion-common@7.0.0
 - pkg:cargo/datafusion-common@7.0.0-alpha
 - pkg:cargo/datafusion-common@8.0.0
