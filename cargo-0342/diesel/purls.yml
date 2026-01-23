@@ -88,3 +88,4 @@
 - pkg:cargo/diesel@2.3.3
 - pkg:cargo/diesel@2.3.4
 - pkg:cargo/diesel@2.3.5
+- pkg:cargo/diesel@2.3.6

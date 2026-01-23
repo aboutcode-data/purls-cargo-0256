@@ -1,0 +1,2 @@
+- pkg:cargo/curl-sys-openssl-1@0.4.184%2Bcurl-8.17.0
+- pkg:cargo/curl-sys-openssl-1@0.4.84%2Bcurl-8.17.0
