@@ -11,6 +11,7 @@
 - pkg:cargo/wows_replays@0.1.8
 - pkg:cargo/wows_replays@0.1.9
 - pkg:cargo/wows_replays@0.10.0
+- pkg:cargo/wows_replays@0.11.0
 - pkg:cargo/wows_replays@0.2.0
 - pkg:cargo/wows_replays@0.2.1
 - pkg:cargo/wows_replays@0.2.2
