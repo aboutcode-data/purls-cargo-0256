@@ -33,6 +33,7 @@
 - pkg:cargo/systemg@0.17.0-rc8
 - pkg:cargo/systemg@0.17.0-rc9
 - pkg:cargo/systemg@0.18.0
+- pkg:cargo/systemg@0.19.0
 - pkg:cargo/systemg@0.2.0
 - pkg:cargo/systemg@0.3.0
 - pkg:cargo/systemg@0.4.0
