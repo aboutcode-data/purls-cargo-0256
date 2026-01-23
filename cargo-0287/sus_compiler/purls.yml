@@ -11,3 +11,4 @@
 - pkg:cargo/sus_compiler@0.3.4
 - pkg:cargo/sus_compiler@0.3.5
 - pkg:cargo/sus_compiler@0.3.6
+- pkg:cargo/sus_compiler@0.3.7
