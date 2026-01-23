@@ -1,3 +1,4 @@
 - pkg:cargo/holochain_release_util@0.1.0
 - pkg:cargo/holochain_release_util@0.1.1
 - pkg:cargo/holochain_release_util@0.1.2
+- pkg:cargo/holochain_release_util@0.1.3

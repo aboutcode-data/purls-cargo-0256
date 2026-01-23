@@ -8,6 +8,7 @@
 - pkg:cargo/komac@2.12.1
 - pkg:cargo/komac@2.13.0
 - pkg:cargo/komac@2.14.0
+- pkg:cargo/komac@2.15.0
 - pkg:cargo/komac@2.2.0
 - pkg:cargo/komac@2.2.1
 - pkg:cargo/komac@2.3.0
