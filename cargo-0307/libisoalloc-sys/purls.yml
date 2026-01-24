@@ -9,3 +9,4 @@
 - pkg:cargo/libisoalloc-sys@0.2.7
 - pkg:cargo/libisoalloc-sys@0.2.8
 - pkg:cargo/libisoalloc-sys@0.2.9
+- pkg:cargo/libisoalloc-sys@0.3.0
