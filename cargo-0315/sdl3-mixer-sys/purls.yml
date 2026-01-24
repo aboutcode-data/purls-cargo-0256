@@ -1,1 +1,2 @@
 - pkg:cargo/sdl3-mixer-sys@0.6.0-pre-0%2BSDL-mixer-3.1.2-prerelease
+- pkg:cargo/sdl3-mixer-sys@0.6.0-pre-1%2BSDL-mixer-3.1.2-prerelease
