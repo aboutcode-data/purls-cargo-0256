@@ -8,3 +8,4 @@
 - pkg:cargo/backfill@0.5.0
 - pkg:cargo/backfill@0.5.1
 - pkg:cargo/backfill@0.5.2
+- pkg:cargo/backfill@1.0.0
