@@ -24,3 +24,4 @@
 - pkg:cargo/juliaup@1.18.8
 - pkg:cargo/juliaup@1.18.9
 - pkg:cargo/juliaup@1.19.3
+- pkg:cargo/juliaup@1.19.4

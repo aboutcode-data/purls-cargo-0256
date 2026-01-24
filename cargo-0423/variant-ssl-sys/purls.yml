@@ -53,6 +53,7 @@
 - pkg:cargo/variant-ssl-sys@0.17.14
 - pkg:cargo/variant-ssl-sys@0.17.15
 - pkg:cargo/variant-ssl-sys@0.17.16
+- pkg:cargo/variant-ssl-sys@0.17.17
 - pkg:cargo/variant-ssl-sys@0.17.2
 - pkg:cargo/variant-ssl-sys@0.17.3
 - pkg:cargo/variant-ssl-sys@0.17.4
