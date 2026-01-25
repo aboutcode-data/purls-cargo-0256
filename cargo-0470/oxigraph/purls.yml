@@ -65,3 +65,4 @@
 - pkg:cargo/oxigraph@0.5.1
 - pkg:cargo/oxigraph@0.5.2
 - pkg:cargo/oxigraph@0.5.3
+- pkg:cargo/oxigraph@0.5.4
