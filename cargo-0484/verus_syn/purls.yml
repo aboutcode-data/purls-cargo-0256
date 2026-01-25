@@ -3,4 +3,5 @@
 - pkg:cargo/verus_syn@0.0.0-2025-11-09-0048
 - pkg:cargo/verus_syn@0.0.0-2025-11-10-1957
 - pkg:cargo/verus_syn@0.0.0-2025-11-16-0050
+- pkg:cargo/verus_syn@0.0.0-2026-01-25-0057
 - pkg:cargo/verus_syn@2.0.96%2Bverus
