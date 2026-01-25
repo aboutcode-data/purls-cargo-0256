@@ -5,3 +5,4 @@
 - pkg:cargo/userspace-pagefault@0.0.5
 - pkg:cargo/userspace-pagefault@0.0.6
 - pkg:cargo/userspace-pagefault@0.0.7
+- pkg:cargo/userspace-pagefault@0.0.8
