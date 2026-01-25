@@ -29,6 +29,7 @@
 - pkg:cargo/rs-opw-kinematics@1.8.11
 - pkg:cargo/rs-opw-kinematics@1.8.13
 - pkg:cargo/rs-opw-kinematics@1.8.14
+- pkg:cargo/rs-opw-kinematics@1.8.15
 - pkg:cargo/rs-opw-kinematics@1.8.3
 - pkg:cargo/rs-opw-kinematics@1.8.4
 - pkg:cargo/rs-opw-kinematics@1.8.5
