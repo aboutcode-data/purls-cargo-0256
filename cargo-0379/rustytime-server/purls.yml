@@ -12,6 +12,8 @@
 - pkg:cargo/rustytime-server@0.15.0
 - pkg:cargo/rustytime-server@0.16.0
 - pkg:cargo/rustytime-server@0.16.4
+- pkg:cargo/rustytime-server@0.18.0
+- pkg:cargo/rustytime-server@0.18.2
 - pkg:cargo/rustytime-server@0.3.10
 - pkg:cargo/rustytime-server@0.3.11
 - pkg:cargo/rustytime-server@0.3.12
