@@ -34,3 +34,4 @@
 - pkg:cargo/scud-cli@1.44.0
 - pkg:cargo/scud-cli@1.45.0
 - pkg:cargo/scud-cli@1.45.1
+- pkg:cargo/scud-cli@1.46.0
