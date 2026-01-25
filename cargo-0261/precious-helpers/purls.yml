@@ -1,5 +1,6 @@
 - pkg:cargo/precious-helpers@0.10.0
 - pkg:cargo/precious-helpers@0.10.1
+- pkg:cargo/precious-helpers@0.10.2
 - pkg:cargo/precious-helpers@0.4.0
 - pkg:cargo/precious-helpers@0.4.1
 - pkg:cargo/precious-helpers@0.5.0
