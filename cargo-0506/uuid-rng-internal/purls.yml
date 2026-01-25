@@ -9,3 +9,4 @@
 - pkg:cargo/uuid-rng-internal@1.18.0
 - pkg:cargo/uuid-rng-internal@1.18.1
 - pkg:cargo/uuid-rng-internal@1.19.0
+- pkg:cargo/uuid-rng-internal@1.20.0
