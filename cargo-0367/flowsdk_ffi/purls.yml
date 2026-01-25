@@ -1,1 +1,2 @@
 - pkg:cargo/flowsdk_ffi@0.4.0
+- pkg:cargo/flowsdk_ffi@0.4.1
