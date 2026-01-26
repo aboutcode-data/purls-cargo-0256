@@ -1,2 +1,3 @@
 - pkg:cargo/embeddenator-vsa@0.20.0-alpha.1
 - pkg:cargo/embeddenator-vsa@0.20.1
+- pkg:cargo/embeddenator-vsa@0.21.0

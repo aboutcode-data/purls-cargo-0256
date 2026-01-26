@@ -100,4 +100,5 @@
 - pkg:cargo/solana-poseidon@3.1.5
 - pkg:cargo/solana-poseidon@3.1.6
 - pkg:cargo/solana-poseidon@3.1.7
+- pkg:cargo/solana-poseidon@3.1.8
 - pkg:cargo/solana-poseidon@4.0.0
