@@ -33,6 +33,7 @@
 - pkg:cargo/kftray-http-logs@0.27.0
 - pkg:cargo/kftray-http-logs@0.27.1
 - pkg:cargo/kftray-http-logs@0.27.10
+- pkg:cargo/kftray-http-logs@0.27.11
 - pkg:cargo/kftray-http-logs@0.27.4
 - pkg:cargo/kftray-http-logs@0.27.5
 - pkg:cargo/kftray-http-logs@0.27.6
