@@ -24,6 +24,7 @@
 - pkg:cargo/juniper@0.16.1
 - pkg:cargo/juniper@0.16.2
 - pkg:cargo/juniper@0.17.0
+- pkg:cargo/juniper@0.17.1
 - pkg:cargo/juniper@0.5.0
 - pkg:cargo/juniper@0.5.1
 - pkg:cargo/juniper@0.5.2
