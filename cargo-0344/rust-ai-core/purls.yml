@@ -1,1 +1,5 @@
 - pkg:cargo/rust-ai-core@0.2.0
+- pkg:cargo/rust-ai-core@0.2.4
+- pkg:cargo/rust-ai-core@0.2.5
+- pkg:cargo/rust-ai-core@0.2.6
+- pkg:cargo/rust-ai-core@0.2.7
