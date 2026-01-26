@@ -10,3 +10,4 @@
 - pkg:cargo/k8s-crds-cilium@1.18.2
 - pkg:cargo/k8s-crds-cilium@1.18.3
 - pkg:cargo/k8s-crds-cilium@1.18.4
+- pkg:cargo/k8s-crds-cilium@1.18.6
