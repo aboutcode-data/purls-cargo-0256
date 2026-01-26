@@ -43,6 +43,7 @@
 - pkg:cargo/nu-lint@0.0.14
 - pkg:cargo/nu-lint@0.0.140
 - pkg:cargo/nu-lint@0.0.141
+- pkg:cargo/nu-lint@0.0.142
 - pkg:cargo/nu-lint@0.0.15
 - pkg:cargo/nu-lint@0.0.16
 - pkg:cargo/nu-lint@0.0.17
