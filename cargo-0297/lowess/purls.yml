@@ -14,3 +14,4 @@
 - pkg:cargo/lowess@0.99.7
 - pkg:cargo/lowess@0.99.8
 - pkg:cargo/lowess@0.99.9
+- pkg:cargo/lowess@1.0.0
