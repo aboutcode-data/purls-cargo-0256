@@ -2,3 +2,4 @@
 - pkg:cargo/pjson-rs-domain@0.4.5
 - pkg:cargo/pjson-rs-domain@0.4.6
 - pkg:cargo/pjson-rs-domain@0.4.7
+- pkg:cargo/pjson-rs-domain@0.5.0
