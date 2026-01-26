@@ -2,3 +2,4 @@
 - pkg:cargo/mecomp-prost@0.6.1
 - pkg:cargo/mecomp-prost@0.6.3
 - pkg:cargo/mecomp-prost@0.6.4
+- pkg:cargo/mecomp-prost@0.7.0

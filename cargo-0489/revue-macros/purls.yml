@@ -1,1 +1,5 @@
 - pkg:cargo/revue-macros@2.37.2
+- pkg:cargo/revue-macros@2.38.1
+- pkg:cargo/revue-macros@2.38.2
+- pkg:cargo/revue-macros@2.38.3
+- pkg:cargo/revue-macros@2.39.0
