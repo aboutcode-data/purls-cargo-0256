@@ -24,3 +24,4 @@
 - pkg:cargo/s3-algo@0.6.1
 - pkg:cargo/s3-algo@0.7.0
 - pkg:cargo/s3-algo@0.7.1
+- pkg:cargo/s3-algo@0.7.2
