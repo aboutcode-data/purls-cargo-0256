@@ -131,3 +131,4 @@
 - pkg:cargo/aws-sdk-evidently@1.90.0
 - pkg:cargo/aws-sdk-evidently@1.91.0
 - pkg:cargo/aws-sdk-evidently@1.92.0
+- pkg:cargo/aws-sdk-evidently@1.93.0
