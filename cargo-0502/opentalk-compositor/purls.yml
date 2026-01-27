@@ -8,6 +8,7 @@
 - pkg:cargo/opentalk-compositor@0.15.0
 - pkg:cargo/opentalk-compositor@0.15.1
 - pkg:cargo/opentalk-compositor@0.16.0
+- pkg:cargo/opentalk-compositor@0.17.0
 - pkg:cargo/opentalk-compositor@0.6.1
 - pkg:cargo/opentalk-compositor@0.7.0
 - pkg:cargo/opentalk-compositor@0.7.1
