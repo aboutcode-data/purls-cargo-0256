@@ -23,3 +23,4 @@
 - pkg:cargo/lawkit-core@2.5.7
 - pkg:cargo/lawkit-core@2.5.8
 - pkg:cargo/lawkit-core@2.5.9
+- pkg:cargo/lawkit-core@2.6.0
