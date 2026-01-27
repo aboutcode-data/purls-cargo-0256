@@ -1,3 +1,5 @@
 - pkg:cargo/spnl@0.12.9
 - pkg:cargo/spnl@0.13.0
 - pkg:cargo/spnl@0.13.1
+- pkg:cargo/spnl@0.13.2
+- pkg:cargo/spnl@0.13.3
