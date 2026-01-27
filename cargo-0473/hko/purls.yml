@@ -9,6 +9,7 @@
 - pkg:cargo/hko@1.11.8
 - pkg:cargo/hko@1.12.0
 - pkg:cargo/hko@1.12.2
+- pkg:cargo/hko@1.13.0
 - pkg:cargo/hko@1.5.0
 - pkg:cargo/hko@1.5.1
 - pkg:cargo/hko@1.6.0
