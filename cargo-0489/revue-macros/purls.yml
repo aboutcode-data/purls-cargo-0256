@@ -7,3 +7,5 @@
 - pkg:cargo/revue-macros@2.40.0
 - pkg:cargo/revue-macros@2.40.1
 - pkg:cargo/revue-macros@2.41.0
+- pkg:cargo/revue-macros@2.41.1
+- pkg:cargo/revue-macros@2.41.2
