@@ -36,3 +36,4 @@
 - pkg:cargo/preset_env_base@4.0.1
 - pkg:cargo/preset_env_base@5.0.0
 - pkg:cargo/preset_env_base@6.0.0
+- pkg:cargo/preset_env_base@7.0.0
