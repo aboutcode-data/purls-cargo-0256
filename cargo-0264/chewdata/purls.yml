@@ -102,5 +102,7 @@
 - pkg:cargo/chewdata@3.3.0-beta.1
 - pkg:cargo/chewdata@3.3.0-beta.2
 - pkg:cargo/chewdata@3.3.0-beta.3
+- pkg:cargo/chewdata@3.3.1-beta.1
+- pkg:cargo/chewdata@3.3.1-beta.2
 - pkg:cargo/chewdata@3.4.0
 - pkg:cargo/chewdata@3.4.0-beta.1
