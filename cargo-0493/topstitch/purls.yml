@@ -78,4 +78,6 @@
 - pkg:cargo/topstitch@0.79.0
 - pkg:cargo/topstitch@0.8.0
 - pkg:cargo/topstitch@0.80.0
+- pkg:cargo/topstitch@0.81.0
+- pkg:cargo/topstitch@0.82.0
 - pkg:cargo/topstitch@0.9.0
