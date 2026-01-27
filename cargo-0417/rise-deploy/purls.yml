@@ -6,6 +6,7 @@
 - pkg:cargo/rise-deploy@0.11.0
 - pkg:cargo/rise-deploy@0.11.1
 - pkg:cargo/rise-deploy@0.11.2
+- pkg:cargo/rise-deploy@0.12.0
 - pkg:cargo/rise-deploy@0.4.0
 - pkg:cargo/rise-deploy@0.4.1
 - pkg:cargo/rise-deploy@0.4.2
