@@ -87,6 +87,8 @@
 - pkg:cargo/jiq@3.18.0
 - pkg:cargo/jiq@3.18.1
 - pkg:cargo/jiq@3.18.2
+- pkg:cargo/jiq@3.18.3
+- pkg:cargo/jiq@3.18.4
 - pkg:cargo/jiq@3.2.0
 - pkg:cargo/jiq@3.3.0
 - pkg:cargo/jiq@3.3.1
