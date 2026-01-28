@@ -60,6 +60,7 @@
 - pkg:cargo/macro-wasmer-universal-test@6.1.0-rc.2
 - pkg:cargo/macro-wasmer-universal-test@6.1.0-rc.3
 - pkg:cargo/macro-wasmer-universal-test@6.1.0-rc.5
+- pkg:cargo/macro-wasmer-universal-test@7.0.0
 - pkg:cargo/macro-wasmer-universal-test@7.0.0-alpha.2
 - pkg:cargo/macro-wasmer-universal-test@7.0.0-rc.1
 - pkg:cargo/macro-wasmer-universal-test@7.0.0-rc.2

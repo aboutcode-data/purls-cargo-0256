@@ -9,6 +9,8 @@
 - pkg:cargo/stakai@0.3.16
 - pkg:cargo/stakai@0.3.17-beta.1
 - pkg:cargo/stakai@0.3.17-beta.3
+- pkg:cargo/stakai@0.3.17-beta.4
+- pkg:cargo/stakai@0.3.17-beta.5
 - pkg:cargo/stakai@0.3.6
 - pkg:cargo/stakai@0.3.7
 - pkg:cargo/stakai@0.3.8
