@@ -21,6 +21,7 @@
 - pkg:cargo/askama_derive@0.15.0
 - pkg:cargo/askama_derive@0.15.1
 - pkg:cargo/askama_derive@0.15.2
+- pkg:cargo/askama_derive@0.15.3
 - pkg:cargo/askama_derive@0.2.0
 - pkg:cargo/askama_derive@0.2.1
 - pkg:cargo/askama_derive@0.3.0

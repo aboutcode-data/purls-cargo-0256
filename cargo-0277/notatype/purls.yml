@@ -44,6 +44,7 @@
 - pkg:cargo/notatype@0.5.42
 - pkg:cargo/notatype@0.5.43
 - pkg:cargo/notatype@0.5.44
+- pkg:cargo/notatype@0.5.45
 - pkg:cargo/notatype@0.5.5
 - pkg:cargo/notatype@0.5.6
 - pkg:cargo/notatype@0.5.7
