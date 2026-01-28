@@ -25,3 +25,4 @@
 - pkg:cargo/restrepo@0.4.0-beta2
 - pkg:cargo/restrepo@0.5.0
 - pkg:cargo/restrepo@0.5.1
+- pkg:cargo/restrepo@0.5.10
