@@ -5,3 +5,6 @@
 - pkg:cargo/rustifydl@0.1.2
 - pkg:cargo/rustifydl@0.1.20
 - pkg:cargo/rustifydl@0.1.21
+- pkg:cargo/rustifydl@0.2.21
+- pkg:cargo/rustifydl@0.2.3
+- pkg:cargo/rustifydl@0.2.30

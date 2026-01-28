@@ -17,3 +17,5 @@
 - pkg:cargo/treeherder-dl@2.2.0
 - pkg:cargo/treeherder-dl@2.2.1
 - pkg:cargo/treeherder-dl@2.2.2
+- pkg:cargo/treeherder-dl@2.2.3
+- pkg:cargo/treeherder-dl@2.2.4
