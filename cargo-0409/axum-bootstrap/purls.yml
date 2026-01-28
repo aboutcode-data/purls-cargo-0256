@@ -22,6 +22,8 @@
 - pkg:cargo/axum-bootstrap@0.1.28
 - pkg:cargo/axum-bootstrap@0.1.29
 - pkg:cargo/axum-bootstrap@0.1.3
+- pkg:cargo/axum-bootstrap@0.1.30
+- pkg:cargo/axum-bootstrap@0.1.31
 - pkg:cargo/axum-bootstrap@0.1.4
 - pkg:cargo/axum-bootstrap@0.1.5
 - pkg:cargo/axum-bootstrap@0.1.6
