@@ -2,3 +2,4 @@
 - pkg:cargo/kubediff@1.1.0
 - pkg:cargo/kubediff@1.1.1
 - pkg:cargo/kubediff@1.2.0
+- pkg:cargo/kubediff@1.2.1
