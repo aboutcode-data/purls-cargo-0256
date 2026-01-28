@@ -24,3 +24,4 @@
 - pkg:cargo/assay-mcp-server@2.6.0
 - pkg:cargo/assay-mcp-server@2.7.0
 - pkg:cargo/assay-mcp-server@2.8.0
+- pkg:cargo/assay-mcp-server@2.9.0
