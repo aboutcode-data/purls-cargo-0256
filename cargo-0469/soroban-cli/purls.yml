@@ -74,3 +74,4 @@
 - pkg:cargo/soroban-cli@23.4.0
 - pkg:cargo/soroban-cli@23.4.1
 - pkg:cargo/soroban-cli@25.0.0
+- pkg:cargo/soroban-cli@25.1.0
