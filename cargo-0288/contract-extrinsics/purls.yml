@@ -20,3 +20,4 @@
 - pkg:cargo/contract-extrinsics@6.0.0-alpha
 - pkg:cargo/contract-extrinsics@6.0.0-beta
 - pkg:cargo/contract-extrinsics@6.0.0-beta.1
+- pkg:cargo/contract-extrinsics@6.0.0-beta.2
