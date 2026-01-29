@@ -83,6 +83,7 @@
 - pkg:cargo/ostool@0.7.9
 - pkg:cargo/ostool@0.8.0
 - pkg:cargo/ostool@0.8.1
+- pkg:cargo/ostool@0.8.10
 - pkg:cargo/ostool@0.8.2
 - pkg:cargo/ostool@0.8.3
 - pkg:cargo/ostool@0.8.4
@@ -90,3 +91,4 @@
 - pkg:cargo/ostool@0.8.6
 - pkg:cargo/ostool@0.8.7
 - pkg:cargo/ostool@0.8.8
+- pkg:cargo/ostool@0.8.9
