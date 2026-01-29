@@ -6,6 +6,7 @@
 - pkg:cargo/crate2nix@0.13.0
 - pkg:cargo/crate2nix@0.14.0
 - pkg:cargo/crate2nix@0.14.1
+- pkg:cargo/crate2nix@0.15.0
 - pkg:cargo/crate2nix@0.7.0
 - pkg:cargo/crate2nix@0.7.0-alpha.4
 - pkg:cargo/crate2nix@0.7.0-alpha.5
