@@ -11,3 +11,4 @@
 - pkg:cargo/bevy_ui_text_input@0.5.2
 - pkg:cargo/bevy_ui_text_input@0.6.0
 - pkg:cargo/bevy_ui_text_input@0.6.0-rc.1
+- pkg:cargo/bevy_ui_text_input@0.7.0

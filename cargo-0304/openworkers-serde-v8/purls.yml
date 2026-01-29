@@ -2,3 +2,4 @@
 - pkg:cargo/openworkers-serde-v8@0.2.0
 - pkg:cargo/openworkers-serde-v8@0.3.0
 - pkg:cargo/openworkers-serde-v8@0.4.0
+- pkg:cargo/openworkers-serde-v8@145.0.0
