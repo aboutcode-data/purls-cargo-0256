@@ -2,3 +2,4 @@
 - pkg:cargo/dc_bundle@0.34.2
 - pkg:cargo/dc_bundle@0.37.2
 - pkg:cargo/dc_bundle@0.38.0
+- pkg:cargo/dc_bundle@0.38.1
