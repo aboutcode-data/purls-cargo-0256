@@ -1,4 +1,8 @@
 - pkg:cargo/cidit@0.0.1
 - pkg:cargo/cidit@0.0.10
 - pkg:cargo/cidit@0.0.12
+- pkg:cargo/cidit@0.0.13
+- pkg:cargo/cidit@0.0.14
+- pkg:cargo/cidit@0.0.15
+- pkg:cargo/cidit@0.0.16
 - pkg:cargo/cidit@0.0.9

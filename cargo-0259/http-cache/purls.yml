@@ -38,3 +38,4 @@
 - pkg:cargo/http-cache@1.0.0-alpha.1
 - pkg:cargo/http-cache@1.0.0-alpha.2
 - pkg:cargo/http-cache@1.0.0-alpha.3
+- pkg:cargo/http-cache@1.0.0-alpha.4

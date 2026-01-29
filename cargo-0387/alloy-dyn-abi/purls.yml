@@ -66,3 +66,4 @@
 - pkg:cargo/alloy-dyn-abi@1.5.1
 - pkg:cargo/alloy-dyn-abi@1.5.2
 - pkg:cargo/alloy-dyn-abi@1.5.3
+- pkg:cargo/alloy-dyn-abi@1.5.4
