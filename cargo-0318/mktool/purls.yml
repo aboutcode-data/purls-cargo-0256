@@ -38,3 +38,4 @@
 - pkg:cargo/mktool@1.5.1
 - pkg:cargo/mktool@1.5.3
 - pkg:cargo/mktool@1.5.4
+- pkg:cargo/mktool@1.5.5
