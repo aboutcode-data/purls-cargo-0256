@@ -23,6 +23,7 @@
 - pkg:cargo/av-scenechange@0.21.1
 - pkg:cargo/av-scenechange@0.21.2
 - pkg:cargo/av-scenechange@0.22.0
+- pkg:cargo/av-scenechange@0.22.1
 - pkg:cargo/av-scenechange@0.3.0
 - pkg:cargo/av-scenechange@0.4.0
 - pkg:cargo/av-scenechange@0.4.1

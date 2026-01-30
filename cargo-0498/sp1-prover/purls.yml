@@ -49,3 +49,4 @@
 - pkg:cargo/sp1-prover@5.2.2
 - pkg:cargo/sp1-prover@5.2.3
 - pkg:cargo/sp1-prover@5.2.4
+- pkg:cargo/sp1-prover@6.0.0-beta.1
