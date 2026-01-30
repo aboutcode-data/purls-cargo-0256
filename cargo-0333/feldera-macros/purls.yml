@@ -8,3 +8,4 @@
 - pkg:cargo/feldera-macros@0.230.0
 - pkg:cargo/feldera-macros@0.231.0
 - pkg:cargo/feldera-macros@0.232.0
+- pkg:cargo/feldera-macros@0.233.0
