@@ -79,3 +79,4 @@
 - pkg:cargo/vsss-rs@5.0.0-rc1
 - pkg:cargo/vsss-rs@5.0.0-rc2
 - pkg:cargo/vsss-rs@5.1.0
+- pkg:cargo/vsss-rs@5.2.0
