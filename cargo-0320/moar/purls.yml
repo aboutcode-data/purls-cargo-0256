@@ -35,6 +35,8 @@
 - pkg:cargo/moar@0.5.43
 - pkg:cargo/moar@0.5.44
 - pkg:cargo/moar@0.5.45
+- pkg:cargo/moar@0.5.46
+- pkg:cargo/moar@0.5.47
 - pkg:cargo/moar@0.5.5
 - pkg:cargo/moar@0.5.6
 - pkg:cargo/moar@0.5.7
