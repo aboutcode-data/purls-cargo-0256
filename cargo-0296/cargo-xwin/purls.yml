@@ -56,6 +56,7 @@
 - pkg:cargo/cargo-xwin@0.21.1
 - pkg:cargo/cargo-xwin@0.21.2
 - pkg:cargo/cargo-xwin@0.21.3
+- pkg:cargo/cargo-xwin@0.21.4
 - pkg:cargo/cargo-xwin@0.5.0
 - pkg:cargo/cargo-xwin@0.6.0
 - pkg:cargo/cargo-xwin@0.7.0
