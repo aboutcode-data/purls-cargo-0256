@@ -1,3 +1,4 @@
+- pkg:cargo/re_lenses@0.29.0
 - pkg:cargo/re_lenses@0.29.0-rc.1
 - pkg:cargo/re_lenses@0.29.0-rc.2
 - pkg:cargo/re_lenses@0.29.0-rc.3
