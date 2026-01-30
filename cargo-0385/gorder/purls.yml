@@ -10,3 +10,5 @@
 - pkg:cargo/gorder@1.1.0
 - pkg:cargo/gorder@1.2.0
 - pkg:cargo/gorder@1.3.0
+- pkg:cargo/gorder@1.4.0
+- pkg:cargo/gorder@1.4.1
