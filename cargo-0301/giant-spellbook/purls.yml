@@ -8,6 +8,7 @@
 - pkg:cargo/giant-spellbook@0.1.15
 - pkg:cargo/giant-spellbook@0.1.16
 - pkg:cargo/giant-spellbook@0.1.17
+- pkg:cargo/giant-spellbook@0.1.18
 - pkg:cargo/giant-spellbook@0.1.2
 - pkg:cargo/giant-spellbook@0.1.3
 - pkg:cargo/giant-spellbook@0.1.4
@@ -33,6 +34,7 @@
 - pkg:cargo/giant-spellbook@0.2.21
 - pkg:cargo/giant-spellbook@0.2.22
 - pkg:cargo/giant-spellbook@0.2.23
+- pkg:cargo/giant-spellbook@0.2.24
 - pkg:cargo/giant-spellbook@0.2.3
 - pkg:cargo/giant-spellbook@0.2.4
 - pkg:cargo/giant-spellbook@0.2.5
@@ -51,6 +53,7 @@
 - pkg:cargo/giant-spellbook@0.3.16
 - pkg:cargo/giant-spellbook@0.3.17
 - pkg:cargo/giant-spellbook@0.3.18
+- pkg:cargo/giant-spellbook@0.3.19
 - pkg:cargo/giant-spellbook@0.3.2
 - pkg:cargo/giant-spellbook@0.3.3
 - pkg:cargo/giant-spellbook@0.3.4
@@ -65,3 +68,4 @@
 - pkg:cargo/giant-spellbook@0.4.3
 - pkg:cargo/giant-spellbook@0.4.4
 - pkg:cargo/giant-spellbook@0.4.5
+- pkg:cargo/giant-spellbook@0.4.6
