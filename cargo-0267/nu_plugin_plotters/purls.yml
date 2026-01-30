@@ -10,3 +10,4 @@
 - pkg:cargo/nu_plugin_plotters@0.2.1%2B0.106.0
 - pkg:cargo/nu_plugin_plotters@0.2.2%2B0.107.0
 - pkg:cargo/nu_plugin_plotters@0.2.3%2B0.108.0
+- pkg:cargo/nu_plugin_plotters@0.2.4%2B0.110.0
