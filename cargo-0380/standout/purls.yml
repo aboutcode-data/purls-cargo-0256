@@ -2,3 +2,6 @@
 - pkg:cargo/standout@1.1.0
 - pkg:cargo/standout@2.0.0
 - pkg:cargo/standout@2.1.0
+- pkg:cargo/standout@3.0.0
+- pkg:cargo/standout@3.1.0
+- pkg:cargo/standout@3.2.0

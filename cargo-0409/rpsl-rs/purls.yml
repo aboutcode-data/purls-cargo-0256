@@ -2,3 +2,4 @@
 - pkg:cargo/rpsl-rs@1.0.1
 - pkg:cargo/rpsl-rs@2.0.0
 - pkg:cargo/rpsl-rs@2.0.1
+- pkg:cargo/rpsl-rs@3.0.0
