@@ -26,3 +26,4 @@
 - pkg:cargo/iso9660_simple@0.2.0
 - pkg:cargo/iso9660_simple@0.2.1
 - pkg:cargo/iso9660_simple@0.2.2
+- pkg:cargo/iso9660_simple@0.2.3
