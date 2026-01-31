@@ -10,3 +10,5 @@
 - pkg:cargo/tauri-plugin-mongoose@0.2.8
 - pkg:cargo/tauri-plugin-mongoose@0.2.9
 - pkg:cargo/tauri-plugin-mongoose@0.3.0
+- pkg:cargo/tauri-plugin-mongoose@0.3.1
+- pkg:cargo/tauri-plugin-mongoose@0.3.2
