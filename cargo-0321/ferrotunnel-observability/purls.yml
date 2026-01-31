@@ -1,1 +1,2 @@
 - pkg:cargo/ferrotunnel-observability@0.9.0
+- pkg:cargo/ferrotunnel-observability@0.9.5
