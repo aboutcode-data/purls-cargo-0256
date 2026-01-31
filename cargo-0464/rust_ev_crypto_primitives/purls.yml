@@ -19,3 +19,4 @@
 - pkg:cargo/rust_ev_crypto_primitives@0.8.1
 - pkg:cargo/rust_ev_crypto_primitives@0.8.2
 - pkg:cargo/rust_ev_crypto_primitives@0.8.3
+- pkg:cargo/rust_ev_crypto_primitives@0.8.4
