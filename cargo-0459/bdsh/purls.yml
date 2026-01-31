@@ -6,6 +6,11 @@
 - pkg:cargo/bdsh@0.1.8
 - pkg:cargo/bdsh@0.2.0
 - pkg:cargo/bdsh@0.2.1
+- pkg:cargo/bdsh@0.2.10
+- pkg:cargo/bdsh@0.2.11
+- pkg:cargo/bdsh@0.2.12
+- pkg:cargo/bdsh@0.2.13
+- pkg:cargo/bdsh@0.2.14
 - pkg:cargo/bdsh@0.2.3
 - pkg:cargo/bdsh@0.2.5
 - pkg:cargo/bdsh@0.2.6
