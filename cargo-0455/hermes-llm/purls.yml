@@ -29,6 +29,8 @@
 - pkg:cargo/hermes-llm@1.4.33
 - pkg:cargo/hermes-llm@1.4.34
 - pkg:cargo/hermes-llm@1.4.35
+- pkg:cargo/hermes-llm@1.4.36
+- pkg:cargo/hermes-llm@1.4.37
 - pkg:cargo/hermes-llm@1.4.4
 - pkg:cargo/hermes-llm@1.4.5
 - pkg:cargo/hermes-llm@1.4.6
