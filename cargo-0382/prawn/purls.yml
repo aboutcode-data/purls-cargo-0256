@@ -2,3 +2,4 @@
 - pkg:cargo/prawn@0.0.2
 - pkg:cargo/prawn@0.0.3
 - pkg:cargo/prawn@0.0.4
+- pkg:cargo/prawn@0.1.0
