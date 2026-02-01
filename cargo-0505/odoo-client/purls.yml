@@ -1,0 +1,4 @@
+- pkg:cargo/odoo-client@0.1.2
+- pkg:cargo/odoo-client@0.1.3
+- pkg:cargo/odoo-client@0.1.4
+- pkg:cargo/odoo-client@0.1.5
