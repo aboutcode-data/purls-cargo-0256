@@ -1,1 +1,3 @@
 - pkg:cargo/wanderlust@0.1.0
+- pkg:cargo/wanderlust@0.2.3
+- pkg:cargo/wanderlust@0.2.4
