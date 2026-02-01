@@ -14,3 +14,4 @@
 - pkg:cargo/move-syn@0.0.5-beta.5
 - pkg:cargo/move-syn@0.0.5-beta.6
 - pkg:cargo/move-syn@0.0.6
+- pkg:cargo/move-syn@0.0.7
