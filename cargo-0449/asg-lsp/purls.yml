@@ -1,3 +1,4 @@
 - pkg:cargo/asg-lsp@1.0.0
 - pkg:cargo/asg-lsp@1.0.1
 - pkg:cargo/asg-lsp@1.0.2
+- pkg:cargo/asg-lsp@1.1.0
