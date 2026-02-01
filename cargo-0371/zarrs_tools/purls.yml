@@ -28,3 +28,5 @@
 - pkg:cargo/zarrs_tools@0.7.7
 - pkg:cargo/zarrs_tools@0.7.8
 - pkg:cargo/zarrs_tools@0.7.9
+- pkg:cargo/zarrs_tools@0.8.0
+- pkg:cargo/zarrs_tools@0.8.1
