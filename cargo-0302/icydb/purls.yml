@@ -77,3 +77,4 @@
 - pkg:cargo/icydb@0.5.7
 - pkg:cargo/icydb@0.5.8
 - pkg:cargo/icydb@0.5.9
+- pkg:cargo/icydb@0.6.0
