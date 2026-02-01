@@ -21,3 +21,4 @@
 - pkg:cargo/saa-crypto@0.26.7
 - pkg:cargo/saa-crypto@0.26.9
 - pkg:cargo/saa-crypto@0.27.0
+- pkg:cargo/saa-crypto@0.27.1
