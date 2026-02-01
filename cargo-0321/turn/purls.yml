@@ -12,6 +12,7 @@
 - pkg:cargo/turn@0.1.9
 - pkg:cargo/turn@0.10.0
 - pkg:cargo/turn@0.11.0
+- pkg:cargo/turn@0.17.0
 - pkg:cargo/turn@0.2.0
 - pkg:cargo/turn@0.2.1
 - pkg:cargo/turn@0.2.2
