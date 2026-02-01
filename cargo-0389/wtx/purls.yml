@@ -50,6 +50,7 @@
 - pkg:cargo/wtx@0.41.7
 - pkg:cargo/wtx@0.41.8
 - pkg:cargo/wtx@0.41.9
+- pkg:cargo/wtx@0.42.0
 - pkg:cargo/wtx@0.5.0
 - pkg:cargo/wtx@0.5.1
 - pkg:cargo/wtx@0.5.2
