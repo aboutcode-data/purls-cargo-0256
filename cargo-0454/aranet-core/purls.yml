@@ -1,4 +1,5 @@
 - pkg:cargo/aranet-core@0.1.1
+- pkg:cargo/aranet-core@0.1.11
 - pkg:cargo/aranet-core@0.1.2
 - pkg:cargo/aranet-core@0.1.3
 - pkg:cargo/aranet-core@0.1.4
