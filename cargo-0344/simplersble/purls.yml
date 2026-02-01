@@ -50,6 +50,7 @@
 - pkg:cargo/simplersble@0.10.4-dev7
 - pkg:cargo/simplersble@0.10.4-dev8
 - pkg:cargo/simplersble@0.10.4-dev9
+- pkg:cargo/simplersble@0.11.0
 - pkg:cargo/simplersble@0.11.0-dev1
 - pkg:cargo/simplersble@0.11.0-dev10
 - pkg:cargo/simplersble@0.11.0-dev11
@@ -85,6 +86,8 @@
 - pkg:cargo/simplersble@0.11.0-dev6
 - pkg:cargo/simplersble@0.11.0-dev7
 - pkg:cargo/simplersble@0.11.0-dev8
+- pkg:cargo/simplersble@0.11.1-dev1
+- pkg:cargo/simplersble@0.11.1-dev2
 - pkg:cargo/simplersble@0.6.0
 - pkg:cargo/simplersble@0.6.0-alpha1
 - pkg:cargo/simplersble@0.6.0-alpha2
