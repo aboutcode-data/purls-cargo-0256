@@ -4,9 +4,14 @@
 - pkg:cargo/inferadb-common-storage@0.1.0-canary.15%2B976eef7
 - pkg:cargo/inferadb-common-storage@0.1.0-canary.16%2Bd7c3774
 - pkg:cargo/inferadb-common-storage@0.1.0-canary.17%2B2008825
+- pkg:cargo/inferadb-common-storage@0.1.0-canary.18%2Bd036fb3
+- pkg:cargo/inferadb-common-storage@0.1.0-canary.19%2Bb464ceb
 - pkg:cargo/inferadb-common-storage@0.1.0-canary.9%2B16e732d
+- pkg:cargo/inferadb-common-storage@0.1.0-dev.20260201.20%2B2e68c59
+- pkg:cargo/inferadb-common-storage@0.1.0-dev.20260201.21%2B3aa0711
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260127
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260128
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260129
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260130
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260131
+- pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260201
