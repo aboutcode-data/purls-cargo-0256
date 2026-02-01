@@ -1,1 +1,2 @@
 - pkg:cargo/rrq-producer@0.9.8
+- pkg:cargo/rrq-producer@0.9.9

@@ -5,3 +5,4 @@
 - pkg:cargo/pg_interval@0.3.0
 - pkg:cargo/pg_interval@0.4.1
 - pkg:cargo/pg_interval@0.4.2
+- pkg:cargo/pg_interval@0.4.3
