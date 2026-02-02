@@ -5,3 +5,4 @@
 - pkg:cargo/rtc-interceptor-derive@0.8.2
 - pkg:cargo/rtc-interceptor-derive@0.8.3
 - pkg:cargo/rtc-interceptor-derive@0.8.4
+- pkg:cargo/rtc-interceptor-derive@0.8.5
