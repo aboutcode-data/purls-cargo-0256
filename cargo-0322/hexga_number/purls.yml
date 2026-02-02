@@ -28,6 +28,7 @@
 - pkg:cargo/hexga_number@0.0.11-beta.47
 - pkg:cargo/hexga_number@0.0.11-beta.48
 - pkg:cargo/hexga_number@0.0.11-beta.49
+- pkg:cargo/hexga_number@0.0.11-beta.50
 - pkg:cargo/hexga_number@0.0.2
 - pkg:cargo/hexga_number@0.0.3
 - pkg:cargo/hexga_number@0.0.4
