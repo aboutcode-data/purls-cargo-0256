@@ -3,3 +3,4 @@
 - pkg:cargo/tree-sitter-yang@0.1.1-beta.1
 - pkg:cargo/tree-sitter-yang@0.1.1-beta.3
 - pkg:cargo/tree-sitter-yang@0.1.1-rc.1
+- pkg:cargo/tree-sitter-yang@0.1.2
