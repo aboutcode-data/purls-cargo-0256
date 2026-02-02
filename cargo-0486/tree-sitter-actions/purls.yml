@@ -14,3 +14,4 @@
 - pkg:cargo/tree-sitter-actions@0.7.0
 - pkg:cargo/tree-sitter-actions@0.9.0
 - pkg:cargo/tree-sitter-actions@0.9.1
+- pkg:cargo/tree-sitter-actions@0.9.4

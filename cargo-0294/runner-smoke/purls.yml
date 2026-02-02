@@ -12,3 +12,4 @@
 - pkg:cargo/runner-smoke@0.4.26
 - pkg:cargo/runner-smoke@0.4.27
 - pkg:cargo/runner-smoke@0.4.28
+- pkg:cargo/runner-smoke@0.4.29
