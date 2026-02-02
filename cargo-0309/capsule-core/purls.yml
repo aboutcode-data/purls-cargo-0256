@@ -2,3 +2,4 @@
 - pkg:cargo/capsule-core@0.2.2
 - pkg:cargo/capsule-core@0.4.2
 - pkg:cargo/capsule-core@0.5.0
+- pkg:cargo/capsule-core@0.5.1
