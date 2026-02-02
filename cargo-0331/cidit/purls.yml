@@ -13,3 +13,4 @@
 - pkg:cargo/cidit@0.0.22
 - pkg:cargo/cidit@0.0.9
 - pkg:cargo/cidit@1.0.0
+- pkg:cargo/cidit@2.0.0

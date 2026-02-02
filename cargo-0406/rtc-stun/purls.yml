@@ -17,3 +17,4 @@
 - pkg:cargo/rtc-stun@0.8.1
 - pkg:cargo/rtc-stun@0.8.2
 - pkg:cargo/rtc-stun@0.8.3
+- pkg:cargo/rtc-stun@0.8.4
