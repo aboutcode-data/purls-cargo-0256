@@ -12,3 +12,4 @@
 - pkg:cargo/rust-mcp-macros@0.5.2
 - pkg:cargo/rust-mcp-macros@0.5.3
 - pkg:cargo/rust-mcp-macros@0.8.0
+- pkg:cargo/rust-mcp-macros@0.8.1
