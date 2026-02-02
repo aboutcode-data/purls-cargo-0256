@@ -14,3 +14,4 @@
 - pkg:cargo/shah-macros@1.6.0
 - pkg:cargo/shah-macros@1.7.0
 - pkg:cargo/shah-macros@1.8.0
+- pkg:cargo/shah-macros@1.9.0
