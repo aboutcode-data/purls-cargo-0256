@@ -87,6 +87,7 @@
 - pkg:cargo/crypto-bigint@0.7.0-rc.22
 - pkg:cargo/crypto-bigint@0.7.0-rc.23
 - pkg:cargo/crypto-bigint@0.7.0-rc.24
+- pkg:cargo/crypto-bigint@0.7.0-rc.25
 - pkg:cargo/crypto-bigint@0.7.0-rc.3
 - pkg:cargo/crypto-bigint@0.7.0-rc.4
 - pkg:cargo/crypto-bigint@0.7.0-rc.5
