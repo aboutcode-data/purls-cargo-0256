@@ -1,6 +1,7 @@
 - pkg:cargo/assay-evidence@2.10.0
 - pkg:cargo/assay-evidence@2.10.1
 - pkg:cargo/assay-evidence@2.12.0
+- pkg:cargo/assay-evidence@2.13.0
 - pkg:cargo/assay-evidence@2.6.0
 - pkg:cargo/assay-evidence@2.7.0
 - pkg:cargo/assay-evidence@2.8.0
