@@ -98,3 +98,4 @@
 - pkg:cargo/tauri-utils@2.7.0
 - pkg:cargo/tauri-utils@2.8.0
 - pkg:cargo/tauri-utils@2.8.1
+- pkg:cargo/tauri-utils@2.8.2
