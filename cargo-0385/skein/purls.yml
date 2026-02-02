@@ -3,3 +3,4 @@
 - pkg:cargo/skein@0.1.1
 - pkg:cargo/skein@0.2.0-rc.0
 - pkg:cargo/skein@0.2.0-rc.1
+- pkg:cargo/skein@0.2.0-rc.2
