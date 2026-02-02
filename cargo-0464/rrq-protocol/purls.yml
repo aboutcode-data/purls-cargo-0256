@@ -1,2 +1,3 @@
+- pkg:cargo/rrq-protocol@0.9.10
 - pkg:cargo/rrq-protocol@0.9.8
 - pkg:cargo/rrq-protocol@0.9.9
