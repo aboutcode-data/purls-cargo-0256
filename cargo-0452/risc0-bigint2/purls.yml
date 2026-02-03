@@ -19,6 +19,7 @@
 - pkg:cargo/risc0-bigint2@1.4.10
 - pkg:cargo/risc0-bigint2@1.4.11
 - pkg:cargo/risc0-bigint2@1.4.12-rc.1
+- pkg:cargo/risc0-bigint2@1.4.13
 - pkg:cargo/risc0-bigint2@1.4.2
 - pkg:cargo/risc0-bigint2@1.4.3
 - pkg:cargo/risc0-bigint2@1.4.3-rc.1
