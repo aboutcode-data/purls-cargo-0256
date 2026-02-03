@@ -41,3 +41,4 @@
 - pkg:cargo/hyper-boring@4.9.0
 - pkg:cargo/hyper-boring@4.9.1
 - pkg:cargo/hyper-boring@5.0.0-alpha.1
+- pkg:cargo/hyper-boring@5.0.0-alpha.3
