@@ -11,3 +11,5 @@
 - pkg:cargo/shvbroker@3.20.7
 - pkg:cargo/shvbroker@3.20.8
 - pkg:cargo/shvbroker@3.21.2
+- pkg:cargo/shvbroker@3.22.0
+- pkg:cargo/shvbroker@3.22.1
