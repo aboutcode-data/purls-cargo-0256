@@ -1,3 +1,4 @@
 - pkg:cargo/ternsig@0.2.0
 - pkg:cargo/ternsig@0.3.0
 - pkg:cargo/ternsig@0.4.0
+- pkg:cargo/ternsig@1.4.0
