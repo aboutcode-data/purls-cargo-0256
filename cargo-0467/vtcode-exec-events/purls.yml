@@ -246,6 +246,8 @@
 - pkg:cargo/vtcode-exec-events@0.74.12
 - pkg:cargo/vtcode-exec-events@0.74.13
 - pkg:cargo/vtcode-exec-events@0.74.14
+- pkg:cargo/vtcode-exec-events@0.74.15
+- pkg:cargo/vtcode-exec-events@0.74.16
 - pkg:cargo/vtcode-exec-events@0.74.2
 - pkg:cargo/vtcode-exec-events@0.74.4
 - pkg:cargo/vtcode-exec-events@0.74.5
