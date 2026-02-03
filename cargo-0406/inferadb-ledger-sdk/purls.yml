@@ -1,3 +1,4 @@
 - pkg:cargo/inferadb-ledger-sdk@0.1.0-canary.29
 - pkg:cargo/inferadb-ledger-sdk@0.1.0-dev.20260202
+- pkg:cargo/inferadb-ledger-sdk@0.1.0-dev.20260202.31
 - pkg:cargo/inferadb-ledger-sdk@0.1.0-nightly.20260127
