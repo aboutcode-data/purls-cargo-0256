@@ -26,6 +26,7 @@
 - pkg:cargo/rabbitmqadmin@2.21.0
 - pkg:cargo/rabbitmqadmin@2.22.0
 - pkg:cargo/rabbitmqadmin@2.23.0
+- pkg:cargo/rabbitmqadmin@2.24.0
 - pkg:cargo/rabbitmqadmin@2.3.0
 - pkg:cargo/rabbitmqadmin@2.4.0
 - pkg:cargo/rabbitmqadmin@2.5.0
