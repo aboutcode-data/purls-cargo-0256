@@ -10,6 +10,7 @@
 - pkg:cargo/historyprovider@2.6.1
 - pkg:cargo/historyprovider@2.6.10
 - pkg:cargo/historyprovider@2.6.11
+- pkg:cargo/historyprovider@2.6.12
 - pkg:cargo/historyprovider@2.6.2
 - pkg:cargo/historyprovider@2.6.3
 - pkg:cargo/historyprovider@2.6.4
