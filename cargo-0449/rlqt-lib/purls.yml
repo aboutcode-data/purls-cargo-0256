@@ -3,3 +3,4 @@
 - pkg:cargo/rlqt-lib@0.15.0
 - pkg:cargo/rlqt-lib@0.17.0
 - pkg:cargo/rlqt-lib@0.18.0
+- pkg:cargo/rlqt-lib@0.19.0
