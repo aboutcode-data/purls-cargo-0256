@@ -49,3 +49,4 @@
 - pkg:cargo/near-o11y@0.34.3
 - pkg:cargo/near-o11y@0.34.4
 - pkg:cargo/near-o11y@0.34.5
+- pkg:cargo/near-o11y@0.34.6

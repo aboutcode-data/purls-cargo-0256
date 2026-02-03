@@ -1,2 +1,3 @@
 - pkg:cargo/neptune-dashboard@0.4.0
 - pkg:cargo/neptune-dashboard@0.5.0
+- pkg:cargo/neptune-dashboard@0.6.0
