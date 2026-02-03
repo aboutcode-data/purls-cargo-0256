@@ -1,1 +1,2 @@
 - pkg:cargo/jasm-assembler@0.0.0
+- pkg:cargo/jasm-assembler@0.0.4
