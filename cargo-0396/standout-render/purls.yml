@@ -10,3 +10,5 @@
 - pkg:cargo/standout-render@3.7.0
 - pkg:cargo/standout-render@3.8.0
 - pkg:cargo/standout-render@4.0.0
+- pkg:cargo/standout-render@5.0.0
+- pkg:cargo/standout-render@6.0.0

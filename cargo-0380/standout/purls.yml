@@ -13,3 +13,5 @@
 - pkg:cargo/standout@3.7.0
 - pkg:cargo/standout@3.8.0
 - pkg:cargo/standout@4.0.0
+- pkg:cargo/standout@5.0.0
+- pkg:cargo/standout@6.0.0
