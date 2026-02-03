@@ -3,3 +3,5 @@
 - pkg:cargo/cruster-macros@0.0.5
 - pkg:cargo/cruster-macros@0.0.6
 - pkg:cargo/cruster-macros@0.0.7
+- pkg:cargo/cruster-macros@0.0.8
+- pkg:cargo/cruster-macros@0.0.9
