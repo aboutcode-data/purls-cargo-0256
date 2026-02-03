@@ -247,6 +247,7 @@
 - pkg:cargo/vtcode-markdown-store@0.74.14
 - pkg:cargo/vtcode-markdown-store@0.74.15
 - pkg:cargo/vtcode-markdown-store@0.74.16
+- pkg:cargo/vtcode-markdown-store@0.74.17
 - pkg:cargo/vtcode-markdown-store@0.74.2
 - pkg:cargo/vtcode-markdown-store@0.74.4
 - pkg:cargo/vtcode-markdown-store@0.74.5
@@ -254,3 +255,5 @@
 - pkg:cargo/vtcode-markdown-store@0.74.7
 - pkg:cargo/vtcode-markdown-store@0.74.8
 - pkg:cargo/vtcode-markdown-store@0.74.9
+- pkg:cargo/vtcode-markdown-store@0.75.0
+- pkg:cargo/vtcode-markdown-store@0.75.1
