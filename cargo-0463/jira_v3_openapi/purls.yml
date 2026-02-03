@@ -30,3 +30,4 @@
 - pkg:cargo/jira_v3_openapi@1.5.1
 - pkg:cargo/jira_v3_openapi@1.5.2
 - pkg:cargo/jira_v3_openapi@1.5.3
+- pkg:cargo/jira_v3_openapi@1.6.0

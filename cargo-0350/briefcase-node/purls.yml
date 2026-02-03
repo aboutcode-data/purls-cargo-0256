@@ -1,4 +1,12 @@
 - pkg:cargo/briefcase-node@2.1.10
+- pkg:cargo/briefcase-node@2.1.11
+- pkg:cargo/briefcase-node@2.1.13
+- pkg:cargo/briefcase-node@2.1.14
+- pkg:cargo/briefcase-node@2.1.15
+- pkg:cargo/briefcase-node@2.1.16
+- pkg:cargo/briefcase-node@2.1.17
+- pkg:cargo/briefcase-node@2.1.18
+- pkg:cargo/briefcase-node@2.1.19
 - pkg:cargo/briefcase-node@2.1.5
 - pkg:cargo/briefcase-node@2.1.6
 - pkg:cargo/briefcase-node@2.1.7
