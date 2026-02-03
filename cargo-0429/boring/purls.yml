@@ -49,3 +49,4 @@
 - pkg:cargo/boring@4.9.1
 - pkg:cargo/boring@5.0.0-alpha.1
 - pkg:cargo/boring@5.0.0-alpha.2
+- pkg:cargo/boring@5.0.0-alpha.3
