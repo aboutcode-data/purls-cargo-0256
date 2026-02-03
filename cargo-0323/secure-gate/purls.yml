@@ -28,6 +28,7 @@
 - pkg:cargo/secure-gate@0.7.0-rc.1
 - pkg:cargo/secure-gate@0.7.0-rc.11
 - pkg:cargo/secure-gate@0.7.0-rc.12
+- pkg:cargo/secure-gate@0.7.0-rc.14
 - pkg:cargo/secure-gate@0.7.0-rc.2
 - pkg:cargo/secure-gate@0.7.0-rc.3
 - pkg:cargo/secure-gate@0.7.0-rc.4
