@@ -12,3 +12,4 @@
 - pkg:cargo/feldera-macros@0.234.0
 - pkg:cargo/feldera-macros@0.235.0
 - pkg:cargo/feldera-macros@0.236.0
+- pkg:cargo/feldera-macros@0.237.0
