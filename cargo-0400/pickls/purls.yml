@@ -23,6 +23,7 @@
 - pkg:cargo/pickls@0.6.15
 - pkg:cargo/pickls@0.6.16
 - pkg:cargo/pickls@0.6.17
+- pkg:cargo/pickls@0.6.18
 - pkg:cargo/pickls@0.6.2
 - pkg:cargo/pickls@0.6.4
 - pkg:cargo/pickls@0.6.5
