@@ -7,6 +7,8 @@
 - pkg:cargo/icydb-derive@0.6.16
 - pkg:cargo/icydb-derive@0.6.17
 - pkg:cargo/icydb-derive@0.6.18
+- pkg:cargo/icydb-derive@0.6.19
+- pkg:cargo/icydb-derive@0.6.20
 - pkg:cargo/icydb-derive@0.6.5
 - pkg:cargo/icydb-derive@0.6.6
 - pkg:cargo/icydb-derive@0.6.7

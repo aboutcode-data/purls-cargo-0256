@@ -2,6 +2,7 @@
 - pkg:cargo/soar-cli@0.10.1
 - pkg:cargo/soar-cli@0.10.2
 - pkg:cargo/soar-cli@0.10.3
+- pkg:cargo/soar-cli@0.11.0
 - pkg:cargo/soar-cli@0.4.1
 - pkg:cargo/soar-cli@0.4.2
 - pkg:cargo/soar-cli@0.4.3
