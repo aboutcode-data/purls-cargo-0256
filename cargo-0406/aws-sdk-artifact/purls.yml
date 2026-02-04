@@ -81,4 +81,5 @@
 - pkg:cargo/aws-sdk-artifact@1.81.0
 - pkg:cargo/aws-sdk-artifact@1.82.0
 - pkg:cargo/aws-sdk-artifact@1.83.0
+- pkg:cargo/aws-sdk-artifact@1.84.0
 - pkg:cargo/aws-sdk-artifact@1.9.0
