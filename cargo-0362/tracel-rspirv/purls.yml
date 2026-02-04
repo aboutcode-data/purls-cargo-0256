@@ -1,1 +1,2 @@
 - pkg:cargo/tracel-rspirv@0.12.0
+- pkg:cargo/tracel-rspirv@0.12.1%2Bsdk-1.4.341.0
