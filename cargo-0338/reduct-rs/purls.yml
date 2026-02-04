@@ -12,6 +12,7 @@
 - pkg:cargo/reduct-rs@1.17.0
 - pkg:cargo/reduct-rs@1.17.1
 - pkg:cargo/reduct-rs@1.17.2
+- pkg:cargo/reduct-rs@1.18.0
 - pkg:cargo/reduct-rs@1.6.0
 - pkg:cargo/reduct-rs@1.6.1
 - pkg:cargo/reduct-rs@1.6.2
