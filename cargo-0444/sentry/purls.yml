@@ -83,6 +83,7 @@
 - pkg:cargo/sentry@0.45.0
 - pkg:cargo/sentry@0.46.0
 - pkg:cargo/sentry@0.46.1
+- pkg:cargo/sentry@0.46.2
 - pkg:cargo/sentry@0.5.0
 - pkg:cargo/sentry@0.5.1
 - pkg:cargo/sentry@0.5.2

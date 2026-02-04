@@ -46,3 +46,4 @@
 - pkg:cargo/sentry-panic@0.45.0
 - pkg:cargo/sentry-panic@0.46.0
 - pkg:cargo/sentry-panic@0.46.1
+- pkg:cargo/sentry-panic@0.46.2
