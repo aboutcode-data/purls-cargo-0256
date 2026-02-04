@@ -58,6 +58,7 @@
 - pkg:cargo/s3rs@0.4.31
 - pkg:cargo/s3rs@0.4.32
 - pkg:cargo/s3rs@0.4.33
+- pkg:cargo/s3rs@0.4.34
 - pkg:cargo/s3rs@0.4.4
 - pkg:cargo/s3rs@0.4.5
 - pkg:cargo/s3rs@0.4.7
