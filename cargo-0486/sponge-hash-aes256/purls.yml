@@ -21,3 +21,4 @@
 - pkg:cargo/sponge-hash-aes256@1.8.1
 - pkg:cargo/sponge-hash-aes256@1.8.2
 - pkg:cargo/sponge-hash-aes256@1.8.3
+- pkg:cargo/sponge-hash-aes256@1.8.4
