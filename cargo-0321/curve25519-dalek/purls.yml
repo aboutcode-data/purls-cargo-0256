@@ -98,3 +98,4 @@
 - pkg:cargo/curve25519-dalek@5.0.0-pre.3
 - pkg:cargo/curve25519-dalek@5.0.0-pre.4
 - pkg:cargo/curve25519-dalek@5.0.0-pre.5
+- pkg:cargo/curve25519-dalek@5.0.0-pre.6
