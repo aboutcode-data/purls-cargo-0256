@@ -4,3 +4,5 @@
 - pkg:cargo/inspect_path@0.3.1
 - pkg:cargo/inspect_path@0.3.2
 - pkg:cargo/inspect_path@0.3.3
+- pkg:cargo/inspect_path@0.4.0
+- pkg:cargo/inspect_path@0.4.1

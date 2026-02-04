@@ -54,6 +54,7 @@
 - pkg:cargo/pallet-babe@42.0.0
 - pkg:cargo/pallet-babe@43.0.0
 - pkg:cargo/pallet-babe@44.0.0
+- pkg:cargo/pallet-babe@44.0.1
 - pkg:cargo/pallet-babe@45.0.0
 - pkg:cargo/pallet-babe@5.0.0
 - pkg:cargo/pallet-babe@6.0.0

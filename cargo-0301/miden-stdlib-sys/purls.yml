@@ -16,3 +16,4 @@
 - pkg:cargo/miden-stdlib-sys@0.7.0
 - pkg:cargo/miden-stdlib-sys@0.7.1
 - pkg:cargo/miden-stdlib-sys@0.8.0
+- pkg:cargo/miden-stdlib-sys@0.9.0
