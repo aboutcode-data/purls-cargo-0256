@@ -11,3 +11,5 @@
 - pkg:cargo/spider_agent@2.44.5
 - pkg:cargo/spider_agent@2.44.6
 - pkg:cargo/spider_agent@2.44.7
+- pkg:cargo/spider_agent@2.44.8
+- pkg:cargo/spider_agent@2.44.9
