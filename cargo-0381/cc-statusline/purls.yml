@@ -1,2 +1,4 @@
 - pkg:cargo/cc-statusline@0.3.0
 - pkg:cargo/cc-statusline@0.5.0
+- pkg:cargo/cc-statusline@0.6.0
+- pkg:cargo/cc-statusline@0.7.0
