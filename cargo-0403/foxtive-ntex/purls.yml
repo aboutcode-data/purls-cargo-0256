@@ -31,6 +31,7 @@
 - pkg:cargo/foxtive-ntex@0.24.2
 - pkg:cargo/foxtive-ntex@0.25.0
 - pkg:cargo/foxtive-ntex@0.25.1
+- pkg:cargo/foxtive-ntex@0.26.0
 - pkg:cargo/foxtive-ntex@0.3.0
 - pkg:cargo/foxtive-ntex@0.4.0
 - pkg:cargo/foxtive-ntex@0.5.0

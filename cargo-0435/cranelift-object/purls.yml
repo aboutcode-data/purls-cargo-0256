@@ -87,6 +87,7 @@
 - pkg:cargo/cranelift-object@0.128.0
 - pkg:cargo/cranelift-object@0.128.1
 - pkg:cargo/cranelift-object@0.128.2
+- pkg:cargo/cranelift-object@0.128.3
 - pkg:cargo/cranelift-object@0.52.0
 - pkg:cargo/cranelift-object@0.53.0
 - pkg:cargo/cranelift-object@0.54.0
