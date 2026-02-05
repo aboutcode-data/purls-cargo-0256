@@ -10,3 +10,5 @@
 - pkg:cargo/s2-sdk@0.23.3
 - pkg:cargo/s2-sdk@0.23.4
 - pkg:cargo/s2-sdk@0.23.5
+- pkg:cargo/s2-sdk@0.23.6
+- pkg:cargo/s2-sdk@0.23.7
