@@ -6,6 +6,8 @@
 - pkg:cargo/spider_agent@0.6.0
 - pkg:cargo/spider_agent@0.6.1
 - pkg:cargo/spider_agent@0.6.2
+- pkg:cargo/spider_agent@2.44.10
+- pkg:cargo/spider_agent@2.44.12
 - pkg:cargo/spider_agent@2.44.3
 - pkg:cargo/spider_agent@2.44.4
 - pkg:cargo/spider_agent@2.44.5

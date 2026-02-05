@@ -25,3 +25,4 @@
 - pkg:cargo/graphene-rs@0.21.5
 - pkg:cargo/graphene-rs@0.22.0-alpha.1
 - pkg:cargo/graphene-rs@0.22.0-alpha.2
+- pkg:cargo/graphene-rs@0.22.0-alpha.3

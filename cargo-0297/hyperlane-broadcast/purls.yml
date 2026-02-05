@@ -43,3 +43,5 @@
 - pkg:cargo/hyperlane-broadcast@1.0.0
 - pkg:cargo/hyperlane-broadcast@1.0.1
 - pkg:cargo/hyperlane-broadcast@1.0.2
+- pkg:cargo/hyperlane-broadcast@2.0.0
+- pkg:cargo/hyperlane-broadcast@2.0.1
