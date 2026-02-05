@@ -14,3 +14,4 @@
 - pkg:cargo/od_opencv@0.3.4
 - pkg:cargo/od_opencv@0.4.0
 - pkg:cargo/od_opencv@0.4.1
+- pkg:cargo/od_opencv@0.5.0
