@@ -51,6 +51,8 @@
 - pkg:cargo/challenge_response@0.5.38
 - pkg:cargo/challenge_response@0.5.39
 - pkg:cargo/challenge_response@0.5.4
+- pkg:cargo/challenge_response@0.5.40
+- pkg:cargo/challenge_response@0.5.41
 - pkg:cargo/challenge_response@0.5.5
 - pkg:cargo/challenge_response@0.5.6
 - pkg:cargo/challenge_response@0.5.7

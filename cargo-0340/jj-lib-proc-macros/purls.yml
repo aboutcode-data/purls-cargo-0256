@@ -24,3 +24,4 @@
 - pkg:cargo/jj-lib-proc-macros@0.35.0
 - pkg:cargo/jj-lib-proc-macros@0.36.0
 - pkg:cargo/jj-lib-proc-macros@0.37.0
+- pkg:cargo/jj-lib-proc-macros@0.38.0
