@@ -14,6 +14,8 @@
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260204.32%2B987d89e
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260204.34%2Bfb329f0
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260204.35%2Bbfbe61d
+- pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260205
+- pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260205.36%2B69d747c
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-nightly.20260127
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-nightly.20260128
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-nightly.20260129
