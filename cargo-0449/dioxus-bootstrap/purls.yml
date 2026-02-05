@@ -8,3 +8,4 @@
 - pkg:cargo/dioxus-bootstrap@0.1.7
 - pkg:cargo/dioxus-bootstrap@0.2.0
 - pkg:cargo/dioxus-bootstrap@0.7.0
+- pkg:cargo/dioxus-bootstrap@0.7.1

@@ -1,2 +1,3 @@
 - pkg:cargo/diskann@0.1.0
 - pkg:cargo/diskann@0.41.0
+- pkg:cargo/diskann@0.45.0
