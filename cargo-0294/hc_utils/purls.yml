@@ -69,3 +69,4 @@
 - pkg:cargo/hc_utils@0.4.2
 - pkg:cargo/hc_utils@0.5.2
 - pkg:cargo/hc_utils@0.5.3
+- pkg:cargo/hc_utils@0.6.1-rc.0
