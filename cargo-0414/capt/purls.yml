@@ -2,3 +2,5 @@
 - pkg:cargo/capt@1.0.0
 - pkg:cargo/capt@2.0.0
 - pkg:cargo/capt@2.0.1
+- pkg:cargo/capt@3.0.0
+- pkg:cargo/capt@3.0.1
