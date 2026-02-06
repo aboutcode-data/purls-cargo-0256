@@ -42,3 +42,4 @@
 - pkg:cargo/orca_whirlpools_client@6.0.0
 - pkg:cargo/orca_whirlpools_client@7.0.0
 - pkg:cargo/orca_whirlpools_client@7.1.0
+- pkg:cargo/orca_whirlpools_client@7.2.0
