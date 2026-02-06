@@ -28,3 +28,4 @@
 - pkg:cargo/tauri-plugin-valtio@3.0.2
 - pkg:cargo/tauri-plugin-valtio@3.1.0
 - pkg:cargo/tauri-plugin-valtio@3.2.0
+- pkg:cargo/tauri-plugin-valtio@3.2.1
