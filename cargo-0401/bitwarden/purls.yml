@@ -6,3 +6,4 @@
 - pkg:cargo/bitwarden@0.4.0
 - pkg:cargo/bitwarden@0.5.0
 - pkg:cargo/bitwarden@1.0.0
+- pkg:cargo/bitwarden@2.0.0
