@@ -1,2 +1,3 @@
 - pkg:cargo/randpass@0.2.0
 - pkg:cargo/randpass@0.3.0
+- pkg:cargo/randpass@0.5.0

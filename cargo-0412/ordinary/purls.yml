@@ -45,7 +45,9 @@
 - pkg:cargo/ordinary@0.5.46
 - pkg:cargo/ordinary@0.5.47
 - pkg:cargo/ordinary@0.5.48
+- pkg:cargo/ordinary@0.5.49
 - pkg:cargo/ordinary@0.5.5
+- pkg:cargo/ordinary@0.5.50
 - pkg:cargo/ordinary@0.5.6
 - pkg:cargo/ordinary@0.5.6-pre
 - pkg:cargo/ordinary@0.5.7

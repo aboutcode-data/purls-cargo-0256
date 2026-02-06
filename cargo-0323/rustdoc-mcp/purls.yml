@@ -6,3 +6,4 @@
 - pkg:cargo/rustdoc-mcp@0.1.5
 - pkg:cargo/rustdoc-mcp@0.1.6
 - pkg:cargo/rustdoc-mcp@0.1.7
+- pkg:cargo/rustdoc-mcp@0.1.8
