@@ -8,3 +8,5 @@
 - pkg:cargo/run@0.3.3
 - pkg:cargo/run@0.3.4
 - pkg:cargo/run@0.3.5
+- pkg:cargo/run@0.3.7
+- pkg:cargo/run@0.3.8
