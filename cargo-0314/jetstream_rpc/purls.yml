@@ -5,6 +5,7 @@
 - pkg:cargo/jetstream_rpc@12.1.0
 - pkg:cargo/jetstream_rpc@13.0.0
 - pkg:cargo/jetstream_rpc@14.0.0
+- pkg:cargo/jetstream_rpc@14.1.0
 - pkg:cargo/jetstream_rpc@5.0.0
 - pkg:cargo/jetstream_rpc@5.2.3
 - pkg:cargo/jetstream_rpc@5.3.0
