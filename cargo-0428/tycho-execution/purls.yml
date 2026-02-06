@@ -75,6 +75,8 @@
 - pkg:cargo/tycho-execution@0.154.2
 - pkg:cargo/tycho-execution@0.154.3
 - pkg:cargo/tycho-execution@0.155.0
+- pkg:cargo/tycho-execution@0.156.0
+- pkg:cargo/tycho-execution@0.157.0
 - pkg:cargo/tycho-execution@0.68.1
 - pkg:cargo/tycho-execution@0.68.2
 - pkg:cargo/tycho-execution@0.69.0
