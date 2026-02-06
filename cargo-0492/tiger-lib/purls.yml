@@ -28,6 +28,7 @@
 - pkg:cargo/tiger-lib@1.12.0
 - pkg:cargo/tiger-lib@1.13.0
 - pkg:cargo/tiger-lib@1.14.0
+- pkg:cargo/tiger-lib@1.15.0
 - pkg:cargo/tiger-lib@1.2.0
 - pkg:cargo/tiger-lib@1.3.0
 - pkg:cargo/tiger-lib@1.4.0
