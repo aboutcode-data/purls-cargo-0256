@@ -23,6 +23,7 @@
 - pkg:cargo/prefixmap@0.1.127
 - pkg:cargo/prefixmap@0.1.137
 - pkg:cargo/prefixmap@0.1.145
+- pkg:cargo/prefixmap@0.1.147
 - pkg:cargo/prefixmap@0.1.2
 - pkg:cargo/prefixmap@0.1.26
 - pkg:cargo/prefixmap@0.1.3
