@@ -56,3 +56,4 @@
 - pkg:cargo/s2n-codec@0.70.0
 - pkg:cargo/s2n-codec@0.71.0
 - pkg:cargo/s2n-codec@0.72.0
+- pkg:cargo/s2n-codec@0.73.0
