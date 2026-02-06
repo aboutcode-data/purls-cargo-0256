@@ -1,3 +1,4 @@
 - pkg:cargo/parquet-variant-compute@0.1.0
 - pkg:cargo/parquet-variant-compute@0.2.0
 - pkg:cargo/parquet-variant-compute@57.2.0
+- pkg:cargo/parquet-variant-compute@57.3.0
