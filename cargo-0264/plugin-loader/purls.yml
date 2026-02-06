@@ -9,4 +9,5 @@
 - pkg:cargo/plugin-loader@0.0.39
 - pkg:cargo/plugin-loader@0.0.40
 - pkg:cargo/plugin-loader@0.0.41
+- pkg:cargo/plugin-loader@0.0.42
 - pkg:cargo/plugin-loader@0.1.1
