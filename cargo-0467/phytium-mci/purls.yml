@@ -1,2 +1,4 @@
 - pkg:cargo/phytium-mci@0.1.0
 - pkg:cargo/phytium-mci@0.1.0-pre.0
+- pkg:cargo/phytium-mci@0.1.1
+- pkg:cargo/phytium-mci@0.2.0-pre.0
