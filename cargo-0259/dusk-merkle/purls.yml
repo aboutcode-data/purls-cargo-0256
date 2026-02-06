@@ -7,3 +7,4 @@
 - pkg:cargo/dusk-merkle@0.5.1
 - pkg:cargo/dusk-merkle@0.5.2
 - pkg:cargo/dusk-merkle@0.5.3
+- pkg:cargo/dusk-merkle@0.6.0-rc.0
