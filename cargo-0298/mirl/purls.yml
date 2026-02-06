@@ -56,3 +56,5 @@
 - pkg:cargo/mirl@7.1.0
 - pkg:cargo/mirl@7.1.2
 - pkg:cargo/mirl@8.0.0
+- pkg:cargo/mirl@9.0.0
+- pkg:cargo/mirl@9.0.1
