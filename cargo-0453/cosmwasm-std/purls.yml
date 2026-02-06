@@ -159,6 +159,9 @@
 - pkg:cargo/cosmwasm-std@2.2.1
 - pkg:cargo/cosmwasm-std@2.2.2
 - pkg:cargo/cosmwasm-std@2.2.3
+- pkg:cargo/cosmwasm-std@2.2.4
+- pkg:cargo/cosmwasm-std@2.2.4-rc.0
+- pkg:cargo/cosmwasm-std@2.2.5
 - pkg:cargo/cosmwasm-std@2.3.0
 - pkg:cargo/cosmwasm-std@3.0.0
 - pkg:cargo/cosmwasm-std@3.0.0-ibc2.0
