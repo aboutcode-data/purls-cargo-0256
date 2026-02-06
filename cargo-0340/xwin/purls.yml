@@ -43,3 +43,4 @@
 - pkg:cargo/xwin@0.6.6-rc.2
 - pkg:cargo/xwin@0.6.7
 - pkg:cargo/xwin@0.7.0
+- pkg:cargo/xwin@0.8.0

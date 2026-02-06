@@ -13,3 +13,4 @@
 - pkg:cargo/c2rust@0.18.0
 - pkg:cargo/c2rust@0.20.0
 - pkg:cargo/c2rust@0.21.0
+- pkg:cargo/c2rust@0.22.0
