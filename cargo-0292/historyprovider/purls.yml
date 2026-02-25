@@ -13,6 +13,10 @@
 - pkg:cargo/historyprovider@2.6.12
 - pkg:cargo/historyprovider@2.6.13
 - pkg:cargo/historyprovider@2.6.14
+- pkg:cargo/historyprovider@2.6.15
+- pkg:cargo/historyprovider@2.6.16
+- pkg:cargo/historyprovider@2.6.17
+- pkg:cargo/historyprovider@2.6.18
 - pkg:cargo/historyprovider@2.6.2
 - pkg:cargo/historyprovider@2.6.3
 - pkg:cargo/historyprovider@2.6.4
@@ -21,3 +25,6 @@
 - pkg:cargo/historyprovider@2.6.7
 - pkg:cargo/historyprovider@2.6.8
 - pkg:cargo/historyprovider@2.6.9
+- pkg:cargo/historyprovider@2.7.0
+- pkg:cargo/historyprovider@2.7.1
+- pkg:cargo/historyprovider@2.7.2

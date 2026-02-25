@@ -5,3 +5,4 @@
 - pkg:cargo/fyrox-math@0.36.1
 - pkg:cargo/fyrox-math@0.36.2
 - pkg:cargo/fyrox-math@1.0.0-rc.1
+- pkg:cargo/fyrox-math@1.0.0-rc.2

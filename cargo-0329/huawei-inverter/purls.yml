@@ -14,6 +14,8 @@
 - pkg:cargo/huawei-inverter@0.14.5
 - pkg:cargo/huawei-inverter@0.14.6
 - pkg:cargo/huawei-inverter@0.14.7
+- pkg:cargo/huawei-inverter@0.14.8
+- pkg:cargo/huawei-inverter@0.15.0
 - pkg:cargo/huawei-inverter@0.2.0
 - pkg:cargo/huawei-inverter@0.2.1
 - pkg:cargo/huawei-inverter@0.3.0

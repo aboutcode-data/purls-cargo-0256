@@ -99,3 +99,4 @@
 - pkg:cargo/leptos_actix@0.8.4
 - pkg:cargo/leptos_actix@0.8.5
 - pkg:cargo/leptos_actix@0.8.6
+- pkg:cargo/leptos_actix@0.8.7

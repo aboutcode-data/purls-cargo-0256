@@ -10,3 +10,5 @@
 - pkg:cargo/neopdf_pyapi@0.2.1-alpha1
 - pkg:cargo/neopdf_pyapi@0.3.0-alpha1
 - pkg:cargo/neopdf_pyapi@0.3.0-alpha2
+- pkg:cargo/neopdf_pyapi@0.3.0-alpha3
+- pkg:cargo/neopdf_pyapi@0.3.0-alpha4

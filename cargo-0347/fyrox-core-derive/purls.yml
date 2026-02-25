@@ -12,3 +12,4 @@
 - pkg:cargo/fyrox-core-derive@0.36.1
 - pkg:cargo/fyrox-core-derive@0.36.2
 - pkg:cargo/fyrox-core-derive@1.0.0-rc.1
+- pkg:cargo/fyrox-core-derive@1.0.0-rc.2

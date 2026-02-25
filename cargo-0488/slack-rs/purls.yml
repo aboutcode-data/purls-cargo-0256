@@ -19,7 +19,13 @@
 - pkg:cargo/slack-rs@0.1.29
 - pkg:cargo/slack-rs@0.1.37
 - pkg:cargo/slack-rs@0.1.43
+- pkg:cargo/slack-rs@0.1.46
+- pkg:cargo/slack-rs@0.1.49
 - pkg:cargo/slack-rs@0.1.6
+- pkg:cargo/slack-rs@0.1.62
+- pkg:cargo/slack-rs@0.1.64
+- pkg:cargo/slack-rs@0.1.66
+- pkg:cargo/slack-rs@0.1.67
 - pkg:cargo/slack-rs@0.1.7
 - pkg:cargo/slack-rs@0.1.8
 - pkg:cargo/slack-rs@0.1.9

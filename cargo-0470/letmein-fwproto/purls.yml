@@ -8,6 +8,7 @@
 - pkg:cargo/letmein-fwproto@11.0.0
 - pkg:cargo/letmein-fwproto@11.1.0
 - pkg:cargo/letmein-fwproto@12.0.0
+- pkg:cargo/letmein-fwproto@12.1.0
 - pkg:cargo/letmein-fwproto@3.0.0
 - pkg:cargo/letmein-fwproto@4.0.0
 - pkg:cargo/letmein-fwproto@5.0.0

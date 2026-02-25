@@ -54,6 +54,7 @@
 - pkg:cargo/ffizer@2.13.4
 - pkg:cargo/ffizer@2.13.5
 - pkg:cargo/ffizer@2.13.6
+- pkg:cargo/ffizer@2.13.7
 - pkg:cargo/ffizer@2.2.0
 - pkg:cargo/ffizer@2.2.1
 - pkg:cargo/ffizer@2.3.0

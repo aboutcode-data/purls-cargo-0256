@@ -1,6 +1,7 @@
 - pkg:cargo/parity-publish@0.1.0
 - pkg:cargo/parity-publish@0.10.0
 - pkg:cargo/parity-publish@0.10.1
+- pkg:cargo/parity-publish@0.10.10
 - pkg:cargo/parity-publish@0.10.2
 - pkg:cargo/parity-publish@0.10.3
 - pkg:cargo/parity-publish@0.10.4
@@ -8,6 +9,7 @@
 - pkg:cargo/parity-publish@0.10.6
 - pkg:cargo/parity-publish@0.10.7
 - pkg:cargo/parity-publish@0.10.8
+- pkg:cargo/parity-publish@0.10.9
 - pkg:cargo/parity-publish@0.2.0
 - pkg:cargo/parity-publish@0.3.0
 - pkg:cargo/parity-publish@0.4.0
