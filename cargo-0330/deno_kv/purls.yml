@@ -46,6 +46,7 @@
 - pkg:cargo/deno_kv@0.14.0
 - pkg:cargo/deno_kv@0.140.0
 - pkg:cargo/deno_kv@0.141.0
+- pkg:cargo/deno_kv@0.142.0
 - pkg:cargo/deno_kv@0.15.0
 - pkg:cargo/deno_kv@0.16.0
 - pkg:cargo/deno_kv@0.17.0
