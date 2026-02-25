@@ -31,6 +31,7 @@
 - pkg:cargo/near-cli-rs@0.23.4
 - pkg:cargo/near-cli-rs@0.23.5
 - pkg:cargo/near-cli-rs@0.23.6
+- pkg:cargo/near-cli-rs@0.23.7
 - pkg:cargo/near-cli-rs@0.3.0
 - pkg:cargo/near-cli-rs@0.3.1
 - pkg:cargo/near-cli-rs@0.3.2
