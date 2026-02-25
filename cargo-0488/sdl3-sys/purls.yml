@@ -41,3 +41,4 @@
 - pkg:cargo/sdl3-sys@0.6.0-pre-0%2BSDL-3.3.2-preview
 - pkg:cargo/sdl3-sys@0.6.0-pre-1%2BSDL-3.3.4-prerelease
 - pkg:cargo/sdl3-sys@0.6.0-pre-2%2BSDL-3.3.6-prerelease
+- pkg:cargo/sdl3-sys@0.6.1%2BSDL-3.4.2

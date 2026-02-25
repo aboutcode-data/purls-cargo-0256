@@ -15,3 +15,4 @@
 - pkg:cargo/fusionauth-rust-client@2.6.0
 - pkg:cargo/fusionauth-rust-client@2.7.0
 - pkg:cargo/fusionauth-rust-client@2.8.0
+- pkg:cargo/fusionauth-rust-client@2.9.0

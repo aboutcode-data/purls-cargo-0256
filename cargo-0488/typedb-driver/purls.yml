@@ -34,6 +34,8 @@
 - pkg:cargo/typedb-driver@2.29.0
 - pkg:cargo/typedb-driver@2.29.2
 - pkg:cargo/typedb-driver@2.29.2-rc0
+- pkg:cargo/typedb-driver@2.29.6
+- pkg:cargo/typedb-driver@2.29.7
 - pkg:cargo/typedb-driver@3.0.0
 - pkg:cargo/typedb-driver@3.0.0-alpha-0
 - pkg:cargo/typedb-driver@3.0.0-alpha-1
@@ -66,3 +68,4 @@
 - pkg:cargo/typedb-driver@3.7.0-rc3
 - pkg:cargo/typedb-driver@3.7.0-rc4
 - pkg:cargo/typedb-driver@3.8.0
+- pkg:cargo/typedb-driver@3.8.0-alpha-1

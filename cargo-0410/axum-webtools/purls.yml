@@ -33,6 +33,12 @@
 - pkg:cargo/axum-webtools@0.1.39
 - pkg:cargo/axum-webtools@0.1.4
 - pkg:cargo/axum-webtools@0.1.40
+- pkg:cargo/axum-webtools@0.1.41
+- pkg:cargo/axum-webtools@0.1.42
+- pkg:cargo/axum-webtools@0.1.43
+- pkg:cargo/axum-webtools@0.1.44
+- pkg:cargo/axum-webtools@0.1.45
+- pkg:cargo/axum-webtools@0.1.46
 - pkg:cargo/axum-webtools@0.1.5
 - pkg:cargo/axum-webtools@0.1.6
 - pkg:cargo/axum-webtools@0.1.7

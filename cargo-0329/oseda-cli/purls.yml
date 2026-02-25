@@ -19,3 +19,5 @@
 - pkg:cargo/oseda-cli@2.1.7
 - pkg:cargo/oseda-cli@2.2.1
 - pkg:cargo/oseda-cli@2.2.2
+- pkg:cargo/oseda-cli@2.3.0
+- pkg:cargo/oseda-cli@2.3.1

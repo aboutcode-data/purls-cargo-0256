@@ -17,3 +17,4 @@
 - pkg:cargo/vortex-scan@0.57.0-rc.0
 - pkg:cargo/vortex-scan@0.57.2
 - pkg:cargo/vortex-scan@0.58.0
+- pkg:cargo/vortex-scan@0.59.4

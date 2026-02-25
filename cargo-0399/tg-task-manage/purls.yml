@@ -1,1 +1,6 @@
 - pkg:cargo/tg-task-manage@0.1.0-preview.1
+- pkg:cargo/tg-task-manage@0.4.0-preview.1
+- pkg:cargo/tg-task-manage@0.4.0-preview.2
+- pkg:cargo/tg-task-manage@0.4.0-preview.3
+- pkg:cargo/tg-task-manage@0.4.1-preview.1
+- pkg:cargo/tg-task-manage@0.4.2-preview.1
