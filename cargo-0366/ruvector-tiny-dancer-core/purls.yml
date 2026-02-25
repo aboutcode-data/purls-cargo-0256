@@ -3,3 +3,4 @@
 - pkg:cargo/ruvector-tiny-dancer-core@0.1.22
 - pkg:cargo/ruvector-tiny-dancer-core@0.1.25
 - pkg:cargo/ruvector-tiny-dancer-core@0.1.30
+- pkg:cargo/ruvector-tiny-dancer-core@2.0.4

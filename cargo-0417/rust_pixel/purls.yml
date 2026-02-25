@@ -34,3 +34,8 @@
 - pkg:cargo/rust_pixel@1.0.6
 - pkg:cargo/rust_pixel@1.0.7
 - pkg:cargo/rust_pixel@1.0.8
+- pkg:cargo/rust_pixel@2.0.0
+- pkg:cargo/rust_pixel@2.1.0
+- pkg:cargo/rust_pixel@2.1.1
+- pkg:cargo/rust_pixel@2.1.2
+- pkg:cargo/rust_pixel@2.2.0

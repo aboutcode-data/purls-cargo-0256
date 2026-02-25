@@ -7,3 +7,5 @@
 - pkg:cargo/andes-riscv@0.1.2
 - pkg:cargo/andes-riscv@0.1.3
 - pkg:cargo/andes-riscv@0.1.4
+- pkg:cargo/andes-riscv@0.2.0
+- pkg:cargo/andes-riscv@0.3.0

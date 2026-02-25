@@ -8,3 +8,4 @@
 - pkg:cargo/rustnet-monitor@0.17.0
 - pkg:cargo/rustnet-monitor@0.18.0
 - pkg:cargo/rustnet-monitor@0.8.0
+- pkg:cargo/rustnet-monitor@1.0.0

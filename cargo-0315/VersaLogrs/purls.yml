@@ -8,3 +8,4 @@
 - pkg:cargo/VersaLogrs@1.6.6
 - pkg:cargo/VersaLogrs@1.6.7
 - pkg:cargo/VersaLogrs@1.6.8
+- pkg:cargo/VersaLogrs@2.0.0

@@ -10,3 +10,7 @@
 - pkg:cargo/ruvector-core@0.1.29
 - pkg:cargo/ruvector-core@0.1.30
 - pkg:cargo/ruvector-core@0.1.31
+- pkg:cargo/ruvector-core@2.0.1
+- pkg:cargo/ruvector-core@2.0.2
+- pkg:cargo/ruvector-core@2.0.3
+- pkg:cargo/ruvector-core@2.0.4

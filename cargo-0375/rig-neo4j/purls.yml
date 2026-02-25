@@ -35,3 +35,4 @@
 - pkg:cargo/rig-neo4j@0.4.6
 - pkg:cargo/rig-neo4j@0.4.7
 - pkg:cargo/rig-neo4j@0.4.8
+- pkg:cargo/rig-neo4j@0.4.9

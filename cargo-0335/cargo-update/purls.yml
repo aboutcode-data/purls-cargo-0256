@@ -77,6 +77,8 @@
 - pkg:cargo/cargo-update@16.4.0
 - pkg:cargo/cargo-update@17.0.0
 - pkg:cargo/cargo-update@18.0.0
+- pkg:cargo/cargo-update@18.1.0
+- pkg:cargo/cargo-update@18.1.1
 - pkg:cargo/cargo-update@2.0.0
 - pkg:cargo/cargo-update@2.1.0
 - pkg:cargo/cargo-update@2.2.0

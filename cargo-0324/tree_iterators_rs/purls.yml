@@ -19,3 +19,4 @@
 - pkg:cargo/tree_iterators_rs@3.5.0
 - pkg:cargo/tree_iterators_rs@3.5.1
 - pkg:cargo/tree_iterators_rs@3.5.2
+- pkg:cargo/tree_iterators_rs@3.6.0

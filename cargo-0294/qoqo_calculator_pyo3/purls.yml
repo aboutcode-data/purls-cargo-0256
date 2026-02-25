@@ -44,3 +44,4 @@
 - pkg:cargo/qoqo_calculator_pyo3@1.6.1
 - pkg:cargo/qoqo_calculator_pyo3@1.7.0
 - pkg:cargo/qoqo_calculator_pyo3@1.7.1
+- pkg:cargo/qoqo_calculator_pyo3@1.8.0

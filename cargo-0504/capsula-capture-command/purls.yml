@@ -1,4 +1,5 @@
 - pkg:cargo/capsula-capture-command@0.10.0
+- pkg:cargo/capsula-capture-command@0.11.0
 - pkg:cargo/capsula-capture-command@0.3.0
 - pkg:cargo/capsula-capture-command@0.9.0
 - pkg:cargo/capsula-capture-command@0.9.1

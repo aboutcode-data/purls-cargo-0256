@@ -75,6 +75,7 @@
 - pkg:cargo/cargo-show-asm@0.2.53
 - pkg:cargo/cargo-show-asm@0.2.54
 - pkg:cargo/cargo-show-asm@0.2.55
+- pkg:cargo/cargo-show-asm@0.2.56
 - pkg:cargo/cargo-show-asm@0.2.6
 - pkg:cargo/cargo-show-asm@0.2.7
 - pkg:cargo/cargo-show-asm@0.2.8

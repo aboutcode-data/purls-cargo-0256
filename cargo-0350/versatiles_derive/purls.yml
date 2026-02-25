@@ -55,3 +55,7 @@
 - pkg:cargo/versatiles_derive@3.2.0
 - pkg:cargo/versatiles_derive@3.3.0
 - pkg:cargo/versatiles_derive@3.4.0
+- pkg:cargo/versatiles_derive@3.5.0
+- pkg:cargo/versatiles_derive@3.6.0
+- pkg:cargo/versatiles_derive@3.6.1
+- pkg:cargo/versatiles_derive@3.6.2
