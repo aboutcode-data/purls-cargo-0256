@@ -14,3 +14,4 @@
 - pkg:cargo/audionimbus-sys@4.8.0
 - pkg:cargo/audionimbus-sys@4.8.0-rc.1
 - pkg:cargo/audionimbus-sys@4.8.0-rc.2
+- pkg:cargo/audionimbus-sys@4.8.1

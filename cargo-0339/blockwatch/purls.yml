@@ -29,6 +29,9 @@
 - pkg:cargo/blockwatch@0.2.2
 - pkg:cargo/blockwatch@0.2.20
 - pkg:cargo/blockwatch@0.2.21
+- pkg:cargo/blockwatch@0.2.22
+- pkg:cargo/blockwatch@0.2.23
+- pkg:cargo/blockwatch@0.2.24
 - pkg:cargo/blockwatch@0.2.3
 - pkg:cargo/blockwatch@0.2.4
 - pkg:cargo/blockwatch@0.2.5

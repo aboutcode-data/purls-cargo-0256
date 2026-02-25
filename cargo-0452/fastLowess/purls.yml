@@ -11,3 +11,4 @@
 - pkg:cargo/fastLowess@0.99.9
 - pkg:cargo/fastLowess@1.1.0
 - pkg:cargo/fastLowess@1.1.1
+- pkg:cargo/fastLowess@1.1.2

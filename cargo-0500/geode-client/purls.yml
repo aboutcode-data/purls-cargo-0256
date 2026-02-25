@@ -1,3 +1,6 @@
 - pkg:cargo/geode-client@0.1.1-alpha.11
+- pkg:cargo/geode-client@0.1.1-alpha.15
+- pkg:cargo/geode-client@0.1.1-alpha.17
+- pkg:cargo/geode-client@0.1.1-alpha.20
 - pkg:cargo/geode-client@0.1.1-alpha.4
 - pkg:cargo/geode-client@0.1.1-alpha.8

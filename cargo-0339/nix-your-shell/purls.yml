@@ -16,3 +16,4 @@
 - pkg:cargo/nix-your-shell@1.4.6
 - pkg:cargo/nix-your-shell@1.4.7
 - pkg:cargo/nix-your-shell@1.4.8
+- pkg:cargo/nix-your-shell@1.4.9

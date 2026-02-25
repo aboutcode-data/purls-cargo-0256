@@ -9,3 +9,8 @@
 - pkg:cargo/shvclient@0.24.0
 - pkg:cargo/shvclient@0.25.0
 - pkg:cargo/shvclient@0.26.0
+- pkg:cargo/shvclient@0.27.0
+- pkg:cargo/shvclient@0.28.0
+- pkg:cargo/shvclient@1.0.0
+- pkg:cargo/shvclient@1.0.1
+- pkg:cargo/shvclient@2.0.0

@@ -14,3 +14,4 @@
 - pkg:cargo/fbsim-core@1.0.0-alpha.8
 - pkg:cargo/fbsim-core@1.0.0-alpha.9
 - pkg:cargo/fbsim-core@1.0.0-beta.1
+- pkg:cargo/fbsim-core@1.0.0-beta.2

@@ -8,3 +8,6 @@
 - pkg:cargo/brahe@0.4.0
 - pkg:cargo/brahe@1.0.0
 - pkg:cargo/brahe@1.0.1
+- pkg:cargo/brahe@1.1.0
+- pkg:cargo/brahe@1.1.1
+- pkg:cargo/brahe@1.1.2

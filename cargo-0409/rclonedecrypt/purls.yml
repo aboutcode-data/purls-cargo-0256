@@ -25,6 +25,10 @@
 - pkg:cargo/rclonedecrypt@0.2.31
 - pkg:cargo/rclonedecrypt@0.2.32
 - pkg:cargo/rclonedecrypt@0.2.33
+- pkg:cargo/rclonedecrypt@0.2.34
+- pkg:cargo/rclonedecrypt@0.2.35
+- pkg:cargo/rclonedecrypt@0.2.36
+- pkg:cargo/rclonedecrypt@0.2.37
 - pkg:cargo/rclonedecrypt@0.2.4
 - pkg:cargo/rclonedecrypt@0.2.5
 - pkg:cargo/rclonedecrypt@0.2.6
