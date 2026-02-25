@@ -15,3 +15,7 @@
 - pkg:cargo/email-address-parser@2.0.0-rc1
 - pkg:cargo/email-address-parser@2.0.0-rc2
 - pkg:cargo/email-address-parser@2.0.0-rc3
+- pkg:cargo/email-address-parser@2.0.1
+- pkg:cargo/email-address-parser@2.0.2
+- pkg:cargo/email-address-parser@3.0.0-rc1
+- pkg:cargo/email-address-parser@3.0.0-rc2

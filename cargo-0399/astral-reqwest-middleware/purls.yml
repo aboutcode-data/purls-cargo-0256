@@ -1,1 +1,2 @@
 - pkg:cargo/astral-reqwest-middleware@0.4.2
+- pkg:cargo/astral-reqwest-middleware@0.5.1

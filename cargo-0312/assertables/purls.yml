@@ -69,3 +69,5 @@
 - pkg:cargo/assertables@9.8.2
 - pkg:cargo/assertables@9.8.3
 - pkg:cargo/assertables@9.8.4
+- pkg:cargo/assertables@9.8.5
+- pkg:cargo/assertables@9.8.6

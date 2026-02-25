@@ -22,3 +22,4 @@
 - pkg:cargo/solana-package-metadata@2.2.0
 - pkg:cargo/solana-package-metadata@2.2.1
 - pkg:cargo/solana-package-metadata@3.0.0
+- pkg:cargo/solana-package-metadata@3.0.1

@@ -23,4 +23,6 @@
 - pkg:cargo/solana-clock@2.2.0
 - pkg:cargo/solana-clock@2.2.1
 - pkg:cargo/solana-clock@2.2.2
+- pkg:cargo/solana-clock@2.2.3
 - pkg:cargo/solana-clock@3.0.0
+- pkg:cargo/solana-clock@3.0.1

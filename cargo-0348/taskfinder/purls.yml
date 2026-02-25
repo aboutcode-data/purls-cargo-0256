@@ -13,6 +13,7 @@
 - pkg:cargo/taskfinder@2.11.0
 - pkg:cargo/taskfinder@2.12.0
 - pkg:cargo/taskfinder@2.13.0
+- pkg:cargo/taskfinder@2.14.0
 - pkg:cargo/taskfinder@2.2.0
 - pkg:cargo/taskfinder@2.2.1
 - pkg:cargo/taskfinder@2.3.0

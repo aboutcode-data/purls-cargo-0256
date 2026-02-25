@@ -11,3 +11,4 @@
 - pkg:cargo/embed-collections@0.2.4
 - pkg:cargo/embed-collections@0.3.0
 - pkg:cargo/embed-collections@0.3.1
+- pkg:cargo/embed-collections@0.4.0

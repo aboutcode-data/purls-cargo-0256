@@ -73,3 +73,5 @@
 - pkg:cargo/harper-tree-sitter@1.4.1
 - pkg:cargo/harper-tree-sitter@1.5.1
 - pkg:cargo/harper-tree-sitter@1.6.0
+- pkg:cargo/harper-tree-sitter@1.7.0
+- pkg:cargo/harper-tree-sitter@1.8.0

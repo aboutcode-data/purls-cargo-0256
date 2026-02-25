@@ -126,3 +126,4 @@
 - pkg:cargo/varlociraptor@8.9.1
 - pkg:cargo/varlociraptor@8.9.2
 - pkg:cargo/varlociraptor@8.9.3
+- pkg:cargo/varlociraptor@8.9.5

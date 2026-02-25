@@ -24,3 +24,4 @@
 - pkg:cargo/solana-serde-varint@2.2.1
 - pkg:cargo/solana-serde-varint@2.2.2
 - pkg:cargo/solana-serde-varint@3.0.0
+- pkg:cargo/solana-serde-varint@3.0.1

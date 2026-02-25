@@ -3,6 +3,8 @@
 - pkg:cargo/win32_notif@0.10.2
 - pkg:cargo/win32_notif@0.10.4
 - pkg:cargo/win32_notif@0.10.5
+- pkg:cargo/win32_notif@0.10.6
+- pkg:cargo/win32_notif@0.10.7
 - pkg:cargo/win32_notif@0.2.0
 - pkg:cargo/win32_notif@0.2.1
 - pkg:cargo/win32_notif@0.2.2

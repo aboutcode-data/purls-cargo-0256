@@ -5,3 +5,4 @@
 - pkg:cargo/assets_manager-rodio@0.5.0
 - pkg:cargo/assets_manager-rodio@0.5.0-migration
 - pkg:cargo/assets_manager-rodio@0.6.0
+- pkg:cargo/assets_manager-rodio@0.7.0

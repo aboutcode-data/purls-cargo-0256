@@ -36,3 +36,4 @@
 - pkg:cargo/email-lib@0.26.2
 - pkg:cargo/email-lib@0.26.3
 - pkg:cargo/email-lib@0.26.4
+- pkg:cargo/email-lib@0.27.0

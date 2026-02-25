@@ -1,1 +1,5 @@
 - pkg:cargo/tauri-browser@0.1.0
+- pkg:cargo/tauri-browser@0.2.3
+- pkg:cargo/tauri-browser@0.2.4
+- pkg:cargo/tauri-browser@0.3.0
+- pkg:cargo/tauri-browser@0.4.0
