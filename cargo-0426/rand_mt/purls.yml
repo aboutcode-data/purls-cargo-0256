@@ -10,3 +10,5 @@
 - pkg:cargo/rand_mt@4.2.1
 - pkg:cargo/rand_mt@4.2.2
 - pkg:cargo/rand_mt@5.0.0
+- pkg:cargo/rand_mt@6.0.0
+- pkg:cargo/rand_mt@6.0.1

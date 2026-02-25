@@ -6,4 +6,5 @@
 - pkg:cargo/radicle-term@0.14.0
 - pkg:cargo/radicle-term@0.15.0
 - pkg:cargo/radicle-term@0.16.0
+- pkg:cargo/radicle-term@0.17.0
 - pkg:cargo/radicle-term@0.9.0

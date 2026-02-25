@@ -4,3 +4,6 @@
 - pkg:cargo/rapina-macros@0.1.0-alpha.4
 - pkg:cargo/rapina-macros@0.2.0
 - pkg:cargo/rapina-macros@0.2.1
+- pkg:cargo/rapina-macros@0.4.0
+- pkg:cargo/rapina-macros@0.5.0
+- pkg:cargo/rapina-macros@0.6.0

@@ -3,3 +3,5 @@
 - pkg:cargo/bobcat-alloc@0.7.22
 - pkg:cargo/bobcat-alloc@0.7.23
 - pkg:cargo/bobcat-alloc@0.7.24
+- pkg:cargo/bobcat-alloc@0.7.25
+- pkg:cargo/bobcat-alloc@0.7.26

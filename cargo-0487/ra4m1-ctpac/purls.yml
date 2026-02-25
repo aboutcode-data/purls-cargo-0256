@@ -3,3 +3,5 @@
 - pkg:cargo/ra4m1-ctpac@0.1.7-dev1
 - pkg:cargo/ra4m1-ctpac@0.1.8-dev
 - pkg:cargo/ra4m1-ctpac@0.1.9
+- pkg:cargo/ra4m1-ctpac@0.2.0
+- pkg:cargo/ra4m1-ctpac@0.2.1
