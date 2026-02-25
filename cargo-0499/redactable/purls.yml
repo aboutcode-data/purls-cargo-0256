@@ -13,3 +13,7 @@
 - pkg:cargo/redactable@0.5.1
 - pkg:cargo/redactable@0.5.2
 - pkg:cargo/redactable@0.5.3
+- pkg:cargo/redactable@0.6.0
+- pkg:cargo/redactable@0.6.1
+- pkg:cargo/redactable@0.6.2
+- pkg:cargo/redactable@0.7.0

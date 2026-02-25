@@ -3,3 +3,4 @@
 - pkg:cargo/serde-extensions@0.1.2
 - pkg:cargo/serde-extensions@1.0.0
 - pkg:cargo/serde-extensions@1.0.3
+- pkg:cargo/serde-extensions@1.0.4

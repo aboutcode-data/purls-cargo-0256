@@ -145,3 +145,5 @@
 - pkg:cargo/aws-sdk-groundstation@1.95.0
 - pkg:cargo/aws-sdk-groundstation@1.96.0
 - pkg:cargo/aws-sdk-groundstation@1.97.0
+- pkg:cargo/aws-sdk-groundstation@1.98.0
+- pkg:cargo/aws-sdk-groundstation@1.99.0

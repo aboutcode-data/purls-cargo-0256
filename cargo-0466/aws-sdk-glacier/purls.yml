@@ -139,3 +139,5 @@
 - pkg:cargo/aws-sdk-glacier@1.93.0
 - pkg:cargo/aws-sdk-glacier@1.93.1
 - pkg:cargo/aws-sdk-glacier@1.94.0
+- pkg:cargo/aws-sdk-glacier@1.95.0
+- pkg:cargo/aws-sdk-glacier@1.96.0

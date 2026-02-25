@@ -139,3 +139,5 @@
 - pkg:cargo/aws-sdk-amplifybackend@1.91.0
 - pkg:cargo/aws-sdk-amplifybackend@1.92.0
 - pkg:cargo/aws-sdk-amplifybackend@1.93.0
+- pkg:cargo/aws-sdk-amplifybackend@1.94.0
+- pkg:cargo/aws-sdk-amplifybackend@1.95.0

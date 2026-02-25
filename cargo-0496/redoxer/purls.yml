@@ -60,6 +60,7 @@
 - pkg:cargo/redoxer@0.2.6
 - pkg:cargo/redoxer@0.2.60
 - pkg:cargo/redoxer@0.2.61
+- pkg:cargo/redoxer@0.2.62
 - pkg:cargo/redoxer@0.2.7
 - pkg:cargo/redoxer@0.2.8
 - pkg:cargo/redoxer@0.2.9

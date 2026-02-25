@@ -51,3 +51,4 @@
 - pkg:cargo/vl-convert-rs@1.7.0
 - pkg:cargo/vl-convert-rs@1.8.0
 - pkg:cargo/vl-convert-rs@1.9.0
+- pkg:cargo/vl-convert-rs@2.0.0-rc1

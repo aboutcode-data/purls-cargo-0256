@@ -1,3 +1,5 @@
 - pkg:cargo/reasoning-parser@0.0.1
 - pkg:cargo/reasoning-parser@1.0.0
 - pkg:cargo/reasoning-parser@1.0.1
+- pkg:cargo/reasoning-parser@1.1.0
+- pkg:cargo/reasoning-parser@1.2.0

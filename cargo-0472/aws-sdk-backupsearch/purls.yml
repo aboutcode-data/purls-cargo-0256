@@ -36,6 +36,8 @@
 - pkg:cargo/aws-sdk-backupsearch@1.40.0
 - pkg:cargo/aws-sdk-backupsearch@1.41.0
 - pkg:cargo/aws-sdk-backupsearch@1.42.0
+- pkg:cargo/aws-sdk-backupsearch@1.43.0
+- pkg:cargo/aws-sdk-backupsearch@1.44.0
 - pkg:cargo/aws-sdk-backupsearch@1.5.0
 - pkg:cargo/aws-sdk-backupsearch@1.6.0
 - pkg:cargo/aws-sdk-backupsearch@1.7.0

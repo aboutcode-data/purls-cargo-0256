@@ -101,3 +101,6 @@
 - pkg:cargo/aws-sdk-neptunedata@1.92.0
 - pkg:cargo/aws-sdk-neptunedata@1.93.0
 - pkg:cargo/aws-sdk-neptunedata@1.94.0
+- pkg:cargo/aws-sdk-neptunedata@1.95.0
+- pkg:cargo/aws-sdk-neptunedata@1.96.0
+- pkg:cargo/aws-sdk-neptunedata@1.97.0

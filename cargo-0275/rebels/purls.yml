@@ -19,8 +19,11 @@
 - pkg:cargo/rebels@1.4.0
 - pkg:cargo/rebels@1.5.0
 - pkg:cargo/rebels@1.5.1
+- pkg:cargo/rebels@1.5.10
 - pkg:cargo/rebels@1.5.2
 - pkg:cargo/rebels@1.5.3
 - pkg:cargo/rebels@1.5.4
 - pkg:cargo/rebels@1.5.6
 - pkg:cargo/rebels@1.5.7
+- pkg:cargo/rebels@1.5.8
+- pkg:cargo/rebels@1.5.9

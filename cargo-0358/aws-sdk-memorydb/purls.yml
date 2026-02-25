@@ -144,3 +144,5 @@
 - pkg:cargo/aws-sdk-memorydb@1.95.0
 - pkg:cargo/aws-sdk-memorydb@1.96.0
 - pkg:cargo/aws-sdk-memorydb@1.97.0
+- pkg:cargo/aws-sdk-memorydb@1.98.0
+- pkg:cargo/aws-sdk-memorydb@1.99.0

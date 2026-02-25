@@ -67,6 +67,8 @@
 - pkg:cargo/aws-sdk-lambda@1.113.0
 - pkg:cargo/aws-sdk-lambda@1.114.0
 - pkg:cargo/aws-sdk-lambda@1.115.0
+- pkg:cargo/aws-sdk-lambda@1.116.0
+- pkg:cargo/aws-sdk-lambda@1.117.0
 - pkg:cargo/aws-sdk-lambda@1.12.0
 - pkg:cargo/aws-sdk-lambda@1.13.0
 - pkg:cargo/aws-sdk-lambda@1.13.1

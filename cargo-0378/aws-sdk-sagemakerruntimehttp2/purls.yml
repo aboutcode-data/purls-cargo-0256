@@ -2,3 +2,5 @@
 - pkg:cargo/aws-sdk-sagemakerruntimehttp2@1.1.0
 - pkg:cargo/aws-sdk-sagemakerruntimehttp2@1.2.0
 - pkg:cargo/aws-sdk-sagemakerruntimehttp2@1.3.0
+- pkg:cargo/aws-sdk-sagemakerruntimehttp2@1.4.0
+- pkg:cargo/aws-sdk-sagemakerruntimehttp2@1.5.0

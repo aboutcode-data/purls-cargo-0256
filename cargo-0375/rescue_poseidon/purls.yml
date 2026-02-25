@@ -16,12 +16,15 @@
 - pkg:cargo/rescue_poseidon@0.31.0
 - pkg:cargo/rescue_poseidon@0.32.0
 - pkg:cargo/rescue_poseidon@0.32.1
+- pkg:cargo/rescue_poseidon@0.32.10
 - pkg:cargo/rescue_poseidon@0.32.2
 - pkg:cargo/rescue_poseidon@0.32.3
 - pkg:cargo/rescue_poseidon@0.32.4
 - pkg:cargo/rescue_poseidon@0.32.5
 - pkg:cargo/rescue_poseidon@0.32.6
 - pkg:cargo/rescue_poseidon@0.32.7
+- pkg:cargo/rescue_poseidon@0.32.8
+- pkg:cargo/rescue_poseidon@0.32.9
 - pkg:cargo/rescue_poseidon@0.4.1
 - pkg:cargo/rescue_poseidon@0.5.0
 - pkg:cargo/rescue_poseidon@0.5.1

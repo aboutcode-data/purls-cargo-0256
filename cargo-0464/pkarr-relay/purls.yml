@@ -3,6 +3,8 @@
 - pkg:cargo/pkarr-relay@0.11.0
 - pkg:cargo/pkarr-relay@0.11.1
 - pkg:cargo/pkarr-relay@0.11.3
+- pkg:cargo/pkarr-relay@0.11.4
+- pkg:cargo/pkarr-relay@0.11.5-rc.0
 - pkg:cargo/pkarr-relay@0.2.0
 - pkg:cargo/pkarr-relay@0.3.0
 - pkg:cargo/pkarr-relay@0.4.0

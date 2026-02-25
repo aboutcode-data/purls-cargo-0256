@@ -9,6 +9,7 @@
 - pkg:cargo/aquila_client@0.7.0-rc.1
 - pkg:cargo/aquila_client@0.7.0-rc.10
 - pkg:cargo/aquila_client@0.7.0-rc.11
+- pkg:cargo/aquila_client@0.7.0-rc.13
 - pkg:cargo/aquila_client@0.7.0-rc.3
 - pkg:cargo/aquila_client@0.7.0-rc.4
 - pkg:cargo/aquila_client@0.7.0-rc.5

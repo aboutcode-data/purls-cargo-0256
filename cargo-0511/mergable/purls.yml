@@ -26,5 +26,6 @@
 - pkg:cargo/mergable@0.47.0
 - pkg:cargo/mergable@0.49.0
 - pkg:cargo/mergable@0.51.0
+- pkg:cargo/mergable@0.53.0
 - pkg:cargo/mergable@0.6.0
 - pkg:cargo/mergable@0.8.0

@@ -18,6 +18,10 @@
 - pkg:cargo/sendly@3.12.3
 - pkg:cargo/sendly@3.13.0
 - pkg:cargo/sendly@3.13.1
+- pkg:cargo/sendly@3.15.1
+- pkg:cargo/sendly@3.15.2
+- pkg:cargo/sendly@3.15.3
+- pkg:cargo/sendly@3.17.0
 - pkg:cargo/sendly@3.4.0
 - pkg:cargo/sendly@3.5.2
 - pkg:cargo/sendly@3.5.3

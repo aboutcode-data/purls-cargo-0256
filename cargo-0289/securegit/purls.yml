@@ -1,0 +1,5 @@
+- pkg:cargo/securegit@0.6.0
+- pkg:cargo/securegit@0.6.1
+- pkg:cargo/securegit@0.7.0
+- pkg:cargo/securegit@0.7.1
+- pkg:cargo/securegit@0.7.3

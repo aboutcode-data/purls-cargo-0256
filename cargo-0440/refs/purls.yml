@@ -80,7 +80,13 @@
 - pkg:cargo/refs@0.35.0
 - pkg:cargo/refs@0.36.0
 - pkg:cargo/refs@0.37.0
+- pkg:cargo/refs@0.38.0
+- pkg:cargo/refs@0.39.0
 - pkg:cargo/refs@0.4.0
+- pkg:cargo/refs@0.40.0
+- pkg:cargo/refs@0.41.0
+- pkg:cargo/refs@0.42.0
+- pkg:cargo/refs@0.43.0
 - pkg:cargo/refs@0.5.0
 - pkg:cargo/refs@0.5.1
 - pkg:cargo/refs@0.6.0
