@@ -35,3 +35,4 @@
 - pkg:cargo/gix-features@0.45.1
 - pkg:cargo/gix-features@0.45.2
 - pkg:cargo/gix-features@0.46.0
+- pkg:cargo/gix-features@0.46.1

@@ -27,3 +27,4 @@
 - pkg:cargo/gix-hash@0.21.1
 - pkg:cargo/gix-hash@0.21.2
 - pkg:cargo/gix-hash@0.22.0
+- pkg:cargo/gix-hash@0.22.1

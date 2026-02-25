@@ -13,3 +13,5 @@
 - pkg:cargo/wg-tui@0.1.9
 - pkg:cargo/wg-tui@0.2.0
 - pkg:cargo/wg-tui@0.2.1
+- pkg:cargo/wg-tui@0.3.0
+- pkg:cargo/wg-tui@0.3.1

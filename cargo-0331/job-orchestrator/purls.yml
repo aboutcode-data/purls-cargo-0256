@@ -5,3 +5,6 @@
 - pkg:cargo/job-orchestrator@1.3.0
 - pkg:cargo/job-orchestrator@1.4.0
 - pkg:cargo/job-orchestrator@1.4.1
+- pkg:cargo/job-orchestrator@1.5.0
+- pkg:cargo/job-orchestrator@1.6.0
+- pkg:cargo/job-orchestrator@2.0.0

@@ -53,7 +53,10 @@
 - pkg:cargo/ua_generator@0.5.45
 - pkg:cargo/ua_generator@0.5.46
 - pkg:cargo/ua_generator@0.5.47
+- pkg:cargo/ua_generator@0.5.48
+- pkg:cargo/ua_generator@0.5.49
 - pkg:cargo/ua_generator@0.5.5
+- pkg:cargo/ua_generator@0.5.50
 - pkg:cargo/ua_generator@0.5.6
 - pkg:cargo/ua_generator@0.5.7
 - pkg:cargo/ua_generator@0.5.9

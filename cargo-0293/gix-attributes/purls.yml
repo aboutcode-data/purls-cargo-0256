@@ -32,6 +32,8 @@
 - pkg:cargo/gix-attributes@0.28.1
 - pkg:cargo/gix-attributes@0.29.0
 - pkg:cargo/gix-attributes@0.30.0
+- pkg:cargo/gix-attributes@0.30.1
+- pkg:cargo/gix-attributes@0.31.0
 - pkg:cargo/gix-attributes@0.8.2
 - pkg:cargo/gix-attributes@0.8.3
 - pkg:cargo/gix-attributes@0.9.0

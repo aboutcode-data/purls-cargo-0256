@@ -21,3 +21,4 @@
 - pkg:cargo/rs_bybit@0.3.6
 - pkg:cargo/rs_bybit@0.3.7
 - pkg:cargo/rs_bybit@0.3.8
+- pkg:cargo/rs_bybit@0.4.0

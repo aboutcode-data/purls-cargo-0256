@@ -6,6 +6,7 @@
 - pkg:cargo/zk_os_merkle_tree@28.8.0-non-semver-compat
 - pkg:cargo/zk_os_merkle_tree@29.0.0-non-semver-compat
 - pkg:cargo/zk_os_merkle_tree@29.1.2-non-semver-compat
+- pkg:cargo/zk_os_merkle_tree@29.11.0-non-semver-compat
 - pkg:cargo/zk_os_merkle_tree@29.2.0-non-semver-compat
 - pkg:cargo/zk_os_merkle_tree@29.3.0-non-semver-compat
 - pkg:cargo/zk_os_merkle_tree@29.4.0-non-semver-compat

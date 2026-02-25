@@ -5,3 +5,4 @@
 - pkg:cargo/aranya-policy-ifgen-macro@0.4.1
 - pkg:cargo/aranya-policy-ifgen-macro@0.4.2
 - pkg:cargo/aranya-policy-ifgen-macro@0.5.0
+- pkg:cargo/aranya-policy-ifgen-macro@0.6.0

@@ -46,3 +46,5 @@
 - pkg:cargo/gix-transport@0.52.0
 - pkg:cargo/gix-transport@0.52.1
 - pkg:cargo/gix-transport@0.53.0
+- pkg:cargo/gix-transport@0.54.0
+- pkg:cargo/gix-transport@0.55.0

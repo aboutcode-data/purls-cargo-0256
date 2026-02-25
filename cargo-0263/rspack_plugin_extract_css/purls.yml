@@ -40,3 +40,4 @@
 - pkg:cargo/rspack_plugin_extract_css@0.7.3
 - pkg:cargo/rspack_plugin_extract_css@0.7.4
 - pkg:cargo/rspack_plugin_extract_css@0.7.5
+- pkg:cargo/rspack_plugin_extract_css@0.7.6

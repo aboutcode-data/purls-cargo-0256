@@ -38,3 +38,4 @@
 - pkg:cargo/rspack_plugin_module_info_header@0.7.3
 - pkg:cargo/rspack_plugin_module_info_header@0.7.4
 - pkg:cargo/rspack_plugin_module_info_header@0.7.5
+- pkg:cargo/rspack_plugin_module_info_header@0.7.6

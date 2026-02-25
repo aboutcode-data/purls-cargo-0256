@@ -1,3 +1,5 @@
 - pkg:cargo/zingo-netutils@0.0.1
 - pkg:cargo/zingo-netutils@1.0.0
 - pkg:cargo/zingo-netutils@1.1.0
+- pkg:cargo/zingo-netutils@2.0.0
+- pkg:cargo/zingo-netutils@2.0.1

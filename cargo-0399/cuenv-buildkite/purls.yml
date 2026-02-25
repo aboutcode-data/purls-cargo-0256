@@ -1,1 +1,4 @@
 - pkg:cargo/cuenv-buildkite@0.16.0
+- pkg:cargo/cuenv-buildkite@0.26.11
+- pkg:cargo/cuenv-buildkite@0.26.12
+- pkg:cargo/cuenv-buildkite@0.26.9

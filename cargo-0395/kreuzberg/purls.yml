@@ -35,6 +35,10 @@
 - pkg:cargo/kreuzberg@4.2.1
 - pkg:cargo/kreuzberg@4.2.10
 - pkg:cargo/kreuzberg@4.2.11
+- pkg:cargo/kreuzberg@4.2.12
+- pkg:cargo/kreuzberg@4.2.13
+- pkg:cargo/kreuzberg@4.2.14
+- pkg:cargo/kreuzberg@4.2.15
 - pkg:cargo/kreuzberg@4.2.2
 - pkg:cargo/kreuzberg@4.2.3
 - pkg:cargo/kreuzberg@4.2.4
@@ -43,3 +47,12 @@
 - pkg:cargo/kreuzberg@4.2.7
 - pkg:cargo/kreuzberg@4.2.8
 - pkg:cargo/kreuzberg@4.2.9
+- pkg:cargo/kreuzberg@4.3.0
+- pkg:cargo/kreuzberg@4.3.1
+- pkg:cargo/kreuzberg@4.3.2
+- pkg:cargo/kreuzberg@4.3.3
+- pkg:cargo/kreuzberg@4.3.4
+- pkg:cargo/kreuzberg@4.3.5
+- pkg:cargo/kreuzberg@4.3.6
+- pkg:cargo/kreuzberg@4.3.7
+- pkg:cargo/kreuzberg@4.3.8
