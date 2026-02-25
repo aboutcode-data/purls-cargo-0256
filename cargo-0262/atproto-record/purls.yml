@@ -5,6 +5,7 @@
 - pkg:cargo/atproto-record@0.11.3
 - pkg:cargo/atproto-record@0.12.0
 - pkg:cargo/atproto-record@0.13.0
+- pkg:cargo/atproto-record@0.14.0
 - pkg:cargo/atproto-record@0.3.0
 - pkg:cargo/atproto-record@0.4.0
 - pkg:cargo/atproto-record@0.4.1

@@ -3,3 +3,6 @@
 - pkg:cargo/cloud-image-download@0.5.1
 - pkg:cargo/cloud-image-download@0.5.2
 - pkg:cargo/cloud-image-download@0.5.3
+- pkg:cargo/cloud-image-download@0.5.4
+- pkg:cargo/cloud-image-download@0.5.5
+- pkg:cargo/cloud-image-download@0.5.6

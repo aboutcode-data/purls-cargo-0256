@@ -8,3 +8,4 @@
 - pkg:cargo/synadb@1.0.5
 - pkg:cargo/synadb@1.0.6
 - pkg:cargo/synadb@1.1.0
+- pkg:cargo/synadb@1.1.1

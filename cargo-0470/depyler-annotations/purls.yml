@@ -45,3 +45,4 @@
 - pkg:cargo/depyler-annotations@3.6.0
 - pkg:cargo/depyler-annotations@3.8.0
 - pkg:cargo/depyler-annotations@3.9.0
+- pkg:cargo/depyler-annotations@4.1.1

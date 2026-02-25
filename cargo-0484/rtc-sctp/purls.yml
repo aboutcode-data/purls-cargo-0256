@@ -19,3 +19,4 @@
 - pkg:cargo/rtc-sctp@0.8.3
 - pkg:cargo/rtc-sctp@0.8.4
 - pkg:cargo/rtc-sctp@0.8.5
+- pkg:cargo/rtc-sctp@0.9.0

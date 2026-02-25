@@ -1,3 +1,4 @@
+- pkg:cargo/syncpack@14.0.0
 - pkg:cargo/syncpack@14.0.0-alpha.14
 - pkg:cargo/syncpack@14.0.0-alpha.15
 - pkg:cargo/syncpack@14.0.0-alpha.16

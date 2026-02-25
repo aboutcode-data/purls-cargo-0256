@@ -39,6 +39,10 @@
 - pkg:cargo/systemg@0.20.1
 - pkg:cargo/systemg@0.20.2
 - pkg:cargo/systemg@0.20.3
+- pkg:cargo/systemg@0.20.4
+- pkg:cargo/systemg@0.21.0
+- pkg:cargo/systemg@0.22.0
+- pkg:cargo/systemg@0.23.0
 - pkg:cargo/systemg@0.3.0
 - pkg:cargo/systemg@0.4.0
 - pkg:cargo/systemg@0.5.0

@@ -1,2 +1,5 @@
 - pkg:cargo/nsv-cli@0.0.1
 - pkg:cargo/nsv-cli@0.0.2
+- pkg:cargo/nsv-cli@0.0.3
+- pkg:cargo/nsv-cli@0.0.4
+- pkg:cargo/nsv-cli@0.0.5

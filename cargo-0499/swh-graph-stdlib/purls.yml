@@ -1,6 +1,8 @@
 - pkg:cargo/swh-graph-stdlib@0.1.0
 - pkg:cargo/swh-graph-stdlib@10.0.0
 - pkg:cargo/swh-graph-stdlib@10.1.0
+- pkg:cargo/swh-graph-stdlib@10.2.0
+- pkg:cargo/swh-graph-stdlib@11.0.0
 - pkg:cargo/swh-graph-stdlib@8.0.10
 - pkg:cargo/swh-graph-stdlib@8.0.11
 - pkg:cargo/swh-graph-stdlib@8.0.3

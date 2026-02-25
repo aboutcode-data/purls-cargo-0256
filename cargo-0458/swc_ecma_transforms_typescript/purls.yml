@@ -817,6 +817,7 @@
 - pkg:cargo/swc_ecma_transforms_typescript@39.0.1
 - pkg:cargo/swc_ecma_transforms_typescript@4.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@40.0.0
+- pkg:cargo/swc_ecma_transforms_typescript@41.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@5.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@6.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@7.0.0

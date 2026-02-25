@@ -13,6 +13,7 @@
 - pkg:cargo/swc_formatjs_transform@2.0.0
 - pkg:cargo/swc_formatjs_transform@20.0.0
 - pkg:cargo/swc_formatjs_transform@21.0.0
+- pkg:cargo/swc_formatjs_transform@22.0.0
 - pkg:cargo/swc_formatjs_transform@3.0.0
 - pkg:cargo/swc_formatjs_transform@3.0.1
 - pkg:cargo/swc_formatjs_transform@3.0.2

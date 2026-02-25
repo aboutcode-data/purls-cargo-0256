@@ -1,1 +1,2 @@
 - pkg:cargo/sysd-manager-proxy@2.10.1
+- pkg:cargo/sysd-manager-proxy@2.13.0

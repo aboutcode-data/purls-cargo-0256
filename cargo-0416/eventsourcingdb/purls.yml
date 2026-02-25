@@ -13,3 +13,5 @@
 - pkg:cargo/eventsourcingdb@1.0.0
 - pkg:cargo/eventsourcingdb@1.0.1
 - pkg:cargo/eventsourcingdb@1.1.0
+- pkg:cargo/eventsourcingdb@2.0.0
+- pkg:cargo/eventsourcingdb@2.0.1

@@ -166,6 +166,9 @@
 - pkg:cargo/deno_crypto@0.242.0
 - pkg:cargo/deno_crypto@0.243.0
 - pkg:cargo/deno_crypto@0.244.0
+- pkg:cargo/deno_crypto@0.245.0
+- pkg:cargo/deno_crypto@0.246.0
+- pkg:cargo/deno_crypto@0.247.0
 - pkg:cargo/deno_crypto@0.25.0
 - pkg:cargo/deno_crypto@0.26.0
 - pkg:cargo/deno_crypto@0.27.0

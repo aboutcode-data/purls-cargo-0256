@@ -2,3 +2,4 @@
 - pkg:cargo/systemd-unit-edit@0.1.1
 - pkg:cargo/systemd-unit-edit@0.1.2
 - pkg:cargo/systemd-unit-edit@0.1.3
+- pkg:cargo/systemd-unit-edit@0.1.4

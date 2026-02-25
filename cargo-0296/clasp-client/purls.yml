@@ -6,3 +6,8 @@
 - pkg:cargo/clasp-client@3.1.0
 - pkg:cargo/clasp-client@3.2.0
 - pkg:cargo/clasp-client@3.3.0
+- pkg:cargo/clasp-client@3.3.1
+- pkg:cargo/clasp-client@4.0.0
+- pkg:cargo/clasp-client@4.0.1
+- pkg:cargo/clasp-client@4.0.2
+- pkg:cargo/clasp-client@4.0.3

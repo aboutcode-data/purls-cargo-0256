@@ -81,3 +81,5 @@
 - pkg:cargo/lambert_w@1.2.7
 - pkg:cargo/lambert_w@1.2.8
 - pkg:cargo/lambert_w@1.2.9
+- pkg:cargo/lambert_w@2.0.0
+- pkg:cargo/lambert_w@2.0.0-beta.1
