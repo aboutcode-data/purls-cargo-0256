@@ -1,1 +1,2 @@
 - pkg:cargo/minotari_ledger_wallet_comms@5.1.0
+- pkg:cargo/minotari_ledger_wallet_comms@5.2.1

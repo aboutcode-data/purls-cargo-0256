@@ -1,2 +1,4 @@
 - pkg:cargo/libsql-rs@0.2.10
+- pkg:cargo/libsql-rs@0.2.11
+- pkg:cargo/libsql-rs@0.2.12
 - pkg:cargo/libsql-rs@0.2.9

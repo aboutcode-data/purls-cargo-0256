@@ -17,3 +17,4 @@
 - pkg:cargo/microcad-builtin@0.2.5
 - pkg:cargo/microcad-builtin@0.2.6
 - pkg:cargo/microcad-builtin@0.2.9
+- pkg:cargo/microcad-builtin@0.3.0

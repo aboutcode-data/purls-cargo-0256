@@ -1,3 +1,4 @@
 - pkg:cargo/light-instruction-decoder@0.1.0
 - pkg:cargo/light-instruction-decoder@0.2.0
 - pkg:cargo/light-instruction-decoder@0.20.0
+- pkg:cargo/light-instruction-decoder@0.22.0

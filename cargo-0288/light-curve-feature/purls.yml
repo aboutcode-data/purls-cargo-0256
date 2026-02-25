@@ -40,6 +40,8 @@
 - pkg:cargo/light-curve-feature@0.1.8-beta.1
 - pkg:cargo/light-curve-feature@0.1.9
 - pkg:cargo/light-curve-feature@0.10.0
+- pkg:cargo/light-curve-feature@0.11.0
+- pkg:cargo/light-curve-feature@0.12.0
 - pkg:cargo/light-curve-feature@0.2.0
 - pkg:cargo/light-curve-feature@0.2.0-alpha.1
 - pkg:cargo/light-curve-feature@0.2.0-beta.0

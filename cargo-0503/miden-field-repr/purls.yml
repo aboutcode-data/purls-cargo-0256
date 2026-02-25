@@ -1,2 +1,3 @@
 - pkg:cargo/miden-field-repr@0.0.0
+- pkg:cargo/miden-field-repr@0.10.0
 - pkg:cargo/miden-field-repr@0.9.0

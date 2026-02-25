@@ -19,3 +19,4 @@
 - pkg:cargo/librqbit-dualstack-sockets@0.6.7
 - pkg:cargo/librqbit-dualstack-sockets@0.6.8
 - pkg:cargo/librqbit-dualstack-sockets@0.6.9
+- pkg:cargo/librqbit-dualstack-sockets@0.7.0

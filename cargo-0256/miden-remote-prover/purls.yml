@@ -17,3 +17,4 @@
 - pkg:cargo/miden-remote-prover@0.13.2
 - pkg:cargo/miden-remote-prover@0.13.3
 - pkg:cargo/miden-remote-prover@0.13.4
+- pkg:cargo/miden-remote-prover@0.13.5

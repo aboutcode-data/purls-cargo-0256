@@ -50,6 +50,8 @@
 - pkg:cargo/libpna@0.3.2
 - pkg:cargo/libpna@0.3.3
 - pkg:cargo/libpna@0.30.0
+- pkg:cargo/libpna@0.31.0
+- pkg:cargo/libpna@0.31.1
 - pkg:cargo/libpna@0.4.0
 - pkg:cargo/libpna@0.5.0
 - pkg:cargo/libpna@0.6.0

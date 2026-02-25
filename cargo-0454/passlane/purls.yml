@@ -14,3 +14,4 @@
 - pkg:cargo/passlane@2.4.3
 - pkg:cargo/passlane@2.5.0
 - pkg:cargo/passlane@2.5.1
+- pkg:cargo/passlane@3.0.1

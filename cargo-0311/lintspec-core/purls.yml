@@ -1,0 +1,4 @@
+- pkg:cargo/lintspec-core@0.1.0
+- pkg:cargo/lintspec-core@0.13.0
+- pkg:cargo/lintspec-core@0.14.0
+- pkg:cargo/lintspec-core@0.15.0

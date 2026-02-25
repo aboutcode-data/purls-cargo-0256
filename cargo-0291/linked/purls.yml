@@ -44,3 +44,5 @@
 - pkg:cargo/linked@1.0.3
 - pkg:cargo/linked@1.0.4
 - pkg:cargo/linked@1.0.5
+- pkg:cargo/linked@1.0.6
+- pkg:cargo/linked@1.0.7

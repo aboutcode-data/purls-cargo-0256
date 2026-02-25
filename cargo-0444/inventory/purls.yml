@@ -30,6 +30,7 @@
 - pkg:cargo/inventory@0.3.2
 - pkg:cargo/inventory@0.3.20
 - pkg:cargo/inventory@0.3.21
+- pkg:cargo/inventory@0.3.22
 - pkg:cargo/inventory@0.3.3
 - pkg:cargo/inventory@0.3.4
 - pkg:cargo/inventory@0.3.5

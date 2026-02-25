@@ -16,3 +16,5 @@
 - pkg:cargo/interprocess@2.2.2
 - pkg:cargo/interprocess@2.2.3
 - pkg:cargo/interprocess@2.3.0
+- pkg:cargo/interprocess@2.3.1
+- pkg:cargo/interprocess@2.4.0

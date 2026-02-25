@@ -39,6 +39,7 @@
 - pkg:cargo/chunkify@0.6.44
 - pkg:cargo/chunkify@0.6.45
 - pkg:cargo/chunkify@0.6.46
+- pkg:cargo/chunkify@0.6.47
 - pkg:cargo/chunkify@0.6.5
 - pkg:cargo/chunkify@0.6.6
 - pkg:cargo/chunkify@0.6.7
