@@ -6,3 +6,4 @@
 - pkg:cargo/minifind@0.6.3
 - pkg:cargo/minifind@0.6.4
 - pkg:cargo/minifind@0.7.0
+- pkg:cargo/minifind@0.7.1
