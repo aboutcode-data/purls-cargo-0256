@@ -7,3 +7,4 @@
 - pkg:cargo/google-cloud-cloudsecuritycompliance-v1@2.2.0
 - pkg:cargo/google-cloud-cloudsecuritycompliance-v1@2.3.0
 - pkg:cargo/google-cloud-cloudsecuritycompliance-v1@2.4.0
+- pkg:cargo/google-cloud-cloudsecuritycompliance-v1@2.5.0

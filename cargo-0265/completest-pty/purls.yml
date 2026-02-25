@@ -7,3 +7,4 @@
 - pkg:cargo/completest-pty@0.5.3
 - pkg:cargo/completest-pty@0.5.4
 - pkg:cargo/completest-pty@0.5.5
+- pkg:cargo/completest-pty@1.0.0

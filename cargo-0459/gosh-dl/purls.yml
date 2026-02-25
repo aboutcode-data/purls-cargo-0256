@@ -5,3 +5,7 @@
 - pkg:cargo/gosh-dl@0.1.4
 - pkg:cargo/gosh-dl@0.1.5
 - pkg:cargo/gosh-dl@0.1.6
+- pkg:cargo/gosh-dl@0.2.2
+- pkg:cargo/gosh-dl@0.2.3
+- pkg:cargo/gosh-dl@0.2.5
+- pkg:cargo/gosh-dl@0.2.7

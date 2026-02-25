@@ -11,3 +11,4 @@
 - pkg:cargo/cosmian_cli@1.7.1
 - pkg:cargo/cosmian_cli@1.8.0
 - pkg:cargo/cosmian_cli@1.8.1
+- pkg:cargo/cosmian_cli@1.9.0

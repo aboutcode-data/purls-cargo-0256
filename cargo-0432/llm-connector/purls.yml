@@ -41,6 +41,12 @@
 - pkg:cargo/llm-connector@0.5.1
 - pkg:cargo/llm-connector@0.5.11
 - pkg:cargo/llm-connector@0.5.13
+- pkg:cargo/llm-connector@0.5.14
+- pkg:cargo/llm-connector@0.5.15
+- pkg:cargo/llm-connector@0.5.16
+- pkg:cargo/llm-connector@0.5.17
+- pkg:cargo/llm-connector@0.5.18
+- pkg:cargo/llm-connector@0.5.19
 - pkg:cargo/llm-connector@0.5.2
 - pkg:cargo/llm-connector@0.5.3
 - pkg:cargo/llm-connector@0.5.4
@@ -49,3 +55,7 @@
 - pkg:cargo/llm-connector@0.5.7
 - pkg:cargo/llm-connector@0.5.8
 - pkg:cargo/llm-connector@0.5.9
+- pkg:cargo/llm-connector@0.6.0
+- pkg:cargo/llm-connector@0.6.1
+- pkg:cargo/llm-connector@0.7.0
+- pkg:cargo/llm-connector@0.7.1

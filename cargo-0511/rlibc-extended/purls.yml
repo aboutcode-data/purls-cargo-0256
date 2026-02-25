@@ -1,1 +1,2 @@
 - pkg:cargo/rlibc-extended@1.0.0
+- pkg:cargo/rlibc-extended@1.0.1

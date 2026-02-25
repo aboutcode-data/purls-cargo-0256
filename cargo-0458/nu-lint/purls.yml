@@ -139,3 +139,4 @@
 - pkg:cargo/nu-lint@0.0.99
 - pkg:cargo/nu-lint@0.1.0
 - pkg:cargo/nu-lint@0.1.1
+- pkg:cargo/nu-lint@0.1.3

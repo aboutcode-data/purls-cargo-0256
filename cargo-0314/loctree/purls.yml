@@ -15,6 +15,10 @@
 - pkg:cargo/loctree@0.6.6
 - pkg:cargo/loctree@0.7.3
 - pkg:cargo/loctree@0.7.4
+- pkg:cargo/loctree@0.8.10
+- pkg:cargo/loctree@0.8.11
+- pkg:cargo/loctree@0.8.13
+- pkg:cargo/loctree@0.8.14
 - pkg:cargo/loctree@0.8.4
 - pkg:cargo/loctree@0.8.7
 - pkg:cargo/loctree@0.8.8

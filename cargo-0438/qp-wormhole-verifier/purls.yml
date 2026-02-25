@@ -6,3 +6,6 @@
 - pkg:cargo/qp-wormhole-verifier@0.2.1
 - pkg:cargo/qp-wormhole-verifier@1.0.0
 - pkg:cargo/qp-wormhole-verifier@1.0.1
+- pkg:cargo/qp-wormhole-verifier@1.0.5
+- pkg:cargo/qp-wormhole-verifier@1.0.6
+- pkg:cargo/qp-wormhole-verifier@1.0.7

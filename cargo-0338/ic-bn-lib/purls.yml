@@ -4,6 +4,7 @@
 - pkg:cargo/ic-bn-lib@0.1.12
 - pkg:cargo/ic-bn-lib@0.1.13
 - pkg:cargo/ic-bn-lib@0.1.14
+- pkg:cargo/ic-bn-lib@0.1.15
 - pkg:cargo/ic-bn-lib@0.1.4
 - pkg:cargo/ic-bn-lib@0.1.5
 - pkg:cargo/ic-bn-lib@0.1.6

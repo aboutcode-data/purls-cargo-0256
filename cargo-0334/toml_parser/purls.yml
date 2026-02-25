@@ -5,3 +5,6 @@
 - pkg:cargo/toml_parser@1.0.4
 - pkg:cargo/toml_parser@1.0.5%2Bspec-1.0.0
 - pkg:cargo/toml_parser@1.0.6%2Bspec-1.1.0
+- pkg:cargo/toml_parser@1.0.7%2Bspec-1.1.0
+- pkg:cargo/toml_parser@1.0.8%2Bspec-1.1.0
+- pkg:cargo/toml_parser@1.0.9%2Bspec-1.1.0

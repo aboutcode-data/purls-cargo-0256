@@ -1,0 +1,3 @@
+- pkg:cargo/toro-auth-mongo@1.0.0
+- pkg:cargo/toro-auth-mongo@1.0.2
+- pkg:cargo/toro-auth-mongo@1.0.3
