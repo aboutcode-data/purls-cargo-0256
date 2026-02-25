@@ -1,3 +1,4 @@
 - pkg:cargo/websock-tungstenite@0.0.1
 - pkg:cargo/websock-tungstenite@0.1.0
 - pkg:cargo/websock-tungstenite@0.2.0
+- pkg:cargo/websock-tungstenite@0.3.0

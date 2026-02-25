@@ -52,3 +52,6 @@
 - pkg:cargo/onepass@2.2.6
 - pkg:cargo/onepass@2.3.0
 - pkg:cargo/onepass@2.3.1
+- pkg:cargo/onepass@2.3.2
+- pkg:cargo/onepass@3.0.0-pre.0
+- pkg:cargo/onepass@3.0.0-pre.1

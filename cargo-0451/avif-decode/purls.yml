@@ -3,3 +3,4 @@
 - pkg:cargo/avif-decode@0.2.2
 - pkg:cargo/avif-decode@1.0.0
 - pkg:cargo/avif-decode@1.0.1
+- pkg:cargo/avif-decode@1.0.2

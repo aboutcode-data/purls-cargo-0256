@@ -5,3 +5,4 @@
 - pkg:cargo/spin-executor@5.0.0
 - pkg:cargo/spin-executor@5.1.0
 - pkg:cargo/spin-executor@5.1.1
+- pkg:cargo/spin-executor@5.2.0

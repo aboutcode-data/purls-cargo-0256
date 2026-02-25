@@ -8,3 +8,5 @@
 - pkg:cargo/webgraph@0.3.0
 - pkg:cargo/webgraph@0.4.0
 - pkg:cargo/webgraph@0.5.0
+- pkg:cargo/webgraph@0.6.0
+- pkg:cargo/webgraph@0.6.1

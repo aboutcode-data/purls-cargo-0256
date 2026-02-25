@@ -1,1 +1,4 @@
 - pkg:cargo/spacetimedb-query-builder@1.12.0
+- pkg:cargo/spacetimedb-query-builder@2.0.0
+- pkg:cargo/spacetimedb-query-builder@2.0.0-rc1
+- pkg:cargo/spacetimedb-query-builder@2.0.1

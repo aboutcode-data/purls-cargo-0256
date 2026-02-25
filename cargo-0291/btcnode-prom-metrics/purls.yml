@@ -1,0 +1,2 @@
+- pkg:cargo/btcnode-prom-metrics@0.2.0
+- pkg:cargo/btcnode-prom-metrics@1.0.0

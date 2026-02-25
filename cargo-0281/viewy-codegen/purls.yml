@@ -81,3 +81,8 @@
 - pkg:cargo/viewy-codegen@2.0.4
 - pkg:cargo/viewy-codegen@2.0.5
 - pkg:cargo/viewy-codegen@2.0.6
+- pkg:cargo/viewy-codegen@3.0.0-alpha.1
+- pkg:cargo/viewy-codegen@3.0.0-alpha.4
+- pkg:cargo/viewy-codegen@3.0.0-alpha.5
+- pkg:cargo/viewy-codegen@3.0.0-alpha.6
+- pkg:cargo/viewy-codegen@3.0.0-alpha.7

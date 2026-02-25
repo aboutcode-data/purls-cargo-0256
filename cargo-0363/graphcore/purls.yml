@@ -4,3 +4,5 @@
 - pkg:cargo/graphcore@0.2.3
 - pkg:cargo/graphcore@0.7.0
 - pkg:cargo/graphcore@0.8.0
+- pkg:cargo/graphcore@0.8.1
+- pkg:cargo/graphcore@0.8.2
