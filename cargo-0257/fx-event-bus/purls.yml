@@ -1,5 +1,6 @@
 - pkg:cargo/fx-event-bus@0.1.0
 - pkg:cargo/fx-event-bus@0.1.10
+- pkg:cargo/fx-event-bus@0.1.13
 - pkg:cargo/fx-event-bus@0.1.4
 - pkg:cargo/fx-event-bus@0.1.5
 - pkg:cargo/fx-event-bus@0.1.7

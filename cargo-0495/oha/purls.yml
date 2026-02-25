@@ -50,6 +50,7 @@
 - pkg:cargo/oha@1.11.0
 - pkg:cargo/oha@1.12.0
 - pkg:cargo/oha@1.12.1
+- pkg:cargo/oha@1.13.0
 - pkg:cargo/oha@1.2.0
 - pkg:cargo/oha@1.3.0
 - pkg:cargo/oha@1.4.0

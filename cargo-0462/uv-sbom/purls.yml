@@ -1,3 +1,5 @@
 - pkg:cargo/uv-sbom@0.1.0
 - pkg:cargo/uv-sbom@0.2.0
 - pkg:cargo/uv-sbom@1.0.0
+- pkg:cargo/uv-sbom@1.1.0
+- pkg:cargo/uv-sbom@1.2.0

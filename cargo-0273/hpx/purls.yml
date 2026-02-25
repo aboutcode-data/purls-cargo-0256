@@ -4,3 +4,9 @@
 - pkg:cargo/hpx@0.1.5
 - pkg:cargo/hpx@1.0.0
 - pkg:cargo/hpx@1.1.0
+- pkg:cargo/hpx@1.3.0
+- pkg:cargo/hpx@1.4.0
+- pkg:cargo/hpx@2.0.0
+- pkg:cargo/hpx@2.1.0
+- pkg:cargo/hpx@2.2.0
+- pkg:cargo/hpx@2.3.0

@@ -1,1 +1,4 @@
 - pkg:cargo/undoc-cli@0.1.13
+- pkg:cargo/undoc-cli@0.1.14
+- pkg:cargo/undoc-cli@0.1.15
+- pkg:cargo/undoc-cli@0.1.16

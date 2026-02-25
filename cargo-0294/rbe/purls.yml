@@ -17,6 +17,7 @@
 - pkg:cargo/rbe@0.1.118
 - pkg:cargo/rbe@0.1.120
 - pkg:cargo/rbe@0.1.121
+- pkg:cargo/rbe@0.1.149
 - pkg:cargo/rbe@0.1.15
 - pkg:cargo/rbe@0.1.26
 - pkg:cargo/rbe@0.1.28
@@ -33,3 +34,4 @@
 - pkg:cargo/rbe@0.1.82
 - pkg:cargo/rbe@0.1.86
 - pkg:cargo/rbe@0.1.90
+- pkg:cargo/rbe@0.2.1

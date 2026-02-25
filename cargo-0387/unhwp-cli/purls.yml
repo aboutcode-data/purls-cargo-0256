@@ -1,2 +1,5 @@
 - pkg:cargo/unhwp-cli@0.1.14
 - pkg:cargo/unhwp-cli@0.1.16
+- pkg:cargo/unhwp-cli@0.1.17
+- pkg:cargo/unhwp-cli@0.2.0
+- pkg:cargo/unhwp-cli@0.2.2

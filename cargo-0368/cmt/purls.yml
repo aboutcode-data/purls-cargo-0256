@@ -30,6 +30,7 @@
 - pkg:cargo/cmt@0.5.13
 - pkg:cargo/cmt@0.5.14
 - pkg:cargo/cmt@0.5.15
+- pkg:cargo/cmt@0.5.16
 - pkg:cargo/cmt@0.5.2
 - pkg:cargo/cmt@0.5.3
 - pkg:cargo/cmt@0.5.4

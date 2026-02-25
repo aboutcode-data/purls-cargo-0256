@@ -173,6 +173,8 @@
 - pkg:cargo/qsv@14.0.0
 - pkg:cargo/qsv@15.0.0
 - pkg:cargo/qsv@15.0.1
+- pkg:cargo/qsv@16.0.0
+- pkg:cargo/qsv@16.1.0
 - pkg:cargo/qsv@2.2.1
 - pkg:cargo/qsv@3.0.0
 - pkg:cargo/qsv@3.1.1

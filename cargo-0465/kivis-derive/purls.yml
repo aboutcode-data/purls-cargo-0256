@@ -6,3 +6,7 @@
 - pkg:cargo/kivis-derive@0.2.4
 - pkg:cargo/kivis-derive@0.2.5
 - pkg:cargo/kivis-derive@0.3.0
+- pkg:cargo/kivis-derive@0.4.0
+- pkg:cargo/kivis-derive@0.5.1
+- pkg:cargo/kivis-derive@0.5.2
+- pkg:cargo/kivis-derive@0.5.3

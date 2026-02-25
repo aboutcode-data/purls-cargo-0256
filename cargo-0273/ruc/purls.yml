@@ -95,3 +95,5 @@
 - pkg:cargo/ruc@8.1.4
 - pkg:cargo/ruc@9.0.0
 - pkg:cargo/ruc@9.1.0
+- pkg:cargo/ruc@9.2.0
+- pkg:cargo/ruc@9.3.0

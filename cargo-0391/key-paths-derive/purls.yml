@@ -18,3 +18,10 @@
 - pkg:cargo/key-paths-derive@1.0.8
 - pkg:cargo/key-paths-derive@1.0.9
 - pkg:cargo/key-paths-derive@1.1.0
+- pkg:cargo/key-paths-derive@2.0.0
+- pkg:cargo/key-paths-derive@2.0.1
+- pkg:cargo/key-paths-derive@2.0.2
+- pkg:cargo/key-paths-derive@2.0.3
+- pkg:cargo/key-paths-derive@2.0.4
+- pkg:cargo/key-paths-derive@2.0.5
+- pkg:cargo/key-paths-derive@2.0.6

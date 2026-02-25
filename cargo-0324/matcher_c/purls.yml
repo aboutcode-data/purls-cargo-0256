@@ -26,3 +26,7 @@
 - pkg:cargo/matcher_c@0.5.7
 - pkg:cargo/matcher_c@0.5.8
 - pkg:cargo/matcher_c@0.5.9
+- pkg:cargo/matcher_c@0.6.0
+- pkg:cargo/matcher_c@0.7.0
+- pkg:cargo/matcher_c@0.7.1
+- pkg:cargo/matcher_c@0.7.2

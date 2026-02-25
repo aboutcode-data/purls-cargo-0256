@@ -30,3 +30,4 @@
 - pkg:cargo/sql_query_builder@2.4.1
 - pkg:cargo/sql_query_builder@2.4.2
 - pkg:cargo/sql_query_builder@2.5.2
+- pkg:cargo/sql_query_builder@2.6.2

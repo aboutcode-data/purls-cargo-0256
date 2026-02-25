@@ -32,3 +32,6 @@
 - pkg:cargo/ntex-server@3.4.0
 - pkg:cargo/ntex-server@3.5.0
 - pkg:cargo/ntex-server@3.6.0
+- pkg:cargo/ntex-server@3.7.0
+- pkg:cargo/ntex-server@3.8.0
+- pkg:cargo/ntex-server@3.9.0

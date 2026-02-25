@@ -21,3 +21,4 @@
 - pkg:cargo/macrotest@1.0.9
 - pkg:cargo/macrotest@1.1.0
 - pkg:cargo/macrotest@1.2.0
+- pkg:cargo/macrotest@1.2.1

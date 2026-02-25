@@ -9,3 +9,10 @@
 - pkg:cargo/sqlitegraph-cli@1.4.2
 - pkg:cargo/sqlitegraph-cli@1.5.0
 - pkg:cargo/sqlitegraph-cli@1.5.1
+- pkg:cargo/sqlitegraph-cli@1.5.4
+- pkg:cargo/sqlitegraph-cli@1.5.5
+- pkg:cargo/sqlitegraph-cli@1.5.9
+- pkg:cargo/sqlitegraph-cli@1.6.0
+- pkg:cargo/sqlitegraph-cli@2.0.0
+- pkg:cargo/sqlitegraph-cli@2.0.1
+- pkg:cargo/sqlitegraph-cli@2.0.8

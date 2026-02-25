@@ -106,7 +106,16 @@
 - pkg:cargo/pks@0.2.29
 - pkg:cargo/pks@0.2.3
 - pkg:cargo/pks@0.2.30
+- pkg:cargo/pks@0.2.31
+- pkg:cargo/pks@0.2.32
+- pkg:cargo/pks@0.2.33
+- pkg:cargo/pks@0.2.34
+- pkg:cargo/pks@0.2.35
+- pkg:cargo/pks@0.2.36
+- pkg:cargo/pks@0.2.37
+- pkg:cargo/pks@0.2.39
 - pkg:cargo/pks@0.2.4
+- pkg:cargo/pks@0.2.40
 - pkg:cargo/pks@0.2.5
 - pkg:cargo/pks@0.2.6
 - pkg:cargo/pks@0.2.7

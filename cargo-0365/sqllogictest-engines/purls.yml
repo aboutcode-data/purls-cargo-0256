@@ -41,3 +41,4 @@
 - pkg:cargo/sqllogictest-engines@0.28.3
 - pkg:cargo/sqllogictest-engines@0.28.4
 - pkg:cargo/sqllogictest-engines@0.29.0
+- pkg:cargo/sqllogictest-engines@0.29.1
