@@ -1,2 +1,3 @@
 - pkg:cargo/hermit-kernel@0.10.0
 - pkg:cargo/hermit-kernel@0.11.0
+- pkg:cargo/hermit-kernel@0.13.0
