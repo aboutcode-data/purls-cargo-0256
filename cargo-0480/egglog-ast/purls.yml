@@ -1,1 +1,2 @@
 - pkg:cargo/egglog-ast@1.0.0
+- pkg:cargo/egglog-ast@2.0.0

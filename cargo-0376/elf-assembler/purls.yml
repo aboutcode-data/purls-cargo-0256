@@ -2,3 +2,6 @@
 - pkg:cargo/elf-assembler@0.0.1
 - pkg:cargo/elf-assembler@0.0.3
 - pkg:cargo/elf-assembler@0.0.4
+- pkg:cargo/elf-assembler@0.0.5
+- pkg:cargo/elf-assembler@0.0.6
+- pkg:cargo/elf-assembler@0.0.7

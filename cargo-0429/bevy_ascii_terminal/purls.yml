@@ -24,6 +24,7 @@
 - pkg:cargo/bevy_ascii_terminal@0.17.0
 - pkg:cargo/bevy_ascii_terminal@0.18.0
 - pkg:cargo/bevy_ascii_terminal@0.18.1
+- pkg:cargo/bevy_ascii_terminal@0.18.2
 - pkg:cargo/bevy_ascii_terminal@0.2.0
 - pkg:cargo/bevy_ascii_terminal@0.3.0
 - pkg:cargo/bevy_ascii_terminal@0.3.1

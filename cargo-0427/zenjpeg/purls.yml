@@ -4,3 +4,5 @@
 - pkg:cargo/zenjpeg@0.3.1
 - pkg:cargo/zenjpeg@0.4.0
 - pkg:cargo/zenjpeg@0.5.0
+- pkg:cargo/zenjpeg@0.6.0
+- pkg:cargo/zenjpeg@0.6.1

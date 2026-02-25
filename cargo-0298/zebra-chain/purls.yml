@@ -23,3 +23,4 @@
 - pkg:cargo/zebra-chain@3.0.1
 - pkg:cargo/zebra-chain@3.1.0
 - pkg:cargo/zebra-chain@4.0.0
+- pkg:cargo/zebra-chain@5.0.0

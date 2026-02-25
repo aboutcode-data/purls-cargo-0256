@@ -3,6 +3,7 @@
 - pkg:cargo/pyo3-object_store@0.1.0-beta.2
 - pkg:cargo/pyo3-object_store@0.1.0-beta.3
 - pkg:cargo/pyo3-object_store@0.1.0-beta.4
+- pkg:cargo/pyo3-object_store@0.10.0
 - pkg:cargo/pyo3-object_store@0.2.0
 - pkg:cargo/pyo3-object_store@0.3.0
 - pkg:cargo/pyo3-object_store@0.4.0
@@ -10,3 +11,4 @@
 - pkg:cargo/pyo3-object_store@0.6.0
 - pkg:cargo/pyo3-object_store@0.7.0
 - pkg:cargo/pyo3-object_store@0.8.0
+- pkg:cargo/pyo3-object_store@0.9.0

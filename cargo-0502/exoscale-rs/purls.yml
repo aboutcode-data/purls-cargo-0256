@@ -5,3 +5,4 @@
 - pkg:cargo/exoscale-rs@2.0.4
 - pkg:cargo/exoscale-rs@2.1.0
 - pkg:cargo/exoscale-rs@3.0.0
+- pkg:cargo/exoscale-rs@3.2.0

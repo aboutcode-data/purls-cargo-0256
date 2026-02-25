@@ -13,3 +13,4 @@
 - pkg:cargo/model-mapper-macros@0.6.0
 - pkg:cargo/model-mapper-macros@0.6.1
 - pkg:cargo/model-mapper-macros@0.6.2
+- pkg:cargo/model-mapper-macros@0.7.0

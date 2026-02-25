@@ -1,4 +1,5 @@
 - pkg:cargo/snare@0.1.0
+- pkg:cargo/snare@0.1.1
 - pkg:cargo/snare@0.2.0
 - pkg:cargo/snare@0.3.0
 - pkg:cargo/snare@0.4.0
@@ -8,3 +9,8 @@
 - pkg:cargo/snare@0.4.4
 - pkg:cargo/snare@0.4.5
 - pkg:cargo/snare@0.4.9
+- pkg:cargo/snare@1.0.0
+- pkg:cargo/snare@1.1.0
+- pkg:cargo/snare@1.1.1
+- pkg:cargo/snare@1.1.2
+- pkg:cargo/snare@1.1.3

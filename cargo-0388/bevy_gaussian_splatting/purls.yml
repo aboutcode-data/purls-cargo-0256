@@ -42,3 +42,5 @@
 - pkg:cargo/bevy_gaussian_splatting@5.2.0
 - pkg:cargo/bevy_gaussian_splatting@5.2.1
 - pkg:cargo/bevy_gaussian_splatting@6.0.0
+- pkg:cargo/bevy_gaussian_splatting@7.0.0
+- pkg:cargo/bevy_gaussian_splatting@7.0.1

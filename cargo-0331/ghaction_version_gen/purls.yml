@@ -22,3 +22,4 @@
 - pkg:cargo/ghaction_version_gen@0.17.4
 - pkg:cargo/ghaction_version_gen@0.17.5
 - pkg:cargo/ghaction_version_gen@0.18.0
+- pkg:cargo/ghaction_version_gen@0.18.1
