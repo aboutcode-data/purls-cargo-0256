@@ -14,3 +14,5 @@
 - pkg:cargo/stun-types@1.0.0-alpha3
 - pkg:cargo/stun-types@1.0.0-alpha4
 - pkg:cargo/stun-types@1.0.2
+- pkg:cargo/stun-types@2.0.0-rc.0
+- pkg:cargo/stun-types@2.0.0-rc.1

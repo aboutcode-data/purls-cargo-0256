@@ -5,3 +5,5 @@
 - pkg:cargo/wow-cdbc@0.3.2
 - pkg:cargo/wow-cdbc@0.6.0
 - pkg:cargo/wow-cdbc@0.6.1
+- pkg:cargo/wow-cdbc@0.6.2
+- pkg:cargo/wow-cdbc@0.6.4

@@ -17,3 +17,5 @@
 - pkg:cargo/fluent4rs@2.2.0
 - pkg:cargo/fluent4rs@2.2.1
 - pkg:cargo/fluent4rs@2.2.2
+- pkg:cargo/fluent4rs@2.3.0
+- pkg:cargo/fluent4rs@2.3.1

@@ -37,6 +37,7 @@
 - pkg:cargo/bitflags@2.0.2
 - pkg:cargo/bitflags@2.1.0
 - pkg:cargo/bitflags@2.10.0
+- pkg:cargo/bitflags@2.11.0
 - pkg:cargo/bitflags@2.2.0
 - pkg:cargo/bitflags@2.2.1
 - pkg:cargo/bitflags@2.3.0

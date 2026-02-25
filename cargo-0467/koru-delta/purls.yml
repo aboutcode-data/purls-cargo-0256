@@ -1,1 +1,4 @@
 - pkg:cargo/koru-delta@1.0.0
+- pkg:cargo/koru-delta@2.0.0
+- pkg:cargo/koru-delta@3.0.0
+- pkg:cargo/koru-delta@3.0.1

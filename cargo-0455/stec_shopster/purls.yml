@@ -1,4 +1,11 @@
 - pkg:cargo/stec_shopster@0.2.0
+- pkg:cargo/stec_shopster@0.2.10
+- pkg:cargo/stec_shopster@0.2.11
+- pkg:cargo/stec_shopster@0.2.12
+- pkg:cargo/stec_shopster@0.2.13
+- pkg:cargo/stec_shopster@0.2.14
+- pkg:cargo/stec_shopster@0.2.15
+- pkg:cargo/stec_shopster@0.2.16
 - pkg:cargo/stec_shopster@0.2.5
 - pkg:cargo/stec_shopster@0.2.6
 - pkg:cargo/stec_shopster@0.2.7

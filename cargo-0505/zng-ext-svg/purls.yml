@@ -6,6 +6,8 @@
 - pkg:cargo/zng-ext-svg@0.1.6
 - pkg:cargo/zng-ext-svg@0.1.7
 - pkg:cargo/zng-ext-svg@0.1.8
+- pkg:cargo/zng-ext-svg@0.10.0
+- pkg:cargo/zng-ext-svg@0.10.1
 - pkg:cargo/zng-ext-svg@0.2.0
 - pkg:cargo/zng-ext-svg@0.2.1
 - pkg:cargo/zng-ext-svg@0.2.2

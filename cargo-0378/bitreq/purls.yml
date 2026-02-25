@@ -2,3 +2,6 @@
 - pkg:cargo/bitreq@0.2.0
 - pkg:cargo/bitreq@0.3.0
 - pkg:cargo/bitreq@0.3.1
+- pkg:cargo/bitreq@0.3.2
+- pkg:cargo/bitreq@0.3.3
+- pkg:cargo/bitreq@0.3.4

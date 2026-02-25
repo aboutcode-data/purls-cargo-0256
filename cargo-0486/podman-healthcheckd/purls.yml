@@ -1,1 +1,2 @@
 - pkg:cargo/podman-healthcheckd@0.1.1
+- pkg:cargo/podman-healthcheckd@0.1.2

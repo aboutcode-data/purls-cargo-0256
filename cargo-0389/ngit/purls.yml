@@ -27,3 +27,4 @@
 - pkg:cargo/ngit@1.7.4
 - pkg:cargo/ngit@2.0.0
 - pkg:cargo/ngit@2.0.1
+- pkg:cargo/ngit@2.2.0

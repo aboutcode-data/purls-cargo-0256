@@ -39,6 +39,7 @@
 - pkg:cargo/binstalk-downloader@0.13.32
 - pkg:cargo/binstalk-downloader@0.13.33
 - pkg:cargo/binstalk-downloader@0.13.34
+- pkg:cargo/binstalk-downloader@0.13.35
 - pkg:cargo/binstalk-downloader@0.13.4
 - pkg:cargo/binstalk-downloader@0.13.5
 - pkg:cargo/binstalk-downloader@0.13.6

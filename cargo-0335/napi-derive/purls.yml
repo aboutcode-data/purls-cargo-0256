@@ -154,3 +154,4 @@
 - pkg:cargo/napi-derive@3.4.1
 - pkg:cargo/napi-derive@3.5.0
 - pkg:cargo/napi-derive@3.5.1
+- pkg:cargo/napi-derive@3.5.2
