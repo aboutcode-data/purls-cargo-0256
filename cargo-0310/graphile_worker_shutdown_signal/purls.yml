@@ -1,6 +1,7 @@
 - pkg:cargo/graphile_worker_shutdown_signal@0.3.0
 - pkg:cargo/graphile_worker_shutdown_signal@0.3.1
 - pkg:cargo/graphile_worker_shutdown_signal@0.3.10
+- pkg:cargo/graphile_worker_shutdown_signal@0.3.11
 - pkg:cargo/graphile_worker_shutdown_signal@0.3.2
 - pkg:cargo/graphile_worker_shutdown_signal@0.3.3
 - pkg:cargo/graphile_worker_shutdown_signal@0.3.4
