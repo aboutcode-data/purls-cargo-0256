@@ -95,3 +95,4 @@
 - pkg:cargo/grpc_graphql_gateway@1.0.8
 - pkg:cargo/grpc_graphql_gateway@1.0.9
 - pkg:cargo/grpc_graphql_gateway@1.1.1
+- pkg:cargo/grpc_graphql_gateway@1.1.2

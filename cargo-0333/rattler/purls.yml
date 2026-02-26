@@ -124,6 +124,7 @@
 - pkg:cargo/rattler@0.39.12
 - pkg:cargo/rattler@0.39.13
 - pkg:cargo/rattler@0.39.14
+- pkg:cargo/rattler@0.39.15
 - pkg:cargo/rattler@0.39.2
 - pkg:cargo/rattler@0.39.3
 - pkg:cargo/rattler@0.39.4
