@@ -11,6 +11,7 @@
 - pkg:cargo/domaincheck@0.4.109
 - pkg:cargo/domaincheck@0.4.11
 - pkg:cargo/domaincheck@0.4.110
+- pkg:cargo/domaincheck@0.4.111
 - pkg:cargo/domaincheck@0.4.12
 - pkg:cargo/domaincheck@0.4.13
 - pkg:cargo/domaincheck@0.4.14

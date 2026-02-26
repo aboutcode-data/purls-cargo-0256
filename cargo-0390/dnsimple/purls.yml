@@ -16,3 +16,4 @@
 - pkg:cargo/dnsimple@3.0.0
 - pkg:cargo/dnsimple@4.0.0
 - pkg:cargo/dnsimple@5.0.0
+- pkg:cargo/dnsimple@5.1.0
