@@ -47,3 +47,4 @@
 - pkg:cargo/swc_ecma_lexer@32.0.0
 - pkg:cargo/swc_ecma_lexer@32.0.1
 - pkg:cargo/swc_ecma_lexer@33.0.0
+- pkg:cargo/swc_ecma_lexer@34.0.0
