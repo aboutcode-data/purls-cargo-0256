@@ -10,3 +10,4 @@
 - pkg:cargo/bidirected-adjacency-array@0.2.7
 - pkg:cargo/bidirected-adjacency-array@0.3.0
 - pkg:cargo/bidirected-adjacency-array@0.3.1
+- pkg:cargo/bidirected-adjacency-array@1.0.0

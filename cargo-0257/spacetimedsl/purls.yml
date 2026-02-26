@@ -9,6 +9,7 @@
 - pkg:cargo/spacetimedsl@0.15.0
 - pkg:cargo/spacetimedsl@0.16.0
 - pkg:cargo/spacetimedsl@0.17.0
+- pkg:cargo/spacetimedsl@0.18.0
 - pkg:cargo/spacetimedsl@0.2.0-1.1.0
 - pkg:cargo/spacetimedsl@0.2.1-1.1.0
 - pkg:cargo/spacetimedsl@0.2.2-1.1.0
