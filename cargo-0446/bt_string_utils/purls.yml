@@ -4,6 +4,7 @@
 - pkg:cargo/bt_string_utils@0.2.10
 - pkg:cargo/bt_string_utils@0.2.11
 - pkg:cargo/bt_string_utils@0.2.12
+- pkg:cargo/bt_string_utils@0.2.13
 - pkg:cargo/bt_string_utils@0.2.2
 - pkg:cargo/bt_string_utils@0.2.3
 - pkg:cargo/bt_string_utils@0.2.4
