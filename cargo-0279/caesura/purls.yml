@@ -86,3 +86,4 @@
 - pkg:cargo/caesura@0.25.1-alpha.1
 - pkg:cargo/caesura@0.25.2
 - pkg:cargo/caesura@0.26.0
+- pkg:cargo/caesura@0.27.0
