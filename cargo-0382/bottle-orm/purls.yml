@@ -11,3 +11,4 @@
 - pkg:cargo/bottle-orm@0.4.5
 - pkg:cargo/bottle-orm@0.4.6
 - pkg:cargo/bottle-orm@0.4.7
+- pkg:cargo/bottle-orm@0.4.8
