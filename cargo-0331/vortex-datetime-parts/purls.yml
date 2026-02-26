@@ -62,5 +62,6 @@
 - pkg:cargo/vortex-datetime-parts@0.57.2
 - pkg:cargo/vortex-datetime-parts@0.58.0
 - pkg:cargo/vortex-datetime-parts@0.59.4
+- pkg:cargo/vortex-datetime-parts@0.60.0
 - pkg:cargo/vortex-datetime-parts@0.7.0
 - pkg:cargo/vortex-datetime-parts@0.9.0
