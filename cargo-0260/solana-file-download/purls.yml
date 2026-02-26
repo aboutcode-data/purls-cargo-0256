@@ -6,3 +6,4 @@
 - pkg:cargo/solana-file-download@3.0.0
 - pkg:cargo/solana-file-download@3.1.0
 - pkg:cargo/solana-file-download@3.1.1
+- pkg:cargo/solana-file-download@3.1.2
