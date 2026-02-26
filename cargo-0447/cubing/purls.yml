@@ -32,7 +32,10 @@
 - pkg:cargo/cubing@0.14.4
 - pkg:cargo/cubing@0.14.5
 - pkg:cargo/cubing@0.14.6-pre.1
+- pkg:cargo/cubing@0.15.0
 - pkg:cargo/cubing@0.15.0-pre.1
+- pkg:cargo/cubing@0.15.1
+- pkg:cargo/cubing@0.15.2
 - pkg:cargo/cubing@0.2.0
 - pkg:cargo/cubing@0.2.1
 - pkg:cargo/cubing@0.2.2
