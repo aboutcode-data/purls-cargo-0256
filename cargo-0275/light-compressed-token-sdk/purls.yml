@@ -1,3 +1,4 @@
 - pkg:cargo/light-compressed-token-sdk@0.1.0
 - pkg:cargo/light-compressed-token-sdk@0.20.0
 - pkg:cargo/light-compressed-token-sdk@0.22.0
+- pkg:cargo/light-compressed-token-sdk@0.23.0
