@@ -3,3 +3,4 @@
 - pkg:cargo/hdrcopier-cli@0.4.2
 - pkg:cargo/hdrcopier-cli@0.4.3
 - pkg:cargo/hdrcopier-cli@0.5.0
+- pkg:cargo/hdrcopier-cli@0.5.1
