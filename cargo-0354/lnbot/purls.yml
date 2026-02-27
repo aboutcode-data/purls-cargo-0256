@@ -1,1 +1,4 @@
 - pkg:cargo/lnbot@0.2.0
+- pkg:cargo/lnbot@0.3.0
+- pkg:cargo/lnbot@0.4.0
+- pkg:cargo/lnbot@0.5.0
