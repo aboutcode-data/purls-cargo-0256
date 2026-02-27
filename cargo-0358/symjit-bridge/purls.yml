@@ -1,1 +1,2 @@
 - pkg:cargo/symjit-bridge@2.13.1
+- pkg:cargo/symjit-bridge@2.13.2
