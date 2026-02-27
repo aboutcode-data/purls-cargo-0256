@@ -9,3 +9,4 @@
 - pkg:cargo/stasis@0.8.0
 - pkg:cargo/stasis@0.8.1
 - pkg:cargo/stasis@0.8.5
+- pkg:cargo/stasis@1.0.0
