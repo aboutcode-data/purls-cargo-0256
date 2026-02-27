@@ -8,5 +8,6 @@
 - pkg:cargo/gufo-jpeg@0.3.0-alpha
 - pkg:cargo/gufo-jpeg@0.3.0-beta
 - pkg:cargo/gufo-jpeg@0.3.0-beta.1
+- pkg:cargo/gufo-jpeg@0.4.0
 - pkg:cargo/gufo-jpeg@0.4.0-alpha
 - pkg:cargo/gufo-jpeg@0.4.0-alpha.1
