@@ -8,3 +8,4 @@
 - pkg:cargo/uv-windows@0.0.24
 - pkg:cargo/uv-windows@0.0.25
 - pkg:cargo/uv-windows@0.0.26
+- pkg:cargo/uv-windows@0.0.27

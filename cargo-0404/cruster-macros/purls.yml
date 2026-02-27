@@ -16,6 +16,7 @@
 - pkg:cargo/cruster-macros@0.0.23
 - pkg:cargo/cruster-macros@0.0.24
 - pkg:cargo/cruster-macros@0.0.25
+- pkg:cargo/cruster-macros@0.0.26
 - pkg:cargo/cruster-macros@0.0.5
 - pkg:cargo/cruster-macros@0.0.6
 - pkg:cargo/cruster-macros@0.0.7
