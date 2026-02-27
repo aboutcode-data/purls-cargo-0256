@@ -465,3 +465,4 @@
 - pkg:cargo/solana-gossip@3.1.7
 - pkg:cargo/solana-gossip@3.1.8
 - pkg:cargo/solana-gossip@3.1.9
+- pkg:cargo/solana-gossip@4.0.0-alpha.0
