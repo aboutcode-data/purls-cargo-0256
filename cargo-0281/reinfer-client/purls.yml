@@ -71,6 +71,7 @@
 - pkg:cargo/reinfer-client@0.38.16
 - pkg:cargo/reinfer-client@0.38.17
 - pkg:cargo/reinfer-client@0.38.18
+- pkg:cargo/reinfer-client@0.38.19
 - pkg:cargo/reinfer-client@0.38.2
 - pkg:cargo/reinfer-client@0.38.3
 - pkg:cargo/reinfer-client@0.38.4
