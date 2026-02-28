@@ -8,3 +8,4 @@
 - pkg:cargo/piano-runtime@0.6.0
 - pkg:cargo/piano-runtime@0.7.0
 - pkg:cargo/piano-runtime@0.8.0
+- pkg:cargo/piano-runtime@0.8.1
