@@ -95,3 +95,4 @@
 - pkg:cargo/kumono@0.73.0
 - pkg:cargo/kumono@0.73.1
 - pkg:cargo/kumono@0.74.0
+- pkg:cargo/kumono@0.75.0
