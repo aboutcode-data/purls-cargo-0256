@@ -11,6 +11,7 @@
 - pkg:cargo/pdf_oxide@0.2.6
 - pkg:cargo/pdf_oxide@0.3.0
 - pkg:cargo/pdf_oxide@0.3.1
+- pkg:cargo/pdf_oxide@0.3.10
 - pkg:cargo/pdf_oxide@0.3.2
 - pkg:cargo/pdf_oxide@0.3.4
 - pkg:cargo/pdf_oxide@0.3.5
