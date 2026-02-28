@@ -1,4 +1,9 @@
 - pkg:cargo/streaming-crypto@0.1.0-alpha.1
+- pkg:cargo/streaming-crypto@0.1.0-alpha.10
+- pkg:cargo/streaming-crypto@0.1.0-alpha.11
+- pkg:cargo/streaming-crypto@0.1.0-alpha.12
 - pkg:cargo/streaming-crypto@0.1.0-alpha.2
 - pkg:cargo/streaming-crypto@0.1.0-alpha.3
 - pkg:cargo/streaming-crypto@0.1.0-alpha.4
+- pkg:cargo/streaming-crypto@0.1.0-alpha.8
+- pkg:cargo/streaming-crypto@0.1.0-alpha.9
