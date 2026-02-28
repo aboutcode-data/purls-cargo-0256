@@ -5,3 +5,4 @@
 - pkg:cargo/for_event_bus@0.1.4
 - pkg:cargo/for_event_bus@0.1.5
 - pkg:cargo/for_event_bus@0.1.6
+- pkg:cargo/for_event_bus@0.2.0
