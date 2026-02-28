@@ -2,3 +2,4 @@
 - pkg:cargo/dux-cli@0.3.0
 - pkg:cargo/dux-cli@0.3.4
 - pkg:cargo/dux-cli@0.3.5
+- pkg:cargo/dux-cli@0.4.0
