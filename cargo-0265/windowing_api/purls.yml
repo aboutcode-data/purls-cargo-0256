@@ -1,1 +1,2 @@
 - pkg:cargo/windowing_api@0.13.0
+- pkg:cargo/windowing_api@0.13.1
