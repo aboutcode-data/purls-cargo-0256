@@ -87,6 +87,7 @@
 - pkg:cargo/refs@0.41.0
 - pkg:cargo/refs@0.42.0
 - pkg:cargo/refs@0.43.0
+- pkg:cargo/refs@0.44.0
 - pkg:cargo/refs@0.5.0
 - pkg:cargo/refs@0.5.1
 - pkg:cargo/refs@0.6.0
