@@ -1,2 +1,3 @@
 - pkg:cargo/gdext-egui@0.0.0
 - pkg:cargo/gdext-egui@0.4.0
+- pkg:cargo/gdext-egui@0.4.1
