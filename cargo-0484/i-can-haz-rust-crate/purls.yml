@@ -20,3 +20,4 @@
 - pkg:cargo/i-can-haz-rust-crate@0.1.4-post12
 - pkg:cargo/i-can-haz-rust-crate@0.1.4-post2
 - pkg:cargo/i-can-haz-rust-crate@0.1.4-rc1
+- pkg:cargo/i-can-haz-rust-crate@0.2.0-dev.1
