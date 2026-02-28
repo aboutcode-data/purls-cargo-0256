@@ -20,6 +20,7 @@
 - pkg:cargo/lib_game_detector@0.0.28
 - pkg:cargo/lib_game_detector@0.0.29
 - pkg:cargo/lib_game_detector@0.0.3
+- pkg:cargo/lib_game_detector@0.0.30
 - pkg:cargo/lib_game_detector@0.0.5
 - pkg:cargo/lib_game_detector@0.0.6
 - pkg:cargo/lib_game_detector@0.0.7
