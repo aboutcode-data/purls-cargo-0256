@@ -1,3 +1,4 @@
 - pkg:cargo/salvo-tus@0.0.0
 - pkg:cargo/salvo-tus@0.89.0
 - pkg:cargo/salvo-tus@0.89.1
+- pkg:cargo/salvo-tus@0.89.2
