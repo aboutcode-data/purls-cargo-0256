@@ -49,3 +49,4 @@
 - pkg:cargo/qbt-clean@0.92.0
 - pkg:cargo/qbt-clean@0.94.0
 - pkg:cargo/qbt-clean@0.96.0
+- pkg:cargo/qbt-clean@0.98.0
