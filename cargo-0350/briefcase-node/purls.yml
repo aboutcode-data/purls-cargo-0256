@@ -24,3 +24,4 @@
 - pkg:cargo/briefcase-node@2.2.1
 - pkg:cargo/briefcase-node@2.2.3
 - pkg:cargo/briefcase-node@2.3.0
+- pkg:cargo/briefcase-node@2.4.0
