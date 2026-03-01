@@ -16,3 +16,4 @@
 - pkg:cargo/uniswap-v4-sdk@0.8.0
 - pkg:cargo/uniswap-v4-sdk@0.9.0
 - pkg:cargo/uniswap-v4-sdk@1.0.0
+- pkg:cargo/uniswap-v4-sdk@1.1.0
