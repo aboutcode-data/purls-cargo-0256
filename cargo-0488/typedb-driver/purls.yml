@@ -69,3 +69,4 @@
 - pkg:cargo/typedb-driver@3.7.0-rc4
 - pkg:cargo/typedb-driver@3.8.0
 - pkg:cargo/typedb-driver@3.8.0-alpha-1
+- pkg:cargo/typedb-driver@3.8.1
