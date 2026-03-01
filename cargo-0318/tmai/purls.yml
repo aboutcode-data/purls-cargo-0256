@@ -3,6 +3,8 @@
 - pkg:cargo/tmai@0.1.2
 - pkg:cargo/tmai@0.1.3
 - pkg:cargo/tmai@0.1.4
+- pkg:cargo/tmai@0.10.0
+- pkg:cargo/tmai@0.10.1
 - pkg:cargo/tmai@0.2.0
 - pkg:cargo/tmai@0.2.1
 - pkg:cargo/tmai@0.2.10
@@ -31,3 +33,4 @@
 - pkg:cargo/tmai@0.8.1
 - pkg:cargo/tmai@0.8.2
 - pkg:cargo/tmai@0.8.3
+- pkg:cargo/tmai@0.9.0
