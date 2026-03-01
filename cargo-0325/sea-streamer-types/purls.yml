@@ -4,3 +4,4 @@
 - pkg:cargo/sea-streamer-types@0.3.1
 - pkg:cargo/sea-streamer-types@0.5.0
 - pkg:cargo/sea-streamer-types@0.5.2
+- pkg:cargo/sea-streamer-types@1.0.0-rc.1
