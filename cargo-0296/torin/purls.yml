@@ -21,6 +21,7 @@
 - pkg:cargo/torin@0.4.0-alpha.8
 - pkg:cargo/torin@0.4.0-rc.1
 - pkg:cargo/torin@0.4.0-rc.10
+- pkg:cargo/torin@0.4.0-rc.11
 - pkg:cargo/torin@0.4.0-rc.2
 - pkg:cargo/torin@0.4.0-rc.3
 - pkg:cargo/torin@0.4.0-rc.4
