@@ -1,4 +1,5 @@
 - pkg:cargo/rtc-media@0.0.0
+- pkg:cargo/rtc-media@0.20.0-alpha.1
 - pkg:cargo/rtc-media@0.3.0
 - pkg:cargo/rtc-media@0.3.1
 - pkg:cargo/rtc-media@0.4.0
