@@ -19,3 +19,4 @@
 - pkg:cargo/datafusion-expr-common@51.0.0
 - pkg:cargo/datafusion-expr-common@52.0.0
 - pkg:cargo/datafusion-expr-common@52.1.0
+- pkg:cargo/datafusion-expr-common@52.2.0

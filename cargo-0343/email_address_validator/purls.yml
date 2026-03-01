@@ -1,1 +1,2 @@
 - pkg:cargo/email_address_validator@0.1.0
+- pkg:cargo/email_address_validator@0.2.0
