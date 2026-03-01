@@ -1,3 +1,4 @@
 - pkg:cargo/tui-dispatch-components@0.5.3
 - pkg:cargo/tui-dispatch-components@0.5.4
 - pkg:cargo/tui-dispatch-components@0.6.0
+- pkg:cargo/tui-dispatch-components@0.6.1
