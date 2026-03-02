@@ -1,3 +1,5 @@
 - pkg:cargo/webrtc-core@0.5.35
 - pkg:cargo/webrtc-core@0.5.36
 - pkg:cargo/webrtc-core@0.5.37
+- pkg:cargo/webrtc-core@0.6.4
+- pkg:cargo/webrtc-core@0.6.5
