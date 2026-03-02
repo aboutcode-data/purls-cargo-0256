@@ -75,3 +75,4 @@
 - pkg:cargo/watchexec@8.1.0
 - pkg:cargo/watchexec@8.1.1
 - pkg:cargo/watchexec@8.1.2
+- pkg:cargo/watchexec@8.2.0

@@ -5,3 +5,4 @@
 - pkg:cargo/flashkraft-tui@0.5.8
 - pkg:cargo/flashkraft-tui@0.6.3
 - pkg:cargo/flashkraft-tui@0.6.7
+- pkg:cargo/flashkraft-tui@0.6.9
