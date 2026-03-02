@@ -2,3 +2,4 @@
 - pkg:cargo/exarrow-rs@0.5.3
 - pkg:cargo/exarrow-rs@0.6.0
 - pkg:cargo/exarrow-rs@0.6.1
+- pkg:cargo/exarrow-rs@0.6.3
