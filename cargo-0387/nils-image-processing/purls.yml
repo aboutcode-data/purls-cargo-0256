@@ -20,3 +20,4 @@
 - pkg:cargo/nils-image-processing@0.5.5
 - pkg:cargo/nils-image-processing@0.5.9
 - pkg:cargo/nils-image-processing@0.6.0
+- pkg:cargo/nils-image-processing@0.6.2
