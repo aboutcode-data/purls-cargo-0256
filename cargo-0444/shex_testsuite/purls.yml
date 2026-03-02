@@ -32,3 +32,4 @@
 - pkg:cargo/shex_testsuite@0.1.90
 - pkg:cargo/shex_testsuite@0.2.1
 - pkg:cargo/shex_testsuite@0.2.2
+- pkg:cargo/shex_testsuite@0.2.6
