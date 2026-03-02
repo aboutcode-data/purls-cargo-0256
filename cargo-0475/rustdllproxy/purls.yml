@@ -5,3 +5,4 @@
 - pkg:cargo/rustdllproxy@2.0.1
 - pkg:cargo/rustdllproxy@2.0.2
 - pkg:cargo/rustdllproxy@2.0.3
+- pkg:cargo/rustdllproxy@2.1.0
