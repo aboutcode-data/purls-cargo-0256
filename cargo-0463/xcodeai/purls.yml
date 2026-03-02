@@ -12,3 +12,6 @@
 - pkg:cargo/xcodeai@0.7.1
 - pkg:cargo/xcodeai@0.8.0
 - pkg:cargo/xcodeai@0.8.1
+- pkg:cargo/xcodeai@2.0.0
+- pkg:cargo/xcodeai@2.0.1
+- pkg:cargo/xcodeai@2.0.2
