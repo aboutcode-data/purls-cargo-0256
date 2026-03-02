@@ -45,3 +45,4 @@
 - pkg:cargo/prefixmap@0.1.82
 - pkg:cargo/prefixmap@0.1.90
 - pkg:cargo/prefixmap@0.1.91
+- pkg:cargo/prefixmap@0.2.6
