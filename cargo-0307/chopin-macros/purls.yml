@@ -1,5 +1,7 @@
 - pkg:cargo/chopin-macros@0.3.2
 - pkg:cargo/chopin-macros@0.5.10
+- pkg:cargo/chopin-macros@0.5.11
+- pkg:cargo/chopin-macros@0.5.12
 - pkg:cargo/chopin-macros@0.5.6
 - pkg:cargo/chopin-macros@0.5.7
 - pkg:cargo/chopin-macros@0.5.8
