@@ -8,3 +8,4 @@
 - pkg:cargo/qc-cli@0.5.7
 - pkg:cargo/qc-cli@0.5.8
 - pkg:cargo/qc-cli@0.6.1
+- pkg:cargo/qc-cli@0.6.3
