@@ -15,6 +15,7 @@
 - pkg:cargo/rangebar-core@12.38.0
 - pkg:cargo/rangebar-core@12.38.1
 - pkg:cargo/rangebar-core@12.39.0
+- pkg:cargo/rangebar-core@13.0.0
 - pkg:cargo/rangebar-core@5.0.0
 - pkg:cargo/rangebar-core@5.0.1
 - pkg:cargo/rangebar-core@5.1.0
