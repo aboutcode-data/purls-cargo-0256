@@ -49,3 +49,5 @@
 - pkg:cargo/hyprshell@4.8.3
 - pkg:cargo/hyprshell@4.9.1
 - pkg:cargo/hyprshell@4.9.2
+- pkg:cargo/hyprshell@4.9.3
+- pkg:cargo/hyprshell@4.9.4
