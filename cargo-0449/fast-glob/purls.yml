@@ -11,3 +11,4 @@
 - pkg:cargo/fast-glob@0.4.4
 - pkg:cargo/fast-glob@0.4.5
 - pkg:cargo/fast-glob@1.0.0
+- pkg:cargo/fast-glob@1.0.1
