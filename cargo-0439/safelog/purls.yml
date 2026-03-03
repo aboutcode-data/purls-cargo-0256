@@ -28,3 +28,4 @@
 - pkg:cargo/safelog@0.7.0
 - pkg:cargo/safelog@0.7.1
 - pkg:cargo/safelog@0.7.2
+- pkg:cargo/safelog@0.8.0
