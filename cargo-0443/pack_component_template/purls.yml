@@ -9,6 +9,7 @@
 - pkg:cargo/pack_component_template@0.4.0
 - pkg:cargo/pack_component_template@0.4.1
 - pkg:cargo/pack_component_template@0.4.10
+- pkg:cargo/pack_component_template@0.4.100
 - pkg:cargo/pack_component_template@0.4.11
 - pkg:cargo/pack_component_template@0.4.12
 - pkg:cargo/pack_component_template@0.4.13
