@@ -1,2 +1,3 @@
 - pkg:cargo/vellaveto-server@3.0.0
 - pkg:cargo/vellaveto-server@6.0.0
+- pkg:cargo/vellaveto-server@6.0.1
