@@ -2,3 +2,4 @@
 - pkg:cargo/fcommon@0.9.9
 - pkg:cargo/fcommon@0.9.91
 - pkg:cargo/fcommon@1.0.0
+- pkg:cargo/fcommon@3.0.0
