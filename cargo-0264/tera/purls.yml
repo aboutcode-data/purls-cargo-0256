@@ -112,3 +112,4 @@
 - pkg:cargo/tera@1.8.0
 - pkg:cargo/tera@1.9.0
 - pkg:cargo/tera@2.0.0-alpha.1
+- pkg:cargo/tera@2.0.0-alpha.2

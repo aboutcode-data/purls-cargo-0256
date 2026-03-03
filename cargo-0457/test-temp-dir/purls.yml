@@ -13,3 +13,4 @@
 - pkg:cargo/test-temp-dir@0.6.0
 - pkg:cargo/test-temp-dir@0.6.1
 - pkg:cargo/test-temp-dir@0.6.2
+- pkg:cargo/test-temp-dir@0.7.0
