@@ -21,3 +21,5 @@
 - pkg:cargo/ids_service@2.0.1
 - pkg:cargo/ids_service@2.0.1-RC1
 - pkg:cargo/ids_service@2.0.2
+- pkg:cargo/ids_service@2.1.0
+- pkg:cargo/ids_service@2.1.1
