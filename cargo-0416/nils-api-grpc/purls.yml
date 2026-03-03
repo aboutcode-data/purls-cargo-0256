@@ -14,3 +14,4 @@
 - pkg:cargo/nils-api-grpc@0.5.9
 - pkg:cargo/nils-api-grpc@0.6.0
 - pkg:cargo/nils-api-grpc@0.6.2
+- pkg:cargo/nils-api-grpc@0.6.3
