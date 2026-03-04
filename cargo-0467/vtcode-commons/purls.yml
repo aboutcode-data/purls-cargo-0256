@@ -301,3 +301,6 @@
 - pkg:cargo/vtcode-commons@0.85.3
 - pkg:cargo/vtcode-commons@0.86.0
 - pkg:cargo/vtcode-commons@0.86.1
+- pkg:cargo/vtcode-commons@0.86.2
+- pkg:cargo/vtcode-commons@0.86.3
+- pkg:cargo/vtcode-commons@0.86.4
