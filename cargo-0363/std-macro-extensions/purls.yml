@@ -64,3 +64,4 @@
 - pkg:cargo/std-macro-extensions@0.7.0
 - pkg:cargo/std-macro-extensions@0.8.0
 - pkg:cargo/std-macro-extensions@0.9.0
+- pkg:cargo/std-macro-extensions@1.0.0
