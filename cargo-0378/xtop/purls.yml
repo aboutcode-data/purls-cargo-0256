@@ -5,3 +5,5 @@
 - pkg:cargo/xtop@0.2.2
 - pkg:cargo/xtop@0.3.0
 - pkg:cargo/xtop@0.3.1
+- pkg:cargo/xtop@0.3.3
+- pkg:cargo/xtop@0.3.4
