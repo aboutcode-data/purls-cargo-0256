@@ -1,5 +1,8 @@
 - pkg:cargo/clifcode@1.10.0
 - pkg:cargo/clifcode@1.11.0
+- pkg:cargo/clifcode@1.12.0
+- pkg:cargo/clifcode@1.13.0
+- pkg:cargo/clifcode@1.14.0
 - pkg:cargo/clifcode@1.6.1
 - pkg:cargo/clifcode@1.7.0
 - pkg:cargo/clifcode@1.8.0
