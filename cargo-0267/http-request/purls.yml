@@ -230,6 +230,8 @@
 - pkg:cargo/http-request@8.91.103
 - pkg:cargo/http-request@8.91.104
 - pkg:cargo/http-request@8.91.105
+- pkg:cargo/http-request@8.91.106
+- pkg:cargo/http-request@8.91.107
 - pkg:cargo/http-request@8.91.11
 - pkg:cargo/http-request@8.91.12
 - pkg:cargo/http-request@8.91.13
