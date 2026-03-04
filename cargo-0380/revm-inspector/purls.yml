@@ -23,6 +23,7 @@
 - pkg:cargo/revm-inspector@14.1.0
 - pkg:cargo/revm-inspector@15.0.0
 - pkg:cargo/revm-inspector@16.0.0
+- pkg:cargo/revm-inspector@17.0.0
 - pkg:cargo/revm-inspector@2.0.0
 - pkg:cargo/revm-inspector@3.0.0
 - pkg:cargo/revm-inspector@3.0.1
