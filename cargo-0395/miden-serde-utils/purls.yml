@@ -9,3 +9,4 @@
 - pkg:cargo/miden-serde-utils@0.22.1
 - pkg:cargo/miden-serde-utils@0.22.2
 - pkg:cargo/miden-serde-utils@0.22.3
+- pkg:cargo/miden-serde-utils@0.22.4
