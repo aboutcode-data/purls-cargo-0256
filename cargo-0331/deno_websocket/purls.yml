@@ -158,6 +158,7 @@
 - pkg:cargo/deno_websocket@0.239.0
 - pkg:cargo/deno_websocket@0.24.0
 - pkg:cargo/deno_websocket@0.240.0
+- pkg:cargo/deno_websocket@0.241.0
 - pkg:cargo/deno_websocket@0.25.0
 - pkg:cargo/deno_websocket@0.26.0
 - pkg:cargo/deno_websocket@0.27.0
