@@ -21,3 +21,4 @@
 - pkg:cargo/nu_plugin_dns@4.0.5
 - pkg:cargo/nu_plugin_dns@4.0.6
 - pkg:cargo/nu_plugin_dns@4.0.7
+- pkg:cargo/nu_plugin_dns@4.0.8
