@@ -6,3 +6,5 @@
 - pkg:cargo/h_math@0.2.4
 - pkg:cargo/h_math@1.0.0
 - pkg:cargo/h_math@1.0.1
+- pkg:cargo/h_math@1.2.0
+- pkg:cargo/h_math@1.2.1
