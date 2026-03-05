@@ -144,3 +144,4 @@
 - pkg:cargo/aws-sdk-pricing@1.96.0
 - pkg:cargo/aws-sdk-pricing@1.97.0
 - pkg:cargo/aws-sdk-pricing@1.98.0
+- pkg:cargo/aws-sdk-pricing@1.99.0

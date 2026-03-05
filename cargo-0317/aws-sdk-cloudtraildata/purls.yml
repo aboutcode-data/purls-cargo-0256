@@ -109,3 +109,4 @@
 - pkg:cargo/aws-sdk-cloudtraildata@1.93.0
 - pkg:cargo/aws-sdk-cloudtraildata@1.94.0
 - pkg:cargo/aws-sdk-cloudtraildata@1.95.0
+- pkg:cargo/aws-sdk-cloudtraildata@1.96.0

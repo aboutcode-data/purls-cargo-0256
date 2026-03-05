@@ -40,6 +40,7 @@
 - pkg:cargo/aws-sdk-resiliencehub@0.9.0
 - pkg:cargo/aws-sdk-resiliencehub@1.1.0
 - pkg:cargo/aws-sdk-resiliencehub@1.10.0
+- pkg:cargo/aws-sdk-resiliencehub@1.100.0
 - pkg:cargo/aws-sdk-resiliencehub@1.11.0
 - pkg:cargo/aws-sdk-resiliencehub@1.12.0
 - pkg:cargo/aws-sdk-resiliencehub@1.13.0

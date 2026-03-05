@@ -137,3 +137,4 @@
 - pkg:cargo/aws-sdk-drs@1.96.0
 - pkg:cargo/aws-sdk-drs@1.97.0
 - pkg:cargo/aws-sdk-drs@1.98.0
+- pkg:cargo/aws-sdk-drs@1.99.0
