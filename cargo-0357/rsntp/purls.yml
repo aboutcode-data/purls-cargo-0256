@@ -14,3 +14,4 @@
 - pkg:cargo/rsntp@3.0.2
 - pkg:cargo/rsntp@4.0.0
 - pkg:cargo/rsntp@4.1.0
+- pkg:cargo/rsntp@4.1.1
