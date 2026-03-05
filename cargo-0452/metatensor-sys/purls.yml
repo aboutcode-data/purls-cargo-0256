@@ -7,6 +7,7 @@
 - pkg:cargo/metatensor-sys@0.1.17
 - pkg:cargo/metatensor-sys@0.1.18
 - pkg:cargo/metatensor-sys@0.1.19
+- pkg:cargo/metatensor-sys@0.1.20
 - pkg:cargo/metatensor-sys@0.1.4
 - pkg:cargo/metatensor-sys@0.1.5
 - pkg:cargo/metatensor-sys@0.1.6
