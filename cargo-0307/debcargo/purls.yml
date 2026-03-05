@@ -44,3 +44,4 @@
 - pkg:cargo/debcargo@2.7.9
 - pkg:cargo/debcargo@2.8.0
 - pkg:cargo/debcargo@2.8.1
+- pkg:cargo/debcargo@2.8.2

@@ -38,3 +38,4 @@
 - pkg:cargo/bottle-orm@0.5.4
 - pkg:cargo/bottle-orm@0.5.5
 - pkg:cargo/bottle-orm@0.5.6
+- pkg:cargo/bottle-orm@0.5.7
