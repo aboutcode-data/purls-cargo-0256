@@ -5,3 +5,4 @@
 - pkg:cargo/http-relay@0.5.0-rc.1
 - pkg:cargo/http-relay@0.5.0-rc.2
 - pkg:cargo/http-relay@0.5.1
+- pkg:cargo/http-relay@0.6.0-rc.0
