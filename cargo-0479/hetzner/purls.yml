@@ -3,3 +3,4 @@
 - pkg:cargo/hetzner@0.1.2
 - pkg:cargo/hetzner@0.2.1
 - pkg:cargo/hetzner@0.3.1
+- pkg:cargo/hetzner@1.0.0
