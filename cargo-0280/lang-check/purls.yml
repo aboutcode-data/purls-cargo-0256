@@ -9,3 +9,5 @@
 - pkg:cargo/lang-check@0.2.7
 - pkg:cargo/lang-check@0.2.8
 - pkg:cargo/lang-check@0.2.9
+- pkg:cargo/lang-check@0.3.1
+- pkg:cargo/lang-check@0.3.2
