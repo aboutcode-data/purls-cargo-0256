@@ -10,3 +10,4 @@
 - pkg:cargo/barter-execution@0.5.2
 - pkg:cargo/barter-execution@0.5.3
 - pkg:cargo/barter-execution@0.6.0
+- pkg:cargo/barter-execution@0.7.0
