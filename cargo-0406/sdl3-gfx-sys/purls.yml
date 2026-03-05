@@ -1,1 +1,2 @@
+- pkg:cargo/sdl3-gfx-sys@0.1.0%2B1.0.0-main
 - pkg:cargo/sdl3-gfx-sys@0.1.0-1.0.0

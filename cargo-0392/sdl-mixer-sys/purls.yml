@@ -1,1 +1,2 @@
 - pkg:cargo/sdl-mixer-sys@0.1.0%2B3.1.3-80da564b89876aa64cc17f4d417a4bebcf4b475a
+- pkg:cargo/sdl-mixer-sys@0.1.1%2B3.1.3-a1e7e99174ea5deb254474df46d860c8db96dffe
