@@ -30,3 +30,4 @@
 - pkg:cargo/turbomcp-core@3.0.0-exp
 - pkg:cargo/turbomcp-core@3.0.0-exp.1
 - pkg:cargo/turbomcp-core@3.0.0-exp.2
+- pkg:cargo/turbomcp-core@3.0.1
