@@ -327,3 +327,4 @@
 - pkg:cargo/vtcode-acp-client@0.86.3
 - pkg:cargo/vtcode-acp-client@0.86.4
 - pkg:cargo/vtcode-acp-client@0.86.5
+- pkg:cargo/vtcode-acp-client@0.86.6
