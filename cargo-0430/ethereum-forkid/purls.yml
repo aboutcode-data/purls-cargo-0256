@@ -13,3 +13,4 @@
 - pkg:cargo/ethereum-forkid@0.7.0
 - pkg:cargo/ethereum-forkid@0.8.0
 - pkg:cargo/ethereum-forkid@0.9.0
+- pkg:cargo/ethereum-forkid@1.0.0
