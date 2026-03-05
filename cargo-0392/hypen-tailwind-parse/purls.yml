@@ -28,3 +28,5 @@
 - pkg:cargo/hypen-tailwind-parse@0.4.31
 - pkg:cargo/hypen-tailwind-parse@0.4.32
 - pkg:cargo/hypen-tailwind-parse@0.4.34
+- pkg:cargo/hypen-tailwind-parse@0.4.36
+- pkg:cargo/hypen-tailwind-parse@0.4.37
