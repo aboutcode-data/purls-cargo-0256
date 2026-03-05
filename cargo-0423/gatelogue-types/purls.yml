@@ -15,3 +15,5 @@
 - pkg:cargo/gatelogue-types@2.0.8%2B10
 - pkg:cargo/gatelogue-types@2.0.9%2B11
 - pkg:cargo/gatelogue-types@3.0.0%2B12
+- pkg:cargo/gatelogue-types@3.0.1%2B12
+- pkg:cargo/gatelogue-types@3.0.2%2B12
