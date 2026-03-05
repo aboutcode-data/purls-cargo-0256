@@ -48,3 +48,4 @@
 - pkg:cargo/spacetimedb-sats@2.0.0-rc1
 - pkg:cargo/spacetimedb-sats@2.0.1
 - pkg:cargo/spacetimedb-sats@2.0.2
+- pkg:cargo/spacetimedb-sats@2.0.3
