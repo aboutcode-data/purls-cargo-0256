@@ -27,3 +27,4 @@
 - pkg:cargo/ralph-adapters@2.5.0
 - pkg:cargo/ralph-adapters@2.5.1
 - pkg:cargo/ralph-adapters@2.6.0
+- pkg:cargo/ralph-adapters@2.7.0
