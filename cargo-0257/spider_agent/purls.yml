@@ -74,3 +74,4 @@
 - pkg:cargo/spider_agent@2.45.7
 - pkg:cargo/spider_agent@2.45.8
 - pkg:cargo/spider_agent@2.45.9
+- pkg:cargo/spider_agent@2.46.0
