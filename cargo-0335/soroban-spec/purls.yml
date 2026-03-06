@@ -108,3 +108,4 @@
 - pkg:cargo/soroban-spec@25.0.2
 - pkg:cargo/soroban-spec@25.1.0
 - pkg:cargo/soroban-spec@25.1.1
+- pkg:cargo/soroban-spec@25.2.0
