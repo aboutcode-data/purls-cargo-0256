@@ -28,3 +28,4 @@
 - pkg:cargo/ruts@0.7.4
 - pkg:cargo/ruts@0.8.0
 - pkg:cargo/ruts@0.8.1
+- pkg:cargo/ruts@0.9.0
