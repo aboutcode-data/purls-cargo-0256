@@ -1,1 +1,2 @@
 - pkg:cargo/nestforge-grpc@1.2.0
+- pkg:cargo/nestforge-grpc@1.2.1
