@@ -12,3 +12,4 @@
 - pkg:cargo/lang-check@0.3.1
 - pkg:cargo/lang-check@0.3.2
 - pkg:cargo/lang-check@0.4.1
+- pkg:cargo/lang-check@0.4.2
