@@ -3,3 +3,4 @@
 - pkg:cargo/http-global-cache@0.1.2
 - pkg:cargo/http-global-cache@0.1.4
 - pkg:cargo/http-global-cache@0.1.5
+- pkg:cargo/http-global-cache@0.2.0
