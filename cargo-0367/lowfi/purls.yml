@@ -28,3 +28,5 @@
 - pkg:cargo/lowfi@1.7.2
 - pkg:cargo/lowfi@2.0.0
 - pkg:cargo/lowfi@2.0.1
+- pkg:cargo/lowfi@2.0.3
+- pkg:cargo/lowfi@2.0.4
