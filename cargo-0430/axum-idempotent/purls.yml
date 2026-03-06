@@ -15,3 +15,4 @@
 - pkg:cargo/axum-idempotent@0.2.3
 - pkg:cargo/axum-idempotent@0.2.4
 - pkg:cargo/axum-idempotent@0.2.5
+- pkg:cargo/axum-idempotent@0.2.6
