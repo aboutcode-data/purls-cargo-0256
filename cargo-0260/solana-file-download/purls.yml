@@ -8,3 +8,4 @@
 - pkg:cargo/solana-file-download@3.1.1
 - pkg:cargo/solana-file-download@3.1.2
 - pkg:cargo/solana-file-download@3.1.3
+- pkg:cargo/solana-file-download@3.1.4

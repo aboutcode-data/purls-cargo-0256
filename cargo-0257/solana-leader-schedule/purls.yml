@@ -1,2 +1,3 @@
 - pkg:cargo/solana-leader-schedule@0.0.0
 - pkg:cargo/solana-leader-schedule@4.0.0-alpha.0
+- pkg:cargo/solana-leader-schedule@4.0.0-beta.0
