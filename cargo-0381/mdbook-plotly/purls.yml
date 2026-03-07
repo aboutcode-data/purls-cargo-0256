@@ -6,3 +6,4 @@
 - pkg:cargo/mdbook-plotly@0.1.4-alpha
 - pkg:cargo/mdbook-plotly@0.1.5-alpha
 - pkg:cargo/mdbook-plotly@0.1.6-alpha
+- pkg:cargo/mdbook-plotly@0.1.6-beta
