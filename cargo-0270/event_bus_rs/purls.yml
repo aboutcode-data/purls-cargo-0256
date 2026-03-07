@@ -7,3 +7,4 @@
 - pkg:cargo/event_bus_rs@0.1.6
 - pkg:cargo/event_bus_rs@0.1.7
 - pkg:cargo/event_bus_rs@0.1.8
+- pkg:cargo/event_bus_rs@0.1.9
