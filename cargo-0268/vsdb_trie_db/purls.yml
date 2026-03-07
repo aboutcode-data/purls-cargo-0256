@@ -39,3 +39,4 @@
 - pkg:cargo/vsdb_trie_db@8.0.0
 - pkg:cargo/vsdb_trie_db@8.1.0
 - pkg:cargo/vsdb_trie_db@8.3.0
+- pkg:cargo/vsdb_trie_db@9.0.0
