@@ -3,3 +3,4 @@
 - pkg:cargo/vex-protocol-cli@0.1.8
 - pkg:cargo/vex-protocol-cli@0.2.1
 - pkg:cargo/vex-protocol-cli@0.3.0
+- pkg:cargo/vex-protocol-cli@1.0.0
