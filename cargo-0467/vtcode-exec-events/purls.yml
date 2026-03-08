@@ -307,3 +307,5 @@
 - pkg:cargo/vtcode-exec-events@0.86.7
 - pkg:cargo/vtcode-exec-events@0.86.8
 - pkg:cargo/vtcode-exec-events@0.86.9
+- pkg:cargo/vtcode-exec-events@0.87.0
+- pkg:cargo/vtcode-exec-events@0.87.1

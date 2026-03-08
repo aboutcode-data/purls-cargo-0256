@@ -1,1 +1,2 @@
 - pkg:cargo/pathfinding-indexed@4.14.0
+- pkg:cargo/pathfinding-indexed@4.15.0
