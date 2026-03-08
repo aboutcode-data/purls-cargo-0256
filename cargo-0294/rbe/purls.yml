@@ -35,3 +35,4 @@
 - pkg:cargo/rbe@0.1.86
 - pkg:cargo/rbe@0.1.90
 - pkg:cargo/rbe@0.2.1
+- pkg:cargo/rbe@0.2.7

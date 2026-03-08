@@ -82,6 +82,7 @@
 - pkg:cargo/vize_atelier_dom@0.21.0
 - pkg:cargo/vize_atelier_dom@0.22.0
 - pkg:cargo/vize_atelier_dom@0.23.0
+- pkg:cargo/vize_atelier_dom@0.24.0
 - pkg:cargo/vize_atelier_dom@0.3.0
 - pkg:cargo/vize_atelier_dom@0.6.0
 - pkg:cargo/vize_atelier_dom@0.7.0
