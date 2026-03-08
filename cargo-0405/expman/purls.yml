@@ -25,4 +25,5 @@
 - pkg:cargo/expman@0.4.5
 - pkg:cargo/expman@0.4.6
 - pkg:cargo/expman@0.4.7
+- pkg:cargo/expman@0.5.1
 - pkg:cargo/expman@1.0.0
