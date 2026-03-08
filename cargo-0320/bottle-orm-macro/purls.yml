@@ -39,3 +39,4 @@
 - pkg:cargo/bottle-orm-macro@0.5.5
 - pkg:cargo/bottle-orm-macro@0.5.6
 - pkg:cargo/bottle-orm-macro@0.5.7
+- pkg:cargo/bottle-orm-macro@0.5.8
