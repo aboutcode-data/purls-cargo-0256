@@ -8,3 +8,4 @@
 - pkg:cargo/mockforge-k8s-operator@0.3.70
 - pkg:cargo/mockforge-k8s-operator@0.3.71
 - pkg:cargo/mockforge-k8s-operator@0.3.73
+- pkg:cargo/mockforge-k8s-operator@0.3.77
