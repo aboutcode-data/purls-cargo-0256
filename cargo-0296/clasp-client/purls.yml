@@ -12,3 +12,4 @@
 - pkg:cargo/clasp-client@4.0.2
 - pkg:cargo/clasp-client@4.0.3
 - pkg:cargo/clasp-client@4.1.0
+- pkg:cargo/clasp-client@4.2.0
