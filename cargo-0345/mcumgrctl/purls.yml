@@ -1,1 +1,2 @@
 - pkg:cargo/mcumgrctl@0.11.4
+- pkg:cargo/mcumgrctl@0.12.0
