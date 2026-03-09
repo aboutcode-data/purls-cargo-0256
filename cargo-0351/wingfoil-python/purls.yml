@@ -4,3 +4,5 @@
 - pkg:cargo/wingfoil-python@2.0.0
 - pkg:cargo/wingfoil-python@2.1.0
 - pkg:cargo/wingfoil-python@2.1.1
+- pkg:cargo/wingfoil-python@3.0.0
+- pkg:cargo/wingfoil-python@3.0.1
