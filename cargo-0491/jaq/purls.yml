@@ -30,3 +30,4 @@
 - pkg:cargo/jaq@2.3.0
 - pkg:cargo/jaq@3.0.0-alpha
 - pkg:cargo/jaq@3.0.0-beta
+- pkg:cargo/jaq@3.0.0-gamma
