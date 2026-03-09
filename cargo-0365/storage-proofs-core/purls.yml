@@ -17,6 +17,7 @@
 - pkg:cargo/storage-proofs-core@18.1.0
 - pkg:cargo/storage-proofs-core@19.0.0
 - pkg:cargo/storage-proofs-core@19.0.1
+- pkg:cargo/storage-proofs-core@19.1.0
 - pkg:cargo/storage-proofs-core@2.0.0
 - pkg:cargo/storage-proofs-core@3.0.0
 - pkg:cargo/storage-proofs-core@4.0.0
