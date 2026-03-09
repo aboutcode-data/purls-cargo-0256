@@ -3,6 +3,7 @@
 - pkg:cargo/bones-cli@0.20.0
 - pkg:cargo/bones-cli@0.21.2
 - pkg:cargo/bones-cli@0.22.1
+- pkg:cargo/bones-cli@0.22.10
 - pkg:cargo/bones-cli@0.22.6
 - pkg:cargo/bones-cli@0.22.7
 - pkg:cargo/bones-cli@0.22.8
