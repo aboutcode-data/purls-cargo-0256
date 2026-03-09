@@ -76,6 +76,7 @@
 - pkg:cargo/rinf@8.0.0-beta
 - pkg:cargo/rinf@8.0.0-rc
 - pkg:cargo/rinf@8.1.0
+- pkg:cargo/rinf@8.10.0
 - pkg:cargo/rinf@8.2.0
 - pkg:cargo/rinf@8.3.0
 - pkg:cargo/rinf@8.3.1
