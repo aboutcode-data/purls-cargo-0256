@@ -1,6 +1,7 @@
 - pkg:cargo/mq-surreal@0.10.0
 - pkg:cargo/mq-surreal@0.20.0
 - pkg:cargo/mq-surreal@0.20.1
+- pkg:cargo/mq-surreal@0.30.0
 - pkg:cargo/mq-surreal@0.4.1
 - pkg:cargo/mq-surreal@0.4.3
 - pkg:cargo/mq-surreal@0.4.4

@@ -5,3 +5,4 @@
 - pkg:cargo/ptcov@0.0.5
 - pkg:cargo/ptcov@0.0.6
 - pkg:cargo/ptcov@0.0.7
+- pkg:cargo/ptcov@0.1.0-beta.1
