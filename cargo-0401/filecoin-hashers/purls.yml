@@ -10,6 +10,7 @@
 - pkg:cargo/filecoin-hashers@13.1.0
 - pkg:cargo/filecoin-hashers@14.0.0
 - pkg:cargo/filecoin-hashers@14.0.1
+- pkg:cargo/filecoin-hashers@14.1.0
 - pkg:cargo/filecoin-hashers@2.0.0
 - pkg:cargo/filecoin-hashers@2.0.1
 - pkg:cargo/filecoin-hashers@3.0.0
