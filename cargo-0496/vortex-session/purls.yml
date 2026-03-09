@@ -5,3 +5,4 @@
 - pkg:cargo/vortex-session@0.59.4
 - pkg:cargo/vortex-session@0.60.0
 - pkg:cargo/vortex-session@0.61.0
+- pkg:cargo/vortex-session@0.62.0
