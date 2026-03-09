@@ -12,3 +12,4 @@
 - pkg:cargo/gosh-dl@0.2.8
 - pkg:cargo/gosh-dl@0.2.9
 - pkg:cargo/gosh-dl@0.3.0
+- pkg:cargo/gosh-dl@0.3.1
