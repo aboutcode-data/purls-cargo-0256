@@ -26,3 +26,4 @@
 - pkg:cargo/alloy-trie@0.9.2
 - pkg:cargo/alloy-trie@0.9.3
 - pkg:cargo/alloy-trie@0.9.4
+- pkg:cargo/alloy-trie@0.9.5
