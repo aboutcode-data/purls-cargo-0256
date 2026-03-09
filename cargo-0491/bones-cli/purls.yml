@@ -3,3 +3,4 @@
 - pkg:cargo/bones-cli@0.20.0
 - pkg:cargo/bones-cli@0.21.2
 - pkg:cargo/bones-cli@0.22.1
+- pkg:cargo/bones-cli@0.22.6
