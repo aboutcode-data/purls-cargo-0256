@@ -9,3 +9,4 @@
 - pkg:cargo/seam-server@0.4.3
 - pkg:cargo/seam-server@0.4.4
 - pkg:cargo/seam-server@0.5.10
+- pkg:cargo/seam-server@0.5.27
