@@ -3,3 +3,4 @@
 - pkg:cargo/bevy_resvg@2.0.0
 - pkg:cargo/bevy_resvg@2.1.0
 - pkg:cargo/bevy_resvg@2.2.0
+- pkg:cargo/bevy_resvg@2.3.0
