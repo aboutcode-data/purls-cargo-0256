@@ -28,3 +28,4 @@
 - pkg:cargo/ralph-tui@2.5.1
 - pkg:cargo/ralph-tui@2.6.0
 - pkg:cargo/ralph-tui@2.7.0
+- pkg:cargo/ralph-tui@2.8.0
