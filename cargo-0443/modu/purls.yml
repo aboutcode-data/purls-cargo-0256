@@ -32,3 +32,4 @@
 - pkg:cargo/modu@2.6.0
 - pkg:cargo/modu@2.7.0
 - pkg:cargo/modu@2.8.0
+- pkg:cargo/modu@3.0.0

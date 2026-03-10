@@ -11,3 +11,4 @@
 - pkg:cargo/mockforge-k8s-operator@0.3.77
 - pkg:cargo/mockforge-k8s-operator@0.3.78
 - pkg:cargo/mockforge-k8s-operator@0.3.79
+- pkg:cargo/mockforge-k8s-operator@0.3.80
