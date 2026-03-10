@@ -5,3 +5,4 @@
 - pkg:cargo/cc_talk_tokio_host@0.0.5
 - pkg:cargo/cc_talk_tokio_host@0.0.6
 - pkg:cargo/cc_talk_tokio_host@0.0.7
+- pkg:cargo/cc_talk_tokio_host@0.1.1
