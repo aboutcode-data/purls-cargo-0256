@@ -22,6 +22,7 @@
 - pkg:cargo/sparreal-kernel@0.13.1
 - pkg:cargo/sparreal-kernel@0.14.0
 - pkg:cargo/sparreal-kernel@0.15.0
+- pkg:cargo/sparreal-kernel@0.15.1
 - pkg:cargo/sparreal-kernel@0.6.0
 - pkg:cargo/sparreal-kernel@0.6.1
 - pkg:cargo/sparreal-kernel@0.6.2
