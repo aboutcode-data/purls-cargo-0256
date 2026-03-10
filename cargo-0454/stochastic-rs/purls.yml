@@ -71,3 +71,4 @@
 - pkg:cargo/stochastic-rs@1.2.4
 - pkg:cargo/stochastic-rs@1.3.0
 - pkg:cargo/stochastic-rs@1.4.0
+- pkg:cargo/stochastic-rs@1.5.0
