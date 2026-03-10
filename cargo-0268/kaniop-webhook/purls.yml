@@ -10,3 +10,4 @@
 - pkg:cargo/kaniop-webhook@0.4.1
 - pkg:cargo/kaniop-webhook@0.4.2
 - pkg:cargo/kaniop-webhook@0.5.3
+- pkg:cargo/kaniop-webhook@0.5.4
