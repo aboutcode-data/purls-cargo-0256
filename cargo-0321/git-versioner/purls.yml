@@ -1,2 +1,3 @@
 - pkg:cargo/git-versioner@0.12.0
 - pkg:cargo/git-versioner@0.13.0
+- pkg:cargo/git-versioner@0.14.0
