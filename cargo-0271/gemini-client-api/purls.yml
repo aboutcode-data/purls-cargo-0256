@@ -114,3 +114,4 @@
 - pkg:cargo/gemini-client-api@7.4.2
 - pkg:cargo/gemini-client-api@7.4.3
 - pkg:cargo/gemini-client-api@7.4.4
+- pkg:cargo/gemini-client-api@7.4.5
