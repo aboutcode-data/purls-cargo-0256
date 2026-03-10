@@ -57,6 +57,7 @@
 - pkg:cargo/solana-tpu-client-next@3.0.7
 - pkg:cargo/solana-tpu-client-next@3.0.8
 - pkg:cargo/solana-tpu-client-next@3.1.1
+- pkg:cargo/solana-tpu-client-next@3.1.10
 - pkg:cargo/solana-tpu-client-next@3.1.2
 - pkg:cargo/solana-tpu-client-next@3.1.3
 - pkg:cargo/solana-tpu-client-next@3.1.4
@@ -67,3 +68,4 @@
 - pkg:cargo/solana-tpu-client-next@3.1.9
 - pkg:cargo/solana-tpu-client-next@4.0.0-alpha.0
 - pkg:cargo/solana-tpu-client-next@4.0.0-beta.0
+- pkg:cargo/solana-tpu-client-next@4.0.0-beta.1
