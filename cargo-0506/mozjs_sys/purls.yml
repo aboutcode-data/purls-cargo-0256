@@ -9,6 +9,7 @@
 - pkg:cargo/mozjs_sys@0.140.7-1
 - pkg:cargo/mozjs_sys@0.140.7-2
 - pkg:cargo/mozjs_sys@0.140.8-0
+- pkg:cargo/mozjs_sys@0.140.8-1
 - pkg:cargo/mozjs_sys@0.50.0
 - pkg:cargo/mozjs_sys@0.50.1
 - pkg:cargo/mozjs_sys@0.51.0

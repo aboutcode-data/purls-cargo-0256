@@ -15,6 +15,7 @@
 - pkg:cargo/polkadot-collator-protocol@22.0.0
 - pkg:cargo/polkadot-collator-protocol@23.0.0
 - pkg:cargo/polkadot-collator-protocol@24.0.0
+- pkg:cargo/polkadot-collator-protocol@24.0.1
 - pkg:cargo/polkadot-collator-protocol@25.0.0
 - pkg:cargo/polkadot-collator-protocol@26.0.0
 - pkg:cargo/polkadot-collator-protocol@26.0.1
