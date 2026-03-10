@@ -9,6 +9,7 @@
 - pkg:cargo/triblespace-macros-common@0.15.0
 - pkg:cargo/triblespace-macros-common@0.16.0
 - pkg:cargo/triblespace-macros-common@0.17.0
+- pkg:cargo/triblespace-macros-common@0.18.0
 - pkg:cargo/triblespace-macros-common@0.6.0
 - pkg:cargo/triblespace-macros-common@0.7.0
 - pkg:cargo/triblespace-macros-common@0.8.0

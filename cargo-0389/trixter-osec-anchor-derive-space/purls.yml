@@ -3,4 +3,6 @@
 - pkg:cargo/trixter-osec-anchor-derive-space@0.41.0
 - pkg:cargo/trixter-osec-anchor-derive-space@0.41.5
 - pkg:cargo/trixter-osec-anchor-derive-space@1.0.0-rc.3
+- pkg:cargo/trixter-osec-anchor-derive-space@1.1.10
 - pkg:cargo/trixter-osec-anchor-derive-space@1.1.2
+- pkg:cargo/trixter-osec-anchor-derive-space@1.1.6
