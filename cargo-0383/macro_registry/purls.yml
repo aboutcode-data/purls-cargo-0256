@@ -4,3 +4,4 @@
 - pkg:cargo/macro_registry@0.3.14
 - pkg:cargo/macro_registry@0.3.15
 - pkg:cargo/macro_registry@0.3.16
+- pkg:cargo/macro_registry@0.3.17
