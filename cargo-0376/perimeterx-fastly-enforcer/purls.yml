@@ -8,3 +8,4 @@
 - pkg:cargo/perimeterx-fastly-enforcer@1.2.1
 - pkg:cargo/perimeterx-fastly-enforcer@1.2.2
 - pkg:cargo/perimeterx-fastly-enforcer@1.2.3
+- pkg:cargo/perimeterx-fastly-enforcer@1.2.4
