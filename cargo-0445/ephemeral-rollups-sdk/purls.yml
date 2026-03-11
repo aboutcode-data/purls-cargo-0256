@@ -44,3 +44,4 @@
 - pkg:cargo/ephemeral-rollups-sdk@0.8.4
 - pkg:cargo/ephemeral-rollups-sdk@0.8.5
 - pkg:cargo/ephemeral-rollups-sdk@0.8.6
+- pkg:cargo/ephemeral-rollups-sdk@0.8.7
