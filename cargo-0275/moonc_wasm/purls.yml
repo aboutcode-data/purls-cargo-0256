@@ -2,3 +2,4 @@
 - pkg:cargo/moonc_wasm@0.6.25
 - pkg:cargo/moonc_wasm@0.6.26
 - pkg:cargo/moonc_wasm@0.6.32
+- pkg:cargo/moonc_wasm@0.8.3
