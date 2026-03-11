@@ -24,6 +24,9 @@
 - pkg:cargo/rise-deploy@0.15.7
 - pkg:cargo/rise-deploy@0.15.8
 - pkg:cargo/rise-deploy@0.15.9
+- pkg:cargo/rise-deploy@0.16.0
+- pkg:cargo/rise-deploy@0.16.1
+- pkg:cargo/rise-deploy@0.16.2
 - pkg:cargo/rise-deploy@0.4.0
 - pkg:cargo/rise-deploy@0.4.1
 - pkg:cargo/rise-deploy@0.4.2
