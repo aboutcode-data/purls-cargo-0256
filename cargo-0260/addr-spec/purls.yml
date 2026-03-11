@@ -29,3 +29,5 @@
 - pkg:cargo/addr-spec@0.8.2
 - pkg:cargo/addr-spec@0.8.3
 - pkg:cargo/addr-spec@0.8.4
+- pkg:cargo/addr-spec@0.9.0
+- pkg:cargo/addr-spec@0.9.1
