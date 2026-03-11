@@ -10,3 +10,4 @@
 - pkg:cargo/web-transport-ws@0.2.4
 - pkg:cargo/web-transport-ws@0.2.5
 - pkg:cargo/web-transport-ws@0.3.0
+- pkg:cargo/web-transport-ws@0.3.1
