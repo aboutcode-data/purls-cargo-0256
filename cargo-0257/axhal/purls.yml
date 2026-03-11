@@ -12,3 +12,4 @@
 - pkg:cargo/axhal@0.2.2-preview.6
 - pkg:cargo/axhal@0.3.0-preview.1
 - pkg:cargo/axhal@0.3.0-preview.2
+- pkg:cargo/axhal@0.3.0-preview.3
