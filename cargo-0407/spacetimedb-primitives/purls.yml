@@ -40,3 +40,4 @@
 - pkg:cargo/spacetimedb-primitives@2.0.1
 - pkg:cargo/spacetimedb-primitives@2.0.2
 - pkg:cargo/spacetimedb-primitives@2.0.3
+- pkg:cargo/spacetimedb-primitives@2.0.4
