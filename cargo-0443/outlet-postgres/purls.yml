@@ -12,3 +12,5 @@
 - pkg:cargo/outlet-postgres@0.4.5
 - pkg:cargo/outlet-postgres@0.4.6
 - pkg:cargo/outlet-postgres@0.4.7
+- pkg:cargo/outlet-postgres@0.4.8
+- pkg:cargo/outlet-postgres@0.5.0
