@@ -54,6 +54,7 @@
 - pkg:cargo/tempfile@3.24.0
 - pkg:cargo/tempfile@3.25.0
 - pkg:cargo/tempfile@3.26.0
+- pkg:cargo/tempfile@3.27.0
 - pkg:cargo/tempfile@3.3.0
 - pkg:cargo/tempfile@3.4.0
 - pkg:cargo/tempfile@3.5.0
