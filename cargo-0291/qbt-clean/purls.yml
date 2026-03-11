@@ -1,5 +1,6 @@
 - pkg:cargo/qbt-clean@0.1.0
 - pkg:cargo/qbt-clean@0.100.0
+- pkg:cargo/qbt-clean@0.102.0
 - pkg:cargo/qbt-clean@0.12.0
 - pkg:cargo/qbt-clean@0.14.0
 - pkg:cargo/qbt-clean@0.16.0
