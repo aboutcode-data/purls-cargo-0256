@@ -39,3 +39,4 @@
 - pkg:cargo/casper-execution-engine@8.0.1
 - pkg:cargo/casper-execution-engine@8.1.0
 - pkg:cargo/casper-execution-engine@8.1.1
+- pkg:cargo/casper-execution-engine@9.0.0
