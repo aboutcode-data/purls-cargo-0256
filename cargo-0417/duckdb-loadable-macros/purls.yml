@@ -13,3 +13,4 @@
 - pkg:cargo/duckdb-loadable-macros@0.1.7
 - pkg:cargo/duckdb-loadable-macros@0.1.8
 - pkg:cargo/duckdb-loadable-macros@0.1.9
+- pkg:cargo/duckdb-loadable-macros@1.10500.0
