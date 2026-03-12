@@ -11,3 +11,4 @@
 - pkg:cargo/seam-server@0.5.10
 - pkg:cargo/seam-server@0.5.27
 - pkg:cargo/seam-server@0.5.31
+- pkg:cargo/seam-server@0.5.36
