@@ -1,1 +1,5 @@
 - pkg:cargo/force_smith@0.1.0
+- pkg:cargo/force_smith@1.0.0
+- pkg:cargo/force_smith@1.0.1
+- pkg:cargo/force_smith@1.0.2
+- pkg:cargo/force_smith@1.0.3
