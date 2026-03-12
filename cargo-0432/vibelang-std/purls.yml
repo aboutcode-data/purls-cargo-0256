@@ -5,3 +5,4 @@
 - pkg:cargo/vibelang-std@0.1.4
 - pkg:cargo/vibelang-std@0.1.5
 - pkg:cargo/vibelang-std@0.3.0
+- pkg:cargo/vibelang-std@0.4.0
