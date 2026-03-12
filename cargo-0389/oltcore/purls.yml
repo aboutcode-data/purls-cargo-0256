@@ -33,6 +33,10 @@
 - pkg:cargo/oltcore@0.1.38
 - pkg:cargo/oltcore@0.1.39
 - pkg:cargo/oltcore@0.1.4
+- pkg:cargo/oltcore@0.1.40
+- pkg:cargo/oltcore@0.1.41
+- pkg:cargo/oltcore@0.1.42
+- pkg:cargo/oltcore@0.1.43
 - pkg:cargo/oltcore@0.1.5
 - pkg:cargo/oltcore@0.1.6
 - pkg:cargo/oltcore@0.1.7
