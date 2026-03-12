@@ -1,3 +1,4 @@
 - pkg:cargo/mlld@2.0.1
 - pkg:cargo/mlld@2.0.2
 - pkg:cargo/mlld@2.0.3
+- pkg:cargo/mlld@2.0.4
