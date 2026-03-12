@@ -12,3 +12,4 @@
 - pkg:cargo/datafusion-session@52.0.0
 - pkg:cargo/datafusion-session@52.1.0
 - pkg:cargo/datafusion-session@52.2.0
+- pkg:cargo/datafusion-session@52.3.0

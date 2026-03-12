@@ -55,6 +55,7 @@
 - pkg:cargo/datafusion-expr@52.0.0
 - pkg:cargo/datafusion-expr@52.1.0
 - pkg:cargo/datafusion-expr@52.2.0
+- pkg:cargo/datafusion-expr@52.3.0
 - pkg:cargo/datafusion-expr@7.0.0
 - pkg:cargo/datafusion-expr@7.0.0-alpha
 - pkg:cargo/datafusion-expr@8.0.0
