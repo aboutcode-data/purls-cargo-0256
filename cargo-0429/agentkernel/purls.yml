@@ -1,2 +1,3 @@
 - pkg:cargo/agentkernel@0.1.0
 - pkg:cargo/agentkernel@0.15.0
+- pkg:cargo/agentkernel@0.17.0
