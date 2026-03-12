@@ -56,3 +56,4 @@
 - pkg:cargo/cqs@0.9.6
 - pkg:cargo/cqs@0.9.7
 - pkg:cargo/cqs@0.9.8
+- pkg:cargo/cqs@1.0.0
