@@ -2,3 +2,6 @@
 - pkg:cargo/qcraft-sqlite@0.2.0
 - pkg:cargo/qcraft-sqlite@0.3.0
 - pkg:cargo/qcraft-sqlite@0.4.0
+- pkg:cargo/qcraft-sqlite@1.0.0
+- pkg:cargo/qcraft-sqlite@2.0.0
+- pkg:cargo/qcraft-sqlite@2.0.1
