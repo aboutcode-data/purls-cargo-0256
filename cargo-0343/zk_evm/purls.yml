@@ -47,5 +47,6 @@
 - pkg:cargo/zk_evm@0.153.6
 - pkg:cargo/zk_evm@0.153.7
 - pkg:cargo/zk_evm@0.153.8
+- pkg:cargo/zk_evm@0.153.8-1
 - pkg:cargo/zk_evm@0.153.9
 - pkg:cargo/zk_evm@1.4.1
