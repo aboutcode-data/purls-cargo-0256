@@ -14,3 +14,4 @@
 - pkg:cargo/google-cloud-managedkafka-schemaregistry-v1@1.4.0
 - pkg:cargo/google-cloud-managedkafka-schemaregistry-v1@1.5.0
 - pkg:cargo/google-cloud-managedkafka-schemaregistry-v1@1.6.0
+- pkg:cargo/google-cloud-managedkafka-schemaregistry-v1@1.7.0
