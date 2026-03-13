@@ -8,3 +8,4 @@
 - pkg:cargo/claude_settings@0.4.0
 - pkg:cargo/claude_settings@0.4.1
 - pkg:cargo/claude_settings@0.4.3
+- pkg:cargo/claude_settings@0.4.4
