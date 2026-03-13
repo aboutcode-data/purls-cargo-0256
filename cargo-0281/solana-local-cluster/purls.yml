@@ -442,3 +442,4 @@
 - pkg:cargo/solana-local-cluster@4.0.0-alpha.0
 - pkg:cargo/solana-local-cluster@4.0.0-beta.0
 - pkg:cargo/solana-local-cluster@4.0.0-beta.1
+- pkg:cargo/solana-local-cluster@4.0.0-beta.2
