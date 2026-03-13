@@ -76,3 +76,4 @@
 - pkg:cargo/fuel-merkle@0.64.0
 - pkg:cargo/fuel-merkle@0.65.0
 - pkg:cargo/fuel-merkle@0.66.0
+- pkg:cargo/fuel-merkle@0.66.1
