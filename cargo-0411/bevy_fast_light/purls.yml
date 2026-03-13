@@ -8,3 +8,5 @@
 - pkg:cargo/bevy_fast_light@0.3.1
 - pkg:cargo/bevy_fast_light@0.3.2
 - pkg:cargo/bevy_fast_light@0.3.3
+- pkg:cargo/bevy_fast_light@0.4.0
+- pkg:cargo/bevy_fast_light@0.4.1
