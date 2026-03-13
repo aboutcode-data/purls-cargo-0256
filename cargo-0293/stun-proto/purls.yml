@@ -18,3 +18,4 @@
 - pkg:cargo/stun-proto@2.0.0-rc.0
 - pkg:cargo/stun-proto@2.0.0-rc.1
 - pkg:cargo/stun-proto@2.0.0-rc.2
+- pkg:cargo/stun-proto@2.0.0-rc.3
