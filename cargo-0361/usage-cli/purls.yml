@@ -105,3 +105,4 @@
 - pkg:cargo/usage-cli@2.7.0
 - pkg:cargo/usage-cli@2.8.0
 - pkg:cargo/usage-cli@2.9.0
+- pkg:cargo/usage-cli@3.0.0
