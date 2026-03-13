@@ -1,2 +1,5 @@
 - pkg:cargo/libgvproxy-sys@0.5.11
 - pkg:cargo/libgvproxy-sys@0.6.0
+- pkg:cargo/libgvproxy-sys@0.7.1
+- pkg:cargo/libgvproxy-sys@0.7.2
+- pkg:cargo/libgvproxy-sys@0.7.3
