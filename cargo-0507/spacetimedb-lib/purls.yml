@@ -58,3 +58,4 @@
 - pkg:cargo/spacetimedb-lib@2.0.2
 - pkg:cargo/spacetimedb-lib@2.0.3
 - pkg:cargo/spacetimedb-lib@2.0.4
+- pkg:cargo/spacetimedb-lib@2.0.5

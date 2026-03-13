@@ -56,3 +56,4 @@
 - pkg:cargo/spacetimedb-bindings-sys@2.0.2
 - pkg:cargo/spacetimedb-bindings-sys@2.0.3
 - pkg:cargo/spacetimedb-bindings-sys@2.0.4
+- pkg:cargo/spacetimedb-bindings-sys@2.0.5
