@@ -1,1 +1,2 @@
 - pkg:cargo/standard-version@0.0.1
+- pkg:cargo/standard-version@0.1.0
