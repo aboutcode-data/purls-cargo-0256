@@ -3,6 +3,7 @@
 - pkg:cargo/libmoq@0.1.2
 - pkg:cargo/libmoq@0.2.1
 - pkg:cargo/libmoq@0.2.11
+- pkg:cargo/libmoq@0.2.12
 - pkg:cargo/libmoq@0.2.2
 - pkg:cargo/libmoq@0.2.4
 - pkg:cargo/libmoq@0.2.5
