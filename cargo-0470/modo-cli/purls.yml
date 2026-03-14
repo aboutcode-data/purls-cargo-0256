@@ -5,3 +5,4 @@
 - pkg:cargo/modo-cli@0.1.5
 - pkg:cargo/modo-cli@0.1.6
 - pkg:cargo/modo-cli@0.1.7
+- pkg:cargo/modo-cli@0.2.0
