@@ -2,3 +2,5 @@
 - pkg:cargo/chrome-debug-mcp@0.2.1
 - pkg:cargo/chrome-debug-mcp@0.2.3
 - pkg:cargo/chrome-debug-mcp@0.2.4
+- pkg:cargo/chrome-debug-mcp@0.4.0
+- pkg:cargo/chrome-debug-mcp@0.4.1
