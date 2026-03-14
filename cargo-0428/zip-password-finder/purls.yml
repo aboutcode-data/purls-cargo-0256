@@ -2,6 +2,7 @@
 - pkg:cargo/zip-password-finder@0.10.1
 - pkg:cargo/zip-password-finder@0.10.2
 - pkg:cargo/zip-password-finder@0.10.3
+- pkg:cargo/zip-password-finder@0.10.4
 - pkg:cargo/zip-password-finder@0.5.1
 - pkg:cargo/zip-password-finder@0.8.0
 - pkg:cargo/zip-password-finder@0.8.1

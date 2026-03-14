@@ -17,6 +17,7 @@
 - pkg:cargo/oxc_ecmascript@0.116.0
 - pkg:cargo/oxc_ecmascript@0.117.0
 - pkg:cargo/oxc_ecmascript@0.118.0
+- pkg:cargo/oxc_ecmascript@0.119.0
 - pkg:cargo/oxc_ecmascript@0.32.0
 - pkg:cargo/oxc_ecmascript@0.33.0
 - pkg:cargo/oxc_ecmascript@0.34.0
