@@ -5,6 +5,7 @@
 - pkg:cargo/seite@0.1.7
 - pkg:cargo/seite@0.1.8
 - pkg:cargo/seite@0.1.9
+- pkg:cargo/seite@0.10.0
 - pkg:cargo/seite@0.2.0
 - pkg:cargo/seite@0.2.1
 - pkg:cargo/seite@0.2.2
@@ -23,3 +24,5 @@
 - pkg:cargo/seite@0.7.0
 - pkg:cargo/seite@0.8.0
 - pkg:cargo/seite@0.8.1
+- pkg:cargo/seite@0.8.2
+- pkg:cargo/seite@0.9.0
