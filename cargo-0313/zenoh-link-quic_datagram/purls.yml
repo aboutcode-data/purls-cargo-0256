@@ -6,3 +6,4 @@
 - pkg:cargo/zenoh-link-quic_datagram@1.7.0
 - pkg:cargo/zenoh-link-quic_datagram@1.7.1
 - pkg:cargo/zenoh-link-quic_datagram@1.7.2
+- pkg:cargo/zenoh-link-quic_datagram@1.8.0
