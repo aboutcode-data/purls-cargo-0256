@@ -1,2 +1,4 @@
 - pkg:cargo/vexy-vsvg-cli@0.1.0
 - pkg:cargo/vexy-vsvg-cli@2.3.1
+- pkg:cargo/vexy-vsvg-cli@2.4.0
+- pkg:cargo/vexy-vsvg-cli@2.4.2
