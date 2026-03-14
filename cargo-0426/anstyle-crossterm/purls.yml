@@ -9,3 +9,4 @@
 - pkg:cargo/anstyle-crossterm@4.0.0
 - pkg:cargo/anstyle-crossterm@4.0.1
 - pkg:cargo/anstyle-crossterm@4.0.2
+- pkg:cargo/anstyle-crossterm@4.0.3
