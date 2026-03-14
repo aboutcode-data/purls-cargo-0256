@@ -10,3 +10,6 @@
 - pkg:cargo/skill@0.4.2
 - pkg:cargo/skill@0.4.3
 - pkg:cargo/skill@0.4.4
+- pkg:cargo/skill@0.5.1
+- pkg:cargo/skill@0.5.2
+- pkg:cargo/skill@0.6.0
