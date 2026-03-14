@@ -3,3 +3,4 @@
 - pkg:cargo/falcon-finch@0.4.7
 - pkg:cargo/falcon-finch@0.5.1
 - pkg:cargo/falcon-finch@0.5.2
+- pkg:cargo/falcon-finch@0.6.0
