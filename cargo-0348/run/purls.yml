@@ -34,3 +34,4 @@
 - pkg:cargo/run@0.4.1
 - pkg:cargo/run@0.4.2
 - pkg:cargo/run@0.4.3
+- pkg:cargo/run@0.4.4
