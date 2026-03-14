@@ -168,3 +168,4 @@
 - pkg:cargo/lance@1.0.4
 - pkg:cargo/lance@2.0.0
 - pkg:cargo/lance@2.0.1
+- pkg:cargo/lance@3.0.0
