@@ -7,3 +7,5 @@
 - pkg:cargo/default2@1.0.0
 - pkg:cargo/default2@1.0.1
 - pkg:cargo/default2@1.0.2
+- pkg:cargo/default2@2.0.0
+- pkg:cargo/default2@2.1.0
