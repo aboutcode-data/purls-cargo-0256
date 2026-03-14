@@ -13,6 +13,7 @@
 - pkg:cargo/panache@2.18.0
 - pkg:cargo/panache@2.19.0
 - pkg:cargo/panache@2.2.0
+- pkg:cargo/panache@2.20.0
 - pkg:cargo/panache@2.3.0
 - pkg:cargo/panache@2.4.0
 - pkg:cargo/panache@2.5.0
