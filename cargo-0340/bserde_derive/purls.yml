@@ -1,1 +1,3 @@
 - pkg:cargo/bserde_derive@0.1.0
+- pkg:cargo/bserde_derive@0.1.2
+- pkg:cargo/bserde_derive@0.1.21
