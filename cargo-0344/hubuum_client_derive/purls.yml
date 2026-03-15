@@ -1,1 +1,2 @@
 - pkg:cargo/hubuum_client_derive@0.0.1
+- pkg:cargo/hubuum_client_derive@0.0.2
