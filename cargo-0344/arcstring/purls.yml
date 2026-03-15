@@ -2,3 +2,4 @@
 - pkg:cargo/arcstring@0.1.1
 - pkg:cargo/arcstring@0.1.2
 - pkg:cargo/arcstring@0.1.3
+- pkg:cargo/arcstring@1.0.0
