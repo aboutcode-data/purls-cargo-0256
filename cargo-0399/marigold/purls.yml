@@ -6,6 +6,7 @@
 - pkg:cargo/marigold@0.1.14
 - pkg:cargo/marigold@0.1.15
 - pkg:cargo/marigold@0.1.16
+- pkg:cargo/marigold@0.1.17
 - pkg:cargo/marigold@0.1.2
 - pkg:cargo/marigold@0.1.5
 - pkg:cargo/marigold@0.1.6
