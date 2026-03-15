@@ -9,6 +9,7 @@
 - pkg:cargo/plwr@0.2.2
 - pkg:cargo/plwr@0.20.0
 - pkg:cargo/plwr@0.20.1
+- pkg:cargo/plwr@0.21.0
 - pkg:cargo/plwr@0.3.0
 - pkg:cargo/plwr@0.7.0
 - pkg:cargo/plwr@0.7.2
