@@ -1,3 +1,4 @@
 - pkg:cargo/collide-convex@0.2.1
 - pkg:cargo/collide-convex@0.3.0
 - pkg:cargo/collide-convex@0.3.1
+- pkg:cargo/collide-convex@0.3.2
