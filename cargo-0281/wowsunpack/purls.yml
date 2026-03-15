@@ -24,6 +24,7 @@
 - pkg:cargo/wowsunpack@0.23.0
 - pkg:cargo/wowsunpack@0.24.0
 - pkg:cargo/wowsunpack@0.25.0
+- pkg:cargo/wowsunpack@0.29.0
 - pkg:cargo/wowsunpack@0.3.0
 - pkg:cargo/wowsunpack@0.4.0
 - pkg:cargo/wowsunpack@0.5.0
