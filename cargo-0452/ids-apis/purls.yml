@@ -127,6 +127,9 @@
 - pkg:cargo/ids-apis@1.0.130
 - pkg:cargo/ids-apis@1.0.131
 - pkg:cargo/ids-apis@1.0.132
+- pkg:cargo/ids-apis@1.0.133
+- pkg:cargo/ids-apis@1.0.134
+- pkg:cargo/ids-apis@1.0.135
 - pkg:cargo/ids-apis@1.0.14
 - pkg:cargo/ids-apis@1.0.15
 - pkg:cargo/ids-apis@1.0.16
