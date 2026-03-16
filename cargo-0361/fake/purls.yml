@@ -39,3 +39,4 @@
 - pkg:cargo/fake@4.3.0
 - pkg:cargo/fake@4.4.0
 - pkg:cargo/fake@5.0.0
+- pkg:cargo/fake@5.1.0
