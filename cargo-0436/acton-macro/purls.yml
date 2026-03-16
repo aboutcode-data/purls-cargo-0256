@@ -19,3 +19,4 @@
 - pkg:cargo/acton-macro@7.1.2
 - pkg:cargo/acton-macro@8.0.0
 - pkg:cargo/acton-macro@8.0.2
+- pkg:cargo/acton-macro@8.1.0

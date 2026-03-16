@@ -7,3 +7,4 @@
 - pkg:cargo/hyperspec@0.7.1
 - pkg:cargo/hyperspec@0.7.2
 - pkg:cargo/hyperspec@0.7.3
+- pkg:cargo/hyperspec@0.8.0

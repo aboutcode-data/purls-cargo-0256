@@ -28,3 +28,4 @@
 - pkg:cargo/dotenvage@0.3.4
 - pkg:cargo/dotenvage@0.3.5
 - pkg:cargo/dotenvage@0.4.0
+- pkg:cargo/dotenvage@0.4.1
