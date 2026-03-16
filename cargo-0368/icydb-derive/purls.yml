@@ -199,6 +199,8 @@
 - pkg:cargo/icydb-derive@0.55.5
 - pkg:cargo/icydb-derive@0.55.6
 - pkg:cargo/icydb-derive@0.55.7
+- pkg:cargo/icydb-derive@0.56.0
+- pkg:cargo/icydb-derive@0.56.1
 - pkg:cargo/icydb-derive@0.6.10
 - pkg:cargo/icydb-derive@0.6.11
 - pkg:cargo/icydb-derive@0.6.12
