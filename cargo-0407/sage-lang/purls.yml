@@ -8,3 +8,4 @@
 - pkg:cargo/sage-lang@0.6.0
 - pkg:cargo/sage-lang@1.0.0
 - pkg:cargo/sage-lang@1.0.1
+- pkg:cargo/sage-lang@1.0.3
