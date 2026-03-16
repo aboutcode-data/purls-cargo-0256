@@ -11,3 +11,4 @@
 - pkg:cargo/girgen@0.2.7
 - pkg:cargo/girgen@0.2.8
 - pkg:cargo/girgen@0.2.9
+- pkg:cargo/girgen@0.3.1
