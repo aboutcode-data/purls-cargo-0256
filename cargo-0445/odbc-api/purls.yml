@@ -165,6 +165,7 @@
 - pkg:cargo/odbc-api@20.1.4
 - pkg:cargo/odbc-api@20.2.0
 - pkg:cargo/odbc-api@21.0.0
+- pkg:cargo/odbc-api@21.1.0
 - pkg:cargo/odbc-api@3.0.0
 - pkg:cargo/odbc-api@3.0.1
 - pkg:cargo/odbc-api@4.0.0
