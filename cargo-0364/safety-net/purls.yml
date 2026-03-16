@@ -37,3 +37,4 @@
 - pkg:cargo/safety-net@0.5.4
 - pkg:cargo/safety-net@0.5.5
 - pkg:cargo/safety-net@0.6.0
+- pkg:cargo/safety-net@0.6.1
