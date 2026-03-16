@@ -25,3 +25,4 @@
 - pkg:cargo/wit-bindgen-moonbit@0.52.0
 - pkg:cargo/wit-bindgen-moonbit@0.53.0
 - pkg:cargo/wit-bindgen-moonbit@0.53.1
+- pkg:cargo/wit-bindgen-moonbit@0.54.0
