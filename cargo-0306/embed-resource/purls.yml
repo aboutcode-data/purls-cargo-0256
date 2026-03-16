@@ -59,3 +59,4 @@
 - pkg:cargo/embed-resource@3.0.4
 - pkg:cargo/embed-resource@3.0.5
 - pkg:cargo/embed-resource@3.0.6
+- pkg:cargo/embed-resource@3.0.7
