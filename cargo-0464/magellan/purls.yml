@@ -32,3 +32,5 @@
 - pkg:cargo/magellan@2.4.9
 - pkg:cargo/magellan@2.5.0
 - pkg:cargo/magellan@3.0.0
+- pkg:cargo/magellan@3.1.2
+- pkg:cargo/magellan@3.1.3
