@@ -5,3 +5,4 @@
 - pkg:cargo/razor-rpc@0.5.1
 - pkg:cargo/razor-rpc@0.6.0
 - pkg:cargo/razor-rpc@0.7.0
+- pkg:cargo/razor-rpc@0.8.0
