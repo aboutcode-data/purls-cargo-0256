@@ -9,3 +9,5 @@
 - pkg:cargo/subversion@0.1.0
 - pkg:cargo/subversion@0.1.1
 - pkg:cargo/subversion@0.1.2
+- pkg:cargo/subversion@0.1.3
+- pkg:cargo/subversion@0.1.4
