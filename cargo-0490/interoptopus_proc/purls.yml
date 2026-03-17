@@ -55,6 +55,7 @@
 - pkg:cargo/interoptopus_proc@0.15.0-alpha.8
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.0
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.1
+- pkg:cargo/interoptopus_proc@0.16.0-alpha.2
 - pkg:cargo/interoptopus_proc@0.2.1
 - pkg:cargo/interoptopus_proc@0.2.3
 - pkg:cargo/interoptopus_proc@0.3.0
