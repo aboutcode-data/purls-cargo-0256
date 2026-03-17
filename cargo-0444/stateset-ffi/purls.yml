@@ -2,3 +2,4 @@
 - pkg:cargo/stateset-ffi@0.7.15
 - pkg:cargo/stateset-ffi@0.7.20
 - pkg:cargo/stateset-ffi@0.7.22
+- pkg:cargo/stateset-ffi@0.8.0
