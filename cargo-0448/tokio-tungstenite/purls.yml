@@ -29,6 +29,7 @@
 - pkg:cargo/tokio-tungstenite@0.26.2
 - pkg:cargo/tokio-tungstenite@0.27.0
 - pkg:cargo/tokio-tungstenite@0.28.0
+- pkg:cargo/tokio-tungstenite@0.29.0
 - pkg:cargo/tokio-tungstenite@0.3.0
 - pkg:cargo/tokio-tungstenite@0.4.0
 - pkg:cargo/tokio-tungstenite@0.5.0
