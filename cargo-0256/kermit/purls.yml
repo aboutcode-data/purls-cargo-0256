@@ -21,3 +21,4 @@
 - pkg:cargo/kermit@0.0.8
 - pkg:cargo/kermit@0.0.8-dev
 - pkg:cargo/kermit@0.0.9
+- pkg:cargo/kermit@0.1.0
