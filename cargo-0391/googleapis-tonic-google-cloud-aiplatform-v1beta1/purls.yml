@@ -74,4 +74,5 @@
 - pkg:cargo/googleapis-tonic-google-cloud-aiplatform-v1beta1@0.86.0
 - pkg:cargo/googleapis-tonic-google-cloud-aiplatform-v1beta1@0.87.0
 - pkg:cargo/googleapis-tonic-google-cloud-aiplatform-v1beta1@0.88.0
+- pkg:cargo/googleapis-tonic-google-cloud-aiplatform-v1beta1@0.89.0
 - pkg:cargo/googleapis-tonic-google-cloud-aiplatform-v1beta1@0.9.0
