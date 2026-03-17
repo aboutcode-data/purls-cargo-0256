@@ -8,3 +8,5 @@
 - pkg:cargo/py_lib_tsalign@0.6.2
 - pkg:cargo/py_lib_tsalign@0.6.3
 - pkg:cargo/py_lib_tsalign@0.6.4
+- pkg:cargo/py_lib_tsalign@1.0.0
+- pkg:cargo/py_lib_tsalign@1.0.1
