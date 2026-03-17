@@ -1,3 +1,4 @@
+- pkg:cargo/maycoon-widgets@0.0.0
 - pkg:cargo/maycoon-widgets@0.1.0
 - pkg:cargo/maycoon-widgets@0.2.0
 - pkg:cargo/maycoon-widgets@0.3.0
@@ -6,3 +7,4 @@
 - pkg:cargo/maycoon-widgets@0.5.0
 - pkg:cargo/maycoon-widgets@0.5.1
 - pkg:cargo/maycoon-widgets@0.5.2
+- pkg:cargo/maycoon-widgets@1.0.0
