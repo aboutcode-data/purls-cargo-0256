@@ -18,3 +18,5 @@
 - pkg:cargo/lib_tsshow@0.21.2
 - pkg:cargo/lib_tsshow@0.21.3
 - pkg:cargo/lib_tsshow@0.21.4
+- pkg:cargo/lib_tsshow@1.0.0
+- pkg:cargo/lib_tsshow@1.0.1
