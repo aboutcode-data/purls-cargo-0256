@@ -17,5 +17,6 @@
 - pkg:cargo/dlt-core@0.19.3
 - pkg:cargo/dlt-core@0.20.0
 - pkg:cargo/dlt-core@0.20.1
+- pkg:cargo/dlt-core@0.20.2
 - pkg:cargo/dlt-core@0.9.3
 - pkg:cargo/dlt-core@0.9.4
