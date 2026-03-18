@@ -100,6 +100,7 @@
 - pkg:cargo/inferadb-common-storage@0.1.0-dev.20260315.73%2B188d963
 - pkg:cargo/inferadb-common-storage@0.1.0-dev.20260316
 - pkg:cargo/inferadb-common-storage@0.1.0-dev.20260317
+- pkg:cargo/inferadb-common-storage@0.1.0-dev.20260318
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260127
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260128
 - pkg:cargo/inferadb-common-storage@0.1.0-nightly.20260129
