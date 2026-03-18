@@ -10,3 +10,4 @@
 - pkg:cargo/cf-authn-resolver-sdk@0.2.7
 - pkg:cargo/cf-authn-resolver-sdk@0.3.1
 - pkg:cargo/cf-authn-resolver-sdk@0.3.2
+- pkg:cargo/cf-authn-resolver-sdk@0.3.3

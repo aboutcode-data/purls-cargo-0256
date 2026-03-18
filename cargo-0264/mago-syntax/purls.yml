@@ -78,6 +78,7 @@
 - pkg:cargo/mago-syntax@1.13.3
 - pkg:cargo/mago-syntax@1.14.0
 - pkg:cargo/mago-syntax@1.14.1
+- pkg:cargo/mago-syntax@1.15.0
 - pkg:cargo/mago-syntax@1.2.0
 - pkg:cargo/mago-syntax@1.2.1
 - pkg:cargo/mago-syntax@1.2.2

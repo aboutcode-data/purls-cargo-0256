@@ -19,3 +19,4 @@
 - pkg:cargo/cf-modkit-odata-macros@0.5.2
 - pkg:cargo/cf-modkit-odata-macros@0.5.4
 - pkg:cargo/cf-modkit-odata-macros@0.5.5
+- pkg:cargo/cf-modkit-odata-macros@0.5.8
