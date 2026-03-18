@@ -66,6 +66,7 @@
 - pkg:cargo/aws-sdk-pcs@1.65.0
 - pkg:cargo/aws-sdk-pcs@1.66.0
 - pkg:cargo/aws-sdk-pcs@1.67.0
+- pkg:cargo/aws-sdk-pcs@1.68.0
 - pkg:cargo/aws-sdk-pcs@1.7.0
 - pkg:cargo/aws-sdk-pcs@1.7.1
 - pkg:cargo/aws-sdk-pcs@1.8.0

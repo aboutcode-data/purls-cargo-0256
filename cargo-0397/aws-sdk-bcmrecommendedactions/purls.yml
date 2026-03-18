@@ -6,6 +6,7 @@
 - pkg:cargo/aws-sdk-bcmrecommendedactions@1.13.0
 - pkg:cargo/aws-sdk-bcmrecommendedactions@1.14.0
 - pkg:cargo/aws-sdk-bcmrecommendedactions@1.15.0
+- pkg:cargo/aws-sdk-bcmrecommendedactions@1.16.0
 - pkg:cargo/aws-sdk-bcmrecommendedactions@1.2.0
 - pkg:cargo/aws-sdk-bcmrecommendedactions@1.3.0
 - pkg:cargo/aws-sdk-bcmrecommendedactions@1.4.0

@@ -98,3 +98,4 @@
 - pkg:cargo/aws-sdk-trustedadvisor@1.96.0
 - pkg:cargo/aws-sdk-trustedadvisor@1.97.0
 - pkg:cargo/aws-sdk-trustedadvisor@1.98.0
+- pkg:cargo/aws-sdk-trustedadvisor@1.99.0

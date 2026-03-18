@@ -6,3 +6,5 @@
 - pkg:cargo/inferential@0.9.1
 - pkg:cargo/inferential@1.0.0
 - pkg:cargo/inferential@1.0.1
+- pkg:cargo/inferential@1.2.0
+- pkg:cargo/inferential@1.2.1

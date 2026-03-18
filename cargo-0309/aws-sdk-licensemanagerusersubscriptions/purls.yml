@@ -25,6 +25,7 @@
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@0.9.1
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.1.0
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.10.0
+- pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.100.0
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.11.0
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.12.0
 - pkg:cargo/aws-sdk-licensemanagerusersubscriptions@1.13.0
