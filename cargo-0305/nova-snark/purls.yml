@@ -67,6 +67,7 @@
 - pkg:cargo/nova-snark@0.63.0
 - pkg:cargo/nova-snark@0.64.0
 - pkg:cargo/nova-snark@0.65.0
+- pkg:cargo/nova-snark@0.65.1
 - pkg:cargo/nova-snark@0.7.0
 - pkg:cargo/nova-snark@0.7.1
 - pkg:cargo/nova-snark@0.7.2
