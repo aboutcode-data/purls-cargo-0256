@@ -24,6 +24,7 @@
 - pkg:cargo/iced_sessionlock@0.15.0
 - pkg:cargo/iced_sessionlock@0.15.0-rc1
 - pkg:cargo/iced_sessionlock@0.15.1
+- pkg:cargo/iced_sessionlock@0.16.0
 - pkg:cargo/iced_sessionlock@0.2.4
 - pkg:cargo/iced_sessionlock@0.2.5
 - pkg:cargo/iced_sessionlock@0.2.6

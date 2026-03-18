@@ -1,1 +1,3 @@
 - pkg:cargo/wp-self-update@0.1.2
+- pkg:cargo/wp-self-update@0.1.3
+- pkg:cargo/wp-self-update@0.1.5
