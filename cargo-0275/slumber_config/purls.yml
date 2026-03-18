@@ -27,3 +27,4 @@
 - pkg:cargo/slumber_config@5.0.0
 - pkg:cargo/slumber_config@5.1.0
 - pkg:cargo/slumber_config@5.1.1
+- pkg:cargo/slumber_config@5.2.0
