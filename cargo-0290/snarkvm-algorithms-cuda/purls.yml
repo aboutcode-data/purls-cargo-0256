@@ -74,3 +74,4 @@
 - pkg:cargo/snarkvm-algorithms-cuda@4.3.1
 - pkg:cargo/snarkvm-algorithms-cuda@4.4.0
 - pkg:cargo/snarkvm-algorithms-cuda@4.5.0
+- pkg:cargo/snarkvm-algorithms-cuda@4.5.4
