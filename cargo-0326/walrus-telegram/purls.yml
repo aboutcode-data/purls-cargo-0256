@@ -1,2 +1,3 @@
 - pkg:cargo/walrus-telegram@0.0.2
 - pkg:cargo/walrus-telegram@0.0.8
+- pkg:cargo/walrus-telegram@0.0.9
