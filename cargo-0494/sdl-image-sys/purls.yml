@@ -1,1 +1,2 @@
 - pkg:cargo/sdl-image-sys@0.1.0%2B3.5.0-98ed433a6c27345ea4ac2c498ba50879d5f92778
+- pkg:cargo/sdl-image-sys@0.1.1%2B3.5.0-98ed433a6c27345ea4ac2c498ba50879d5f92778

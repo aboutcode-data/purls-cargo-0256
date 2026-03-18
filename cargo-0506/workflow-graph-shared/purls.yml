@@ -6,3 +6,5 @@
 - pkg:cargo/workflow-graph-shared@0.2.5
 - pkg:cargo/workflow-graph-shared@0.2.6
 - pkg:cargo/workflow-graph-shared@0.3.0
+- pkg:cargo/workflow-graph-shared@0.4.0
+- pkg:cargo/workflow-graph-shared@0.4.1
