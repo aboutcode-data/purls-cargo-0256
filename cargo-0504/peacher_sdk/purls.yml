@@ -6,3 +6,5 @@
 - pkg:cargo/peacher_sdk@0.6.0
 - pkg:cargo/peacher_sdk@0.6.0-dev.1
 - pkg:cargo/peacher_sdk@0.6.0-dev.2
+- pkg:cargo/peacher_sdk@0.7.0
+- pkg:cargo/peacher_sdk@0.7.1
