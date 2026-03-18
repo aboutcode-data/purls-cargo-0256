@@ -137,6 +137,10 @@
 - pkg:cargo/ids-apis@1.0.14
 - pkg:cargo/ids-apis@1.0.140
 - pkg:cargo/ids-apis@1.0.141
+- pkg:cargo/ids-apis@1.0.142
+- pkg:cargo/ids-apis@1.0.143
+- pkg:cargo/ids-apis@1.0.144
+- pkg:cargo/ids-apis@1.0.145
 - pkg:cargo/ids-apis@1.0.15
 - pkg:cargo/ids-apis@1.0.16
 - pkg:cargo/ids-apis@1.0.17
