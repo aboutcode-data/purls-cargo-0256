@@ -3,3 +3,4 @@
 - pkg:cargo/protobuf-ckb-syscalls@0.203.0
 - pkg:cargo/protobuf-ckb-syscalls@0.203.0-rc3
 - pkg:cargo/protobuf-ckb-syscalls@1.0.0
+- pkg:cargo/protobuf-ckb-syscalls@1.1.0
