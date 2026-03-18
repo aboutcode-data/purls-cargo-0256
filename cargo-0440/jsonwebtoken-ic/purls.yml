@@ -1,2 +1,3 @@
 - pkg:cargo/jsonwebtoken-ic@10.2.0-ic.0
 - pkg:cargo/jsonwebtoken-ic@10.2.0-ic.1
+- pkg:cargo/jsonwebtoken-ic@10.3.0-ic.0
