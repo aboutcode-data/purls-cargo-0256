@@ -10,3 +10,4 @@
 - pkg:cargo/random-access-storage@3.0.0
 - pkg:cargo/random-access-storage@4.0.0
 - pkg:cargo/random-access-storage@5.0.0
+- pkg:cargo/random-access-storage@6.0.0-alpha
