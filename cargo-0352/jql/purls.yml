@@ -142,3 +142,4 @@
 - pkg:cargo/jql@8.0.9
 - pkg:cargo/jql@8.1.0
 - pkg:cargo/jql@8.1.1
+- pkg:cargo/jql@8.1.2
