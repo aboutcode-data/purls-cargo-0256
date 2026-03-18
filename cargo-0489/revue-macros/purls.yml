@@ -64,3 +64,9 @@
 - pkg:cargo/revue-macros@2.57.0
 - pkg:cargo/revue-macros@2.58.0
 - pkg:cargo/revue-macros@2.58.1
+- pkg:cargo/revue-macros@2.58.2
+- pkg:cargo/revue-macros@2.58.3
+- pkg:cargo/revue-macros@2.58.4
+- pkg:cargo/revue-macros@2.58.5
+- pkg:cargo/revue-macros@2.58.6
+- pkg:cargo/revue-macros@2.58.7
