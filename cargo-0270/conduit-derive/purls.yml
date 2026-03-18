@@ -3,3 +3,4 @@
 - pkg:cargo/conduit-derive@1.0.0
 - pkg:cargo/conduit-derive@2.0.0
 - pkg:cargo/conduit-derive@2.1.0
+- pkg:cargo/conduit-derive@2.1.1

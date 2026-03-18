@@ -2,3 +2,4 @@
 - pkg:cargo/struct-to-enum@1.0.0
 - pkg:cargo/struct-to-enum@1.0.1
 - pkg:cargo/struct-to-enum@1.1.1
+- pkg:cargo/struct-to-enum@1.1.2
