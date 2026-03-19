@@ -2,3 +2,4 @@
 - pkg:cargo/styx-embed-macros@1.0.0
 - pkg:cargo/styx-embed-macros@1.0.1
 - pkg:cargo/styx-embed-macros@2.0.0
+- pkg:cargo/styx-embed-macros@3.0.0

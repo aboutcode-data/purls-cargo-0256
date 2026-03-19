@@ -2,3 +2,4 @@
 - pkg:cargo/styx-lsp@1.0.0
 - pkg:cargo/styx-lsp@1.0.1
 - pkg:cargo/styx-lsp@2.0.0
+- pkg:cargo/styx-lsp@3.0.0

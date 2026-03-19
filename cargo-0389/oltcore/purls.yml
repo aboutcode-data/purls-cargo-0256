@@ -51,3 +51,4 @@
 - pkg:cargo/oltcore@0.1.7
 - pkg:cargo/oltcore@0.1.8
 - pkg:cargo/oltcore@0.1.9
+- pkg:cargo/oltcore@0.2.0

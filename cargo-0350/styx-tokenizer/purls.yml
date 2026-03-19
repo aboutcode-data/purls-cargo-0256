@@ -1,3 +1,4 @@
 - pkg:cargo/styx-tokenizer@0.0.0
 - pkg:cargo/styx-tokenizer@1.0.0
 - pkg:cargo/styx-tokenizer@2.0.0
+- pkg:cargo/styx-tokenizer@3.0.0
