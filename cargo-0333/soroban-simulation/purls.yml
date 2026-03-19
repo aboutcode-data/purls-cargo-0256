@@ -32,3 +32,4 @@
 - pkg:cargo/soroban-simulation@25.0.0
 - pkg:cargo/soroban-simulation@25.0.0-rc.1
 - pkg:cargo/soroban-simulation@25.0.1
+- pkg:cargo/soroban-simulation@25.2.1
