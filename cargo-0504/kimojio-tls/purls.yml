@@ -3,3 +3,4 @@
 - pkg:cargo/kimojio-tls@0.14.0
 - pkg:cargo/kimojio-tls@0.14.0-beta3
 - pkg:cargo/kimojio-tls@0.14.1
+- pkg:cargo/kimojio-tls@0.15.0-beta1
