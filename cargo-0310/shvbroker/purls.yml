@@ -25,6 +25,7 @@
 - pkg:cargo/shvbroker@3.24.1
 - pkg:cargo/shvbroker@3.25.0
 - pkg:cargo/shvbroker@3.25.1
+- pkg:cargo/shvbroker@3.25.10
 - pkg:cargo/shvbroker@3.25.3
 - pkg:cargo/shvbroker@3.25.4
 - pkg:cargo/shvbroker@3.25.5
