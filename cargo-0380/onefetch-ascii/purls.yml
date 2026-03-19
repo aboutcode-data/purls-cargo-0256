@@ -15,3 +15,5 @@
 - pkg:cargo/onefetch-ascii@2.25.0
 - pkg:cargo/onefetch-ascii@2.26.0
 - pkg:cargo/onefetch-ascii@2.26.1
+- pkg:cargo/onefetch-ascii@2.27.0
+- pkg:cargo/onefetch-ascii@2.27.1

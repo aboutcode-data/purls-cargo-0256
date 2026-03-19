@@ -38,6 +38,7 @@
 - pkg:cargo/onefetch@2.25.0
 - pkg:cargo/onefetch@2.26.0
 - pkg:cargo/onefetch@2.26.1
+- pkg:cargo/onefetch@2.27.1
 - pkg:cargo/onefetch@2.3.0
 - pkg:cargo/onefetch@2.4.0
 - pkg:cargo/onefetch@2.5.0
