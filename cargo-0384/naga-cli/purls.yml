@@ -21,3 +21,4 @@
 - pkg:cargo/naga-cli@26.0.0
 - pkg:cargo/naga-cli@27.0.0
 - pkg:cargo/naga-cli@28.0.0
+- pkg:cargo/naga-cli@29.0.0
