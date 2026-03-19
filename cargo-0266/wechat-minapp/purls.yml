@@ -19,3 +19,5 @@
 - pkg:cargo/wechat-minapp@3.2.6
 - pkg:cargo/wechat-minapp@3.2.7
 - pkg:cargo/wechat-minapp@3.2.8
+- pkg:cargo/wechat-minapp@3.3.0
+- pkg:cargo/wechat-minapp@3.3.1
