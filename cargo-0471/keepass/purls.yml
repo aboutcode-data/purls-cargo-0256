@@ -5,6 +5,7 @@
 - pkg:cargo/keepass@0.10.1
 - pkg:cargo/keepass@0.10.2
 - pkg:cargo/keepass@0.10.3
+- pkg:cargo/keepass@0.10.4
 - pkg:cargo/keepass@0.3.0
 - pkg:cargo/keepass@0.3.1
 - pkg:cargo/keepass@0.3.2
