@@ -28,6 +28,7 @@
 - pkg:cargo/zng-wgt-window@0.15.4
 - pkg:cargo/zng-wgt-window@0.15.5
 - pkg:cargo/zng-wgt-window@0.15.6
+- pkg:cargo/zng-wgt-window@0.15.7
 - pkg:cargo/zng-wgt-window@0.2.10
 - pkg:cargo/zng-wgt-window@0.2.2
 - pkg:cargo/zng-wgt-window@0.2.3
