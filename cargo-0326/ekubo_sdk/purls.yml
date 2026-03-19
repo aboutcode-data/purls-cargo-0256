@@ -33,3 +33,4 @@
 - pkg:cargo/ekubo_sdk@3.0.0
 - pkg:cargo/ekubo_sdk@3.0.1
 - pkg:cargo/ekubo_sdk@3.1.0
+- pkg:cargo/ekubo_sdk@3.1.1

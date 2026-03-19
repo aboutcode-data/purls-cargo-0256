@@ -45,3 +45,4 @@
 - pkg:cargo/forust-ml@0.4.6
 - pkg:cargo/forust-ml@0.4.7
 - pkg:cargo/forust-ml@0.4.8
+- pkg:cargo/forust-ml@0.5.0
