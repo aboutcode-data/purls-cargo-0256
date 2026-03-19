@@ -17,3 +17,4 @@
 - pkg:cargo/hugr-persistent@0.4.6
 - pkg:cargo/hugr-persistent@0.4.7
 - pkg:cargo/hugr-persistent@0.5.0
+- pkg:cargo/hugr-persistent@0.5.1
