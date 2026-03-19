@@ -1,3 +1,5 @@
 - pkg:cargo/downloader-http-rs@1.0.3
 - pkg:cargo/downloader-http-rs@1.0.4
 - pkg:cargo/downloader-http-rs@1.0.5
+- pkg:cargo/downloader-http-rs@1.0.7
+- pkg:cargo/downloader-http-rs@1.0.8
