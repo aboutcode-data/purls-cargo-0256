@@ -1,1 +1,2 @@
 - pkg:cargo/morgana-rust@0.1.0
+- pkg:cargo/morgana-rust@1.16.3
