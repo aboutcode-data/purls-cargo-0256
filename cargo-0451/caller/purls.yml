@@ -2,3 +2,5 @@
 - pkg:cargo/caller@0.2.0
 - pkg:cargo/caller@0.2.1
 - pkg:cargo/caller@0.3.0
+- pkg:cargo/caller@0.3.5
+- pkg:cargo/caller@0.3.6
