@@ -2,3 +2,4 @@
 - pkg:cargo/embassy-net-adin1110@0.2.0
 - pkg:cargo/embassy-net-adin1110@0.3.0
 - pkg:cargo/embassy-net-adin1110@0.3.1
+- pkg:cargo/embassy-net-adin1110@0.4.0
