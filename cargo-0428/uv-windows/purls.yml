@@ -13,3 +13,4 @@
 - pkg:cargo/uv-windows@0.0.29
 - pkg:cargo/uv-windows@0.0.30
 - pkg:cargo/uv-windows@0.0.31
+- pkg:cargo/uv-windows@0.0.32
