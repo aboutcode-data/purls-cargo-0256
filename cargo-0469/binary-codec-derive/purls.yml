@@ -30,3 +30,5 @@
 - pkg:cargo/binary-codec-derive@0.5.1
 - pkg:cargo/binary-codec-derive@0.5.2
 - pkg:cargo/binary-codec-derive@0.6.0
+- pkg:cargo/binary-codec-derive@0.6.5
+- pkg:cargo/binary-codec-derive@0.6.6
