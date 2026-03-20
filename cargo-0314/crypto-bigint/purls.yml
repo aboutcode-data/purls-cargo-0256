@@ -100,3 +100,4 @@
 - pkg:cargo/crypto-bigint@0.7.0-rc.8
 - pkg:cargo/crypto-bigint@0.7.0-rc.9
 - pkg:cargo/crypto-bigint@0.7.1
+- pkg:cargo/crypto-bigint@0.7.2
