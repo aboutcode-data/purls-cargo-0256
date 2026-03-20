@@ -13,6 +13,7 @@
 - pkg:cargo/stm32-metapac@19.0.0
 - pkg:cargo/stm32-metapac@2.0.0
 - pkg:cargo/stm32-metapac@20.0.0
+- pkg:cargo/stm32-metapac@21.0.0
 - pkg:cargo/stm32-metapac@3.0.0
 - pkg:cargo/stm32-metapac@4.0.0
 - pkg:cargo/stm32-metapac@5.0.0
