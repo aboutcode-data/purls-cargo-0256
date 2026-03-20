@@ -5,3 +5,4 @@
 - pkg:cargo/telltale-lean-bridge@3.0.0
 - pkg:cargo/telltale-lean-bridge@4.0.0
 - pkg:cargo/telltale-lean-bridge@4.0.1
+- pkg:cargo/telltale-lean-bridge@5.0.0

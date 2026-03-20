@@ -5,3 +5,4 @@
 - pkg:cargo/telltale-macros@3.0.0
 - pkg:cargo/telltale-macros@4.0.0
 - pkg:cargo/telltale-macros@4.0.1
+- pkg:cargo/telltale-macros@5.0.0
