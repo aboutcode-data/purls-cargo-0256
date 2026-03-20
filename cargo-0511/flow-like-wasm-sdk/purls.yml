@@ -4,3 +4,4 @@
 - pkg:cargo/flow-like-wasm-sdk@0.2.3
 - pkg:cargo/flow-like-wasm-sdk@0.3.0
 - pkg:cargo/flow-like-wasm-sdk@0.3.1
+- pkg:cargo/flow-like-wasm-sdk@0.3.3
