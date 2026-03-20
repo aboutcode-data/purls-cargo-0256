@@ -7,3 +7,4 @@
 - pkg:cargo/split_by_discriminant@0.4.0
 - pkg:cargo/split_by_discriminant@0.5.0
 - pkg:cargo/split_by_discriminant@0.5.1
+- pkg:cargo/split_by_discriminant@0.5.3
