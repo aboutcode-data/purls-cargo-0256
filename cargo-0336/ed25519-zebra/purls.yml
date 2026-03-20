@@ -21,3 +21,4 @@
 - pkg:cargo/ed25519-zebra@4.0.2
 - pkg:cargo/ed25519-zebra@4.0.3
 - pkg:cargo/ed25519-zebra@4.1.0
+- pkg:cargo/ed25519-zebra@4.2.0
