@@ -1,3 +1,5 @@
 - pkg:cargo/pinel@0.4.3-dev.77
 - pkg:cargo/pinel@0.4.3-dev.83
 - pkg:cargo/pinel@0.4.3-dev.90
+- pkg:cargo/pinel@0.5.0
+- pkg:cargo/pinel@0.5.1
