@@ -1,5 +1,6 @@
 - pkg:cargo/terman@0.3.0
 - pkg:cargo/terman@0.3.10
+- pkg:cargo/terman@0.3.12
 - pkg:cargo/terman@0.3.2
 - pkg:cargo/terman@0.3.4
 - pkg:cargo/terman@0.3.8

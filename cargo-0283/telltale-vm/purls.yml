@@ -6,3 +6,4 @@
 - pkg:cargo/telltale-vm@4.0.0
 - pkg:cargo/telltale-vm@4.0.1
 - pkg:cargo/telltale-vm@5.0.0
+- pkg:cargo/telltale-vm@6.0.0

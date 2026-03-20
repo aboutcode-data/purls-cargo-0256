@@ -6,3 +6,4 @@
 - pkg:cargo/telltale-transport@4.0.0
 - pkg:cargo/telltale-transport@4.0.1
 - pkg:cargo/telltale-transport@5.0.0
+- pkg:cargo/telltale-transport@6.0.0
