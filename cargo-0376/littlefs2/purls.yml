@@ -13,3 +13,4 @@
 - pkg:cargo/littlefs2@0.6.0
 - pkg:cargo/littlefs2@0.6.1
 - pkg:cargo/littlefs2@0.7.0
+- pkg:cargo/littlefs2@0.7.1
