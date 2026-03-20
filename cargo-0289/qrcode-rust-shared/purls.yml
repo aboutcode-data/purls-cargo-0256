@@ -1,1 +1,2 @@
 - pkg:cargo/qrcode-rust-shared@0.0.1-alpha
+- pkg:cargo/qrcode-rust-shared@0.1.3

@@ -1,1 +1,2 @@
 - pkg:cargo/qdrant-edge@0.0.0
+- pkg:cargo/qdrant-edge@0.6.0
