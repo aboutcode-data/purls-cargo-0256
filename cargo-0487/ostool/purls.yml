@@ -98,3 +98,4 @@
 - pkg:cargo/ostool@0.8.7
 - pkg:cargo/ostool@0.8.8
 - pkg:cargo/ostool@0.8.9
+- pkg:cargo/ostool@0.9.0
