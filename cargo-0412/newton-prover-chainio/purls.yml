@@ -22,6 +22,8 @@
 - pkg:cargo/newton-prover-chainio@0.1.33
 - pkg:cargo/newton-prover-chainio@0.1.34
 - pkg:cargo/newton-prover-chainio@0.1.35
+- pkg:cargo/newton-prover-chainio@0.1.37
+- pkg:cargo/newton-prover-chainio@0.1.38
 - pkg:cargo/newton-prover-chainio@0.1.4
 - pkg:cargo/newton-prover-chainio@0.1.5
 - pkg:cargo/newton-prover-chainio@0.1.6
