@@ -11,3 +11,5 @@
 - pkg:cargo/librefang@0.6.6
 - pkg:cargo/librefang@0.6.8
 - pkg:cargo/librefang@0.7.0
+- pkg:cargo/librefang@2026.3.2123-rc1
+- pkg:cargo/librefang@2026.3.2201
