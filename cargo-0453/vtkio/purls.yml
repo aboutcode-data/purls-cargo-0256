@@ -19,3 +19,4 @@
 - pkg:cargo/vtkio@0.6.2
 - pkg:cargo/vtkio@0.6.3
 - pkg:cargo/vtkio@0.7.0-rc1
+- pkg:cargo/vtkio@0.7.0-rc2

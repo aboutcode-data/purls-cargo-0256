@@ -43,3 +43,5 @@
 - pkg:cargo/scout_rs@0.95.41
 - pkg:cargo/scout_rs@0.95.42
 - pkg:cargo/scout_rs@0.95.44
+- pkg:cargo/scout_rs@0.95.45
+- pkg:cargo/scout_rs@0.95.46
