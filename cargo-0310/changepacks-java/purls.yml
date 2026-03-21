@@ -1,3 +1,5 @@
 - pkg:cargo/changepacks-java@0.2.14
 - pkg:cargo/changepacks-java@0.2.15
 - pkg:cargo/changepacks-java@0.2.16
+- pkg:cargo/changepacks-java@0.2.17
+- pkg:cargo/changepacks-java@0.2.19
