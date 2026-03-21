@@ -5,3 +5,4 @@
 - pkg:cargo/asterisk-rs-ami@0.4.0
 - pkg:cargo/asterisk-rs-ami@0.4.1
 - pkg:cargo/asterisk-rs-ami@0.4.2
+- pkg:cargo/asterisk-rs-ami@0.5.0
