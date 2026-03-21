@@ -18,6 +18,7 @@
 - pkg:cargo/simpleaf@0.18.4
 - pkg:cargo/simpleaf@0.2.1
 - pkg:cargo/simpleaf@0.21.1
+- pkg:cargo/simpleaf@0.22.0
 - pkg:cargo/simpleaf@0.3.0
 - pkg:cargo/simpleaf@0.4.0
 - pkg:cargo/simpleaf@0.5.0
