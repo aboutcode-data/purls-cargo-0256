@@ -19,3 +19,9 @@
 - pkg:cargo/seer-cli@0.10.3
 - pkg:cargo/seer-cli@0.10.4
 - pkg:cargo/seer-cli@0.11.0
+- pkg:cargo/seer-cli@0.12.0
+- pkg:cargo/seer-cli@0.12.1
+- pkg:cargo/seer-cli@0.12.2
+- pkg:cargo/seer-cli@0.13.0
+- pkg:cargo/seer-cli@0.13.1
+- pkg:cargo/seer-cli@0.13.2
