@@ -93,6 +93,8 @@
 - pkg:cargo/opendeviationbar-core@13.34.0
 - pkg:cargo/opendeviationbar-core@13.35.0
 - pkg:cargo/opendeviationbar-core@13.35.1
+- pkg:cargo/opendeviationbar-core@13.37.0
+- pkg:cargo/opendeviationbar-core@13.38.0
 - pkg:cargo/opendeviationbar-core@13.4.0
 - pkg:cargo/opendeviationbar-core@13.5.0
 - pkg:cargo/opendeviationbar-core@13.6.0
