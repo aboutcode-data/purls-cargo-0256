@@ -30,6 +30,7 @@
 - pkg:cargo/zng-wgt-window@0.15.6
 - pkg:cargo/zng-wgt-window@0.15.7
 - pkg:cargo/zng-wgt-window@0.15.8
+- pkg:cargo/zng-wgt-window@0.15.9
 - pkg:cargo/zng-wgt-window@0.2.10
 - pkg:cargo/zng-wgt-window@0.2.2
 - pkg:cargo/zng-wgt-window@0.2.3
