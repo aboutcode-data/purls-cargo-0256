@@ -14,3 +14,4 @@
 - pkg:cargo/clocksource@0.8.0
 - pkg:cargo/clocksource@0.8.1
 - pkg:cargo/clocksource@0.8.3
+- pkg:cargo/clocksource@1.0.0
