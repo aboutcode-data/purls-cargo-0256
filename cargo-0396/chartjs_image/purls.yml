@@ -58,6 +58,7 @@
 - pkg:cargo/chartjs_image@6.1.61
 - pkg:cargo/chartjs_image@6.1.62
 - pkg:cargo/chartjs_image@6.1.63
+- pkg:cargo/chartjs_image@6.1.64
 - pkg:cargo/chartjs_image@6.1.7
 - pkg:cargo/chartjs_image@6.1.8
 - pkg:cargo/chartjs_image@6.1.9
