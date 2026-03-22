@@ -13,6 +13,8 @@
 - pkg:cargo/proto_rs@0.11.19
 - pkg:cargo/proto_rs@0.11.2
 - pkg:cargo/proto_rs@0.11.20
+- pkg:cargo/proto_rs@0.11.21
+- pkg:cargo/proto_rs@0.11.22
 - pkg:cargo/proto_rs@0.11.3
 - pkg:cargo/proto_rs@0.11.4
 - pkg:cargo/proto_rs@0.11.5
