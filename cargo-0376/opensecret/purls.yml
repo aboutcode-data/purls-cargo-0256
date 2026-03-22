@@ -12,3 +12,4 @@
 - pkg:cargo/opensecret@3.0.0
 - pkg:cargo/opensecret@3.0.0-alpha.0
 - pkg:cargo/opensecret@3.0.0-alpha.1
+- pkg:cargo/opensecret@3.0.1
