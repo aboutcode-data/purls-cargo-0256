@@ -6,3 +6,4 @@
 - pkg:cargo/kamino-cli@0.6.1
 - pkg:cargo/kamino-cli@0.7.0
 - pkg:cargo/kamino-cli@0.8.1
+- pkg:cargo/kamino-cli@0.9.0
