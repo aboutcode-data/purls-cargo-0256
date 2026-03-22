@@ -3,3 +3,5 @@
 - pkg:cargo/mq-check@0.5.18
 - pkg:cargo/mq-check@0.5.19
 - pkg:cargo/mq-check@0.5.20
+- pkg:cargo/mq-check@0.5.21
+- pkg:cargo/mq-check@0.5.22
