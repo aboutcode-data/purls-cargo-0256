@@ -8,3 +8,4 @@
 - pkg:cargo/tree-sitter-java-orchard@0.5.3
 - pkg:cargo/tree-sitter-java-orchard@0.5.4
 - pkg:cargo/tree-sitter-java-orchard@0.5.5
+- pkg:cargo/tree-sitter-java-orchard@0.5.6
