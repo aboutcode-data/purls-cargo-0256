@@ -1,2 +1,3 @@
 - pkg:cargo/nika-lsp@0.27.0
 - pkg:cargo/nika-lsp@0.35.4
+- pkg:cargo/nika-lsp@0.38.0
