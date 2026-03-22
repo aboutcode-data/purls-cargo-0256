@@ -52,6 +52,7 @@
 - pkg:cargo/ra-ap-rustc_hashes@0.153.0
 - pkg:cargo/ra-ap-rustc_hashes@0.154.0
 - pkg:cargo/ra-ap-rustc_hashes@0.155.0
+- pkg:cargo/ra-ap-rustc_hashes@0.156.0
 - pkg:cargo/ra-ap-rustc_hashes@0.96.0
 - pkg:cargo/ra-ap-rustc_hashes@0.97.0
 - pkg:cargo/ra-ap-rustc_hashes@0.98.0
