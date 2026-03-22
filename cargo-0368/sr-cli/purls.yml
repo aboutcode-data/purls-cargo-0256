@@ -17,3 +17,5 @@
 - pkg:cargo/sr-cli@1.6.1
 - pkg:cargo/sr-cli@1.8.2
 - pkg:cargo/sr-cli@1.9.0
+- pkg:cargo/sr-cli@2.0.0
+- pkg:cargo/sr-cli@2.1.0
