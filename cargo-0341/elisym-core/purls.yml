@@ -23,6 +23,7 @@
 - pkg:cargo/elisym-core@0.13.4
 - pkg:cargo/elisym-core@0.13.5
 - pkg:cargo/elisym-core@0.13.6
+- pkg:cargo/elisym-core@0.14.0
 - pkg:cargo/elisym-core@0.5.1
 - pkg:cargo/elisym-core@0.6.0
 - pkg:cargo/elisym-core@0.6.1
