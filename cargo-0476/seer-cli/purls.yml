@@ -25,3 +25,4 @@
 - pkg:cargo/seer-cli@0.13.0
 - pkg:cargo/seer-cli@0.13.1
 - pkg:cargo/seer-cli@0.13.2
+- pkg:cargo/seer-cli@0.13.3

@@ -1,1 +1,3 @@
 - pkg:cargo/vtcode-ghostty-vt-sys@0.92.1
+- pkg:cargo/vtcode-ghostty-vt-sys@0.93.0
+- pkg:cargo/vtcode-ghostty-vt-sys@0.93.1

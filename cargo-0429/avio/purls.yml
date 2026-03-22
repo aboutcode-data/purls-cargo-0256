@@ -8,3 +8,5 @@
 - pkg:cargo/avio@0.6.0
 - pkg:cargo/avio@0.7.0
 - pkg:cargo/avio@0.7.1
+- pkg:cargo/avio@0.7.2
+- pkg:cargo/avio@0.7.3
