@@ -32,3 +32,4 @@
 - pkg:cargo/genetic_algorithms@1.5.0
 - pkg:cargo/genetic_algorithms@1.6.0
 - pkg:cargo/genetic_algorithms@2.0.0
+- pkg:cargo/genetic_algorithms@2.1.0
