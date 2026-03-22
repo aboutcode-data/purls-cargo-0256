@@ -6,3 +6,4 @@
 - pkg:cargo/fallow-cli@1.0.3
 - pkg:cargo/fallow-cli@1.0.4
 - pkg:cargo/fallow-cli@1.1.0
+- pkg:cargo/fallow-cli@1.2.0
