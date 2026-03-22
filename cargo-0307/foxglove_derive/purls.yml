@@ -25,6 +25,7 @@
 - pkg:cargo/foxglove_derive@0.19.0
 - pkg:cargo/foxglove_derive@0.2.0
 - pkg:cargo/foxglove_derive@0.20.0
+- pkg:cargo/foxglove_derive@0.21.0
 - pkg:cargo/foxglove_derive@0.7.1
 - pkg:cargo/foxglove_derive@0.8.0
 - pkg:cargo/foxglove_derive@0.8.1
