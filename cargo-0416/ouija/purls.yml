@@ -1,5 +1,7 @@
 - pkg:cargo/ouija@0.1.0-alpha.1
 - pkg:cargo/ouija@0.1.0-alpha.10
+- pkg:cargo/ouija@0.1.0-alpha.100
+- pkg:cargo/ouija@0.1.0-alpha.101
 - pkg:cargo/ouija@0.1.0-alpha.11
 - pkg:cargo/ouija@0.1.0-alpha.12
 - pkg:cargo/ouija@0.1.0-alpha.13
@@ -83,3 +85,12 @@
 - pkg:cargo/ouija@0.1.0-alpha.88
 - pkg:cargo/ouija@0.1.0-alpha.89
 - pkg:cargo/ouija@0.1.0-alpha.9
+- pkg:cargo/ouija@0.1.0-alpha.90
+- pkg:cargo/ouija@0.1.0-alpha.91
+- pkg:cargo/ouija@0.1.0-alpha.92
+- pkg:cargo/ouija@0.1.0-alpha.93
+- pkg:cargo/ouija@0.1.0-alpha.94
+- pkg:cargo/ouija@0.1.0-alpha.95
+- pkg:cargo/ouija@0.1.0-alpha.96
+- pkg:cargo/ouija@0.1.0-alpha.97
+- pkg:cargo/ouija@0.1.0-alpha.99
