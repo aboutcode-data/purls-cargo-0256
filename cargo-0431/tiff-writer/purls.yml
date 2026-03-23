@@ -1,1 +1,2 @@
 - pkg:cargo/tiff-writer@0.2.0
+- pkg:cargo/tiff-writer@0.2.2
