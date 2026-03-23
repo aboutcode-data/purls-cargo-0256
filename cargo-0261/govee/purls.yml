@@ -7,3 +7,4 @@
 - pkg:cargo/govee@0.5.0
 - pkg:cargo/govee@0.6.0
 - pkg:cargo/govee@0.7.0
+- pkg:cargo/govee@0.7.1
