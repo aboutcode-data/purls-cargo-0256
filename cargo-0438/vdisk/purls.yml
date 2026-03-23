@@ -1,3 +1,4 @@
 - pkg:cargo/vdisk@0.0.1
 - pkg:cargo/vdisk@0.0.1-dev-260209
 - pkg:cargo/vdisk@0.0.3
+- pkg:cargo/vdisk@0.0.4
