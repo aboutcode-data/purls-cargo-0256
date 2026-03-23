@@ -1,3 +1,4 @@
 - pkg:cargo/rustradio_macros_code@0.1.0
 - pkg:cargo/rustradio_macros_code@0.15.0
 - pkg:cargo/rustradio_macros_code@0.15.1
+- pkg:cargo/rustradio_macros_code@0.16.0
