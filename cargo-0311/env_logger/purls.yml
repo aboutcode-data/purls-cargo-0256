@@ -3,6 +3,7 @@
 - pkg:cargo/env_logger@0.10.2
 - pkg:cargo/env_logger@0.11.0
 - pkg:cargo/env_logger@0.11.1
+- pkg:cargo/env_logger@0.11.10
 - pkg:cargo/env_logger@0.11.2
 - pkg:cargo/env_logger@0.11.3
 - pkg:cargo/env_logger@0.11.4
