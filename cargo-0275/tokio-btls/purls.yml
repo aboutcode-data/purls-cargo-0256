@@ -3,3 +3,4 @@
 - pkg:cargo/tokio-btls@0.5.1
 - pkg:cargo/tokio-btls@0.5.3
 - pkg:cargo/tokio-btls@0.5.4
+- pkg:cargo/tokio-btls@0.5.5
