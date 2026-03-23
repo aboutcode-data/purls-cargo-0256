@@ -9,3 +9,4 @@
 - pkg:cargo/charms-proof-wrapper@0.9.3
 - pkg:cargo/charms-proof-wrapper@11.0.0
 - pkg:cargo/charms-proof-wrapper@11.0.1
+- pkg:cargo/charms-proof-wrapper@12.0.0
