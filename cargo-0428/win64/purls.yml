@@ -3,3 +3,4 @@
 - pkg:cargo/win64@0.0.3
 - pkg:cargo/win64@0.0.4
 - pkg:cargo/win64@0.0.5
+- pkg:cargo/win64@0.0.6
