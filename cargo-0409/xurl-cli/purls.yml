@@ -2,3 +2,4 @@
 - pkg:cargo/xurl-cli@0.0.22
 - pkg:cargo/xurl-cli@0.0.23
 - pkg:cargo/xurl-cli@0.0.24
+- pkg:cargo/xurl-cli@0.0.26
