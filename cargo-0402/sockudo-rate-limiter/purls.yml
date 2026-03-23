@@ -1,3 +1,4 @@
 - pkg:cargo/sockudo-rate-limiter@3.2.2
 - pkg:cargo/sockudo-rate-limiter@3.2.3
 - pkg:cargo/sockudo-rate-limiter@3.4.0
+- pkg:cargo/sockudo-rate-limiter@3.4.1
