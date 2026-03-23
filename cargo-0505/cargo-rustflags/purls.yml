@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-rustflags@0.1.0
+- pkg:cargo/cargo-rustflags@0.1.1
