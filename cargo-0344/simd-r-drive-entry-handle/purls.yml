@@ -2,3 +2,4 @@
 - pkg:cargo/simd-r-drive-entry-handle@0.14.0-alpha
 - pkg:cargo/simd-r-drive-entry-handle@0.15.0-alpha
 - pkg:cargo/simd-r-drive-entry-handle@0.15.5-alpha
+- pkg:cargo/simd-r-drive-entry-handle@0.16.0-alpha
