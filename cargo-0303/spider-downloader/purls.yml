@@ -11,3 +11,4 @@
 - pkg:cargo/spider-downloader@0.4.4
 - pkg:cargo/spider-downloader@1.0.0
 - pkg:cargo/spider-downloader@1.0.1
+- pkg:cargo/spider-downloader@1.0.3
