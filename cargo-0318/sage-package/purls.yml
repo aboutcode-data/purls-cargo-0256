@@ -11,3 +11,4 @@
 - pkg:cargo/sage-package@1.0.5
 - pkg:cargo/sage-package@2.0.0
 - pkg:cargo/sage-package@2.0.1
+- pkg:cargo/sage-package@2.1.0

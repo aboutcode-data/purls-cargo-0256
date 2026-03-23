@@ -12,3 +12,4 @@
 - pkg:cargo/sage-loader@1.0.5
 - pkg:cargo/sage-loader@2.0.0
 - pkg:cargo/sage-loader@2.0.1
+- pkg:cargo/sage-loader@2.1.0
