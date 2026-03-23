@@ -26,6 +26,8 @@
 - pkg:cargo/sxmc@0.2.23
 - pkg:cargo/sxmc@0.2.24
 - pkg:cargo/sxmc@0.2.25
+- pkg:cargo/sxmc@0.2.26
+- pkg:cargo/sxmc@0.2.27
 - pkg:cargo/sxmc@0.2.3
 - pkg:cargo/sxmc@0.2.4
 - pkg:cargo/sxmc@0.2.5

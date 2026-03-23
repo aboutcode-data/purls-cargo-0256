@@ -12,3 +12,4 @@
 - pkg:cargo/aws-iot-device-sdk-rust@0.4.1
 - pkg:cargo/aws-iot-device-sdk-rust@0.5.0
 - pkg:cargo/aws-iot-device-sdk-rust@0.6.0
+- pkg:cargo/aws-iot-device-sdk-rust@0.7.0
