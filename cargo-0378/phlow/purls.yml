@@ -14,3 +14,4 @@
 - pkg:cargo/phlow@1.7.1
 - pkg:cargo/phlow@2.0.0
 - pkg:cargo/phlow@2.0.1
+- pkg:cargo/phlow@3.0.0
