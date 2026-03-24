@@ -11,3 +11,4 @@
 - pkg:cargo/fastkmeans-rs@1.0.1
 - pkg:cargo/fastkmeans-rs@1.0.2
 - pkg:cargo/fastkmeans-rs@1.0.4
+- pkg:cargo/fastkmeans-rs@1.0.6

@@ -32,3 +32,4 @@
 - pkg:cargo/sequential-storage@7.0.0
 - pkg:cargo/sequential-storage@7.0.1
 - pkg:cargo/sequential-storage@7.1.0
+- pkg:cargo/sequential-storage@7.2.0
