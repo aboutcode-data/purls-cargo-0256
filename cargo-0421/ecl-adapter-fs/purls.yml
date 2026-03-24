@@ -1,1 +1,2 @@
 - pkg:cargo/ecl-adapter-fs@0.4.0
+- pkg:cargo/ecl-adapter-fs@0.4.1
