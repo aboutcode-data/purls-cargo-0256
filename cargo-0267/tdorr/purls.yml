@@ -1,1 +1,3 @@
 - pkg:cargo/tdorr@0.2.1
+- pkg:cargo/tdorr@0.6.0
+- pkg:cargo/tdorr@5.0.0
