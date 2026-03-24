@@ -10,3 +10,4 @@
 - pkg:cargo/tari_template_builtin@0.25.9
 - pkg:cargo/tari_template_builtin@0.26.0
 - pkg:cargo/tari_template_builtin@0.26.1
+- pkg:cargo/tari_template_builtin@0.27.0

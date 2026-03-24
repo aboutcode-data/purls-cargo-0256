@@ -20,3 +20,5 @@
 - pkg:cargo/macro_registry@0.6.5
 - pkg:cargo/macro_registry@0.6.6
 - pkg:cargo/macro_registry@0.6.7
+- pkg:cargo/macro_registry@0.6.8
+- pkg:cargo/macro_registry@0.6.9
