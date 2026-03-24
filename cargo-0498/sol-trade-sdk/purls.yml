@@ -98,3 +98,4 @@
 - pkg:cargo/sol-trade-sdk@3.6.5
 - pkg:cargo/sol-trade-sdk@4.0.0
 - pkg:cargo/sol-trade-sdk@4.0.1
+- pkg:cargo/sol-trade-sdk@4.0.2
