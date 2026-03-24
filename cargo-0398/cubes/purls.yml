@@ -13,3 +13,5 @@
 - pkg:cargo/cubes@4.1.0
 - pkg:cargo/cubes@5.0.0
 - pkg:cargo/cubes@5.1.0
+- pkg:cargo/cubes@5.2.0
+- pkg:cargo/cubes@5.2.1
