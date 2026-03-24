@@ -180,6 +180,8 @@
 - pkg:cargo/apollo-router@1.61.11-rc.1
 - pkg:cargo/apollo-router@1.61.12
 - pkg:cargo/apollo-router@1.61.12-rc.0
+- pkg:cargo/apollo-router@1.61.13
+- pkg:cargo/apollo-router@1.61.13-rc.0
 - pkg:cargo/apollo-router@1.61.2
 - pkg:cargo/apollo-router@1.61.2-rc.0
 - pkg:cargo/apollo-router@1.61.3
@@ -230,6 +232,8 @@
 - pkg:cargo/apollo-router@2.10.1
 - pkg:cargo/apollo-router@2.10.1-rc.1
 - pkg:cargo/apollo-router@2.10.1-rc.2
+- pkg:cargo/apollo-router@2.10.2
+- pkg:cargo/apollo-router@2.10.2-rc.0
 - pkg:cargo/apollo-router@2.11.0
 - pkg:cargo/apollo-router@2.11.0-abstract.1
 - pkg:cargo/apollo-router@2.11.0-rc.0
@@ -237,6 +241,8 @@
 - pkg:cargo/apollo-router@2.12.0-alpha.0
 - pkg:cargo/apollo-router@2.12.0-rc.0
 - pkg:cargo/apollo-router@2.12.0-rc.1
+- pkg:cargo/apollo-router@2.12.1
+- pkg:cargo/apollo-router@2.12.1-rc.0
 - pkg:cargo/apollo-router@2.2.0
 - pkg:cargo/apollo-router@2.2.0-preview.0
 - pkg:cargo/apollo-router@2.2.0-rc.0
