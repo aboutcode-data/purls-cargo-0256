@@ -15,3 +15,4 @@
 - pkg:cargo/elisym-client@0.5.3
 - pkg:cargo/elisym-client@0.5.4
 - pkg:cargo/elisym-client@0.6.0
+- pkg:cargo/elisym-client@0.6.1
