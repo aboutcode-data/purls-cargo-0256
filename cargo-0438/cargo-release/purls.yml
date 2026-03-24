@@ -143,3 +143,4 @@
 - pkg:cargo/cargo-release@1.0.0
 - pkg:cargo/cargo-release@1.1.0
 - pkg:cargo/cargo-release@1.1.1
+- pkg:cargo/cargo-release@1.1.2
