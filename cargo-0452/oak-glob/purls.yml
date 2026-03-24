@@ -1,2 +1,3 @@
+- pkg:cargo/oak-glob@0.0.10
 - pkg:cargo/oak-glob@0.0.8
 - pkg:cargo/oak-glob@0.0.9
