@@ -51,3 +51,4 @@
 - pkg:cargo/af-oracle@0.24.1
 - pkg:cargo/af-oracle@0.25.0
 - pkg:cargo/af-oracle@0.26.0
+- pkg:cargo/af-oracle@0.27.0
