@@ -7,3 +7,4 @@
 - pkg:cargo/mcp-gateway@2.7.3
 - pkg:cargo/mcp-gateway@2.8.0
 - pkg:cargo/mcp-gateway@2.8.1
+- pkg:cargo/mcp-gateway@2.9.0
