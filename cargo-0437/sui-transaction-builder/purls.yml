@@ -8,3 +8,4 @@
 - pkg:cargo/sui-transaction-builder@0.2.0
 - pkg:cargo/sui-transaction-builder@0.2.1
 - pkg:cargo/sui-transaction-builder@0.2.2
+- pkg:cargo/sui-transaction-builder@0.3.0

@@ -8,3 +8,4 @@
 - pkg:cargo/surfpool-subgraph@0.9.1
 - pkg:cargo/surfpool-subgraph@0.9.3
 - pkg:cargo/surfpool-subgraph@0.9.6
+- pkg:cargo/surfpool-subgraph@1.1.1
