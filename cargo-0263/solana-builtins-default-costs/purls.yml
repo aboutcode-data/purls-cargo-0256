@@ -72,3 +72,4 @@
 - pkg:cargo/solana-builtins-default-costs@4.0.0-beta.1
 - pkg:cargo/solana-builtins-default-costs@4.0.0-beta.2
 - pkg:cargo/solana-builtins-default-costs@4.0.0-beta.3
+- pkg:cargo/solana-builtins-default-costs@4.0.0-beta.4

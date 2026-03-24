@@ -24,3 +24,4 @@
 - pkg:cargo/solana-borsh@2.2.1
 - pkg:cargo/solana-borsh@3.0.0
 - pkg:cargo/solana-borsh@3.0.1
+- pkg:cargo/solana-borsh@3.0.2
