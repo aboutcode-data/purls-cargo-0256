@@ -28,3 +28,4 @@
 - pkg:cargo/typeql@3.7.0-rc0
 - pkg:cargo/typeql@3.8.0
 - pkg:cargo/typeql@3.8.0-rc0
+- pkg:cargo/typeql@3.8.2
