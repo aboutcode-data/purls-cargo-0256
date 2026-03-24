@@ -36,3 +36,4 @@
 - pkg:cargo/ory-kratos-client@1.3.7
 - pkg:cargo/ory-kratos-client@1.3.8
 - pkg:cargo/ory-kratos-client@25.4.0
+- pkg:cargo/ory-kratos-client@26.2.0
