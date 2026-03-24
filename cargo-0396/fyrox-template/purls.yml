@@ -16,5 +16,6 @@
 - pkg:cargo/fyrox-template@0.8.0
 - pkg:cargo/fyrox-template@0.9.0
 - pkg:cargo/fyrox-template@0.9.1
+- pkg:cargo/fyrox-template@1.0.0
 - pkg:cargo/fyrox-template@1.0.0-rc.1
 - pkg:cargo/fyrox-template@1.0.0-rc.2
