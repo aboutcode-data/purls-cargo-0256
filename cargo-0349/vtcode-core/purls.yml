@@ -356,3 +356,4 @@
 - pkg:cargo/vtcode-core@0.92.1
 - pkg:cargo/vtcode-core@0.93.1
 - pkg:cargo/vtcode-core@0.93.2
+- pkg:cargo/vtcode-core@0.93.3
