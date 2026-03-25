@@ -30,4 +30,5 @@
 - pkg:cargo/ranvier-std@0.39.0
 - pkg:cargo/ranvier-std@0.40.0
 - pkg:cargo/ranvier-std@0.41.0
+- pkg:cargo/ranvier-std@0.42.0
 - pkg:cargo/ranvier-std@0.7.0
