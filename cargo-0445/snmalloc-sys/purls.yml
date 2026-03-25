@@ -40,3 +40,4 @@
 - pkg:cargo/snmalloc-sys@0.3.6
 - pkg:cargo/snmalloc-sys@0.3.7
 - pkg:cargo/snmalloc-sys@0.3.8
+- pkg:cargo/snmalloc-sys@0.7.4
