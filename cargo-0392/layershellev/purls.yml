@@ -27,6 +27,9 @@
 - pkg:cargo/layershellev@0.15.0-rc1
 - pkg:cargo/layershellev@0.15.1
 - pkg:cargo/layershellev@0.16.0
+- pkg:cargo/layershellev@0.16.1
+- pkg:cargo/layershellev@0.17.0
+- pkg:cargo/layershellev@0.17.1
 - pkg:cargo/layershellev@0.2.0
 - pkg:cargo/layershellev@0.2.4
 - pkg:cargo/layershellev@0.2.5
