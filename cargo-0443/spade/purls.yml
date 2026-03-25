@@ -25,6 +25,7 @@
 - pkg:cargo/spade@2.13.1
 - pkg:cargo/spade@2.14.0
 - pkg:cargo/spade@2.15.0
+- pkg:cargo/spade@2.15.1
 - pkg:cargo/spade@2.2.0
 - pkg:cargo/spade@2.2.1
 - pkg:cargo/spade@2.3.0
