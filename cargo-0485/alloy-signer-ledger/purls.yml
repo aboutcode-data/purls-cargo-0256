@@ -122,3 +122,4 @@
 - pkg:cargo/alloy-signer-ledger@1.7.3
 - pkg:cargo/alloy-signer-ledger@1.7.4
 - pkg:cargo/alloy-signer-ledger@1.8.0
+- pkg:cargo/alloy-signer-ledger@1.8.1

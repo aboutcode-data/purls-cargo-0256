@@ -1,3 +1,4 @@
 - pkg:cargo/ruvector-attention-wasm@0.1.0
 - pkg:cargo/ruvector-attention-wasm@0.1.32
 - pkg:cargo/ruvector-attention-wasm@2.0.4
+- pkg:cargo/ruvector-attention-wasm@2.0.6
