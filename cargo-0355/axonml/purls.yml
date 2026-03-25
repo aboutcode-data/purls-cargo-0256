@@ -8,3 +8,5 @@
 - pkg:cargo/axonml@0.3.0
 - pkg:cargo/axonml@0.3.1
 - pkg:cargo/axonml@0.4.1
+- pkg:cargo/axonml@0.4.2
+- pkg:cargo/axonml@0.4.3
