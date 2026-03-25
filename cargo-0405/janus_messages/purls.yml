@@ -168,6 +168,7 @@
 - pkg:cargo/janus_messages@0.7.111
 - pkg:cargo/janus_messages@0.7.112
 - pkg:cargo/janus_messages@0.7.113
+- pkg:cargo/janus_messages@0.7.114
 - pkg:cargo/janus_messages@0.7.12
 - pkg:cargo/janus_messages@0.7.13
 - pkg:cargo/janus_messages@0.7.14
