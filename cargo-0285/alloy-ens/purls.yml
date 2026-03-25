@@ -61,3 +61,4 @@
 - pkg:cargo/alloy-ens@1.7.1
 - pkg:cargo/alloy-ens@1.7.3
 - pkg:cargo/alloy-ens@1.7.4
+- pkg:cargo/alloy-ens@1.8.0

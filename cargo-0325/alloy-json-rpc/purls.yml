@@ -126,3 +126,4 @@
 - pkg:cargo/alloy-json-rpc@1.7.2
 - pkg:cargo/alloy-json-rpc@1.7.3
 - pkg:cargo/alloy-json-rpc@1.7.4
+- pkg:cargo/alloy-json-rpc@1.8.0

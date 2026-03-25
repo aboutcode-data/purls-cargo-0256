@@ -9,3 +9,4 @@
 - pkg:cargo/asterisk-rs-ami@0.6.0
 - pkg:cargo/asterisk-rs-ami@0.7.0
 - pkg:cargo/asterisk-rs-ami@0.7.1
+- pkg:cargo/asterisk-rs-ami@0.7.2
