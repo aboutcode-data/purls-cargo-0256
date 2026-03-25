@@ -4,3 +4,4 @@
 - pkg:cargo/ttyforce@0.2.0-alpha3
 - pkg:cargo/ttyforce@0.2.0-beta3
 - pkg:cargo/ttyforce@0.2.0-beta4
+- pkg:cargo/ttyforce@0.2.1
