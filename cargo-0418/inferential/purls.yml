@@ -10,3 +10,4 @@
 - pkg:cargo/inferential@1.2.1
 - pkg:cargo/inferential@1.3.0
 - pkg:cargo/inferential@1.3.2
+- pkg:cargo/inferential@1.4.0
