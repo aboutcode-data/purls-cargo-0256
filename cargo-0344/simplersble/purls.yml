@@ -104,6 +104,7 @@
 - pkg:cargo/simplersble@0.12.1
 - pkg:cargo/simplersble@0.12.2-dev1
 - pkg:cargo/simplersble@0.12.2-dev2
+- pkg:cargo/simplersble@0.12.2-dev3
 - pkg:cargo/simplersble@0.6.0
 - pkg:cargo/simplersble@0.6.0-alpha1
 - pkg:cargo/simplersble@0.6.0-alpha2
