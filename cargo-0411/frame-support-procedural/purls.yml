@@ -58,6 +58,7 @@
 - pkg:cargo/frame-support-procedural@34.0.0
 - pkg:cargo/frame-support-procedural@35.0.0
 - pkg:cargo/frame-support-procedural@36.0.0
+- pkg:cargo/frame-support-procedural@37.0.0
 - pkg:cargo/frame-support-procedural@4.0.0
 - pkg:cargo/frame-support-procedural@5.0.0
 - pkg:cargo/frame-support-procedural@6.0.0
