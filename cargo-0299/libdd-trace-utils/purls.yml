@@ -2,3 +2,4 @@
 - pkg:cargo/libdd-trace-utils@2.0.0
 - pkg:cargo/libdd-trace-utils@2.0.2
 - pkg:cargo/libdd-trace-utils@3.0.0
+- pkg:cargo/libdd-trace-utils@3.0.1
