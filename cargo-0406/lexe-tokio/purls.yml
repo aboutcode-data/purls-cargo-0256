@@ -1,1 +1,2 @@
 - pkg:cargo/lexe-tokio@0.1.1
+- pkg:cargo/lexe-tokio@0.1.2

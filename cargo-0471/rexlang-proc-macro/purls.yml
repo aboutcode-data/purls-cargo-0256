@@ -1,1 +1,2 @@
 - pkg:cargo/rexlang-proc-macro@3.9.1
+- pkg:cargo/rexlang-proc-macro@3.9.2
