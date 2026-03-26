@@ -36,3 +36,5 @@
 - pkg:cargo/pi_store@0.9.3
 - pkg:cargo/pi_store@0.9.5
 - pkg:cargo/pi_store@0.9.6
+- pkg:cargo/pi_store@0.9.7
+- pkg:cargo/pi_store@0.9.8
