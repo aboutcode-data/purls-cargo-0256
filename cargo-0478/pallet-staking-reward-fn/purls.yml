@@ -22,6 +22,7 @@
 - pkg:cargo/pallet-staking-reward-fn@22.0.1
 - pkg:cargo/pallet-staking-reward-fn@23.0.0
 - pkg:cargo/pallet-staking-reward-fn@24.0.0
+- pkg:cargo/pallet-staking-reward-fn@24.0.1
 - pkg:cargo/pallet-staking-reward-fn@4.0.0
 - pkg:cargo/pallet-staking-reward-fn@5.0.0
 - pkg:cargo/pallet-staking-reward-fn@6.0.0

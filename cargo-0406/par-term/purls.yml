@@ -13,4 +13,5 @@
 - pkg:cargo/par-term@0.29.1
 - pkg:cargo/par-term@0.29.2
 - pkg:cargo/par-term@0.3.0
+- pkg:cargo/par-term@0.30.0
 - pkg:cargo/par-term@0.4.0
