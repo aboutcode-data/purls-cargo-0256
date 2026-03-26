@@ -16,3 +16,4 @@
 - pkg:cargo/fallow-extract@1.8.1
 - pkg:cargo/fallow-extract@1.9.0
 - pkg:cargo/fallow-extract@2.0.0
+- pkg:cargo/fallow-extract@2.0.1
