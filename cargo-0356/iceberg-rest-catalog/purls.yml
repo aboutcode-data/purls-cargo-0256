@@ -1,3 +1,4 @@
+- pkg:cargo/iceberg-rest-catalog@0.10.0
 - pkg:cargo/iceberg-rest-catalog@0.4.0
 - pkg:cargo/iceberg-rest-catalog@0.5.0
 - pkg:cargo/iceberg-rest-catalog@0.5.1

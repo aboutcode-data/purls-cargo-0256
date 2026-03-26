@@ -16,6 +16,7 @@
 - pkg:cargo/confik@0.14.0
 - pkg:cargo/confik@0.15.0
 - pkg:cargo/confik@0.15.1
+- pkg:cargo/confik@0.15.10
 - pkg:cargo/confik@0.15.2
 - pkg:cargo/confik@0.15.3
 - pkg:cargo/confik@0.15.4
@@ -23,6 +24,7 @@
 - pkg:cargo/confik@0.15.6
 - pkg:cargo/confik@0.15.7
 - pkg:cargo/confik@0.15.8
+- pkg:cargo/confik@0.15.9
 - pkg:cargo/confik@0.7.0
 - pkg:cargo/confik@0.8.0
 - pkg:cargo/confik@0.9.0
