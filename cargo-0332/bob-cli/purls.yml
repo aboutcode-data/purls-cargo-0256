@@ -1,1 +1,2 @@
 - pkg:cargo/bob-cli@0.2.2
+- pkg:cargo/bob-cli@0.3.0
