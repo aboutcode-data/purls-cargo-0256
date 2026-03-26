@@ -12,3 +12,4 @@
 - pkg:cargo/sbd-gen@0.1.8
 - pkg:cargo/sbd-gen@0.1.9
 - pkg:cargo/sbd-gen@0.2.0
+- pkg:cargo/sbd-gen@0.3.0

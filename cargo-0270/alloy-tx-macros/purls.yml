@@ -56,3 +56,4 @@
 - pkg:cargo/alloy-tx-macros@1.7.4
 - pkg:cargo/alloy-tx-macros@1.8.0
 - pkg:cargo/alloy-tx-macros@1.8.1
+- pkg:cargo/alloy-tx-macros@1.8.2
