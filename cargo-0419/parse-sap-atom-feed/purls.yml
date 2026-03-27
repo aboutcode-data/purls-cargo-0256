@@ -28,3 +28,4 @@
 - pkg:cargo/parse-sap-atom-feed@1.2.0
 - pkg:cargo/parse-sap-atom-feed@1.2.1
 - pkg:cargo/parse-sap-atom-feed@1.2.2
+- pkg:cargo/parse-sap-atom-feed@1.2.3
