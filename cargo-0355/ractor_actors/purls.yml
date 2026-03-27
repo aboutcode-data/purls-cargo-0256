@@ -6,6 +6,7 @@
 - pkg:cargo/ractor_actors@0.3.0
 - pkg:cargo/ractor_actors@0.4.0
 - pkg:cargo/ractor_actors@0.4.1
+- pkg:cargo/ractor_actors@0.4.11
 - pkg:cargo/ractor_actors@0.4.2
 - pkg:cargo/ractor_actors@0.4.3
 - pkg:cargo/ractor_actors@0.4.4
@@ -14,3 +15,4 @@
 - pkg:cargo/ractor_actors@0.4.7
 - pkg:cargo/ractor_actors@0.4.8
 - pkg:cargo/ractor_actors@0.4.9
+- pkg:cargo/ractor_actors@0.5.0
