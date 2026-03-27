@@ -13,5 +13,6 @@
 - pkg:cargo/fireblocks-sdk@2.0.1
 - pkg:cargo/fireblocks-sdk@2.1.0
 - pkg:cargo/fireblocks-sdk@2025.10.17
+- pkg:cargo/fireblocks-sdk@2026.3.27
 - pkg:cargo/fireblocks-sdk@3.0.1
 - pkg:cargo/fireblocks-sdk@3.0.2
