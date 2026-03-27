@@ -1,1 +1,2 @@
 - pkg:cargo/rustmax-rustdoc@0.0.8
+- pkg:cargo/rustmax-rustdoc@0.0.9
