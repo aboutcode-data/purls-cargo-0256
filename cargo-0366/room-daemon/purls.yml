@@ -3,3 +3,4 @@
 - pkg:cargo/room-daemon@3.5.0
 - pkg:cargo/room-daemon@3.5.1
 - pkg:cargo/room-daemon@3.6.0
+- pkg:cargo/room-daemon@3.6.1
