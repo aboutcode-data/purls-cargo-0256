@@ -5,3 +5,4 @@
 - pkg:cargo/libloot@0.28.4
 - pkg:cargo/libloot@0.29.0
 - pkg:cargo/libloot@0.29.1
+- pkg:cargo/libloot@0.29.2
