@@ -11,3 +11,4 @@
 - pkg:cargo/text-document-common@0.0.9
 - pkg:cargo/text-document-common@1.0.0
 - pkg:cargo/text-document-common@1.1.0
+- pkg:cargo/text-document-common@1.1.1

@@ -7,3 +7,4 @@
 - pkg:cargo/single-statistics@0.8.1
 - pkg:cargo/single-statistics@0.8.3
 - pkg:cargo/single-statistics@0.8.5
+- pkg:cargo/single-statistics@0.9.0
