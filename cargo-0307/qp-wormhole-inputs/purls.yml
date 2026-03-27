@@ -6,3 +6,5 @@
 - pkg:cargo/qp-wormhole-inputs@1.0.7
 - pkg:cargo/qp-wormhole-inputs@1.1.0
 - pkg:cargo/qp-wormhole-inputs@1.1.1
+- pkg:cargo/qp-wormhole-inputs@1.2.0
+- pkg:cargo/qp-wormhole-inputs@1.2.1
