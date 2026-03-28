@@ -1,4 +1,5 @@
 - pkg:cargo/rerec@0.0.1
+- pkg:cargo/rerec@0.0.10
 - pkg:cargo/rerec@0.0.2
 - pkg:cargo/rerec@0.0.3
 - pkg:cargo/rerec@0.0.4

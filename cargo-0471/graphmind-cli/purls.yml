@@ -3,3 +3,4 @@
 - pkg:cargo/graphmind-cli@0.7.0
 - pkg:cargo/graphmind-cli@0.8.0
 - pkg:cargo/graphmind-cli@0.8.0-beta
+- pkg:cargo/graphmind-cli@0.8.5
