@@ -11,3 +11,4 @@
 - pkg:cargo/playwright-rs@0.8.5
 - pkg:cargo/playwright-rs@0.8.6
 - pkg:cargo/playwright-rs@0.8.7
+- pkg:cargo/playwright-rs@0.9.0
