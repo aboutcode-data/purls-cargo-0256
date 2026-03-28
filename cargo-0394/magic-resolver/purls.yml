@@ -1,4 +1,5 @@
 - pkg:cargo/magic-resolver@0.10.1
+- pkg:cargo/magic-resolver@0.10.2
 - pkg:cargo/magic-resolver@0.2.1
 - pkg:cargo/magic-resolver@0.2.10
 - pkg:cargo/magic-resolver@0.2.11
