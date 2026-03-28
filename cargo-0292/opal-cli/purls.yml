@@ -1,2 +1,4 @@
 - pkg:cargo/opal-cli@0.1.0-rc1
 - pkg:cargo/opal-cli@0.1.0-rc2
+- pkg:cargo/opal-cli@0.1.0-rc4
+- pkg:cargo/opal-cli@0.1.0-rc5
