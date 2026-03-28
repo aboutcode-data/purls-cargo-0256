@@ -69,6 +69,7 @@
 - pkg:cargo/html-to-markdown-cli@2.3.2
 - pkg:cargo/html-to-markdown-cli@2.3.3
 - pkg:cargo/html-to-markdown-cli@2.3.4
+- pkg:cargo/html-to-markdown-cli@2.30.0
 - pkg:cargo/html-to-markdown-cli@2.4.0
 - pkg:cargo/html-to-markdown-cli@2.4.1
 - pkg:cargo/html-to-markdown-cli@2.4.2
