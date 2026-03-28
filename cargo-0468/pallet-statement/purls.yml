@@ -22,6 +22,7 @@
 - pkg:cargo/pallet-statement@25.0.0
 - pkg:cargo/pallet-statement@26.0.0
 - pkg:cargo/pallet-statement@27.0.0
+- pkg:cargo/pallet-statement@28.0.0
 - pkg:cargo/pallet-statement@4.0.0
 - pkg:cargo/pallet-statement@5.0.0
 - pkg:cargo/pallet-statement@6.0.0
