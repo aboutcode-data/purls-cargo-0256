@@ -10,3 +10,4 @@
 - pkg:cargo/mio-aio@0.8.0
 - pkg:cargo/mio-aio@0.9.0
 - pkg:cargo/mio-aio@1.0.0
+- pkg:cargo/mio-aio@2.0.0
