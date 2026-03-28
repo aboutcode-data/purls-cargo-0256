@@ -1,3 +1,4 @@
+- pkg:cargo/paper-server@1.10.0
 - pkg:cargo/paper-server@1.9.10
 - pkg:cargo/paper-server@1.9.11
 - pkg:cargo/paper-server@1.9.7
