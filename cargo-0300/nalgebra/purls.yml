@@ -108,8 +108,10 @@
 - pkg:cargo/nalgebra@0.33.0
 - pkg:cargo/nalgebra@0.33.1
 - pkg:cargo/nalgebra@0.33.2
+- pkg:cargo/nalgebra@0.33.3
 - pkg:cargo/nalgebra@0.34.0
 - pkg:cargo/nalgebra@0.34.1
+- pkg:cargo/nalgebra@0.34.2
 - pkg:cargo/nalgebra@0.4.0
 - pkg:cargo/nalgebra@0.5.1
 - pkg:cargo/nalgebra@0.6.0
