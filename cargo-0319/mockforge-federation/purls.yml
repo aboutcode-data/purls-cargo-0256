@@ -1,5 +1,6 @@
 - pkg:cargo/mockforge-federation@0.3.100
 - pkg:cargo/mockforge-federation@0.3.101
+- pkg:cargo/mockforge-federation@0.3.102
 - pkg:cargo/mockforge-federation@0.3.28
 - pkg:cargo/mockforge-federation@0.3.31
 - pkg:cargo/mockforge-federation@0.3.71
