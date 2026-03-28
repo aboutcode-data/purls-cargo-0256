@@ -10,6 +10,7 @@
 - pkg:cargo/floreum_parser@14.0.0
 - pkg:cargo/floreum_parser@14.1.0
 - pkg:cargo/floreum_parser@15.0.0
+- pkg:cargo/floreum_parser@15.1.0
 - pkg:cargo/floreum_parser@2.0.0
 - pkg:cargo/floreum_parser@2.1.0
 - pkg:cargo/floreum_parser@3.0.0

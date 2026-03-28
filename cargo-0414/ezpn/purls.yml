@@ -4,3 +4,4 @@
 - pkg:cargo/ezpn@0.4.0
 - pkg:cargo/ezpn@0.4.1
 - pkg:cargo/ezpn@0.4.2
+- pkg:cargo/ezpn@0.5.0
