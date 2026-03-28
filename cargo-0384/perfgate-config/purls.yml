@@ -1,1 +1,2 @@
 - pkg:cargo/perfgate-config@0.15.0
+- pkg:cargo/perfgate-config@0.15.1

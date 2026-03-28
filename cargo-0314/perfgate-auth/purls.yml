@@ -1,1 +1,2 @@
 - pkg:cargo/perfgate-auth@0.15.0
+- pkg:cargo/perfgate-auth@0.15.1
