@@ -1,1 +1,2 @@
 - pkg:cargo/sof-solana-compat@0.13.1
+- pkg:cargo/sof-solana-compat@0.14.0
