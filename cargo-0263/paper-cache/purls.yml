@@ -1,5 +1,6 @@
 - pkg:cargo/paper-cache@1.11.10
 - pkg:cargo/paper-cache@1.11.11
 - pkg:cargo/paper-cache@1.11.12
+- pkg:cargo/paper-cache@1.11.13
 - pkg:cargo/paper-cache@1.11.8
 - pkg:cargo/paper-cache@1.11.9
