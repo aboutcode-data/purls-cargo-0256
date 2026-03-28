@@ -1,2 +1,4 @@
 - pkg:cargo/abaco@0.22.3
 - pkg:cargo/abaco@0.22.4
+- pkg:cargo/abaco@1.0.0
+- pkg:cargo/abaco@1.1.0
