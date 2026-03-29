@@ -1,5 +1,6 @@
 - pkg:cargo/ndhistogram@0.1.0
 - pkg:cargo/ndhistogram@0.10.0
+- pkg:cargo/ndhistogram@0.10.1
 - pkg:cargo/ndhistogram@0.2.0
 - pkg:cargo/ndhistogram@0.2.1
 - pkg:cargo/ndhistogram@0.3.0
