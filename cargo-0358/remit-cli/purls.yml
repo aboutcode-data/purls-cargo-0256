@@ -8,3 +8,5 @@
 - pkg:cargo/remit-cli@0.5.4
 - pkg:cargo/remit-cli@0.5.5
 - pkg:cargo/remit-cli@0.5.6
+- pkg:cargo/remit-cli@0.5.7
+- pkg:cargo/remit-cli@0.5.8
