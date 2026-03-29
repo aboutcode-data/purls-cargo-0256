@@ -1,1 +1,2 @@
 - pkg:cargo/sqry-lang-servicenow-xml@4.12.6
+- pkg:cargo/sqry-lang-servicenow-xml@4.12.7
