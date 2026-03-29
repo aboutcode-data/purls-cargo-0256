@@ -22,6 +22,7 @@
 - pkg:cargo/polkadot-rpc@29.0.0
 - pkg:cargo/polkadot-rpc@3.0.0
 - pkg:cargo/polkadot-rpc@3.0.0-dev.1
+- pkg:cargo/polkadot-rpc@30.0.0
 - pkg:cargo/polkadot-rpc@4.0.0
 - pkg:cargo/polkadot-rpc@5.0.0
 - pkg:cargo/polkadot-rpc@6.0.0
