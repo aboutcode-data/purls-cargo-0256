@@ -26,6 +26,7 @@
 - pkg:cargo/polkadot@30.0.0
 - pkg:cargo/polkadot@30.0.1
 - pkg:cargo/polkadot@30.0.2
+- pkg:cargo/polkadot@31.0.0
 - pkg:cargo/polkadot@4.0.0
 - pkg:cargo/polkadot@5.0.0
 - pkg:cargo/polkadot@6.0.0
