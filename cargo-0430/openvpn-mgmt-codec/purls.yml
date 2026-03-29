@@ -6,3 +6,4 @@
 - pkg:cargo/openvpn-mgmt-codec@0.6.0
 - pkg:cargo/openvpn-mgmt-codec@0.8.0
 - pkg:cargo/openvpn-mgmt-codec@1.0.0-rc.1
+- pkg:cargo/openvpn-mgmt-codec@1.0.0-rc.2
