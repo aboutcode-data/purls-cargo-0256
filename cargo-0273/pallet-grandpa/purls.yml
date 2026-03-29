@@ -57,6 +57,7 @@
 - pkg:cargo/pallet-grandpa@44.0.0
 - pkg:cargo/pallet-grandpa@44.0.1
 - pkg:cargo/pallet-grandpa@45.0.0
+- pkg:cargo/pallet-grandpa@46.0.0
 - pkg:cargo/pallet-grandpa@5.0.0
 - pkg:cargo/pallet-grandpa@6.0.0
 - pkg:cargo/pallet-grandpa@7.0.0
