@@ -4,3 +4,5 @@
 - pkg:cargo/vexil-runtime@0.2.2
 - pkg:cargo/vexil-runtime@0.2.3
 - pkg:cargo/vexil-runtime@0.2.4
+- pkg:cargo/vexil-runtime@0.4.1
+- pkg:cargo/vexil-runtime@0.5.0
