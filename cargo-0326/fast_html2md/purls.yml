@@ -48,6 +48,7 @@
 - pkg:cargo/fast_html2md@0.0.56
 - pkg:cargo/fast_html2md@0.0.57
 - pkg:cargo/fast_html2md@0.0.58
+- pkg:cargo/fast_html2md@0.0.59
 - pkg:cargo/fast_html2md@0.0.6
 - pkg:cargo/fast_html2md@0.0.7
 - pkg:cargo/fast_html2md@0.0.8
