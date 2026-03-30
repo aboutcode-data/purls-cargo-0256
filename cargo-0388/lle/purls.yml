@@ -13,3 +13,5 @@
 - pkg:cargo/lle@2.6.3
 - pkg:cargo/lle@2.6.4
 - pkg:cargo/lle@2.6.5
+- pkg:cargo/lle@2.6.7
+- pkg:cargo/lle@2.7.0
