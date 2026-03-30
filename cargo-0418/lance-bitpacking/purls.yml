@@ -16,3 +16,4 @@
 - pkg:cargo/lance-bitpacking@2.0.1
 - pkg:cargo/lance-bitpacking@3.0.0
 - pkg:cargo/lance-bitpacking@3.0.1
+- pkg:cargo/lance-bitpacking@4.0.0
