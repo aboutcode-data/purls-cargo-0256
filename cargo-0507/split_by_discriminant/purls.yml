@@ -12,3 +12,5 @@
 - pkg:cargo/split_by_discriminant@0.5.5
 - pkg:cargo/split_by_discriminant@0.5.6
 - pkg:cargo/split_by_discriminant@0.5.7
+- pkg:cargo/split_by_discriminant@0.6.0
+- pkg:cargo/split_by_discriminant@0.6.1
