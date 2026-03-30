@@ -30,3 +30,5 @@
 - pkg:cargo/sqlxo@0.7.5
 - pkg:cargo/sqlxo@0.7.6
 - pkg:cargo/sqlxo@0.7.9
+- pkg:cargo/sqlxo@0.8.1
+- pkg:cargo/sqlxo@0.8.2
