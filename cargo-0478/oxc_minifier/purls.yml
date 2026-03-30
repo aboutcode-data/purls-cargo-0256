@@ -34,6 +34,7 @@
 - pkg:cargo/oxc_minifier@0.120.0
 - pkg:cargo/oxc_minifier@0.121.0
 - pkg:cargo/oxc_minifier@0.122.0
+- pkg:cargo/oxc_minifier@0.123.0
 - pkg:cargo/oxc_minifier@0.13.0
 - pkg:cargo/oxc_minifier@0.13.1
 - pkg:cargo/oxc_minifier@0.13.2
