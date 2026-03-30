@@ -4,3 +4,4 @@
 - pkg:cargo/obeli-sk-db-mem@0.35.3
 - pkg:cargo/obeli-sk-db-mem@0.35.4
 - pkg:cargo/obeli-sk-db-mem@0.36.0
+- pkg:cargo/obeli-sk-db-mem@0.36.1
