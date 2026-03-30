@@ -326,3 +326,4 @@
 - pkg:cargo/vtcode-markdown-store@0.93.3
 - pkg:cargo/vtcode-markdown-store@0.94.0
 - pkg:cargo/vtcode-markdown-store@0.95.0
+- pkg:cargo/vtcode-markdown-store@0.96.0
