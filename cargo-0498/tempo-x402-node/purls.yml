@@ -54,3 +54,4 @@
 - pkg:cargo/tempo-x402-node@4.1.0
 - pkg:cargo/tempo-x402-node@5.0.0
 - pkg:cargo/tempo-x402-node@5.1.0
+- pkg:cargo/tempo-x402-node@6.0.0
