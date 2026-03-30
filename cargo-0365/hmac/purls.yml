@@ -8,6 +8,7 @@
 - pkg:cargo/hmac@0.11.0
 - pkg:cargo/hmac@0.12.0
 - pkg:cargo/hmac@0.12.1
+- pkg:cargo/hmac@0.13.0
 - pkg:cargo/hmac@0.13.0-pre.0
 - pkg:cargo/hmac@0.13.0-pre.1
 - pkg:cargo/hmac@0.13.0-pre.2

@@ -3,6 +3,10 @@
 - pkg:cargo/nlink@0.1.2
 - pkg:cargo/nlink@0.10.0
 - pkg:cargo/nlink@0.11.0
+- pkg:cargo/nlink@0.11.1
+- pkg:cargo/nlink@0.11.2
+- pkg:cargo/nlink@0.11.3
+- pkg:cargo/nlink@0.11.4
 - pkg:cargo/nlink@0.2.0
 - pkg:cargo/nlink@0.3.0
 - pkg:cargo/nlink@0.4.0
