@@ -29,6 +29,7 @@
 - pkg:cargo/zetac@0.3.12
 - pkg:cargo/zetac@0.3.13
 - pkg:cargo/zetac@0.3.18
+- pkg:cargo/zetac@0.3.19
 - pkg:cargo/zetac@0.3.2
 - pkg:cargo/zetac@0.3.3
 - pkg:cargo/zetac@0.3.4

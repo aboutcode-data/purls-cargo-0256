@@ -39,3 +39,4 @@
 - pkg:cargo/pulsar@6.6.0
 - pkg:cargo/pulsar@6.7.0
 - pkg:cargo/pulsar@6.7.1
+- pkg:cargo/pulsar@6.7.2
