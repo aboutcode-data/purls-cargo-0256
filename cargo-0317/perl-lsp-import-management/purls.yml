@@ -1,1 +1,2 @@
 - pkg:cargo/perl-lsp-import-management@0.11.0
+- pkg:cargo/perl-lsp-import-management@0.12.0
