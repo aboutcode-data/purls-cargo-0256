@@ -3,3 +3,5 @@
 - pkg:cargo/chipi-core@0.7.2
 - pkg:cargo/chipi-core@0.7.3
 - pkg:cargo/chipi-core@0.8.0
+- pkg:cargo/chipi-core@0.8.1
+- pkg:cargo/chipi-core@0.8.2

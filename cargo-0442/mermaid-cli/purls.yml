@@ -12,3 +12,4 @@
 - pkg:cargo/mermaid-cli@0.3.8
 - pkg:cargo/mermaid-cli@0.3.9
 - pkg:cargo/mermaid-cli@0.4.1
+- pkg:cargo/mermaid-cli@0.5.0
