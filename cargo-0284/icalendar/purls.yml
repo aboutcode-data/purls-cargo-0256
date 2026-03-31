@@ -46,6 +46,8 @@
 - pkg:cargo/icalendar@0.17.4
 - pkg:cargo/icalendar@0.17.5
 - pkg:cargo/icalendar@0.17.6
+- pkg:cargo/icalendar@0.17.7
+- pkg:cargo/icalendar@0.17.8
 - pkg:cargo/icalendar@0.2.0
 - pkg:cargo/icalendar@0.3.0
 - pkg:cargo/icalendar@0.3.1
