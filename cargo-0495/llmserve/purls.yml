@@ -1,1 +1,2 @@
 - pkg:cargo/llmserve@0.0.3
+- pkg:cargo/llmserve@0.0.5
