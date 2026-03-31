@@ -56,3 +56,6 @@
 - pkg:cargo/tempo-x402-identity@5.0.0
 - pkg:cargo/tempo-x402-identity@5.1.0
 - pkg:cargo/tempo-x402-identity@6.0.0
+- pkg:cargo/tempo-x402-identity@6.1.0
+- pkg:cargo/tempo-x402-identity@6.1.1
+- pkg:cargo/tempo-x402-identity@6.1.2
