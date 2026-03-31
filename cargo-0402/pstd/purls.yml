@@ -83,6 +83,8 @@
 - pkg:cargo/pstd@1.0.65
 - pkg:cargo/pstd@1.0.66
 - pkg:cargo/pstd@1.0.67
+- pkg:cargo/pstd@1.0.68
+- pkg:cargo/pstd@1.0.69
 - pkg:cargo/pstd@1.0.7
 - pkg:cargo/pstd@1.0.8
 - pkg:cargo/pstd@1.0.9

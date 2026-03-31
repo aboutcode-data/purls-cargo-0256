@@ -21,3 +21,4 @@
 - pkg:cargo/shvclient@4.0.0
 - pkg:cargo/shvclient@4.1.0
 - pkg:cargo/shvclient@4.2.0
+- pkg:cargo/shvclient@5.0.0
