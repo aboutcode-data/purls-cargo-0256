@@ -24,6 +24,7 @@
 - pkg:cargo/bevy-dlc@1.18.20
 - pkg:cargo/bevy-dlc@1.18.21
 - pkg:cargo/bevy-dlc@1.18.22
+- pkg:cargo/bevy-dlc@1.18.23
 - pkg:cargo/bevy-dlc@1.18.3
 - pkg:cargo/bevy-dlc@1.18.4
 - pkg:cargo/bevy-dlc@1.18.5
