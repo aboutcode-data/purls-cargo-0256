@@ -1,1 +1,2 @@
 - pkg:cargo/rust-bash@0.2.0
+- pkg:cargo/rust-bash@0.3.0
