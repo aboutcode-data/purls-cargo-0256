@@ -33,3 +33,4 @@
 - pkg:cargo/fallow-extract@2.5.5
 - pkg:cargo/fallow-extract@2.6.0
 - pkg:cargo/fallow-extract@2.7.0
+- pkg:cargo/fallow-extract@2.7.1
