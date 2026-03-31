@@ -1,1 +1,2 @@
 - pkg:cargo/newtype-tools-derive@0.1.0-beta
+- pkg:cargo/newtype-tools-derive@0.1.0-beta.1
