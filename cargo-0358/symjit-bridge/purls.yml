@@ -10,3 +10,4 @@
 - pkg:cargo/symjit-bridge@2.14.2
 - pkg:cargo/symjit-bridge@2.14.3
 - pkg:cargo/symjit-bridge@2.14.5
+- pkg:cargo/symjit-bridge@2.15.0
