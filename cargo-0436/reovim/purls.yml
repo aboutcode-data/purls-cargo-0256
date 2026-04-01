@@ -4,6 +4,7 @@
 - pkg:cargo/reovim@0.1.8
 - pkg:cargo/reovim@0.1.9
 - pkg:cargo/reovim@0.14.3
+- pkg:cargo/reovim@0.14.4
 - pkg:cargo/reovim@0.2.0
 - pkg:cargo/reovim@0.3.0
 - pkg:cargo/reovim@0.4.0
