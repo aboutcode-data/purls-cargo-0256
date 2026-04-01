@@ -141,6 +141,7 @@
 - pkg:cargo/railwayapp@4.35.0
 - pkg:cargo/railwayapp@4.35.1
 - pkg:cargo/railwayapp@4.35.2
+- pkg:cargo/railwayapp@4.36.0
 - pkg:cargo/railwayapp@4.4.0
 - pkg:cargo/railwayapp@4.4.1
 - pkg:cargo/railwayapp@4.5.0
