@@ -10,3 +10,7 @@
 - pkg:cargo/copc_converter@0.6.1
 - pkg:cargo/copc_converter@0.7.1
 - pkg:cargo/copc_converter@0.8.0
+- pkg:cargo/copc_converter@0.8.1
+- pkg:cargo/copc_converter@0.8.2
+- pkg:cargo/copc_converter@0.8.3
+- pkg:cargo/copc_converter@0.8.4
