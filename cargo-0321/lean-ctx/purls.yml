@@ -35,6 +35,9 @@
 - pkg:cargo/lean-ctx@2.12.4
 - pkg:cargo/lean-ctx@2.12.5
 - pkg:cargo/lean-ctx@2.12.6
+- pkg:cargo/lean-ctx@2.12.7
+- pkg:cargo/lean-ctx@2.12.8
+- pkg:cargo/lean-ctx@2.12.9
 - pkg:cargo/lean-ctx@2.2.0
 - pkg:cargo/lean-ctx@2.3.0
 - pkg:cargo/lean-ctx@2.3.1
