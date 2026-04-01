@@ -11,3 +11,6 @@
 - pkg:cargo/canic-sharding-runtime@0.20.6
 - pkg:cargo/canic-sharding-runtime@0.20.7
 - pkg:cargo/canic-sharding-runtime@0.20.8
+- pkg:cargo/canic-sharding-runtime@0.21.0
+- pkg:cargo/canic-sharding-runtime@0.21.1
+- pkg:cargo/canic-sharding-runtime@0.21.2

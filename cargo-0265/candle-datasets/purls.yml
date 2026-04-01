@@ -1,6 +1,7 @@
 - pkg:cargo/candle-datasets@0.1.1
 - pkg:cargo/candle-datasets@0.1.2
 - pkg:cargo/candle-datasets@0.10.0
+- pkg:cargo/candle-datasets@0.10.1
 - pkg:cargo/candle-datasets@0.2.0
 - pkg:cargo/candle-datasets@0.2.1
 - pkg:cargo/candle-datasets@0.2.2
