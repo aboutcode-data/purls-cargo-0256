@@ -38,3 +38,4 @@
 - pkg:cargo/fallow-mcp@2.7.3
 - pkg:cargo/fallow-mcp@2.8.0
 - pkg:cargo/fallow-mcp@2.8.1
+- pkg:cargo/fallow-mcp@2.9.0
