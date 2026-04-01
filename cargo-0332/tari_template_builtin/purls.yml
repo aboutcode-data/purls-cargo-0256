@@ -14,3 +14,4 @@
 - pkg:cargo/tari_template_builtin@0.28.0
 - pkg:cargo/tari_template_builtin@0.28.1
 - pkg:cargo/tari_template_builtin@0.28.2
+- pkg:cargo/tari_template_builtin@0.28.3
