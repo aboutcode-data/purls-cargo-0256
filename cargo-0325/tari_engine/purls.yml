@@ -4,3 +4,6 @@
 - pkg:cargo/tari_engine@0.26.0
 - pkg:cargo/tari_engine@0.26.1
 - pkg:cargo/tari_engine@0.27.0
+- pkg:cargo/tari_engine@0.28.0
+- pkg:cargo/tari_engine@0.28.1
+- pkg:cargo/tari_engine@0.28.2
