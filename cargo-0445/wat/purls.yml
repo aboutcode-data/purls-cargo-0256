@@ -151,3 +151,5 @@
 - pkg:cargo/wat@1.244.0
 - pkg:cargo/wat@1.245.0
 - pkg:cargo/wat@1.245.1
+- pkg:cargo/wat@1.246.0
+- pkg:cargo/wat@1.246.1
