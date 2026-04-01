@@ -1,2 +1,3 @@
 - pkg:cargo/omnia-otel@0.28.0
 - pkg:cargo/omnia-otel@0.29.0
+- pkg:cargo/omnia-otel@0.30.0
