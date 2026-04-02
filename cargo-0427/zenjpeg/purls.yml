@@ -8,3 +8,5 @@
 - pkg:cargo/zenjpeg@0.6.1
 - pkg:cargo/zenjpeg@0.7.0
 - pkg:cargo/zenjpeg@0.7.1
+- pkg:cargo/zenjpeg@0.8.0
+- pkg:cargo/zenjpeg@0.8.1
