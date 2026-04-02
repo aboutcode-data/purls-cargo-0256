@@ -4,4 +4,5 @@
 - pkg:cargo/pgqrs-macros@0.13.0
 - pkg:cargo/pgqrs-macros@0.14.0
 - pkg:cargo/pgqrs-macros@0.15.0
+- pkg:cargo/pgqrs-macros@0.15.1
 - pkg:cargo/pgqrs-macros@0.7.0
