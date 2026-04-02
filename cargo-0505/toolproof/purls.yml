@@ -15,6 +15,7 @@
 - pkg:cargo/toolproof@0.15.1
 - pkg:cargo/toolproof@0.16.0
 - pkg:cargo/toolproof@0.17.0
+- pkg:cargo/toolproof@0.17.1
 - pkg:cargo/toolproof@0.2.0
 - pkg:cargo/toolproof@0.3.0
 - pkg:cargo/toolproof@0.4.0

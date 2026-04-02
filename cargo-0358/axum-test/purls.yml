@@ -84,6 +84,7 @@
 - pkg:cargo/axum-test@19.1.0
 - pkg:cargo/axum-test@19.1.1
 - pkg:cargo/axum-test@2.0.0
+- pkg:cargo/axum-test@20.0.0
 - pkg:cargo/axum-test@3.0.0
 - pkg:cargo/axum-test@3.1.0
 - pkg:cargo/axum-test@4.0.0
