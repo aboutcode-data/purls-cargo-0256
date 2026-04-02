@@ -148,4 +148,5 @@
 - pkg:cargo/deno_lint@0.81.0
 - pkg:cargo/deno_lint@0.82.0
 - pkg:cargo/deno_lint@0.83.0
+- pkg:cargo/deno_lint@0.84.0
 - pkg:cargo/deno_lint@0.9.0
