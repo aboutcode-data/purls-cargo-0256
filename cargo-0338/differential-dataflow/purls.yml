@@ -32,6 +32,7 @@
 - pkg:cargo/differential-dataflow@0.20.0
 - pkg:cargo/differential-dataflow@0.21.0
 - pkg:cargo/differential-dataflow@0.21.1
+- pkg:cargo/differential-dataflow@0.21.2
 - pkg:cargo/differential-dataflow@0.5.0
 - pkg:cargo/differential-dataflow@0.7.0
 - pkg:cargo/differential-dataflow@0.8.0
