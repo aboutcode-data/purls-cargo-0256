@@ -42,3 +42,4 @@
 - pkg:cargo/sr-cli@3.2.3
 - pkg:cargo/sr-cli@3.2.4
 - pkg:cargo/sr-cli@3.2.5
+- pkg:cargo/sr-cli@3.3.0

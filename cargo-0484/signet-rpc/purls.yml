@@ -1,1 +1,2 @@
 - pkg:cargo/signet-rpc@0.0.1-alpha
+- pkg:cargo/signet-rpc@0.17.0
