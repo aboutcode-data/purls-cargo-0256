@@ -38,3 +38,4 @@
 - pkg:cargo/typedb-protocol@3.7.0-rc0
 - pkg:cargo/typedb-protocol@3.7.0-rc1
 - pkg:cargo/typedb-protocol@3.7.1-rc0
+- pkg:cargo/typedb-protocol@3.7.1-rc1
