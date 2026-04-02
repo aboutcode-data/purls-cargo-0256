@@ -2,3 +2,5 @@
 - pkg:cargo/lockpick@0.2.0
 - pkg:cargo/lockpick@0.3.0
 - pkg:cargo/lockpick@0.3.1
+- pkg:cargo/lockpick@0.3.2
+- pkg:cargo/lockpick@0.3.3
