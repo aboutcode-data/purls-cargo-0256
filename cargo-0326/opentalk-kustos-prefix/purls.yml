@@ -32,6 +32,7 @@
 - pkg:cargo/opentalk-kustos-prefix@0.30.1
 - pkg:cargo/opentalk-kustos-prefix@0.31.0
 - pkg:cargo/opentalk-kustos-prefix@0.32.0
+- pkg:cargo/opentalk-kustos-prefix@0.33.0
 - pkg:cargo/opentalk-kustos-prefix@0.8.0-rc.1
 - pkg:cargo/opentalk-kustos-prefix@0.9.0
 - pkg:cargo/opentalk-kustos-prefix@0.9.0-alpha
