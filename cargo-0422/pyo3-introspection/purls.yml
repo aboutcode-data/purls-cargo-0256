@@ -6,3 +6,4 @@
 - pkg:cargo/pyo3-introspection@0.28.0
 - pkg:cargo/pyo3-introspection@0.28.1
 - pkg:cargo/pyo3-introspection@0.28.2
+- pkg:cargo/pyo3-introspection@0.28.3
