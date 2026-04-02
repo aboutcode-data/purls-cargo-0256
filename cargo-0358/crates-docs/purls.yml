@@ -16,3 +16,4 @@
 - pkg:cargo/crates-docs@0.6.0
 - pkg:cargo/crates-docs@0.7.1
 - pkg:cargo/crates-docs@0.7.2
+- pkg:cargo/crates-docs@0.7.3
