@@ -8,6 +8,7 @@
 - pkg:cargo/ecu_diagnostics@0.101.0
 - pkg:cargo/ecu_diagnostics@0.102.0
 - pkg:cargo/ecu_diagnostics@0.103.0
+- pkg:cargo/ecu_diagnostics@0.105.0
 - pkg:cargo/ecu_diagnostics@0.2.0
 - pkg:cargo/ecu_diagnostics@0.3.0
 - pkg:cargo/ecu_diagnostics@0.4.0
