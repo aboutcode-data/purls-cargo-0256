@@ -1,3 +1,5 @@
 - pkg:cargo/sqry-lang-servicenow-xml@4.12.6
 - pkg:cargo/sqry-lang-servicenow-xml@4.12.7
 - pkg:cargo/sqry-lang-servicenow-xml@5.0.1
+- pkg:cargo/sqry-lang-servicenow-xml@6.0.12
+- pkg:cargo/sqry-lang-servicenow-xml@6.0.15

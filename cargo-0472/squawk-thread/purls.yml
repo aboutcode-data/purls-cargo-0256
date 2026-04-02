@@ -1,1 +1,2 @@
 - pkg:cargo/squawk-thread@2.44.0
+- pkg:cargo/squawk-thread@2.45.0
