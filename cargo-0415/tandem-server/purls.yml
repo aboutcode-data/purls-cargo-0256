@@ -24,6 +24,7 @@
 - pkg:cargo/tandem-server@0.4.16
 - pkg:cargo/tandem-server@0.4.17
 - pkg:cargo/tandem-server@0.4.18
+- pkg:cargo/tandem-server@0.4.19
 - pkg:cargo/tandem-server@0.4.3
 - pkg:cargo/tandem-server@0.4.4
 - pkg:cargo/tandem-server@0.4.5
