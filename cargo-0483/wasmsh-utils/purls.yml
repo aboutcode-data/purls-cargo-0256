@@ -1,1 +1,2 @@
 - pkg:cargo/wasmsh-utils@0.3.0
+- pkg:cargo/wasmsh-utils@0.4.0
