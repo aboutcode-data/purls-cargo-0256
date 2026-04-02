@@ -1,1 +1,2 @@
 - pkg:cargo/sandogasa-rpmvercmp@0.6.3
+- pkg:cargo/sandogasa-rpmvercmp@0.7.0
