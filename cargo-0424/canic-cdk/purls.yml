@@ -58,12 +58,15 @@
 - pkg:cargo/canic-cdk@0.21.0
 - pkg:cargo/canic-cdk@0.21.1
 - pkg:cargo/canic-cdk@0.21.10
+- pkg:cargo/canic-cdk@0.21.11
+- pkg:cargo/canic-cdk@0.21.12
 - pkg:cargo/canic-cdk@0.21.2
 - pkg:cargo/canic-cdk@0.21.4
 - pkg:cargo/canic-cdk@0.21.5
 - pkg:cargo/canic-cdk@0.21.6
 - pkg:cargo/canic-cdk@0.21.7
 - pkg:cargo/canic-cdk@0.21.8
+- pkg:cargo/canic-cdk@0.22.0
 - pkg:cargo/canic-cdk@0.4.13
 - pkg:cargo/canic-cdk@0.5.0
 - pkg:cargo/canic-cdk@0.5.1
