@@ -1,1 +1,2 @@
+- pkg:cargo/revm-rwasm-database@10.0.0-rwasm.1
 - pkg:cargo/revm-rwasm-database@7.0.1

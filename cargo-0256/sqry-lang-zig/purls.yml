@@ -5,3 +5,4 @@
 - pkg:cargo/sqry-lang-zig@5.0.1
 - pkg:cargo/sqry-lang-zig@6.0.12
 - pkg:cargo/sqry-lang-zig@6.0.15
+- pkg:cargo/sqry-lang-zig@6.0.16
