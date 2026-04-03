@@ -13,3 +13,4 @@
 - pkg:cargo/writeable@0.6.0
 - pkg:cargo/writeable@0.6.1
 - pkg:cargo/writeable@0.6.2
+- pkg:cargo/writeable@0.6.3

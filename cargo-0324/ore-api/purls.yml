@@ -58,6 +58,7 @@
 - pkg:cargo/ore-api@3.7.25
 - pkg:cargo/ore-api@3.7.26
 - pkg:cargo/ore-api@3.7.27
+- pkg:cargo/ore-api@3.7.28
 - pkg:cargo/ore-api@3.7.3
 - pkg:cargo/ore-api@3.7.4
 - pkg:cargo/ore-api@3.7.5
