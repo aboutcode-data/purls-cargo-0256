@@ -4,6 +4,7 @@
 - pkg:cargo/hashtree-fuse@0.2.15
 - pkg:cargo/hashtree-fuse@0.2.18
 - pkg:cargo/hashtree-fuse@0.2.20
+- pkg:cargo/hashtree-fuse@0.2.22
 - pkg:cargo/hashtree-fuse@0.2.5
 - pkg:cargo/hashtree-fuse@0.2.6
 - pkg:cargo/hashtree-fuse@0.2.8
