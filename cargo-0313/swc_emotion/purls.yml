@@ -182,3 +182,4 @@
 - pkg:cargo/swc_emotion@0.98.0
 - pkg:cargo/swc_emotion@0.99.0
 - pkg:cargo/swc_emotion@1.0.0
+- pkg:cargo/swc_emotion@2.0.0
