@@ -14,3 +14,4 @@
 - pkg:cargo/ontoenv-python@0.5.0-a8
 - pkg:cargo/ontoenv-python@0.5.0-a9
 - pkg:cargo/ontoenv-python@0.5.1
+- pkg:cargo/ontoenv-python@0.5.2
