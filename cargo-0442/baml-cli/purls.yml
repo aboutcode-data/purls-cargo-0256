@@ -2,3 +2,5 @@
 - pkg:cargo/baml-cli@0.216.1-beta.1
 - pkg:cargo/baml-cli@0.217.0
 - pkg:cargo/baml-cli@0.218.0
+- pkg:cargo/baml-cli@0.219.0
+- pkg:cargo/baml-cli@0.220.0
