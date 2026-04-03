@@ -10,4 +10,5 @@
 - pkg:cargo/zorto-core@0.13.1
 - pkg:cargo/zorto-core@0.13.2
 - pkg:cargo/zorto-core@0.13.3
+- pkg:cargo/zorto-core@0.14.0
 - pkg:cargo/zorto-core@0.9.1
