@@ -4,3 +4,4 @@
 - pkg:cargo/conduit-rs@0.1.8
 - pkg:cargo/conduit-rs@0.1.9
 - pkg:cargo/conduit-rs@0.2.1
+- pkg:cargo/conduit-rs@0.2.2
