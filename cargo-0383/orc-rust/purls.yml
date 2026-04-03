@@ -18,3 +18,4 @@
 - pkg:cargo/orc-rust@0.6.3
 - pkg:cargo/orc-rust@0.7.0
 - pkg:cargo/orc-rust@0.7.1
+- pkg:cargo/orc-rust@0.8.0

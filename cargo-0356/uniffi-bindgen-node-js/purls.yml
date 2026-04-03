@@ -5,3 +5,4 @@
 - pkg:cargo/uniffi-bindgen-node-js@0.0.5
 - pkg:cargo/uniffi-bindgen-node-js@0.0.6
 - pkg:cargo/uniffi-bindgen-node-js@0.0.7
+- pkg:cargo/uniffi-bindgen-node-js@0.0.8
