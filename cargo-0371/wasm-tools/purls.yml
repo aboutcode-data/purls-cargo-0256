@@ -124,3 +124,4 @@
 - pkg:cargo/wasm-tools@1.245.1
 - pkg:cargo/wasm-tools@1.246.0
 - pkg:cargo/wasm-tools@1.246.1
+- pkg:cargo/wasm-tools@1.246.2
