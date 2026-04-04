@@ -1,6 +1,7 @@
 - pkg:cargo/telltale-transport@1.0.0
 - pkg:cargo/telltale-transport@1.1.0
 - pkg:cargo/telltale-transport@10.0.0
+- pkg:cargo/telltale-transport@11.0.0
 - pkg:cargo/telltale-transport@2.0.0
 - pkg:cargo/telltale-transport@2.1.0
 - pkg:cargo/telltale-transport@3.0.0
