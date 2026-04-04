@@ -32,3 +32,5 @@
 - pkg:cargo/key-paths-derive@2.2.0
 - pkg:cargo/key-paths-derive@2.3.0
 - pkg:cargo/key-paths-derive@2.4.0
+- pkg:cargo/key-paths-derive@2.5.0
+- pkg:cargo/key-paths-derive@2.6.0
