@@ -20,6 +20,7 @@
 - pkg:cargo/zip_static_handler@0.20.1
 - pkg:cargo/zip_static_handler@0.20.2
 - pkg:cargo/zip_static_handler@0.21.0
+- pkg:cargo/zip_static_handler@0.22.0
 - pkg:cargo/zip_static_handler@0.3.0
 - pkg:cargo/zip_static_handler@0.4.0
 - pkg:cargo/zip_static_handler@0.4.1
