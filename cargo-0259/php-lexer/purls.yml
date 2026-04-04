@@ -2,3 +2,4 @@
 - pkg:cargo/php-lexer@0.2.1
 - pkg:cargo/php-lexer@0.3.0
 - pkg:cargo/php-lexer@0.3.2
+- pkg:cargo/php-lexer@0.3.3
