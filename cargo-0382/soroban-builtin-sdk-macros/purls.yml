@@ -41,3 +41,5 @@
 - pkg:cargo/soroban-builtin-sdk-macros@25.2.1
 - pkg:cargo/soroban-builtin-sdk-macros@26.0.0
 - pkg:cargo/soroban-builtin-sdk-macros@26.0.1
+- pkg:cargo/soroban-builtin-sdk-macros@26.1.0
+- pkg:cargo/soroban-builtin-sdk-macros@26.1.1
