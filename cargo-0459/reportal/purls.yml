@@ -5,3 +5,4 @@
 - pkg:cargo/reportal@0.3.3
 - pkg:cargo/reportal@0.5.2
 - pkg:cargo/reportal@0.5.3
+- pkg:cargo/reportal@0.9.4
