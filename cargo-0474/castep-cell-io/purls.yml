@@ -26,3 +26,4 @@
 - pkg:cargo/castep-cell-io@0.2.7
 - pkg:cargo/castep-cell-io@0.2.8
 - pkg:cargo/castep-cell-io@0.2.9
+- pkg:cargo/castep-cell-io@0.3.0
