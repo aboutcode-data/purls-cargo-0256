@@ -245,6 +245,7 @@
 - pkg:cargo/apollo-router@2.12.1-rc.0
 - pkg:cargo/apollo-router@2.13.0
 - pkg:cargo/apollo-router@2.13.0-rc.0
+- pkg:cargo/apollo-router@2.13.1
 - pkg:cargo/apollo-router@2.13.1-rc.0
 - pkg:cargo/apollo-router@2.2.0
 - pkg:cargo/apollo-router@2.2.0-preview.0
