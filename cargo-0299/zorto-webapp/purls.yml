@@ -10,4 +10,6 @@
 - pkg:cargo/zorto-webapp@0.13.2
 - pkg:cargo/zorto-webapp@0.13.3
 - pkg:cargo/zorto-webapp@0.14.0
+- pkg:cargo/zorto-webapp@0.15.0
+- pkg:cargo/zorto-webapp@0.16.0
 - pkg:cargo/zorto-webapp@0.9.1
