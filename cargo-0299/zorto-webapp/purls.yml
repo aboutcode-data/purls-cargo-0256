@@ -14,4 +14,9 @@
 - pkg:cargo/zorto-webapp@0.16.0
 - pkg:cargo/zorto-webapp@0.16.1
 - pkg:cargo/zorto-webapp@0.16.2
+- pkg:cargo/zorto-webapp@0.17.0
+- pkg:cargo/zorto-webapp@0.17.1
+- pkg:cargo/zorto-webapp@0.17.2
+- pkg:cargo/zorto-webapp@0.17.3
+- pkg:cargo/zorto-webapp@0.18.0
 - pkg:cargo/zorto-webapp@0.9.1
