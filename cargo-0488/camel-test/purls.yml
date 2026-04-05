@@ -1,3 +1,4 @@
 - pkg:cargo/camel-test@0.3.0
 - pkg:cargo/camel-test@0.4.0
 - pkg:cargo/camel-test@0.5.0
+- pkg:cargo/camel-test@0.5.6
