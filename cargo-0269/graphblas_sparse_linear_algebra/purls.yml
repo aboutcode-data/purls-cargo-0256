@@ -103,6 +103,8 @@
 - pkg:cargo/graphblas_sparse_linear_algebra@0.60.1
 - pkg:cargo/graphblas_sparse_linear_algebra@0.60.2
 - pkg:cargo/graphblas_sparse_linear_algebra@0.61.0
+- pkg:cargo/graphblas_sparse_linear_algebra@0.62.0
+- pkg:cargo/graphblas_sparse_linear_algebra@0.63.0
 - pkg:cargo/graphblas_sparse_linear_algebra@0.7.0
 - pkg:cargo/graphblas_sparse_linear_algebra@0.7.1
 - pkg:cargo/graphblas_sparse_linear_algebra@0.8.0
