@@ -1,3 +1,4 @@
 - pkg:cargo/html-generator@0.0.1
 - pkg:cargo/html-generator@0.0.2
 - pkg:cargo/html-generator@0.0.3
+- pkg:cargo/html-generator@0.0.4
