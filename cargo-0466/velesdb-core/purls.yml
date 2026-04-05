@@ -39,6 +39,7 @@
 - pkg:cargo/velesdb-core@1.1.0
 - pkg:cargo/velesdb-core@1.10.0
 - pkg:cargo/velesdb-core@1.11.0
+- pkg:cargo/velesdb-core@1.12.0
 - pkg:cargo/velesdb-core@1.4.4
 - pkg:cargo/velesdb-core@1.4.5
 - pkg:cargo/velesdb-core@1.5.1
