@@ -1,3 +1,5 @@
 - pkg:cargo/finders@1.0.0
 - pkg:cargo/finders@2.0.1
 - pkg:cargo/finders@2.1.0
+- pkg:cargo/finders@2.1.2
+- pkg:cargo/finders@3.0.0
