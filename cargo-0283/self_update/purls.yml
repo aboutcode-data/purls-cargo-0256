@@ -49,6 +49,7 @@
 - pkg:cargo/self_update@0.42.0
 - pkg:cargo/self_update@0.43.0
 - pkg:cargo/self_update@0.43.1
+- pkg:cargo/self_update@0.44.0
 - pkg:cargo/self_update@0.5.0
 - pkg:cargo/self_update@0.5.1
 - pkg:cargo/self_update@0.6.0
