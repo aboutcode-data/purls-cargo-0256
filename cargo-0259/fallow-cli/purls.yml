@@ -29,6 +29,8 @@
 - pkg:cargo/fallow-cli@2.13.1
 - pkg:cargo/fallow-cli@2.13.2
 - pkg:cargo/fallow-cli@2.13.3
+- pkg:cargo/fallow-cli@2.13.4
+- pkg:cargo/fallow-cli@2.14.0
 - pkg:cargo/fallow-cli@2.2.0
 - pkg:cargo/fallow-cli@2.2.1
 - pkg:cargo/fallow-cli@2.2.2
