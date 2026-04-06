@@ -18,3 +18,4 @@
 - pkg:cargo/pathkit@0.9.6
 - pkg:cargo/pathkit@0.9.7
 - pkg:cargo/pathkit@1.0.0
+- pkg:cargo/pathkit@1.1.0
