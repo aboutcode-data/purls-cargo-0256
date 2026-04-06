@@ -10,3 +10,4 @@
 - pkg:cargo/percli@0.2.8
 - pkg:cargo/percli@0.3.0
 - pkg:cargo/percli@0.3.1
+- pkg:cargo/percli@0.4.0
