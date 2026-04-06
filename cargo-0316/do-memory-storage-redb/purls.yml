@@ -1,1 +1,2 @@
 - pkg:cargo/do-memory-storage-redb@0.1.26
+- pkg:cargo/do-memory-storage-redb@0.1.29
