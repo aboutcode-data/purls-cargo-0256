@@ -286,6 +286,8 @@
 - pkg:cargo/icydb-primitives@0.68.5
 - pkg:cargo/icydb-primitives@0.68.6
 - pkg:cargo/icydb-primitives@0.68.7
+- pkg:cargo/icydb-primitives@0.69.0
+- pkg:cargo/icydb-primitives@0.69.1
 - pkg:cargo/icydb-primitives@0.8.0
 - pkg:cargo/icydb-primitives@0.8.1
 - pkg:cargo/icydb-primitives@0.8.2
