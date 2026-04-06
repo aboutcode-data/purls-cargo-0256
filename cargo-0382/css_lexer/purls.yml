@@ -246,6 +246,7 @@
 - pkg:cargo/css_lexer@0.0.21-canary.b7ef6f2c23
 - pkg:cargo/css_lexer@0.0.21-canary.dad37871ce
 - pkg:cargo/css_lexer@0.0.21-canary.f31167cc60
+- pkg:cargo/css_lexer@0.0.21-canary.fc80f623b7
 - pkg:cargo/css_lexer@0.0.3
 - pkg:cargo/css_lexer@0.0.3-canary.2b9ff762ce0a482b5dd39eb212ef34f687a0bd5a
 - pkg:cargo/css_lexer@0.0.3-canary.4172a21495e4050b4c3b7574bbaf53fb7c6580f3
