@@ -60,6 +60,7 @@
 - pkg:cargo/csskit_ast@0.0.21-canary.5634e9b638
 - pkg:cargo/csskit_ast@0.0.21-canary.64ed0c392c
 - pkg:cargo/csskit_ast@0.0.21-canary.dad37871ce
+- pkg:cargo/csskit_ast@0.0.21-canary.f31167cc60
 - pkg:cargo/csskit_ast@0.0.8
 - pkg:cargo/csskit_ast@0.0.9-canary.3150cde69e
 - pkg:cargo/csskit_ast@0.0.9-canary.98adc8dbf3
