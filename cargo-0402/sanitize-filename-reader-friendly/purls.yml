@@ -10,3 +10,4 @@
 - pkg:cargo/sanitize-filename-reader-friendly@2.2.0
 - pkg:cargo/sanitize-filename-reader-friendly@2.2.1
 - pkg:cargo/sanitize-filename-reader-friendly@2.3.0
+- pkg:cargo/sanitize-filename-reader-friendly@2.3.1
