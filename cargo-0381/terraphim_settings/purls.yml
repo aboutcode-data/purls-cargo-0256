@@ -4,6 +4,10 @@
 - pkg:cargo/terraphim_settings@1.11.0
 - pkg:cargo/terraphim_settings@1.14.0
 - pkg:cargo/terraphim_settings@1.15.0
+- pkg:cargo/terraphim_settings@1.16.6
+- pkg:cargo/terraphim_settings@1.16.7
+- pkg:cargo/terraphim_settings@1.16.8
+- pkg:cargo/terraphim_settings@1.16.9
 - pkg:cargo/terraphim_settings@1.4.10
 - pkg:cargo/terraphim_settings@1.4.7
 - pkg:cargo/terraphim_settings@1.4.8
