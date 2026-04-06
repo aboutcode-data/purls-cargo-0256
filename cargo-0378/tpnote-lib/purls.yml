@@ -98,6 +98,7 @@
 - pkg:cargo/tpnote-lib@0.44.3
 - pkg:cargo/tpnote-lib@0.45.0
 - pkg:cargo/tpnote-lib@0.45.1
+- pkg:cargo/tpnote-lib@0.45.10
 - pkg:cargo/tpnote-lib@0.45.2
 - pkg:cargo/tpnote-lib@0.45.3
 - pkg:cargo/tpnote-lib@0.45.4
@@ -105,6 +106,7 @@
 - pkg:cargo/tpnote-lib@0.45.6
 - pkg:cargo/tpnote-lib@0.45.7
 - pkg:cargo/tpnote-lib@0.45.8
+- pkg:cargo/tpnote-lib@0.45.9
 - pkg:cargo/tpnote-lib@0.7.0
 - pkg:cargo/tpnote-lib@0.8.0
 - pkg:cargo/tpnote-lib@0.9.0
