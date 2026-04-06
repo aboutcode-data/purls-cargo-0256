@@ -13,6 +13,7 @@
 - pkg:cargo/tskit@0.13.1
 - pkg:cargo/tskit@0.14.0
 - pkg:cargo/tskit@0.14.1
+- pkg:cargo/tskit@0.15.0
 - pkg:cargo/tskit@0.15.0-alpha.0
 - pkg:cargo/tskit@0.15.0-alpha.1
 - pkg:cargo/tskit@0.15.0-alpha.2
