@@ -169,6 +169,7 @@
 - pkg:cargo/dbsp@0.28.0
 - pkg:cargo/dbsp@0.280.0
 - pkg:cargo/dbsp@0.281.0
+- pkg:cargo/dbsp@0.282.0
 - pkg:cargo/dbsp@0.29.0
 - pkg:cargo/dbsp@0.30.0
 - pkg:cargo/dbsp@0.31.0
