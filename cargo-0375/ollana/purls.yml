@@ -1,3 +1,4 @@
 - pkg:cargo/ollana@0.5.2
 - pkg:cargo/ollana@0.5.3
 - pkg:cargo/ollana@0.6.0
+- pkg:cargo/ollana@0.6.1
