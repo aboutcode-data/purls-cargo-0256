@@ -19,6 +19,7 @@
 - pkg:cargo/kameo@0.19.1
 - pkg:cargo/kameo@0.19.2
 - pkg:cargo/kameo@0.2.0
+- pkg:cargo/kameo@0.20.0
 - pkg:cargo/kameo@0.3.0
 - pkg:cargo/kameo@0.3.1
 - pkg:cargo/kameo@0.3.2
