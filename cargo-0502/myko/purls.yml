@@ -10,3 +10,4 @@
 - pkg:cargo/myko@4.1.1
 - pkg:cargo/myko@4.1.1-canary.1
 - pkg:cargo/myko@4.1.2-canary.1
+- pkg:cargo/myko@4.2.0-canary.1
