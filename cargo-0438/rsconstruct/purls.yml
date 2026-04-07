@@ -25,3 +25,5 @@
 - pkg:cargo/rsconstruct@0.4.2
 - pkg:cargo/rsconstruct@0.5.0
 - pkg:cargo/rsconstruct@0.5.1
+- pkg:cargo/rsconstruct@0.6.0
+- pkg:cargo/rsconstruct@0.6.1
