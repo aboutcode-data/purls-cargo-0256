@@ -15,3 +15,4 @@
 - pkg:cargo/kobe-cli@0.7.5
 - pkg:cargo/kobe-cli@0.7.6
 - pkg:cargo/kobe-cli@0.7.7
+- pkg:cargo/kobe-cli@0.8.0
