@@ -60,3 +60,4 @@
 - pkg:cargo/fuels-code-gen@0.75.0
 - pkg:cargo/fuels-code-gen@0.75.1
 - pkg:cargo/fuels-code-gen@0.76.0
+- pkg:cargo/fuels-code-gen@0.77.0
