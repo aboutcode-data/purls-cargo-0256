@@ -15,3 +15,4 @@
 - pkg:cargo/redirectionio@3.0.0
 - pkg:cargo/redirectionio@3.0.0-beta.1
 - pkg:cargo/redirectionio@3.0.0-beta.2
+- pkg:cargo/redirectionio@3.1.0

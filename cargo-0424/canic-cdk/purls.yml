@@ -106,6 +106,8 @@
 - pkg:cargo/canic-cdk@0.26.2
 - pkg:cargo/canic-cdk@0.26.3
 - pkg:cargo/canic-cdk@0.26.4
+- pkg:cargo/canic-cdk@0.26.5
+- pkg:cargo/canic-cdk@0.26.6
 - pkg:cargo/canic-cdk@0.4.13
 - pkg:cargo/canic-cdk@0.5.0
 - pkg:cargo/canic-cdk@0.5.1

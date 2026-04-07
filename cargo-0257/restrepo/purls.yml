@@ -27,3 +27,4 @@
 - pkg:cargo/restrepo@0.5.1
 - pkg:cargo/restrepo@0.5.10
 - pkg:cargo/restrepo@0.5.11
+- pkg:cargo/restrepo@0.5.12
