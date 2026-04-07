@@ -40,3 +40,5 @@
 - pkg:cargo/parse-sap-odata@1.4.8
 - pkg:cargo/parse-sap-odata@1.4.9
 - pkg:cargo/parse-sap-odata@1.5.0
+- pkg:cargo/parse-sap-odata@1.5.1
+- pkg:cargo/parse-sap-odata@1.5.2
