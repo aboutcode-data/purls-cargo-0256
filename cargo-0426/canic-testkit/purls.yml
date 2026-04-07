@@ -106,6 +106,9 @@
 - pkg:cargo/canic-testkit@0.26.4
 - pkg:cargo/canic-testkit@0.26.5
 - pkg:cargo/canic-testkit@0.26.6
+- pkg:cargo/canic-testkit@0.26.7
+- pkg:cargo/canic-testkit@0.26.8
+- pkg:cargo/canic-testkit@0.26.9
 - pkg:cargo/canic-testkit@0.3.11
 - pkg:cargo/canic-testkit@0.3.12
 - pkg:cargo/canic-testkit@0.3.13
