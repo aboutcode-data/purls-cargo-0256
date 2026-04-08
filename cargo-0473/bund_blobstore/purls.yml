@@ -1,5 +1,6 @@
 - pkg:cargo/bund_blobstore@0.1.0
 - pkg:cargo/bund_blobstore@0.11.0
+- pkg:cargo/bund_blobstore@0.12.0
 - pkg:cargo/bund_blobstore@0.2.0
 - pkg:cargo/bund_blobstore@0.3.0
 - pkg:cargo/bund_blobstore@0.4.0
