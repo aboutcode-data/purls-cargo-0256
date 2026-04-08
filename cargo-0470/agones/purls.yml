@@ -23,3 +23,4 @@
 - pkg:cargo/agones@1.54.0
 - pkg:cargo/agones@1.55.0
 - pkg:cargo/agones@1.56.0
+- pkg:cargo/agones@1.57.0
