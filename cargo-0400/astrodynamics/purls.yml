@@ -1,2 +1,4 @@
 - pkg:cargo/astrodynamics@0.1.0
 - pkg:cargo/astrodynamics@0.5.0
+- pkg:cargo/astrodynamics@0.6.0
+- pkg:cargo/astrodynamics@0.6.1

@@ -28,3 +28,4 @@
 - pkg:cargo/r2x@0.0.7
 - pkg:cargo/r2x@0.0.8
 - pkg:cargo/r2x@0.0.9
+- pkg:cargo/r2x@0.1.0
