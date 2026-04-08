@@ -89,3 +89,4 @@
 - pkg:cargo/swc_magic@0.9.0
 - pkg:cargo/swc_magic@1.0.0
 - pkg:cargo/swc_magic@2.0.0
+- pkg:cargo/swc_magic@3.0.0
