@@ -25,6 +25,7 @@
 - pkg:cargo/ruc@1.0.8
 - pkg:cargo/ruc@1.0.9
 - pkg:cargo/ruc@1.1.0
+- pkg:cargo/ruc@10.0.0
 - pkg:cargo/ruc@2.0.0
 - pkg:cargo/ruc@2.0.1
 - pkg:cargo/ruc@3.0.0

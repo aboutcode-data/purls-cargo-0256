@@ -261,6 +261,7 @@
 - pkg:cargo/opendp_derive@0.14.2-nightly.20260405.1
 - pkg:cargo/opendp_derive@0.14.2-nightly.20260406.1
 - pkg:cargo/opendp_derive@0.14.2-nightly.20260407.1
+- pkg:cargo/opendp_derive@0.14.2-nightly.20260408.1
 - pkg:cargo/opendp_derive@0.6.0
 - pkg:cargo/opendp_derive@0.6.0-rc.7
 - pkg:cargo/opendp_derive@0.6.1
