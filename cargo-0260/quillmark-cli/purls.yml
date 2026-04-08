@@ -10,3 +10,6 @@
 - pkg:cargo/quillmark-cli@0.48.0
 - pkg:cargo/quillmark-cli@0.49.0
 - pkg:cargo/quillmark-cli@0.49.1
+- pkg:cargo/quillmark-cli@0.50.0
+- pkg:cargo/quillmark-cli@0.51.0
+- pkg:cargo/quillmark-cli@0.51.1
