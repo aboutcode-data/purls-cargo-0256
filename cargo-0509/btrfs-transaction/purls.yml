@@ -1,1 +1,2 @@
 - pkg:cargo/btrfs-transaction@0.10.0
+- pkg:cargo/btrfs-transaction@0.11.0

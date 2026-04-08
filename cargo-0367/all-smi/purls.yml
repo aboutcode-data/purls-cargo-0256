@@ -15,6 +15,7 @@
 - pkg:cargo/all-smi@0.17.6
 - pkg:cargo/all-smi@0.18.0
 - pkg:cargo/all-smi@0.18.1
+- pkg:cargo/all-smi@0.19.0
 - pkg:cargo/all-smi@0.3.1
 - pkg:cargo/all-smi@0.3.2
 - pkg:cargo/all-smi@0.3.3

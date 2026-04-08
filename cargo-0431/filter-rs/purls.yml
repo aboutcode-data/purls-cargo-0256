@@ -1,2 +1,4 @@
 - pkg:cargo/filter-rs@0.0.6
 - pkg:cargo/filter-rs@0.0.7
+- pkg:cargo/filter-rs@0.0.8
+- pkg:cargo/filter-rs@0.0.9
