@@ -29,3 +29,4 @@
 - pkg:cargo/icydb-utils@0.70.1
 - pkg:cargo/icydb-utils@0.70.2
 - pkg:cargo/icydb-utils@0.70.4
+- pkg:cargo/icydb-utils@0.70.5
