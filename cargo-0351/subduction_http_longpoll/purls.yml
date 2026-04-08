@@ -4,3 +4,4 @@
 - pkg:cargo/subduction_http_longpoll@0.6.0
 - pkg:cargo/subduction_http_longpoll@0.6.1
 - pkg:cargo/subduction_http_longpoll@0.6.2
+- pkg:cargo/subduction_http_longpoll@0.7.0
