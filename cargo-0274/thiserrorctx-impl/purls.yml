@@ -2,3 +2,4 @@
 - pkg:cargo/thiserrorctx-impl@0.3.0
 - pkg:cargo/thiserrorctx-impl@0.4.0
 - pkg:cargo/thiserrorctx-impl@1.0.0
+- pkg:cargo/thiserrorctx-impl@2.0.0
