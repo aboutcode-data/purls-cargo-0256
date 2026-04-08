@@ -7,6 +7,7 @@
 - pkg:cargo/win64@0.0.15
 - pkg:cargo/win64@0.0.16
 - pkg:cargo/win64@0.0.17
+- pkg:cargo/win64@0.0.18
 - pkg:cargo/win64@0.0.2
 - pkg:cargo/win64@0.0.3
 - pkg:cargo/win64@0.0.4
