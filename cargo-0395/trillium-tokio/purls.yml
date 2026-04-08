@@ -11,3 +11,4 @@
 - pkg:cargo/trillium-tokio@0.3.3
 - pkg:cargo/trillium-tokio@0.3.4
 - pkg:cargo/trillium-tokio@0.4.0
+- pkg:cargo/trillium-tokio@0.5.0-rc.1
