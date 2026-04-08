@@ -27,6 +27,7 @@
 - pkg:cargo/trueno@0.17.5
 - pkg:cargo/trueno@0.18.0
 - pkg:cargo/trueno@0.19.0
+- pkg:cargo/trueno@0.19.1
 - pkg:cargo/trueno@0.2.1
 - pkg:cargo/trueno@0.2.2
 - pkg:cargo/trueno@0.4.0

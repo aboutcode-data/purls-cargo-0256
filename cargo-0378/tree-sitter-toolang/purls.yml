@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-toolang@0.0.5
+- pkg:cargo/tree-sitter-toolang@0.0.6
