@@ -6,6 +6,10 @@
 - pkg:cargo/seedfaker@0.1.0-alpha.17
 - pkg:cargo/seedfaker@0.1.0-alpha.2
 - pkg:cargo/seedfaker@0.1.0-alpha.20
+- pkg:cargo/seedfaker@0.1.0-alpha.21
+- pkg:cargo/seedfaker@0.1.0-alpha.22
+- pkg:cargo/seedfaker@0.1.0-alpha.23
+- pkg:cargo/seedfaker@0.1.0-alpha.24
 - pkg:cargo/seedfaker@0.1.0-alpha.3
 - pkg:cargo/seedfaker@0.1.0-alpha.4
 - pkg:cargo/seedfaker@0.1.0-alpha.5
