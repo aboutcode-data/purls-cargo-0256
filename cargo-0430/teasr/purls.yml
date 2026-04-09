@@ -7,3 +7,5 @@
 - pkg:cargo/teasr@0.15.5
 - pkg:cargo/teasr@0.15.6
 - pkg:cargo/teasr@0.15.7
+- pkg:cargo/teasr@0.16.0
+- pkg:cargo/teasr@0.17.0
