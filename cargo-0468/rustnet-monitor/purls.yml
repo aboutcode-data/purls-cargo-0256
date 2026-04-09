@@ -10,3 +10,4 @@
 - pkg:cargo/rustnet-monitor@0.8.0
 - pkg:cargo/rustnet-monitor@1.0.0
 - pkg:cargo/rustnet-monitor@1.1.0
+- pkg:cargo/rustnet-monitor@1.2.0
