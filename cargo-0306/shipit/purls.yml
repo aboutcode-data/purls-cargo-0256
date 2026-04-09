@@ -20,3 +20,5 @@
 - pkg:cargo/shipit@1.4.2
 - pkg:cargo/shipit@1.4.3
 - pkg:cargo/shipit@1.4.4
+- pkg:cargo/shipit@1.4.6
+- pkg:cargo/shipit@1.4.8
