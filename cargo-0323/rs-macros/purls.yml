@@ -4,4 +4,6 @@
 - pkg:cargo/rs-macros@3.0.0-canary.688
 - pkg:cargo/rs-macros@4.0.0-canary.10
 - pkg:cargo/rs-macros@4.0.0-canary.11
+- pkg:cargo/rs-macros@4.0.0-canary.29
+- pkg:cargo/rs-macros@4.0.0-canary.30
 - pkg:cargo/rs-macros@4.0.0-canary.7

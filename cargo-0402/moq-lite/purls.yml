@@ -15,6 +15,7 @@
 - pkg:cargo/moq-lite@0.15.6
 - pkg:cargo/moq-lite@0.15.7
 - pkg:cargo/moq-lite@0.15.8
+- pkg:cargo/moq-lite@0.15.9
 - pkg:cargo/moq-lite@0.2.0
 - pkg:cargo/moq-lite@0.3.0
 - pkg:cargo/moq-lite@0.3.1
