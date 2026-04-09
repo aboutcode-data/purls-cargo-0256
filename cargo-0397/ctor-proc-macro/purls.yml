@@ -1,5 +1,6 @@
 - pkg:cargo/ctor-proc-macro@0.0.0
 - pkg:cargo/ctor-proc-macro@0.0.1
+- pkg:cargo/ctor-proc-macro@0.0.12
 - pkg:cargo/ctor-proc-macro@0.0.2
 - pkg:cargo/ctor-proc-macro@0.0.3
 - pkg:cargo/ctor-proc-macro@0.0.4
