@@ -7,3 +7,4 @@
 - pkg:cargo/sockudo-metrics@3.4.2
 - pkg:cargo/sockudo-metrics@4.0.0
 - pkg:cargo/sockudo-metrics@4.1.0
+- pkg:cargo/sockudo-metrics@4.1.1
