@@ -32,6 +32,7 @@
 - pkg:cargo/hashbrown@0.15.5
 - pkg:cargo/hashbrown@0.16.0
 - pkg:cargo/hashbrown@0.16.1
+- pkg:cargo/hashbrown@0.17.0
 - pkg:cargo/hashbrown@0.2.0
 - pkg:cargo/hashbrown@0.2.1
 - pkg:cargo/hashbrown@0.2.2
