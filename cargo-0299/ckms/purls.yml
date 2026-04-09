@@ -2,3 +2,4 @@
 - pkg:cargo/ckms@5.18.0
 - pkg:cargo/ckms@5.19.0
 - pkg:cargo/ckms@5.20.0
+- pkg:cargo/ckms@5.20.1
