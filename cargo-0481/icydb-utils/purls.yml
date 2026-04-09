@@ -39,3 +39,7 @@
 - pkg:cargo/icydb-utils@0.72.1
 - pkg:cargo/icydb-utils@0.72.2
 - pkg:cargo/icydb-utils@0.72.3
+- pkg:cargo/icydb-utils@0.72.4
+- pkg:cargo/icydb-utils@0.73.0
+- pkg:cargo/icydb-utils@0.73.1
+- pkg:cargo/icydb-utils@0.73.2
