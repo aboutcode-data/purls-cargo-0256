@@ -27,3 +27,5 @@
 - pkg:cargo/foundations-macros@5.5.1
 - pkg:cargo/foundations-macros@5.5.2
 - pkg:cargo/foundations-macros@5.5.3
+- pkg:cargo/foundations-macros@5.6.0
+- pkg:cargo/foundations-macros@5.6.1
