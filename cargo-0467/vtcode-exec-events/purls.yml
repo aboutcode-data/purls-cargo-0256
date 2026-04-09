@@ -340,3 +340,4 @@
 - pkg:cargo/vtcode-exec-events@0.97.3
 - pkg:cargo/vtcode-exec-events@0.97.4
 - pkg:cargo/vtcode-exec-events@0.98.0
+- pkg:cargo/vtcode-exec-events@0.98.1
