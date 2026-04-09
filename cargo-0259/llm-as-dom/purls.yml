@@ -1,4 +1,5 @@
 - pkg:cargo/llm-as-dom@0.1.1
+- pkg:cargo/llm-as-dom@0.10.0
 - pkg:cargo/llm-as-dom@0.2.0
 - pkg:cargo/llm-as-dom@0.4.0
 - pkg:cargo/llm-as-dom@0.4.1
