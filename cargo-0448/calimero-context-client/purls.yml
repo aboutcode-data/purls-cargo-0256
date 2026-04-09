@@ -1,1 +1,3 @@
 - pkg:cargo/calimero-context-client@0.10.1-rc.18
+- pkg:cargo/calimero-context-client@0.10.1-rc.19
+- pkg:cargo/calimero-context-client@0.10.1-rc.20
