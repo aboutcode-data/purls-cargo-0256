@@ -39,3 +39,6 @@
 - pkg:cargo/myko@4.4.0-canary.4
 - pkg:cargo/myko@4.4.0-canary.5
 - pkg:cargo/myko@4.4.1
+- pkg:cargo/myko@4.4.8
+- pkg:cargo/myko@4.5.0
+- pkg:cargo/myko@4.6.0
