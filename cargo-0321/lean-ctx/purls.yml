@@ -113,3 +113,4 @@
 - pkg:cargo/lean-ctx@2.9.7
 - pkg:cargo/lean-ctx@2.9.8
 - pkg:cargo/lean-ctx@2.9.9
+- pkg:cargo/lean-ctx@3.0.0
