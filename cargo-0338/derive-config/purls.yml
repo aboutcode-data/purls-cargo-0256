@@ -4,3 +4,4 @@
 - pkg:cargo/derive-config@2.1.1
 - pkg:cargo/derive-config@2.2.0
 - pkg:cargo/derive-config@2.3.0
+- pkg:cargo/derive-config@2.4.0
