@@ -1,0 +1,3 @@
+- pkg:cargo/alpaca-rest-http@0.23.7
+- pkg:cargo/alpaca-rest-http@0.23.8
+- pkg:cargo/alpaca-rest-http@0.24.2
