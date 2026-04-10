@@ -113,3 +113,4 @@
 - pkg:cargo/snarkvm-wasm@4.5.0
 - pkg:cargo/snarkvm-wasm@4.5.4
 - pkg:cargo/snarkvm-wasm@4.6.0
+- pkg:cargo/snarkvm-wasm@4.6.1

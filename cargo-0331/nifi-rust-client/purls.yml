@@ -6,3 +6,4 @@
 - pkg:cargo/nifi-rust-client@0.3.1
 - pkg:cargo/nifi-rust-client@0.4.0
 - pkg:cargo/nifi-rust-client@0.4.2
+- pkg:cargo/nifi-rust-client@0.5.0
