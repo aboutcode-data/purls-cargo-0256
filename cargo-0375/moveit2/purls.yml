@@ -1,1 +1,3 @@
 - pkg:cargo/moveit2@0.6.0
+- pkg:cargo/moveit2@0.7.0
+- pkg:cargo/moveit2@0.7.1
