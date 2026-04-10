@@ -1,1 +1,2 @@
 - pkg:cargo/hermes-broker-client@0.6.0
+- pkg:cargo/hermes-broker-client@0.6.1
