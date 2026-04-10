@@ -18,3 +18,4 @@
 - pkg:cargo/sqry-lang-javascript@7.1.4
 - pkg:cargo/sqry-lang-javascript@7.1.5
 - pkg:cargo/sqry-lang-javascript@7.2.0
+- pkg:cargo/sqry-lang-javascript@8.0.0
