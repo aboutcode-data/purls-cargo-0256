@@ -5,3 +5,4 @@
 - pkg:cargo/hs-intake@0.6.3
 - pkg:cargo/hs-intake@0.7.0
 - pkg:cargo/hs-intake@0.8.0
+- pkg:cargo/hs-intake@0.8.1
