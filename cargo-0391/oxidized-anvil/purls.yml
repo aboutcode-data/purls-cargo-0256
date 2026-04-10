@@ -1,6 +1,8 @@
 - pkg:cargo/oxidized-anvil@0.1.0-dev.3cafdd7
+- pkg:cargo/oxidized-anvil@0.1.0-dev.60c0114
 - pkg:cargo/oxidized-anvil@0.1.0-dev.8dae3c1
 - pkg:cargo/oxidized-anvil@0.1.0-dev.9182484
 - pkg:cargo/oxidized-anvil@0.1.0-dev.bbc626f
 - pkg:cargo/oxidized-anvil@0.1.0-dev.d6eeb85
 - pkg:cargo/oxidized-anvil@0.1.0-dev.e6b0270
+- pkg:cargo/oxidized-anvil@0.1.0-dev.f03e564
