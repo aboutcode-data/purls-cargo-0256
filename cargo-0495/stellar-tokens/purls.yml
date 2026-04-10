@@ -3,3 +3,4 @@
 - pkg:cargo/stellar-tokens@0.5.0
 - pkg:cargo/stellar-tokens@0.6.0
 - pkg:cargo/stellar-tokens@0.7.0
+- pkg:cargo/stellar-tokens@0.7.1
