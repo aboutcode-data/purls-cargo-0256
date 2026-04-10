@@ -21,6 +21,8 @@
 - pkg:cargo/pstd@1.0.0
 - pkg:cargo/pstd@1.0.1
 - pkg:cargo/pstd@1.0.10
+- pkg:cargo/pstd@1.0.100
+- pkg:cargo/pstd@1.0.101
 - pkg:cargo/pstd@1.0.11
 - pkg:cargo/pstd@1.0.12
 - pkg:cargo/pstd@1.0.13
@@ -117,3 +119,4 @@
 - pkg:cargo/pstd@1.0.96
 - pkg:cargo/pstd@1.0.97
 - pkg:cargo/pstd@1.0.98
+- pkg:cargo/pstd@1.0.99
