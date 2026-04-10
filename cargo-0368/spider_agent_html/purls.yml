@@ -169,3 +169,4 @@
 - pkg:cargo/spider_agent_html@2.48.8
 - pkg:cargo/spider_agent_html@2.48.9
 - pkg:cargo/spider_agent_html@2.49.0
+- pkg:cargo/spider_agent_html@2.49.1
