@@ -400,3 +400,4 @@
 - pkg:cargo/solana-storage-proto@4.0.0-beta.4
 - pkg:cargo/solana-storage-proto@4.0.0-beta.5
 - pkg:cargo/solana-storage-proto@4.0.0-beta.6
+- pkg:cargo/solana-storage-proto@4.0.0-beta.7

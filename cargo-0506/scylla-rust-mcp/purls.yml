@@ -1,0 +1,2 @@
+- pkg:cargo/scylla-rust-mcp@0.1.12
+- pkg:cargo/scylla-rust-mcp@0.1.13
