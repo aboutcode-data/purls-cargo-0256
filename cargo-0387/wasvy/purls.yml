@@ -5,3 +5,4 @@
 - pkg:cargo/wasvy@0.0.5
 - pkg:cargo/wasvy@0.0.6
 - pkg:cargo/wasvy@0.0.7
+- pkg:cargo/wasvy@0.0.8
