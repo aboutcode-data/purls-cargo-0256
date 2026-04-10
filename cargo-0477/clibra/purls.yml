@@ -2,6 +2,7 @@
 - pkg:cargo/clibra@0.10.0-beta
 - pkg:cargo/clibra@0.10.1-beta
 - pkg:cargo/clibra@0.10.3-beta
+- pkg:cargo/clibra@0.10.4-beta
 - pkg:cargo/clibra@0.9.11-beta
 - pkg:cargo/clibra@0.9.5
 - pkg:cargo/clibra@0.9.5-beta
