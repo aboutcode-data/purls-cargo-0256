@@ -31,6 +31,7 @@
 - pkg:cargo/petname@2.0.0-beta.4
 - pkg:cargo/petname@2.0.1
 - pkg:cargo/petname@2.0.2
+- pkg:cargo/petname@3.0.0
 - pkg:cargo/petname@3.0.0-alpha.1
 - pkg:cargo/petname@3.0.0-alpha.2
 - pkg:cargo/petname@3.0.0-alpha.3
