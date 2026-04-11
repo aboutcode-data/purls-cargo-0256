@@ -64,3 +64,4 @@
 - pkg:cargo/sockudo@4.0.0
 - pkg:cargo/sockudo@4.1.0
 - pkg:cargo/sockudo@4.1.1
+- pkg:cargo/sockudo@4.2.0
