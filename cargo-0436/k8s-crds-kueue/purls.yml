@@ -1,2 +1,3 @@
 - pkg:cargo/k8s-crds-kueue@0.15.1
 - pkg:cargo/k8s-crds-kueue@0.15.3
+- pkg:cargo/k8s-crds-kueue@0.17.0
