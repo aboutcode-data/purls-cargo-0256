@@ -7,3 +7,4 @@
 - pkg:cargo/mp3lame-encoder@0.2.0
 - pkg:cargo/mp3lame-encoder@0.2.1
 - pkg:cargo/mp3lame-encoder@0.2.2
+- pkg:cargo/mp3lame-encoder@0.2.3
