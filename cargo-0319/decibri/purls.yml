@@ -1,4 +1,6 @@
 - pkg:cargo/decibri@0.0.1
+- pkg:cargo/decibri@3.0.0
 - pkg:cargo/decibri@3.0.0-rc.2
 - pkg:cargo/decibri@3.0.0-rc.4
 - pkg:cargo/decibri@3.0.0-rc.5
+- pkg:cargo/decibri@3.0.0-rc.7
