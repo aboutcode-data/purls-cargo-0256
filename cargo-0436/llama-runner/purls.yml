@@ -5,3 +5,4 @@
 - pkg:cargo/llama-runner@1.1.1
 - pkg:cargo/llama-runner@1.1.2
 - pkg:cargo/llama-runner@1.1.3
+- pkg:cargo/llama-runner@2.0.0
