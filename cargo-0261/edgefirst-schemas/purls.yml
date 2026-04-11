@@ -30,3 +30,4 @@
 - pkg:cargo/edgefirst-schemas@2.0.1
 - pkg:cargo/edgefirst-schemas@2.1.0
 - pkg:cargo/edgefirst-schemas@2.2.0
+- pkg:cargo/edgefirst-schemas@2.2.1
