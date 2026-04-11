@@ -1,2 +1,3 @@
 - pkg:cargo/epics-bridge-rs@0.8.2
 - pkg:cargo/epics-bridge-rs@0.8.3
+- pkg:cargo/epics-bridge-rs@0.9.0
