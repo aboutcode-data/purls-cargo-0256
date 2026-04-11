@@ -1,1 +1,2 @@
 - pkg:cargo/cljrs-value@0.1.6
+- pkg:cargo/cljrs-value@0.1.7
