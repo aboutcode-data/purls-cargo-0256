@@ -33,4 +33,5 @@
 - pkg:cargo/datafusion-physical-plan@52.2.0
 - pkg:cargo/datafusion-physical-plan@52.3.0
 - pkg:cargo/datafusion-physical-plan@52.4.0
+- pkg:cargo/datafusion-physical-plan@52.5.0
 - pkg:cargo/datafusion-physical-plan@53.0.0
