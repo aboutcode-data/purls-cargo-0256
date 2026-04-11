@@ -8,3 +8,5 @@
 - pkg:cargo/muxx@1.7.0
 - pkg:cargo/muxx@1.8.0
 - pkg:cargo/muxx@1.8.1
+- pkg:cargo/muxx@1.8.2
+- pkg:cargo/muxx@1.8.3
