@@ -8,3 +8,4 @@
 - pkg:cargo/proka-bootloader@0.1.7
 - pkg:cargo/proka-bootloader@0.1.8
 - pkg:cargo/proka-bootloader@0.2.0
+- pkg:cargo/proka-bootloader@0.2.1
