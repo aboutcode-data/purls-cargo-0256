@@ -1,4 +1,8 @@
 - pkg:cargo/n5i@0.10.0
+- pkg:cargo/n5i@0.11.2
+- pkg:cargo/n5i@0.11.3
+- pkg:cargo/n5i@0.11.4
+- pkg:cargo/n5i@0.11.5
 - pkg:cargo/n5i@0.2.1
 - pkg:cargo/n5i@0.3.0-alpha.1
 - pkg:cargo/n5i@0.3.0-alpha.2
