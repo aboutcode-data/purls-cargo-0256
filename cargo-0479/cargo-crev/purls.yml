@@ -54,6 +54,7 @@
 - pkg:cargo/cargo-crev@0.26.3
 - pkg:cargo/cargo-crev@0.26.4
 - pkg:cargo/cargo-crev@0.26.5
+- pkg:cargo/cargo-crev@0.27.1
 - pkg:cargo/cargo-crev@0.3.0
 - pkg:cargo/cargo-crev@0.4.0
 - pkg:cargo/cargo-crev@0.5.0
