@@ -30,6 +30,7 @@
 - pkg:cargo/layershellev@0.16.1
 - pkg:cargo/layershellev@0.17.0
 - pkg:cargo/layershellev@0.17.1
+- pkg:cargo/layershellev@0.18.0-beta1
 - pkg:cargo/layershellev@0.2.0
 - pkg:cargo/layershellev@0.2.4
 - pkg:cargo/layershellev@0.2.5
