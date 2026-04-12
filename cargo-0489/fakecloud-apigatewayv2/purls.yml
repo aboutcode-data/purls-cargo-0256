@@ -1,1 +1,2 @@
 - pkg:cargo/fakecloud-apigatewayv2@0.7.0
+- pkg:cargo/fakecloud-apigatewayv2@0.7.1
