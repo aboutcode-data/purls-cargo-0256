@@ -7,3 +7,4 @@
 - pkg:cargo/nexus-stats@3.0.0
 - pkg:cargo/nexus-stats@4.0.0
 - pkg:cargo/nexus-stats@4.0.1
+- pkg:cargo/nexus-stats@4.1.0

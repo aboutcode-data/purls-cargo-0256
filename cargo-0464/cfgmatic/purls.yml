@@ -11,3 +11,4 @@
 - pkg:cargo/cfgmatic@2.2.0
 - pkg:cargo/cfgmatic@3.0.0
 - pkg:cargo/cfgmatic@3.0.1
+- pkg:cargo/cfgmatic@4.0.0
