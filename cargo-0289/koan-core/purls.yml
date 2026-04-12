@@ -30,6 +30,8 @@
 - pkg:cargo/koan-core@0.2.3
 - pkg:cargo/koan-core@0.20.0
 - pkg:cargo/koan-core@0.20.3
+- pkg:cargo/koan-core@0.20.4
+- pkg:cargo/koan-core@0.21.0
 - pkg:cargo/koan-core@0.3.0
 - pkg:cargo/koan-core@0.4.0
 - pkg:cargo/koan-core@0.5.2
