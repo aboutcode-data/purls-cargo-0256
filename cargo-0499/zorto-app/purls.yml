@@ -29,4 +29,5 @@
 - pkg:cargo/zorto-app@0.20.4
 - pkg:cargo/zorto-app@0.20.5
 - pkg:cargo/zorto-app@0.20.6
+- pkg:cargo/zorto-app@0.21.0
 - pkg:cargo/zorto-app@0.9.1
