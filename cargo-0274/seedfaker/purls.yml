@@ -23,3 +23,5 @@
 - pkg:cargo/seedfaker@0.1.0-alpha.8
 - pkg:cargo/seedfaker@0.1.0-alpha.9
 - pkg:cargo/seedfaker@0.2.0-alpha.2
+- pkg:cargo/seedfaker@0.2.0-alpha.5
+- pkg:cargo/seedfaker@0.2.0-alpha.6
