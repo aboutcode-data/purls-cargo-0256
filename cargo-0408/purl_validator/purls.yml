@@ -72,6 +72,7 @@
 - pkg:cargo/purl_validator@1.16.6
 - pkg:cargo/purl_validator@1.16.7
 - pkg:cargo/purl_validator@1.16.8
+- pkg:cargo/purl_validator@1.16.9
 - pkg:cargo/purl_validator@1.2.0
 - pkg:cargo/purl_validator@1.3.0
 - pkg:cargo/purl_validator@1.4.0
