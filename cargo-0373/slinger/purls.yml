@@ -21,6 +21,7 @@
 - pkg:cargo/slinger@0.2.10
 - pkg:cargo/slinger@0.2.11
 - pkg:cargo/slinger@0.2.12
+- pkg:cargo/slinger@0.2.14
 - pkg:cargo/slinger@0.2.2
 - pkg:cargo/slinger@0.2.3
 - pkg:cargo/slinger@0.2.4
