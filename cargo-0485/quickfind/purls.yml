@@ -9,3 +9,5 @@
 - pkg:cargo/quickfind@1.5.5
 - pkg:cargo/quickfind@1.5.6
 - pkg:cargo/quickfind@1.5.7
+- pkg:cargo/quickfind@1.6.0
+- pkg:cargo/quickfind@1.6.1
