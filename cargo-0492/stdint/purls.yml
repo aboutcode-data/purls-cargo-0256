@@ -2,3 +2,4 @@
 - pkg:cargo/stdint@0.2.0
 - pkg:cargo/stdint@1.0.0
 - pkg:cargo/stdint@1.0.1
+- pkg:cargo/stdint@1.1.0

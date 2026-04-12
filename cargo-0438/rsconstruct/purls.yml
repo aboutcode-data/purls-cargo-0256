@@ -38,3 +38,4 @@
 - pkg:cargo/rsconstruct@0.7.7
 - pkg:cargo/rsconstruct@0.8.0
 - pkg:cargo/rsconstruct@0.8.1
+- pkg:cargo/rsconstruct@0.8.2
