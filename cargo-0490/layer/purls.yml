@@ -13,3 +13,4 @@
 - pkg:cargo/layer@0.4.7
 - pkg:cargo/layer@0.4.8
 - pkg:cargo/layer@0.4.9
+- pkg:cargo/layer@0.5.0
