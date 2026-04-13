@@ -112,6 +112,7 @@
 - pkg:cargo/rattler_conda_types@0.44.3
 - pkg:cargo/rattler_conda_types@0.44.4
 - pkg:cargo/rattler_conda_types@0.44.5
+- pkg:cargo/rattler_conda_types@0.44.6
 - pkg:cargo/rattler_conda_types@0.5.0
 - pkg:cargo/rattler_conda_types@0.6.0
 - pkg:cargo/rattler_conda_types@0.7.0
