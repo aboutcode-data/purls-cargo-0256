@@ -1,1 +1,2 @@
 - pkg:cargo/zig-serve@0.4.4
+- pkg:cargo/zig-serve@0.5.7
