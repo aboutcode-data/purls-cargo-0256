@@ -1,4 +1,5 @@
 - pkg:cargo/dua-cli-tokens@2.34.1
+- pkg:cargo/dua-cli-tokens@2.34.10
 - pkg:cargo/dua-cli-tokens@2.34.2
 - pkg:cargo/dua-cli-tokens@2.34.3
 - pkg:cargo/dua-cli-tokens@2.34.4

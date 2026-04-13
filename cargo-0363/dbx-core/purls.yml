@@ -4,3 +4,4 @@
 - pkg:cargo/dbx-core@0.1.2-beta
 - pkg:cargo/dbx-core@0.2.0-beta
 - pkg:cargo/dbx-core@0.2.1-beta
+- pkg:cargo/dbx-core@0.2.2
