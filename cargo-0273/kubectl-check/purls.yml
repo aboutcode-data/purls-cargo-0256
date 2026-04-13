@@ -8,3 +8,4 @@
 - pkg:cargo/kubectl-check@0.2439.5
 - pkg:cargo/kubectl-check@0.2439.6
 - pkg:cargo/kubectl-check@0.2440.0
+- pkg:cargo/kubectl-check@0.2615.0
