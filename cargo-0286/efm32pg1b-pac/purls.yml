@@ -12,3 +12,4 @@
 - pkg:cargo/efm32pg1b-pac@0.4.0
 - pkg:cargo/efm32pg1b-pac@0.4.2
 - pkg:cargo/efm32pg1b-pac@0.4.3
+- pkg:cargo/efm32pg1b-pac@0.4.4
