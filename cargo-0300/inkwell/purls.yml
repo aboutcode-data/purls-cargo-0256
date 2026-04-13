@@ -16,3 +16,4 @@
 - pkg:cargo/inkwell@0.7.0
 - pkg:cargo/inkwell@0.7.1
 - pkg:cargo/inkwell@0.8.0
+- pkg:cargo/inkwell@0.9.0
