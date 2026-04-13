@@ -1,2 +1,3 @@
 - pkg:cargo/yara-x-capi@1.13.0
 - pkg:cargo/yara-x-capi@1.14.0
+- pkg:cargo/yara-x-capi@1.15.0

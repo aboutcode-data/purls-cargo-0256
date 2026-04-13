@@ -8,3 +8,4 @@
 - pkg:cargo/near-sdk-contract-tools-macros@3.0.0
 - pkg:cargo/near-sdk-contract-tools-macros@3.0.1
 - pkg:cargo/near-sdk-contract-tools-macros@3.0.2
+- pkg:cargo/near-sdk-contract-tools-macros@4.0.0
