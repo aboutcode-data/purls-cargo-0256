@@ -15,3 +15,4 @@
 - pkg:cargo/pidgr-proto@0.53.0
 - pkg:cargo/pidgr-proto@0.54.0
 - pkg:cargo/pidgr-proto@0.55.0
+- pkg:cargo/pidgr-proto@0.56.0

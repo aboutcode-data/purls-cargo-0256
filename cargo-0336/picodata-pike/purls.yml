@@ -29,3 +29,4 @@
 - pkg:cargo/picodata-pike@3.1.0
 - pkg:cargo/picodata-pike@3.2.0
 - pkg:cargo/picodata-pike@3.2.1
+- pkg:cargo/picodata-pike@4.0.0
