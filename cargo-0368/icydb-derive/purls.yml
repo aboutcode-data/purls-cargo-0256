@@ -406,6 +406,7 @@
 - pkg:cargo/icydb-derive@0.76.11
 - pkg:cargo/icydb-derive@0.76.12
 - pkg:cargo/icydb-derive@0.76.13
+- pkg:cargo/icydb-derive@0.76.14
 - pkg:cargo/icydb-derive@0.76.2
 - pkg:cargo/icydb-derive@0.76.3
 - pkg:cargo/icydb-derive@0.76.4
@@ -413,6 +414,8 @@
 - pkg:cargo/icydb-derive@0.76.6
 - pkg:cargo/icydb-derive@0.76.8
 - pkg:cargo/icydb-derive@0.76.9
+- pkg:cargo/icydb-derive@0.77.0
+- pkg:cargo/icydb-derive@0.77.1
 - pkg:cargo/icydb-derive@0.8.0
 - pkg:cargo/icydb-derive@0.8.1
 - pkg:cargo/icydb-derive@0.8.2
