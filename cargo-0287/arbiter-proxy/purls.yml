@@ -16,3 +16,7 @@
 - pkg:cargo/arbiter-proxy@0.0.34
 - pkg:cargo/arbiter-proxy@0.0.35
 - pkg:cargo/arbiter-proxy@0.0.36
+- pkg:cargo/arbiter-proxy@0.0.37
+- pkg:cargo/arbiter-proxy@0.0.38
+- pkg:cargo/arbiter-proxy@0.0.40
+- pkg:cargo/arbiter-proxy@0.0.42
