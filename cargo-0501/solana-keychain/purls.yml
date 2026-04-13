@@ -8,3 +8,4 @@
 - pkg:cargo/solana-keychain@0.5.1
 - pkg:cargo/solana-keychain@1.0.0
 - pkg:cargo/solana-keychain@1.0.1
+- pkg:cargo/solana-keychain@1.1.0
