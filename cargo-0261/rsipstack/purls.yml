@@ -130,3 +130,4 @@
 - pkg:cargo/rsipstack@0.5.1
 - pkg:cargo/rsipstack@0.5.2
 - pkg:cargo/rsipstack@0.5.3
+- pkg:cargo/rsipstack@0.5.4
