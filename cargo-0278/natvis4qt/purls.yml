@@ -1,2 +1,3 @@
 - pkg:cargo/natvis4qt@0.8.1
 - pkg:cargo/natvis4qt@0.8.2
+- pkg:cargo/natvis4qt@0.9.0
