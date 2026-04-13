@@ -1,1 +1,5 @@
 - pkg:cargo/zccache-gha@1.2.4
+- pkg:cargo/zccache-gha@1.2.5
+- pkg:cargo/zccache-gha@1.2.6
+- pkg:cargo/zccache-gha@1.2.7
+- pkg:cargo/zccache-gha@1.2.8
