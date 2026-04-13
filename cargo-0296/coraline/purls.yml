@@ -13,3 +13,4 @@
 - pkg:cargo/coraline@0.4.4
 - pkg:cargo/coraline@0.5.0
 - pkg:cargo/coraline@0.6.0
+- pkg:cargo/coraline@0.7.0
