@@ -7,3 +7,6 @@
 - pkg:cargo/governor-checkpoint@1.12.0
 - pkg:cargo/governor-checkpoint@1.2.0
 - pkg:cargo/governor-checkpoint@1.3.0
+- pkg:cargo/governor-checkpoint@2.0.0
+- pkg:cargo/governor-checkpoint@2.0.2
+- pkg:cargo/governor-checkpoint@2.0.3
