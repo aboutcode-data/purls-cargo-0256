@@ -20,3 +20,4 @@
 - pkg:cargo/rbe_testsuite@0.1.8
 - pkg:cargo/rbe_testsuite@0.1.90
 - pkg:cargo/rbe_testsuite@0.2.1
+- pkg:cargo/rbe_testsuite@0.2.10
