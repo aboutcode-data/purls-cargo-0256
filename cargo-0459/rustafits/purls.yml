@@ -28,3 +28,4 @@
 - pkg:cargo/rustafits@0.9.5
 - pkg:cargo/rustafits@0.9.6
 - pkg:cargo/rustafits@0.9.7
+- pkg:cargo/rustafits@1.0.0
