@@ -33,6 +33,8 @@
 - pkg:cargo/bsv-wallet-toolbox-rs@0.3.34
 - pkg:cargo/bsv-wallet-toolbox-rs@0.3.35
 - pkg:cargo/bsv-wallet-toolbox-rs@0.3.36
+- pkg:cargo/bsv-wallet-toolbox-rs@0.3.37
+- pkg:cargo/bsv-wallet-toolbox-rs@0.3.38
 - pkg:cargo/bsv-wallet-toolbox-rs@0.3.4
 - pkg:cargo/bsv-wallet-toolbox-rs@0.3.5
 - pkg:cargo/bsv-wallet-toolbox-rs@0.3.6
