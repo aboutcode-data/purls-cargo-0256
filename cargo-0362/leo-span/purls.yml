@@ -37,3 +37,4 @@
 - pkg:cargo/leo-span@3.4.0
 - pkg:cargo/leo-span@3.5.0
 - pkg:cargo/leo-span@4.0.0
+- pkg:cargo/leo-span@4.0.1
