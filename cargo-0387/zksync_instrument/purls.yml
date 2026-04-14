@@ -15,6 +15,7 @@
 - pkg:cargo/zksync_instrument@29.14.0-non-semver-compat
 - pkg:cargo/zksync_instrument@29.15.0-non-semver-compat
 - pkg:cargo/zksync_instrument@29.15.1-non-semver-compat
+- pkg:cargo/zksync_instrument@29.15.2-non-semver-compat
 - pkg:cargo/zksync_instrument@29.2.0-non-semver-compat
 - pkg:cargo/zksync_instrument@29.3.0-non-semver-compat
 - pkg:cargo/zksync_instrument@29.4.0-non-semver-compat

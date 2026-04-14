@@ -26,6 +26,7 @@
 - pkg:cargo/zksync_node_framework_derive@29.14.0-non-semver-compat
 - pkg:cargo/zksync_node_framework_derive@29.15.0-non-semver-compat
 - pkg:cargo/zksync_node_framework_derive@29.15.1-non-semver-compat
+- pkg:cargo/zksync_node_framework_derive@29.15.2-non-semver-compat
 - pkg:cargo/zksync_node_framework_derive@29.2.0-non-semver-compat
 - pkg:cargo/zksync_node_framework_derive@29.3.0-non-semver-compat
 - pkg:cargo/zksync_node_framework_derive@29.4.0-non-semver-compat

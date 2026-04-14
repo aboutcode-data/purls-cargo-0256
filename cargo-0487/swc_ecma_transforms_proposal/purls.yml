@@ -718,6 +718,7 @@
 - pkg:cargo/swc_ecma_transforms_proposal@40.0.0
 - pkg:cargo/swc_ecma_transforms_proposal@41.0.0
 - pkg:cargo/swc_ecma_transforms_proposal@41.0.1
+- pkg:cargo/swc_ecma_transforms_proposal@41.0.2
 - pkg:cargo/swc_ecma_transforms_proposal@5.0.0
 - pkg:cargo/swc_ecma_transforms_proposal@5.0.1
 - pkg:cargo/swc_ecma_transforms_proposal@6.0.0
