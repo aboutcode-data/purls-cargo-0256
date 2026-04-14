@@ -1,5 +1,6 @@
 - pkg:cargo/airis-monorepo@1.81.0
 - pkg:cargo/airis-monorepo@1.81.1
+- pkg:cargo/airis-monorepo@2.1.0
 - pkg:cargo/airis-monorepo@3.0.3
 - pkg:cargo/airis-monorepo@3.0.4
 - pkg:cargo/airis-monorepo@4.0.1
