@@ -5,6 +5,8 @@
 - pkg:cargo/leetrs@1.0.13
 - pkg:cargo/leetrs@1.0.14
 - pkg:cargo/leetrs@1.0.15
+- pkg:cargo/leetrs@1.0.17
+- pkg:cargo/leetrs@1.0.18
 - pkg:cargo/leetrs@1.0.2
 - pkg:cargo/leetrs@1.0.3
 - pkg:cargo/leetrs@1.0.4
