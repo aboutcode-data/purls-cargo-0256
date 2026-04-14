@@ -2,3 +2,4 @@
 - pkg:cargo/bootc-internal-blockdev@0.1.0
 - pkg:cargo/bootc-internal-blockdev@0.2.0
 - pkg:cargo/bootc-internal-blockdev@1.15.0
+- pkg:cargo/bootc-internal-blockdev@1.15.1
