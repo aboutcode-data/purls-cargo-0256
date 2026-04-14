@@ -1,3 +1,4 @@
 - pkg:cargo/markdown-lsp@0.1.1
 - pkg:cargo/markdown-lsp@0.1.2
 - pkg:cargo/markdown-lsp@0.1.4
+- pkg:cargo/markdown-lsp@0.1.5
