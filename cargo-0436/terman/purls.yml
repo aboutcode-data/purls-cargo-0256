@@ -30,5 +30,6 @@
 - pkg:cargo/terman@0.3.39
 - pkg:cargo/terman@0.3.4
 - pkg:cargo/terman@0.3.40
+- pkg:cargo/terman@0.3.41
 - pkg:cargo/terman@0.3.8
 - pkg:cargo/terman@0.3.9
