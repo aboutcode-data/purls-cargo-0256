@@ -8,3 +8,5 @@
 - pkg:cargo/llama-runner@2.0.0
 - pkg:cargo/llama-runner@2.1.0
 - pkg:cargo/llama-runner@2.2.0
+- pkg:cargo/llama-runner@2.3.0
+- pkg:cargo/llama-runner@2.3.1
