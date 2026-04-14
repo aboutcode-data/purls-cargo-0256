@@ -2,3 +2,5 @@
 - pkg:cargo/atuin-hex@18.13.4
 - pkg:cargo/atuin-hex@18.13.5
 - pkg:cargo/atuin-hex@18.13.6
+- pkg:cargo/atuin-hex@18.14.0
+- pkg:cargo/atuin-hex@18.14.1

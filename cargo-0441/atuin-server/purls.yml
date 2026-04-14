@@ -34,6 +34,8 @@
 - pkg:cargo/atuin-server@18.13.4
 - pkg:cargo/atuin-server@18.13.5
 - pkg:cargo/atuin-server@18.13.6
+- pkg:cargo/atuin-server@18.14.0
+- pkg:cargo/atuin-server@18.14.1
 - pkg:cargo/atuin-server@18.2.0
 - pkg:cargo/atuin-server@18.3.0
 - pkg:cargo/atuin-server@18.4.0
