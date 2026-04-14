@@ -6,3 +6,4 @@
 - pkg:cargo/stash-cli@0.6.0
 - pkg:cargo/stash-cli@0.7.0
 - pkg:cargo/stash-cli@0.7.1
+- pkg:cargo/stash-cli@0.8.0
