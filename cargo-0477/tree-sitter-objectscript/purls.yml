@@ -23,3 +23,5 @@
 - pkg:cargo/tree-sitter-objectscript@1.7.3
 - pkg:cargo/tree-sitter-objectscript@1.7.4
 - pkg:cargo/tree-sitter-objectscript@1.7.5
+- pkg:cargo/tree-sitter-objectscript@1.7.6
+- pkg:cargo/tree-sitter-objectscript@1.7.7
