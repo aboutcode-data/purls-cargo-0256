@@ -87,6 +87,7 @@
 - pkg:cargo/facet@0.44.2
 - pkg:cargo/facet@0.44.3
 - pkg:cargo/facet@0.44.4
+- pkg:cargo/facet@0.44.5
 - pkg:cargo/facet@0.7.0
 - pkg:cargo/facet@0.8.0
 - pkg:cargo/facet@0.8.1
