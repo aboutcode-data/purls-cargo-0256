@@ -1,5 +1,6 @@
 - pkg:cargo/crabllm-llamacpp@0.0.10
 - pkg:cargo/crabllm-llamacpp@0.0.11
 - pkg:cargo/crabllm-llamacpp@0.0.12
+- pkg:cargo/crabllm-llamacpp@0.0.16
 - pkg:cargo/crabllm-llamacpp@0.0.8
 - pkg:cargo/crabllm-llamacpp@0.0.9
