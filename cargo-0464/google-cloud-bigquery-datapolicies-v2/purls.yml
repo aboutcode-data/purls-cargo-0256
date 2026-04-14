@@ -10,3 +10,4 @@
 - pkg:cargo/google-cloud-bigquery-datapolicies-v2@1.5.0
 - pkg:cargo/google-cloud-bigquery-datapolicies-v2@1.6.0
 - pkg:cargo/google-cloud-bigquery-datapolicies-v2@1.7.0
+- pkg:cargo/google-cloud-bigquery-datapolicies-v2@1.8.0
