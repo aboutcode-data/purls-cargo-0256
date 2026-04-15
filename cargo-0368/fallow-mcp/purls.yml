@@ -81,6 +81,7 @@
 - pkg:cargo/fallow-mcp@2.33.0
 - pkg:cargo/fallow-mcp@2.34.0
 - pkg:cargo/fallow-mcp@2.35.0
+- pkg:cargo/fallow-mcp@2.36.0
 - pkg:cargo/fallow-mcp@2.4.0
 - pkg:cargo/fallow-mcp@2.5.0
 - pkg:cargo/fallow-mcp@2.5.1

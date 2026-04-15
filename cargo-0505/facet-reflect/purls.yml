@@ -70,6 +70,7 @@
 - pkg:cargo/facet-reflect@0.44.3
 - pkg:cargo/facet-reflect@0.44.4
 - pkg:cargo/facet-reflect@0.44.5
+- pkg:cargo/facet-reflect@0.44.6
 - pkg:cargo/facet-reflect@0.6.0
 - pkg:cargo/facet-reflect@0.6.1
 - pkg:cargo/facet-reflect@0.6.2
