@@ -11,4 +11,5 @@
 - pkg:cargo/atuin-server-sqlite@18.13.6
 - pkg:cargo/atuin-server-sqlite@18.14.0
 - pkg:cargo/atuin-server-sqlite@18.14.1
+- pkg:cargo/atuin-server-sqlite@18.15.0
 - pkg:cargo/atuin-server-sqlite@18.8.0
