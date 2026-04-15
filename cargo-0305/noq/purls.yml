@@ -1,2 +1,3 @@
 - pkg:cargo/noq@0.0.1
 - pkg:cargo/noq@0.17.0
+- pkg:cargo/noq@0.18.0
