@@ -85,3 +85,4 @@
 - pkg:cargo/rbatis-codegen@4.6.6
 - pkg:cargo/rbatis-codegen@4.7.0
 - pkg:cargo/rbatis-codegen@4.8.0
+- pkg:cargo/rbatis-codegen@4.8.1
