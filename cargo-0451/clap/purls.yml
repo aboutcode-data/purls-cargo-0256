@@ -453,3 +453,4 @@
 - pkg:cargo/clap@4.5.8
 - pkg:cargo/clap@4.5.9
 - pkg:cargo/clap@4.6.0
+- pkg:cargo/clap@4.6.1
