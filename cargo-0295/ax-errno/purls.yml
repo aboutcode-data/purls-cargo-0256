@@ -1,1 +1,2 @@
 - pkg:cargo/ax-errno@0.4.2
+- pkg:cargo/ax-errno@0.4.3
