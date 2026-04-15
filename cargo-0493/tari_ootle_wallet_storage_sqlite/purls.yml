@@ -5,3 +5,4 @@
 - pkg:cargo/tari_ootle_wallet_storage_sqlite@0.28.3
 - pkg:cargo/tari_ootle_wallet_storage_sqlite@0.28.4
 - pkg:cargo/tari_ootle_wallet_storage_sqlite@0.28.6
+- pkg:cargo/tari_ootle_wallet_storage_sqlite@0.28.9
