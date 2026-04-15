@@ -14,3 +14,4 @@
 - pkg:cargo/wit-bindgen-cpp@0.53.1
 - pkg:cargo/wit-bindgen-cpp@0.54.0
 - pkg:cargo/wit-bindgen-cpp@0.55.0
+- pkg:cargo/wit-bindgen-cpp@0.56.0

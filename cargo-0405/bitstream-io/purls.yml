@@ -46,6 +46,7 @@
 - pkg:cargo/bitstream-io@3.3.0
 - pkg:cargo/bitstream-io@4.0.0
 - pkg:cargo/bitstream-io@4.1.0
+- pkg:cargo/bitstream-io@4.10.0
 - pkg:cargo/bitstream-io@4.2.0
 - pkg:cargo/bitstream-io@4.3.0
 - pkg:cargo/bitstream-io@4.4.0
