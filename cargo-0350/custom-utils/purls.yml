@@ -21,6 +21,8 @@
 - pkg:cargo/custom-utils@0.10.7
 - pkg:cargo/custom-utils@0.10.8
 - pkg:cargo/custom-utils@0.10.9
+- pkg:cargo/custom-utils@0.11.0
+- pkg:cargo/custom-utils@0.11.1
 - pkg:cargo/custom-utils@0.2.0
 - pkg:cargo/custom-utils@0.3.0
 - pkg:cargo/custom-utils@0.4.0
