@@ -32,3 +32,4 @@
 - pkg:cargo/pickls@0.6.8
 - pkg:cargo/pickls@0.6.9
 - pkg:cargo/pickls@0.7.0
+- pkg:cargo/pickls@0.8.0

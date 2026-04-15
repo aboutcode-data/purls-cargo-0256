@@ -2,3 +2,5 @@
 - pkg:cargo/pinready@0.2.4
 - pkg:cargo/pinready@0.3.0
 - pkg:cargo/pinready@0.4.0
+- pkg:cargo/pinready@0.5.0
+- pkg:cargo/pinready@0.5.5
