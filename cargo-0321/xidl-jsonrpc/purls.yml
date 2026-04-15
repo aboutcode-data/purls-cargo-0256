@@ -35,6 +35,8 @@
 - pkg:cargo/xidl-jsonrpc@0.40.0
 - pkg:cargo/xidl-jsonrpc@0.41.0
 - pkg:cargo/xidl-jsonrpc@0.42.0
+- pkg:cargo/xidl-jsonrpc@0.43.0
+- pkg:cargo/xidl-jsonrpc@0.44.0
 - pkg:cargo/xidl-jsonrpc@0.5.0
 - pkg:cargo/xidl-jsonrpc@0.6.0
 - pkg:cargo/xidl-jsonrpc@0.7.0

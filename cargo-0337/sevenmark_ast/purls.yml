@@ -45,3 +45,4 @@
 - pkg:cargo/sevenmark_ast@2.32.5
 - pkg:cargo/sevenmark_ast@2.32.6
 - pkg:cargo/sevenmark_ast@2.32.7
+- pkg:cargo/sevenmark_ast@2.32.8
