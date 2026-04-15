@@ -75,9 +75,11 @@
 - pkg:cargo/teletypewriter@0.2.9
 - pkg:cargo/teletypewriter@0.3.0
 - pkg:cargo/teletypewriter@0.3.1
+- pkg:cargo/teletypewriter@0.3.10
 - pkg:cargo/teletypewriter@0.3.6
 - pkg:cargo/teletypewriter@0.3.7
 - pkg:cargo/teletypewriter@0.3.8
+- pkg:cargo/teletypewriter@0.3.9
 - pkg:cargo/teletypewriter@1.0.0
 - pkg:cargo/teletypewriter@1.0.1
 - pkg:cargo/teletypewriter@1.0.2
