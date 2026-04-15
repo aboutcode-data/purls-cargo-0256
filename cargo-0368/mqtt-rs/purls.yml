@@ -1,1 +1,2 @@
 - pkg:cargo/mqtt-rs@0.9.1
+- pkg:cargo/mqtt-rs@0.9.2
