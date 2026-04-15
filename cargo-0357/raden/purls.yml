@@ -1,6 +1,8 @@
+- pkg:cargo/raden@2026.1.0
 - pkg:cargo/raden@2026.1.0-canary.0
 - pkg:cargo/raden@2026.1.0-canary.2
 - pkg:cargo/raden@2026.1.0-canary.3
 - pkg:cargo/raden@2026.1.0-canary.4
 - pkg:cargo/raden@2026.1.0-canary.5
 - pkg:cargo/raden@2026.1.0-canary.6
+- pkg:cargo/raden@2026.1.1
