@@ -3,3 +3,4 @@
 - pkg:cargo/miden-faucet-client@0.14.0
 - pkg:cargo/miden-faucet-client@0.14.0-alpha.1
 - pkg:cargo/miden-faucet-client@0.14.0-alpha.2
+- pkg:cargo/miden-faucet-client@0.14.1
