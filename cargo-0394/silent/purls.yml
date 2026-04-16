@@ -78,6 +78,7 @@
 - pkg:cargo/silent@2.14.0
 - pkg:cargo/silent@2.15.0
 - pkg:cargo/silent@2.16.0
+- pkg:cargo/silent@2.16.1
 - pkg:cargo/silent@2.2.0
 - pkg:cargo/silent@2.2.1
 - pkg:cargo/silent@2.2.2
