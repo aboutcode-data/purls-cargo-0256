@@ -1,3 +1,4 @@
+- pkg:cargo/zxc-compress-sys@0.10.0
 - pkg:cargo/zxc-compress-sys@0.6.2-alpha1
 - pkg:cargo/zxc-compress-sys@0.6.3
 - pkg:cargo/zxc-compress-sys@0.7.0
