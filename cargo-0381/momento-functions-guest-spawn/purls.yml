@@ -1,3 +1,4 @@
 - pkg:cargo/momento-functions-guest-spawn@0.16.1
 - pkg:cargo/momento-functions-guest-spawn@0.17.0
 - pkg:cargo/momento-functions-guest-spawn@0.18.0
+- pkg:cargo/momento-functions-guest-spawn@0.19.0

@@ -24,6 +24,7 @@
 - pkg:cargo/moq-token-cli@0.5.17
 - pkg:cargo/moq-token-cli@0.5.18
 - pkg:cargo/moq-token-cli@0.5.19
+- pkg:cargo/moq-token-cli@0.5.20
 - pkg:cargo/moq-token-cli@0.5.4
 - pkg:cargo/moq-token-cli@0.5.5
 - pkg:cargo/moq-token-cli@0.5.6
