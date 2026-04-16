@@ -16,6 +16,7 @@
 - pkg:cargo/nu-cli@0.110.0
 - pkg:cargo/nu-cli@0.111.0
 - pkg:cargo/nu-cli@0.112.1
+- pkg:cargo/nu-cli@0.112.2
 - pkg:cargo/nu-cli@0.12.0
 - pkg:cargo/nu-cli@0.13.0
 - pkg:cargo/nu-cli@0.14.0
