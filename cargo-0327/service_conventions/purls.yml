@@ -27,6 +27,8 @@
 - pkg:cargo/service_conventions@0.0.33
 - pkg:cargo/service_conventions@0.0.34
 - pkg:cargo/service_conventions@0.0.35
+- pkg:cargo/service_conventions@0.0.36
+- pkg:cargo/service_conventions@0.0.37
 - pkg:cargo/service_conventions@0.0.4
 - pkg:cargo/service_conventions@0.0.5
 - pkg:cargo/service_conventions@0.0.6
