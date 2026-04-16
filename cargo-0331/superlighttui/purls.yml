@@ -35,6 +35,7 @@
 - pkg:cargo/superlighttui@0.16.1
 - pkg:cargo/superlighttui@0.17.0
 - pkg:cargo/superlighttui@0.17.1
+- pkg:cargo/superlighttui@0.18.0
 - pkg:cargo/superlighttui@0.2.0
 - pkg:cargo/superlighttui@0.2.1
 - pkg:cargo/superlighttui@0.2.2
