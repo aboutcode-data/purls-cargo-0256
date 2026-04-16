@@ -2,3 +2,4 @@
 - pkg:cargo/bitmap-allocator@0.2.0
 - pkg:cargo/bitmap-allocator@0.2.1
 - pkg:cargo/bitmap-allocator@0.4.1
+- pkg:cargo/bitmap-allocator@0.4.3

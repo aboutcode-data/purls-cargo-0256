@@ -17,6 +17,7 @@
 - pkg:cargo/bimm-contracts@0.2.3
 - pkg:cargo/bimm-contracts@0.2.4
 - pkg:cargo/bimm-contracts@0.2.5
+- pkg:cargo/bimm-contracts@0.20.1
 - pkg:cargo/bimm-contracts@0.3.0
 - pkg:cargo/bimm-contracts@0.3.1
 - pkg:cargo/bimm-contracts@0.4.0
