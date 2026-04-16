@@ -1,4 +1,11 @@
 - pkg:cargo/elevator-core@1.0.0
+- pkg:cargo/elevator-core@10.0.0
+- pkg:cargo/elevator-core@11.0.0
+- pkg:cargo/elevator-core@12.0.0
+- pkg:cargo/elevator-core@12.0.1
+- pkg:cargo/elevator-core@12.0.2
+- pkg:cargo/elevator-core@13.0.0
+- pkg:cargo/elevator-core@13.0.1
 - pkg:cargo/elevator-core@3.0.0
 - pkg:cargo/elevator-core@4.0.0
 - pkg:cargo/elevator-core@4.1.0
