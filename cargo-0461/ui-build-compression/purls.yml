@@ -2,3 +2,4 @@
 - pkg:cargo/ui-build-compression@1.0.1
 - pkg:cargo/ui-build-compression@1.1.1
 - pkg:cargo/ui-build-compression@1.1.2
+- pkg:cargo/ui-build-compression@1.1.3
