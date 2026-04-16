@@ -537,4 +537,5 @@
 - pkg:cargo/icydb@0.83.2
 - pkg:cargo/icydb@0.83.3
 - pkg:cargo/icydb@0.83.4
+- pkg:cargo/icydb@0.83.5
 - pkg:cargo/icydb@0.9.0

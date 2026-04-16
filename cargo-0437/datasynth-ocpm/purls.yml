@@ -34,3 +34,4 @@
 - pkg:cargo/datasynth-ocpm@2.3.1
 - pkg:cargo/datasynth-ocpm@2.4.0
 - pkg:cargo/datasynth-ocpm@2.5.0
+- pkg:cargo/datasynth-ocpm@3.0.0
