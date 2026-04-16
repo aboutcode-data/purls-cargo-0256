@@ -4,3 +4,4 @@
 - pkg:cargo/mbedtls-smx@0.13.6
 - pkg:cargo/mbedtls-smx@0.13.7
 - pkg:cargo/mbedtls-smx@0.13.8
+- pkg:cargo/mbedtls-smx@0.13.9
