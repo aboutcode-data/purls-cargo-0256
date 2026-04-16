@@ -2,3 +2,5 @@
 - pkg:cargo/starry-kernel@0.2.0-preview.1
 - pkg:cargo/starry-kernel@0.5.0
 - pkg:cargo/starry-kernel@0.5.3
+- pkg:cargo/starry-kernel@0.5.7
+- pkg:cargo/starry-kernel@0.5.8
