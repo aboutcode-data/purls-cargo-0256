@@ -3,6 +3,7 @@
 - pkg:cargo/magic-resolver@0.10.3
 - pkg:cargo/magic-resolver@0.10.4
 - pkg:cargo/magic-resolver@0.10.5
+- pkg:cargo/magic-resolver@0.10.6
 - pkg:cargo/magic-resolver@0.2.1
 - pkg:cargo/magic-resolver@0.2.10
 - pkg:cargo/magic-resolver@0.2.11
