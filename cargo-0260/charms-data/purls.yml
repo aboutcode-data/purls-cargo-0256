@@ -42,3 +42,4 @@
 - pkg:cargo/charms-data@12.0.0
 - pkg:cargo/charms-data@12.0.1
 - pkg:cargo/charms-data@13.0.0
+- pkg:cargo/charms-data@14.0.0
