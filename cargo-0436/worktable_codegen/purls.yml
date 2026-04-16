@@ -33,3 +33,4 @@
 - pkg:cargo/worktable_codegen@0.9.0-alpha3
 - pkg:cargo/worktable_codegen@0.9.0-alpha4
 - pkg:cargo/worktable_codegen@0.9.0-beta0.1.0
+- pkg:cargo/worktable_codegen@0.9.0-beta0.1.2
