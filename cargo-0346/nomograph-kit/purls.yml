@@ -1,3 +1,4 @@
+- pkg:cargo/nomograph-kit@0.10.1
 - pkg:cargo/nomograph-kit@0.5.0
 - pkg:cargo/nomograph-kit@0.6.0
 - pkg:cargo/nomograph-kit@0.7.0
