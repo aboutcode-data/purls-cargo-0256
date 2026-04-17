@@ -29,3 +29,6 @@
 - pkg:cargo/uncomment@2.9.0
 - pkg:cargo/uncomment@2.9.1
 - pkg:cargo/uncomment@2.9.2
+- pkg:cargo/uncomment@3.0.0
+- pkg:cargo/uncomment@3.0.1
+- pkg:cargo/uncomment@3.0.2

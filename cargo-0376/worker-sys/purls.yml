@@ -40,3 +40,4 @@
 - pkg:cargo/worker-sys@0.7.4
 - pkg:cargo/worker-sys@0.7.5
 - pkg:cargo/worker-sys@0.8.0
+- pkg:cargo/worker-sys@0.8.1
