@@ -126,3 +126,10 @@
 - pkg:cargo/icydb-utils@0.87.1
 - pkg:cargo/icydb-utils@0.88.1
 - pkg:cargo/icydb-utils@0.88.2
+- pkg:cargo/icydb-utils@0.89.1
+- pkg:cargo/icydb-utils@0.90.0
+- pkg:cargo/icydb-utils@0.90.1
+- pkg:cargo/icydb-utils@0.90.2
+- pkg:cargo/icydb-utils@0.90.3
+- pkg:cargo/icydb-utils@0.90.4
+- pkg:cargo/icydb-utils@0.90.5
