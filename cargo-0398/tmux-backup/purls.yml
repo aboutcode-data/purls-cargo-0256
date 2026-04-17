@@ -4,6 +4,7 @@
 - pkg:cargo/tmux-backup@0.5.13
 - pkg:cargo/tmux-backup@0.5.14
 - pkg:cargo/tmux-backup@0.5.15
+- pkg:cargo/tmux-backup@0.5.16
 - pkg:cargo/tmux-backup@0.5.4
 - pkg:cargo/tmux-backup@0.5.5
 - pkg:cargo/tmux-backup@0.5.6
