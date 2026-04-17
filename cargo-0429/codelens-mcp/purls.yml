@@ -4,6 +4,11 @@
 - pkg:cargo/codelens-mcp@1.9.10
 - pkg:cargo/codelens-mcp@1.9.2
 - pkg:cargo/codelens-mcp@1.9.3
+- pkg:cargo/codelens-mcp@1.9.33
+- pkg:cargo/codelens-mcp@1.9.35
+- pkg:cargo/codelens-mcp@1.9.36
+- pkg:cargo/codelens-mcp@1.9.37
+- pkg:cargo/codelens-mcp@1.9.38
 - pkg:cargo/codelens-mcp@1.9.4
 - pkg:cargo/codelens-mcp@1.9.5
 - pkg:cargo/codelens-mcp@1.9.6
