@@ -5,3 +5,4 @@
 - pkg:cargo/webylib@0.2.3
 - pkg:cargo/webylib@0.2.4
 - pkg:cargo/webylib@0.2.6
+- pkg:cargo/webylib@0.3.0
