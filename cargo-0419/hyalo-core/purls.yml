@@ -1,5 +1,6 @@
 - pkg:cargo/hyalo-core@0.10.0
 - pkg:cargo/hyalo-core@0.12.0
+- pkg:cargo/hyalo-core@0.13.0
 - pkg:cargo/hyalo-core@0.7.0
 - pkg:cargo/hyalo-core@0.7.1
 - pkg:cargo/hyalo-core@0.7.3
