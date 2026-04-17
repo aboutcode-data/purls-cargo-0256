@@ -19,3 +19,4 @@
 - pkg:cargo/mdbook-yapp@1.2.5
 - pkg:cargo/mdbook-yapp@2.0.0
 - pkg:cargo/mdbook-yapp@2.0.1
+- pkg:cargo/mdbook-yapp@2.0.2
