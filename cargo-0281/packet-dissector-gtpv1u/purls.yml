@@ -6,3 +6,4 @@
 - pkg:cargo/packet-dissector-gtpv1u@0.2.4
 - pkg:cargo/packet-dissector-gtpv1u@0.2.5
 - pkg:cargo/packet-dissector-gtpv1u@0.3.0
+- pkg:cargo/packet-dissector-gtpv1u@0.3.1
