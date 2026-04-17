@@ -29,3 +29,4 @@
 - pkg:cargo/lineark@2.1.0
 - pkg:cargo/lineark@2.1.1
 - pkg:cargo/lineark@2.1.2
+- pkg:cargo/lineark@3.0.0
