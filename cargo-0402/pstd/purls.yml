@@ -37,6 +37,7 @@
 - pkg:cargo/pstd@1.0.112
 - pkg:cargo/pstd@1.0.113
 - pkg:cargo/pstd@1.0.114
+- pkg:cargo/pstd@1.0.115
 - pkg:cargo/pstd@1.0.12
 - pkg:cargo/pstd@1.0.13
 - pkg:cargo/pstd@1.0.14
