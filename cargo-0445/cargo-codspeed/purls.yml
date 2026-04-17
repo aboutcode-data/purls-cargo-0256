@@ -45,3 +45,4 @@
 - pkg:cargo/cargo-codspeed@4.3.0
 - pkg:cargo/cargo-codspeed@4.4.0
 - pkg:cargo/cargo-codspeed@4.4.1
+- pkg:cargo/cargo-codspeed@4.5.0

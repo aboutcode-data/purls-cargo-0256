@@ -65,3 +65,4 @@
 - pkg:cargo/canic-wasm-store@0.27.4
 - pkg:cargo/canic-wasm-store@0.27.5
 - pkg:cargo/canic-wasm-store@0.27.6
+- pkg:cargo/canic-wasm-store@0.27.7
