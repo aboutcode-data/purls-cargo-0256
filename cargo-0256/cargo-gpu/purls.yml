@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-gpu@0.1.0
+- pkg:cargo/cargo-gpu@0.10.0-alpha.1
