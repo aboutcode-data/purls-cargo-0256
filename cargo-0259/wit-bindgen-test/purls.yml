@@ -18,3 +18,5 @@
 - pkg:cargo/wit-bindgen-test@0.54.0
 - pkg:cargo/wit-bindgen-test@0.55.0
 - pkg:cargo/wit-bindgen-test@0.56.0
+- pkg:cargo/wit-bindgen-test@0.57.0
+- pkg:cargo/wit-bindgen-test@0.57.1
