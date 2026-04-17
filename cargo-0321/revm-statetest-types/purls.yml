@@ -21,6 +21,7 @@
 - pkg:cargo/revm-statetest-types@15.0.0
 - pkg:cargo/revm-statetest-types@16.0.0
 - pkg:cargo/revm-statetest-types@17.0.0
+- pkg:cargo/revm-statetest-types@17.0.1
 - pkg:cargo/revm-statetest-types@2.0.0
 - pkg:cargo/revm-statetest-types@3.0.0
 - pkg:cargo/revm-statetest-types@3.0.1
