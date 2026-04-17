@@ -6,6 +6,8 @@
 - pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.10.5
 - pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.10.6
 - pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.10.7
+- pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.10.8
+- pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.10.9
 - pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.5.0
 - pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.6.0
 - pkg:cargo/ephemeral-rollups-sdk-attribute-action@0.6.1
