@@ -27,3 +27,4 @@
 - pkg:cargo/codex-mobile-bridge@0.3.7
 - pkg:cargo/codex-mobile-bridge@0.3.8
 - pkg:cargo/codex-mobile-bridge@0.3.9
+- pkg:cargo/codex-mobile-bridge@1.0.0
