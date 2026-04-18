@@ -1,5 +1,6 @@
 - pkg:cargo/certsd@0.6.1
 - pkg:cargo/certsd@0.6.11
+- pkg:cargo/certsd@0.6.12
 - pkg:cargo/certsd@0.6.3
 - pkg:cargo/certsd@0.6.4
 - pkg:cargo/certsd@0.6.5
