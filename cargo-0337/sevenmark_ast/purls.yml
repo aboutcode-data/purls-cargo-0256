@@ -47,3 +47,4 @@
 - pkg:cargo/sevenmark_ast@2.32.7
 - pkg:cargo/sevenmark_ast@2.32.8
 - pkg:cargo/sevenmark_ast@2.32.9
+- pkg:cargo/sevenmark_ast@2.34.0
