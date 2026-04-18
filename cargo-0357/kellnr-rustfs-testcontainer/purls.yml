@@ -5,3 +5,4 @@
 - pkg:cargo/kellnr-rustfs-testcontainer@6.1.0
 - pkg:cargo/kellnr-rustfs-testcontainer@6.1.1
 - pkg:cargo/kellnr-rustfs-testcontainer@6.2.0
+- pkg:cargo/kellnr-rustfs-testcontainer@6.3.0
