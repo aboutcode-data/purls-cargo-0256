@@ -1,3 +1,4 @@
 - pkg:cargo/gtfs-bin@0.0.1
 - pkg:cargo/gtfs-bin@0.1.1
 - pkg:cargo/gtfs-bin@0.1.2
+- pkg:cargo/gtfs-bin@0.1.3
