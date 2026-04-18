@@ -6,3 +6,4 @@
 - pkg:cargo/hd44780-i2c-nostd@0.2.2
 - pkg:cargo/hd44780-i2c-nostd@0.2.3
 - pkg:cargo/hd44780-i2c-nostd@0.2.4
+- pkg:cargo/hd44780-i2c-nostd@0.3.0
