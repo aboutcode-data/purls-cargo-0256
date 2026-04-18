@@ -7,3 +7,4 @@
 - pkg:cargo/uv-sbom@2.0.0
 - pkg:cargo/uv-sbom@2.0.1
 - pkg:cargo/uv-sbom@2.1.0
+- pkg:cargo/uv-sbom@2.2.0
