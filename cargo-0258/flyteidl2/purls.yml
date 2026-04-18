@@ -14,6 +14,7 @@
 - pkg:cargo/flyteidl2@2.0.10
 - pkg:cargo/flyteidl2@2.0.11
 - pkg:cargo/flyteidl2@2.0.12
+- pkg:cargo/flyteidl2@2.0.13
 - pkg:cargo/flyteidl2@2.0.2
 - pkg:cargo/flyteidl2@2.0.3
 - pkg:cargo/flyteidl2@2.0.5
