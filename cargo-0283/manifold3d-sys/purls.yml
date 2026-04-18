@@ -3,3 +3,4 @@
 - pkg:cargo/manifold3d-sys@0.0.5
 - pkg:cargo/manifold3d-sys@0.0.6
 - pkg:cargo/manifold3d-sys@0.0.7
+- pkg:cargo/manifold3d-sys@3.4.103
