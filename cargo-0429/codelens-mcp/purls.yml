@@ -14,6 +14,8 @@
 - pkg:cargo/codelens-mcp@1.9.41
 - pkg:cargo/codelens-mcp@1.9.42
 - pkg:cargo/codelens-mcp@1.9.43
+- pkg:cargo/codelens-mcp@1.9.44
+- pkg:cargo/codelens-mcp@1.9.45
 - pkg:cargo/codelens-mcp@1.9.5
 - pkg:cargo/codelens-mcp@1.9.6
 - pkg:cargo/codelens-mcp@1.9.7
