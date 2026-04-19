@@ -33,3 +33,4 @@
 - pkg:cargo/doublets@0.1.0-beta.9
 - pkg:cargo/doublets@0.1.0-pre%2Bbeta.15
 - pkg:cargo/doublets@0.2.0
+- pkg:cargo/doublets@0.3.0
