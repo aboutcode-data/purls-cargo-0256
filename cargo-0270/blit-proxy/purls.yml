@@ -3,3 +3,4 @@
 - pkg:cargo/blit-proxy@0.22.0
 - pkg:cargo/blit-proxy@0.24.0
 - pkg:cargo/blit-proxy@0.24.1
+- pkg:cargo/blit-proxy@0.25.0
