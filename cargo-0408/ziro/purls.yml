@@ -13,6 +13,8 @@
 - pkg:cargo/ziro@0.0.20
 - pkg:cargo/ziro@0.0.21
 - pkg:cargo/ziro@0.0.24
+- pkg:cargo/ziro@0.0.25
+- pkg:cargo/ziro@0.0.26
 - pkg:cargo/ziro@0.0.3
 - pkg:cargo/ziro@0.0.4
 - pkg:cargo/ziro@0.0.5
