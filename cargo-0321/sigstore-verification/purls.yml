@@ -12,3 +12,4 @@
 - pkg:cargo/sigstore-verification@0.2.3
 - pkg:cargo/sigstore-verification@0.2.4
 - pkg:cargo/sigstore-verification@0.2.5
+- pkg:cargo/sigstore-verification@0.2.6
