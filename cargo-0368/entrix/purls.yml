@@ -5,3 +5,6 @@
 - pkg:cargo/entrix@0.16.0
 - pkg:cargo/entrix@0.17.0
 - pkg:cargo/entrix@0.17.1-rc.1
+- pkg:cargo/entrix@0.17.1-rc.2
+- pkg:cargo/entrix@0.17.1-rc.3
+- pkg:cargo/entrix@0.17.1-rc.4
