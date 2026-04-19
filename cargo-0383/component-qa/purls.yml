@@ -13,3 +13,4 @@
 - pkg:cargo/component-qa@0.4.7
 - pkg:cargo/component-qa@0.4.8
 - pkg:cargo/component-qa@0.4.9
+- pkg:cargo/component-qa@0.5.0
