@@ -2,3 +2,4 @@
 - pkg:cargo/zerobox-linux-sandbox@0.2.3
 - pkg:cargo/zerobox-linux-sandbox@0.2.4
 - pkg:cargo/zerobox-linux-sandbox@0.2.5
+- pkg:cargo/zerobox-linux-sandbox@0.2.6
