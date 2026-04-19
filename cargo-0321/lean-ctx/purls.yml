@@ -128,3 +128,4 @@
 - pkg:cargo/lean-ctx@3.2.3
 - pkg:cargo/lean-ctx@3.2.4
 - pkg:cargo/lean-ctx@3.2.5
+- pkg:cargo/lean-ctx@3.2.6
