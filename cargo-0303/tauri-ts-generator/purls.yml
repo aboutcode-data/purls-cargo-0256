@@ -20,3 +20,4 @@
 - pkg:cargo/tauri-ts-generator@1.7.5
 - pkg:cargo/tauri-ts-generator@1.8.0
 - pkg:cargo/tauri-ts-generator@1.8.1
+- pkg:cargo/tauri-ts-generator@2.0.0
