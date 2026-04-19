@@ -1,2 +1,4 @@
 - pkg:cargo/k7s@0.1.0
 - pkg:cargo/k7s@0.4.0
+- pkg:cargo/k7s@0.4.6
+- pkg:cargo/k7s@0.4.7
