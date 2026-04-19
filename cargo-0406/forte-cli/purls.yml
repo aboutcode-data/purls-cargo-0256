@@ -13,6 +13,7 @@
 - pkg:cargo/forte-cli@0.3.18
 - pkg:cargo/forte-cli@0.3.19
 - pkg:cargo/forte-cli@0.3.2
+- pkg:cargo/forte-cli@0.3.20
 - pkg:cargo/forte-cli@0.3.3
 - pkg:cargo/forte-cli@0.3.4
 - pkg:cargo/forte-cli@0.3.5
