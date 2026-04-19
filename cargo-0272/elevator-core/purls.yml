@@ -9,6 +9,9 @@
 - pkg:cargo/elevator-core@14.0.0
 - pkg:cargo/elevator-core@15.0.0
 - pkg:cargo/elevator-core@15.1.0
+- pkg:cargo/elevator-core@15.10.0
+- pkg:cargo/elevator-core@15.11.0
+- pkg:cargo/elevator-core@15.11.1
 - pkg:cargo/elevator-core@15.2.0
 - pkg:cargo/elevator-core@15.2.10
 - pkg:cargo/elevator-core@15.2.12
@@ -33,6 +36,12 @@
 - pkg:cargo/elevator-core@15.5.3
 - pkg:cargo/elevator-core@15.5.4
 - pkg:cargo/elevator-core@15.5.5
+- pkg:cargo/elevator-core@15.6.0
+- pkg:cargo/elevator-core@15.7.0
+- pkg:cargo/elevator-core@15.8.0
+- pkg:cargo/elevator-core@15.8.1
+- pkg:cargo/elevator-core@15.9.0
+- pkg:cargo/elevator-core@15.9.1
 - pkg:cargo/elevator-core@3.0.0
 - pkg:cargo/elevator-core@4.0.0
 - pkg:cargo/elevator-core@4.1.0
