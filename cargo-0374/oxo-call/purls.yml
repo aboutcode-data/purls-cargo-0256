@@ -4,6 +4,7 @@
 - pkg:cargo/oxo-call@0.10.2
 - pkg:cargo/oxo-call@0.10.3
 - pkg:cargo/oxo-call@0.11.0
+- pkg:cargo/oxo-call@0.12.0
 - pkg:cargo/oxo-call@0.2.0
 - pkg:cargo/oxo-call@0.3.0
 - pkg:cargo/oxo-call@0.4.0
