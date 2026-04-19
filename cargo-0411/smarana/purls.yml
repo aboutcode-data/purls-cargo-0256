@@ -1,6 +1,7 @@
 - pkg:cargo/smarana@0.1.0
 - pkg:cargo/smarana@0.10.11
 - pkg:cargo/smarana@0.10.12
+- pkg:cargo/smarana@0.10.13
 - pkg:cargo/smarana@0.2.0
 - pkg:cargo/smarana@0.3.1
 - pkg:cargo/smarana@0.3.2
