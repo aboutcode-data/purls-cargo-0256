@@ -7,5 +7,7 @@
 - pkg:cargo/esteria-api-client@0.0.17
 - pkg:cargo/esteria-api-client@0.0.18
 - pkg:cargo/esteria-api-client@0.0.19
+- pkg:cargo/esteria-api-client@0.0.20
+- pkg:cargo/esteria-api-client@0.0.21
 - pkg:cargo/esteria-api-client@0.0.8
 - pkg:cargo/esteria-api-client@0.0.9
