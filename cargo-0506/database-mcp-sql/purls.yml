@@ -4,3 +4,4 @@
 - pkg:cargo/database-mcp-sql@0.6.2
 - pkg:cargo/database-mcp-sql@0.6.3
 - pkg:cargo/database-mcp-sql@0.6.4
+- pkg:cargo/database-mcp-sql@0.7.0
