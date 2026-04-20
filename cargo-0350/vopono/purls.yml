@@ -9,6 +9,7 @@
 - pkg:cargo/vopono@0.10.13
 - pkg:cargo/vopono@0.10.14
 - pkg:cargo/vopono@0.10.15
+- pkg:cargo/vopono@0.10.16
 - pkg:cargo/vopono@0.10.2
 - pkg:cargo/vopono@0.10.3
 - pkg:cargo/vopono@0.10.4

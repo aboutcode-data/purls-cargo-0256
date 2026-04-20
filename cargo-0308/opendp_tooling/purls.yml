@@ -251,6 +251,7 @@
 - pkg:cargo/opendp_tooling@0.14.2-dev.20260408.1
 - pkg:cargo/opendp_tooling@0.14.2-dev.20260419.1
 - pkg:cargo/opendp_tooling@0.14.2-dev.20260420.1
+- pkg:cargo/opendp_tooling@0.14.2-dev.20260420.2
 - pkg:cargo/opendp_tooling@0.14.2-nightly.20260310.1
 - pkg:cargo/opendp_tooling@0.14.2-nightly.20260311.1
 - pkg:cargo/opendp_tooling@0.14.2-nightly.20260312.1
