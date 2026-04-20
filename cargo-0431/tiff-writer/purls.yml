@@ -4,3 +4,4 @@
 - pkg:cargo/tiff-writer@0.2.4
 - pkg:cargo/tiff-writer@0.2.5
 - pkg:cargo/tiff-writer@0.3.1
+- pkg:cargo/tiff-writer@0.4.0
