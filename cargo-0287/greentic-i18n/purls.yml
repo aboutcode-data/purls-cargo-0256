@@ -11,3 +11,5 @@
 - pkg:cargo/greentic-i18n@0.4.6
 - pkg:cargo/greentic-i18n@0.4.7
 - pkg:cargo/greentic-i18n@0.4.8
+- pkg:cargo/greentic-i18n@0.5.0
+- pkg:cargo/greentic-i18n@0.5.1

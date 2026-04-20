@@ -28,3 +28,4 @@
 - pkg:cargo/juliaup@1.19.4
 - pkg:cargo/juliaup@1.19.8
 - pkg:cargo/juliaup@1.19.9
+- pkg:cargo/juliaup@1.20.1
