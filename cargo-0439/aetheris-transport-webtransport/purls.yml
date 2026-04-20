@@ -4,3 +4,4 @@
 - pkg:cargo/aetheris-transport-webtransport@0.3.2
 - pkg:cargo/aetheris-transport-webtransport@0.3.3
 - pkg:cargo/aetheris-transport-webtransport@0.4.0
+- pkg:cargo/aetheris-transport-webtransport@0.4.1

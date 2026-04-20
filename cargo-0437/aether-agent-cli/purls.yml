@@ -9,3 +9,4 @@
 - pkg:cargo/aether-agent-cli@0.1.9
 - pkg:cargo/aether-agent-cli@0.2.0
 - pkg:cargo/aether-agent-cli@0.2.1
+- pkg:cargo/aether-agent-cli@0.2.2
