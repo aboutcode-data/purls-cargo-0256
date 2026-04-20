@@ -57,3 +57,4 @@
 - pkg:cargo/sr-cli@7.0.0
 - pkg:cargo/sr-cli@7.1.0
 - pkg:cargo/sr-cli@7.1.1
+- pkg:cargo/sr-cli@7.1.2
