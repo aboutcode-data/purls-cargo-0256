@@ -1,2 +1,4 @@
 - pkg:cargo/mnemonist@0.4.3
 - pkg:cargo/mnemonist@0.8.2
+- pkg:cargo/mnemonist@0.9.0
+- pkg:cargo/mnemonist@0.9.1
