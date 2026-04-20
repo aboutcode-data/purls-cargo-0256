@@ -20,6 +20,7 @@
 - pkg:cargo/elevator-core@15.15.1
 - pkg:cargo/elevator-core@15.15.2
 - pkg:cargo/elevator-core@15.17.0
+- pkg:cargo/elevator-core@15.17.1
 - pkg:cargo/elevator-core@15.2.0
 - pkg:cargo/elevator-core@15.2.10
 - pkg:cargo/elevator-core@15.2.12
