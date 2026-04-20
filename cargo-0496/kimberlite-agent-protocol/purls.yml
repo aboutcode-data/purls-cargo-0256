@@ -1,1 +1,2 @@
 - pkg:cargo/kimberlite-agent-protocol@0.4.0
+- pkg:cargo/kimberlite-agent-protocol@0.4.2
