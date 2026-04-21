@@ -28,3 +28,4 @@
 - pkg:cargo/ratelimit@0.9.0
 - pkg:cargo/ratelimit@0.9.1
 - pkg:cargo/ratelimit@1.0.0
+- pkg:cargo/ratelimit@2.0.0
