@@ -92,6 +92,8 @@
 - pkg:cargo/fallow-graph@2.40.3
 - pkg:cargo/fallow-graph@2.41.0
 - pkg:cargo/fallow-graph@2.42.0
+- pkg:cargo/fallow-graph@2.43.0
+- pkg:cargo/fallow-graph@2.44.0
 - pkg:cargo/fallow-graph@2.5.0
 - pkg:cargo/fallow-graph@2.5.1
 - pkg:cargo/fallow-graph@2.5.2
