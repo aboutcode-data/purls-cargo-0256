@@ -1,1 +1,2 @@
 - pkg:cargo/greptimedb-ingester@0.16.0
+- pkg:cargo/greptimedb-ingester@0.17.0
