@@ -38,6 +38,7 @@
 - pkg:cargo/markdown-tui-explorer@1.11.2
 - pkg:cargo/markdown-tui-explorer@1.11.3
 - pkg:cargo/markdown-tui-explorer@1.11.4
+- pkg:cargo/markdown-tui-explorer@1.11.5
 - pkg:cargo/markdown-tui-explorer@1.2.0
 - pkg:cargo/markdown-tui-explorer@1.3.0
 - pkg:cargo/markdown-tui-explorer@1.4.0
