@@ -11,3 +11,4 @@
 - pkg:cargo/motorcortex-rust@0.3.3
 - pkg:cargo/motorcortex-rust@0.3.4
 - pkg:cargo/motorcortex-rust@0.4.0
+- pkg:cargo/motorcortex-rust@0.5.0
