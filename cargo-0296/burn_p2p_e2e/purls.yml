@@ -9,3 +9,6 @@
 - pkg:cargo/burn_p2p_e2e@0.21.0-pre.21
 - pkg:cargo/burn_p2p_e2e@0.21.0-pre.22
 - pkg:cargo/burn_p2p_e2e@0.21.0-pre.23
+- pkg:cargo/burn_p2p_e2e@0.21.0-pre.24
+- pkg:cargo/burn_p2p_e2e@0.21.0-pre.25
+- pkg:cargo/burn_p2p_e2e@0.21.0-pre.26

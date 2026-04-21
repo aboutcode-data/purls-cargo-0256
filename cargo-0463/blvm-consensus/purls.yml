@@ -1,1 +1,2 @@
 - pkg:cargo/blvm-consensus@0.1.8
+- pkg:cargo/blvm-consensus@0.1.9

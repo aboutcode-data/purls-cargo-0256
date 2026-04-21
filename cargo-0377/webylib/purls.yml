@@ -7,6 +7,8 @@
 - pkg:cargo/webylib@0.2.6
 - pkg:cargo/webylib@0.3.0
 - pkg:cargo/webylib@0.3.1
+- pkg:cargo/webylib@0.3.10
+- pkg:cargo/webylib@0.3.12
 - pkg:cargo/webylib@0.3.2
 - pkg:cargo/webylib@0.3.3
 - pkg:cargo/webylib@0.3.4
@@ -14,3 +16,4 @@
 - pkg:cargo/webylib@0.3.6
 - pkg:cargo/webylib@0.3.7
 - pkg:cargo/webylib@0.3.8
+- pkg:cargo/webylib@0.3.9

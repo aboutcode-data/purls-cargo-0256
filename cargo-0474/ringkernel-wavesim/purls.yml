@@ -9,3 +9,4 @@
 - pkg:cargo/ringkernel-wavesim@0.4.0
 - pkg:cargo/ringkernel-wavesim@0.4.1
 - pkg:cargo/ringkernel-wavesim@0.4.2
+- pkg:cargo/ringkernel-wavesim@1.1.0
