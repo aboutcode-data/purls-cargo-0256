@@ -5,6 +5,9 @@
 - pkg:cargo/icydb-utils@0.101.1
 - pkg:cargo/icydb-utils@0.101.2
 - pkg:cargo/icydb-utils@0.102.0
+- pkg:cargo/icydb-utils@0.102.2
+- pkg:cargo/icydb-utils@0.103.0
+- pkg:cargo/icydb-utils@0.104.0
 - pkg:cargo/icydb-utils@0.66.4
 - pkg:cargo/icydb-utils@0.66.5
 - pkg:cargo/icydb-utils@0.66.6

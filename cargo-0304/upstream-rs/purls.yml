@@ -20,3 +20,4 @@
 - pkg:cargo/upstream-rs@1.5.3
 - pkg:cargo/upstream-rs@1.5.4
 - pkg:cargo/upstream-rs@1.5.5
+- pkg:cargo/upstream-rs@1.6.0
