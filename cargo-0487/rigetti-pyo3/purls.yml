@@ -41,3 +41,7 @@
 - pkg:cargo/rigetti-pyo3@0.5.1-rc.0
 - pkg:cargo/rigetti-pyo3@0.5.2
 - pkg:cargo/rigetti-pyo3@0.5.2-rc.0
+- pkg:cargo/rigetti-pyo3@0.5.3
+- pkg:cargo/rigetti-pyo3@0.5.3-rc.0
+- pkg:cargo/rigetti-pyo3@0.5.4
+- pkg:cargo/rigetti-pyo3@0.5.4-rc.0
