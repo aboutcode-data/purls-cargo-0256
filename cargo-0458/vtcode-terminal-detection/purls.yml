@@ -1,4 +1,5 @@
 - pkg:cargo/vtcode-terminal-detection@0.100.0
+- pkg:cargo/vtcode-terminal-detection@0.100.1
 - pkg:cargo/vtcode-terminal-detection@0.96.15
 - pkg:cargo/vtcode-terminal-detection@0.97.0
 - pkg:cargo/vtcode-terminal-detection@0.97.1
