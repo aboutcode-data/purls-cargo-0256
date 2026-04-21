@@ -1,3 +1,4 @@
 - pkg:cargo/omnia-wasi-keyvalue@0.28.0
 - pkg:cargo/omnia-wasi-keyvalue@0.29.0
 - pkg:cargo/omnia-wasi-keyvalue@0.30.0
+- pkg:cargo/omnia-wasi-keyvalue@0.31.0

@@ -1,3 +1,4 @@
 - pkg:cargo/omnia-wasi-otel-attr@0.28.0
 - pkg:cargo/omnia-wasi-otel-attr@0.29.0
 - pkg:cargo/omnia-wasi-otel-attr@0.30.0
+- pkg:cargo/omnia-wasi-otel-attr@0.31.0
