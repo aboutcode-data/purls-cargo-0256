@@ -1,1 +1,2 @@
 - pkg:cargo/turso-http@0.1.0
+- pkg:cargo/turso-http@0.1.1
