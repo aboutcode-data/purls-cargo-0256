@@ -32,3 +32,4 @@
 - pkg:cargo/ox_content_og_image@0.8.0
 - pkg:cargo/ox_content_og_image@0.9.0
 - pkg:cargo/ox_content_og_image@1.0.0-alpha.0
+- pkg:cargo/ox_content_og_image@1.1.0
