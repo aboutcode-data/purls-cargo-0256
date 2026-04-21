@@ -63,5 +63,6 @@
 - pkg:cargo/xmrsplayer@0.8.3
 - pkg:cargo/xmrsplayer@0.8.4
 - pkg:cargo/xmrsplayer@0.8.5
+- pkg:cargo/xmrsplayer@0.9.10
 - pkg:cargo/xmrsplayer@0.9.5
 - pkg:cargo/xmrsplayer@0.9.7
