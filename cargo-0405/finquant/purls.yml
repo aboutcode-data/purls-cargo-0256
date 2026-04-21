@@ -49,6 +49,7 @@
 - pkg:cargo/finquant@0.0.53
 - pkg:cargo/finquant@0.0.54
 - pkg:cargo/finquant@0.0.55
+- pkg:cargo/finquant@0.0.56
 - pkg:cargo/finquant@0.0.6
 - pkg:cargo/finquant@0.0.7
 - pkg:cargo/finquant@0.0.8

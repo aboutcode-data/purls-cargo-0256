@@ -30,3 +30,4 @@
 - pkg:cargo/disruptor@3.7.0
 - pkg:cargo/disruptor@3.7.1
 - pkg:cargo/disruptor@4.0.0
+- pkg:cargo/disruptor@4.1.0

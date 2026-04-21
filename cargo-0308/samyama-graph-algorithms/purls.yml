@@ -8,3 +8,4 @@
 - pkg:cargo/samyama-graph-algorithms@0.6.0
 - pkg:cargo/samyama-graph-algorithms@0.6.1
 - pkg:cargo/samyama-graph-algorithms@0.7.0
+- pkg:cargo/samyama-graph-algorithms@1.0.0
