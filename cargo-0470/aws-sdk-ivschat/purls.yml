@@ -129,3 +129,4 @@
 - pkg:cargo/aws-sdk-ivschat@1.96.0
 - pkg:cargo/aws-sdk-ivschat@1.97.0
 - pkg:cargo/aws-sdk-ivschat@1.98.0
+- pkg:cargo/aws-sdk-ivschat@1.99.0

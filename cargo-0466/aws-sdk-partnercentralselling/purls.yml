@@ -52,6 +52,7 @@
 - pkg:cargo/aws-sdk-partnercentralselling@1.55.0
 - pkg:cargo/aws-sdk-partnercentralselling@1.56.0
 - pkg:cargo/aws-sdk-partnercentralselling@1.57.0
+- pkg:cargo/aws-sdk-partnercentralselling@1.58.0
 - pkg:cargo/aws-sdk-partnercentralselling@1.6.0
 - pkg:cargo/aws-sdk-partnercentralselling@1.7.0
 - pkg:cargo/aws-sdk-partnercentralselling@1.8.0

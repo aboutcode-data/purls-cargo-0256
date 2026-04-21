@@ -1,1 +1,2 @@
 - pkg:cargo/aws-sdk-s3files@1.0.0
+- pkg:cargo/aws-sdk-s3files@1.1.0
