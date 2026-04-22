@@ -11,3 +11,4 @@
 - pkg:cargo/entrix@0.17.1-rc.4
 - pkg:cargo/entrix@0.17.1-rc.5
 - pkg:cargo/entrix@0.17.2
+- pkg:cargo/entrix@0.18.0
