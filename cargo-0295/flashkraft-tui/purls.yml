@@ -23,3 +23,4 @@
 - pkg:cargo/flashkraft-tui@0.8.9
 - pkg:cargo/flashkraft-tui@1.0.0
 - pkg:cargo/flashkraft-tui@1.0.6
+- pkg:cargo/flashkraft-tui@1.0.7
