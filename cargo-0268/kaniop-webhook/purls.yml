@@ -15,3 +15,4 @@
 - pkg:cargo/kaniop-webhook@0.5.6
 - pkg:cargo/kaniop-webhook@0.5.7
 - pkg:cargo/kaniop-webhook@0.5.8
+- pkg:cargo/kaniop-webhook@0.5.9

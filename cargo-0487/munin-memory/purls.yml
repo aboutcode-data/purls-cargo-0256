@@ -10,3 +10,6 @@
 - pkg:cargo/munin-memory@0.5.3
 - pkg:cargo/munin-memory@0.5.4
 - pkg:cargo/munin-memory@0.5.6
+- pkg:cargo/munin-memory@0.5.7
+- pkg:cargo/munin-memory@0.5.8
+- pkg:cargo/munin-memory@0.5.9
