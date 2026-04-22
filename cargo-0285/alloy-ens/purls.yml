@@ -66,3 +66,4 @@
 - pkg:cargo/alloy-ens@1.8.2
 - pkg:cargo/alloy-ens@1.8.3
 - pkg:cargo/alloy-ens@2.0.0
+- pkg:cargo/alloy-ens@2.0.1
