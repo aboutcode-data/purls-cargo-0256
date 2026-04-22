@@ -112,3 +112,4 @@
 - pkg:cargo/pack_component_template@0.4.98
 - pkg:cargo/pack_component_template@0.4.99
 - pkg:cargo/pack_component_template@0.5.1
+- pkg:cargo/pack_component_template@0.5.2

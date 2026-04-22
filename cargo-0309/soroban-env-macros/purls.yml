@@ -61,3 +61,4 @@
 - pkg:cargo/soroban-env-macros@26.0.1
 - pkg:cargo/soroban-env-macros@26.1.1
 - pkg:cargo/soroban-env-macros@26.1.2
+- pkg:cargo/soroban-env-macros@26.1.3
