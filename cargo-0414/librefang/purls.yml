@@ -42,6 +42,7 @@
 - pkg:cargo/librefang@2026.4.21-beta1
 - pkg:cargo/librefang@2026.4.22-beta2
 - pkg:cargo/librefang@2026.4.22-beta3
+- pkg:cargo/librefang@2026.4.23-beta4
 - pkg:cargo/librefang@2026.4.3-beta11
 - pkg:cargo/librefang@2026.4.3-beta9
 - pkg:cargo/librefang@2026.4.4-beta12
