@@ -47,4 +47,5 @@
 - pkg:cargo/nmstate@2.2.57
 - pkg:cargo/nmstate@2.2.58
 - pkg:cargo/nmstate@2.2.59
+- pkg:cargo/nmstate@2.2.60
 - pkg:cargo/nmstate@2.2.8
