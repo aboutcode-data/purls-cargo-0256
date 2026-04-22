@@ -17,3 +17,4 @@
 - pkg:cargo/ironflow-core@2.6.0
 - pkg:cargo/ironflow-core@2.7.0
 - pkg:cargo/ironflow-core@2.8.0
+- pkg:cargo/ironflow-core@2.9.0
