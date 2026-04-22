@@ -27,6 +27,13 @@
 - pkg:cargo/icydb-utils@0.115.0
 - pkg:cargo/icydb-utils@0.116.0
 - pkg:cargo/icydb-utils@0.116.1
+- pkg:cargo/icydb-utils@0.116.2
+- pkg:cargo/icydb-utils@0.117.0
+- pkg:cargo/icydb-utils@0.118.0
+- pkg:cargo/icydb-utils@0.118.1
+- pkg:cargo/icydb-utils@0.119.0
+- pkg:cargo/icydb-utils@0.120.0
+- pkg:cargo/icydb-utils@0.120.1
 - pkg:cargo/icydb-utils@0.66.4
 - pkg:cargo/icydb-utils@0.66.5
 - pkg:cargo/icydb-utils@0.66.6
