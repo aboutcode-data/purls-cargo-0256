@@ -117,6 +117,7 @@
 - pkg:cargo/quillmark@0.55.0
 - pkg:cargo/quillmark@0.56.0
 - pkg:cargo/quillmark@0.58.0
+- pkg:cargo/quillmark@0.58.2-rc.2
 - pkg:cargo/quillmark@0.6.0
 - pkg:cargo/quillmark@0.6.1
 - pkg:cargo/quillmark@0.6.10
