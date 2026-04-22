@@ -1,1 +1,2 @@
 - pkg:cargo/secretenv-backend-azure@0.3.0
+- pkg:cargo/secretenv-backend-azure@0.4.0
