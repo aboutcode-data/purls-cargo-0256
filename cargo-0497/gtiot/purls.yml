@@ -1,2 +1,3 @@
 - pkg:cargo/gtiot@0.1.0-alpha
 - pkg:cargo/gtiot@1.2.1-Alpha
+- pkg:cargo/gtiot@1.2.2-alpha
