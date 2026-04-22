@@ -34,3 +34,4 @@
 - pkg:cargo/turbomcp-proxy@3.0.8
 - pkg:cargo/turbomcp-proxy@3.0.9
 - pkg:cargo/turbomcp-proxy@3.1.0
+- pkg:cargo/turbomcp-proxy@3.1.1

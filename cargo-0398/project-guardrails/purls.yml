@@ -1,2 +1,4 @@
 - pkg:cargo/project-guardrails@0.1.10
+- pkg:cargo/project-guardrails@0.1.12
+- pkg:cargo/project-guardrails@0.1.13
 - pkg:cargo/project-guardrails@0.1.7

@@ -1,3 +1,5 @@
 - pkg:cargo/nzb-web@0.1.4
 - pkg:cargo/nzb-web@0.1.9
 - pkg:cargo/nzb-web@0.4.11
+- pkg:cargo/nzb-web@0.4.12
+- pkg:cargo/nzb-web@0.4.13

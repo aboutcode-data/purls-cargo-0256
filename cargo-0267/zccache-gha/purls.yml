@@ -10,3 +10,4 @@
 - pkg:cargo/zccache-gha@1.2.7
 - pkg:cargo/zccache-gha@1.2.8
 - pkg:cargo/zccache-gha@1.3.0
+- pkg:cargo/zccache-gha@1.3.1
