@@ -1,3 +1,4 @@
 - pkg:cargo/chartml-render@3.0.0
 - pkg:cargo/chartml-render@4.0.0
 - pkg:cargo/chartml-render@5.0.0
+- pkg:cargo/chartml-render@5.0.1
