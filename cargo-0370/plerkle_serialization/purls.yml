@@ -48,3 +48,4 @@
 - pkg:cargo/plerkle_serialization@1.8.0
 - pkg:cargo/plerkle_serialization@1.9.0
 - pkg:cargo/plerkle_serialization@2.0.0
+- pkg:cargo/plerkle_serialization@3.0.0

@@ -19,6 +19,7 @@
 - pkg:cargo/typeql@3.0.5
 - pkg:cargo/typeql@3.1.0
 - pkg:cargo/typeql@3.1.0-rc0
+- pkg:cargo/typeql@3.10.0
 - pkg:cargo/typeql@3.2.0
 - pkg:cargo/typeql@3.2.0-rc0
 - pkg:cargo/typeql@3.2.0-rc2
