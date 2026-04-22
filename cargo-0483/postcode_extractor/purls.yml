@@ -11,6 +11,7 @@
 - pkg:cargo/postcode_extractor@0.1.18
 - pkg:cargo/postcode_extractor@0.1.19
 - pkg:cargo/postcode_extractor@0.1.2
+- pkg:cargo/postcode_extractor@0.1.20
 - pkg:cargo/postcode_extractor@0.1.3
 - pkg:cargo/postcode_extractor@0.1.4
 - pkg:cargo/postcode_extractor@0.1.5
