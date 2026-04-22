@@ -4,3 +4,4 @@
 - pkg:cargo/nats-wasip3@0.4.1
 - pkg:cargo/nats-wasip3@0.5.0
 - pkg:cargo/nats-wasip3@0.6.0
+- pkg:cargo/nats-wasip3@0.7.0
