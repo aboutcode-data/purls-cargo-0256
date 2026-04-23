@@ -5,3 +5,4 @@
 - pkg:cargo/dynamo-config@0.9.1
 - pkg:cargo/dynamo-config@1.0.0
 - pkg:cargo/dynamo-config@1.0.1
+- pkg:cargo/dynamo-config@1.0.2
