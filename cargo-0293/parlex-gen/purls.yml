@@ -11,3 +11,4 @@
 - pkg:cargo/parlex-gen@0.2.0
 - pkg:cargo/parlex-gen@0.3.0
 - pkg:cargo/parlex-gen@0.4.0
+- pkg:cargo/parlex-gen@0.4.1
