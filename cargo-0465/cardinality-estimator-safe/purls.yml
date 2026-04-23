@@ -6,3 +6,4 @@
 - pkg:cargo/cardinality-estimator-safe@4.0.0
 - pkg:cargo/cardinality-estimator-safe@4.0.1
 - pkg:cargo/cardinality-estimator-safe@4.0.2
+- pkg:cargo/cardinality-estimator-safe@4.0.3

@@ -13,3 +13,5 @@
 - pkg:cargo/tauri-plugin-connector@0.7.0
 - pkg:cargo/tauri-plugin-connector@0.7.1
 - pkg:cargo/tauri-plugin-connector@0.8.0
+- pkg:cargo/tauri-plugin-connector@0.9.0
+- pkg:cargo/tauri-plugin-connector@0.9.1
