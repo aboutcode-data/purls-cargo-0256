@@ -1,1 +1,2 @@
 - pkg:cargo/rustfs-kafka-async@1.0.0
+- pkg:cargo/rustfs-kafka-async@1.1.0
