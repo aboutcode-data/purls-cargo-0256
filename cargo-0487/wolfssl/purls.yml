@@ -7,3 +7,4 @@
 - pkg:cargo/wolfssl@4.1.0
 - pkg:cargo/wolfssl@4.2.0
 - pkg:cargo/wolfssl@5.0.0
+- pkg:cargo/wolfssl@6.0.0
