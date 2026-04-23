@@ -2,3 +2,4 @@
 - pkg:cargo/rust_decimal_ext@1.36.1
 - pkg:cargo/rust_decimal_ext@1.41.0
 - pkg:cargo/rust_decimal_ext@1.41.1
+- pkg:cargo/rust_decimal_ext@1.41.2
