@@ -1,1 +1,2 @@
 - pkg:cargo/winnow-rfc3986@0.0.1
+- pkg:cargo/winnow-rfc3986@0.0.2
