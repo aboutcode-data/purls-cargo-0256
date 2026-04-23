@@ -9,3 +9,5 @@
 - pkg:cargo/calimero-context-client@0.10.1-rc.27
 - pkg:cargo/calimero-context-client@0.10.1-rc.28
 - pkg:cargo/calimero-context-client@0.10.1-rc.29
+- pkg:cargo/calimero-context-client@0.10.1-rc.30
+- pkg:cargo/calimero-context-client@0.10.1-rc.31
