@@ -5,3 +5,4 @@
 - pkg:cargo/cargo-simics-build@0.2.3
 - pkg:cargo/cargo-simics-build@0.2.4
 - pkg:cargo/cargo-simics-build@0.2.5
+- pkg:cargo/cargo-simics-build@0.2.6
