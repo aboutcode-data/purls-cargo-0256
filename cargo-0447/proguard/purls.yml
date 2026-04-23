@@ -17,6 +17,7 @@
 - pkg:cargo/proguard@5.10.0
 - pkg:cargo/proguard@5.10.1
 - pkg:cargo/proguard@5.10.2
+- pkg:cargo/proguard@5.10.3
 - pkg:cargo/proguard@5.2.0
 - pkg:cargo/proguard@5.3.0
 - pkg:cargo/proguard@5.4.0
