@@ -4,3 +4,4 @@
 - pkg:cargo/signer-xrpl@0.6.1
 - pkg:cargo/signer-xrpl@0.7.0
 - pkg:cargo/signer-xrpl@0.8.0
+- pkg:cargo/signer-xrpl@1.0.0
