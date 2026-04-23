@@ -1,4 +1,5 @@
 - pkg:cargo/cljrs-logging@0.1.10
+- pkg:cargo/cljrs-logging@0.1.11
 - pkg:cargo/cljrs-logging@0.1.5
 - pkg:cargo/cljrs-logging@0.1.6
 - pkg:cargo/cljrs-logging@0.1.7
