@@ -13,3 +13,5 @@
 - pkg:cargo/pyra-rates@0.5.2
 - pkg:cargo/pyra-rates@0.5.3
 - pkg:cargo/pyra-rates@0.5.4
+- pkg:cargo/pyra-rates@0.6.1
+- pkg:cargo/pyra-rates@0.6.2
