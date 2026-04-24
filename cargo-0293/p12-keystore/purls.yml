@@ -9,3 +9,4 @@
 - pkg:cargo/p12-keystore@0.3.0-rc1
 - pkg:cargo/p12-keystore@0.3.0-rc2
 - pkg:cargo/p12-keystore@0.3.0-rc3
+- pkg:cargo/p12-keystore@0.3.0-rc4
