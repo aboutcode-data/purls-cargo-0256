@@ -1,3 +1,4 @@
 - pkg:cargo/frost-secp256k1-evm@2.0.0
 - pkg:cargo/frost-secp256k1-evm@2.1.0
 - pkg:cargo/frost-secp256k1-evm@2.2.0
+- pkg:cargo/frost-secp256k1-evm@3.0.0
