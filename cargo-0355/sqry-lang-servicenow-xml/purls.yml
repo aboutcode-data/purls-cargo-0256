@@ -23,5 +23,6 @@
 - pkg:cargo/sqry-lang-servicenow-xml@8.0.7
 - pkg:cargo/sqry-lang-servicenow-xml@9.0.1
 - pkg:cargo/sqry-lang-servicenow-xml@9.0.11
+- pkg:cargo/sqry-lang-servicenow-xml@9.0.12
 - pkg:cargo/sqry-lang-servicenow-xml@9.0.5
 - pkg:cargo/sqry-lang-servicenow-xml@9.0.6
