@@ -24,3 +24,4 @@
 - pkg:cargo/sqry-lang-typescript@8.0.4
 - pkg:cargo/sqry-lang-typescript@8.0.7
 - pkg:cargo/sqry-lang-typescript@9.0.1
+- pkg:cargo/sqry-lang-typescript@9.0.5
