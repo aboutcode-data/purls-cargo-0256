@@ -5,3 +5,4 @@
 - pkg:cargo/math-dsp@0.4.7
 - pkg:cargo/math-dsp@0.5.10
 - pkg:cargo/math-dsp@0.5.11
+- pkg:cargo/math-dsp@0.5.13
