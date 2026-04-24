@@ -3,5 +3,6 @@
 - pkg:cargo/crabllm-llamacpp@0.0.12
 - pkg:cargo/crabllm-llamacpp@0.0.16
 - pkg:cargo/crabllm-llamacpp@0.0.17
+- pkg:cargo/crabllm-llamacpp@0.0.18
 - pkg:cargo/crabllm-llamacpp@0.0.8
 - pkg:cargo/crabllm-llamacpp@0.0.9
