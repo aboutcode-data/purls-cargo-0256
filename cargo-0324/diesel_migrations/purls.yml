@@ -15,3 +15,4 @@
 - pkg:cargo/diesel_migrations@2.2.0
 - pkg:cargo/diesel_migrations@2.3.0
 - pkg:cargo/diesel_migrations@2.3.1
+- pkg:cargo/diesel_migrations@2.3.2
