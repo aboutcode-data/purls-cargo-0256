@@ -21,3 +21,4 @@
 - pkg:cargo/kobe-cli@1.0.0
 - pkg:cargo/kobe-cli@1.1.0
 - pkg:cargo/kobe-cli@1.1.1
+- pkg:cargo/kobe-cli@2.0.0
