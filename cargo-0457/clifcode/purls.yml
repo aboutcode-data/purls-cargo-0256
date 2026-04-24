@@ -82,6 +82,8 @@
 - pkg:cargo/clifcode@1.65.0
 - pkg:cargo/clifcode@1.66.0
 - pkg:cargo/clifcode@1.67.0
+- pkg:cargo/clifcode@1.69.0
 - pkg:cargo/clifcode@1.7.0
+- pkg:cargo/clifcode@1.70.0
 - pkg:cargo/clifcode@1.8.0
 - pkg:cargo/clifcode@1.9.0
