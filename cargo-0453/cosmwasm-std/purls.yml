@@ -179,3 +179,4 @@
 - pkg:cargo/cosmwasm-std@3.0.3
 - pkg:cargo/cosmwasm-std@3.0.4
 - pkg:cargo/cosmwasm-std@3.0.4-rc.0
+- pkg:cargo/cosmwasm-std@3.0.5-rc.0
