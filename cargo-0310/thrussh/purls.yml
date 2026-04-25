@@ -132,6 +132,7 @@
 - pkg:cargo/thrussh@0.40.2
 - pkg:cargo/thrussh@0.40.3
 - pkg:cargo/thrussh@0.40.4
+- pkg:cargo/thrussh@0.40.5
 - pkg:cargo/thrussh@0.5.0
 - pkg:cargo/thrussh@0.5.1
 - pkg:cargo/thrussh@0.6.0
