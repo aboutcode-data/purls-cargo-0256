@@ -35,3 +35,5 @@
 - pkg:cargo/uzor-backend-wgpu-instanced@1.0.9
 - pkg:cargo/uzor-backend-wgpu-instanced@1.1.0
 - pkg:cargo/uzor-backend-wgpu-instanced@1.1.1
+- pkg:cargo/uzor-backend-wgpu-instanced@1.1.2
+- pkg:cargo/uzor-backend-wgpu-instanced@1.1.3
