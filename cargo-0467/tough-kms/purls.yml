@@ -4,6 +4,7 @@
 - pkg:cargo/tough-kms@0.11.0
 - pkg:cargo/tough-kms@0.12.0
 - pkg:cargo/tough-kms@0.13.0
+- pkg:cargo/tough-kms@0.14.0
 - pkg:cargo/tough-kms@0.2.0
 - pkg:cargo/tough-kms@0.3.0
 - pkg:cargo/tough-kms@0.3.1
