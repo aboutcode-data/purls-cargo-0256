@@ -2,3 +2,4 @@
 - pkg:cargo/riptide-amm-macros@0.2.6
 - pkg:cargo/riptide-amm-macros@0.2.7
 - pkg:cargo/riptide-amm-macros@1.0.0
+- pkg:cargo/riptide-amm-macros@1.0.3
