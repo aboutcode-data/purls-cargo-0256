@@ -1,1 +1,4 @@
 - pkg:cargo/fusevm@0.8.17
+- pkg:cargo/fusevm@0.9.0
+- pkg:cargo/fusevm@0.9.1
+- pkg:cargo/fusevm@0.9.3
