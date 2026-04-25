@@ -22,5 +22,6 @@
 - pkg:cargo/sqry-cli@8.0.7
 - pkg:cargo/sqry-cli@9.0.11
 - pkg:cargo/sqry-cli@9.0.12
+- pkg:cargo/sqry-cli@9.0.16
 - pkg:cargo/sqry-cli@9.0.5
 - pkg:cargo/sqry-cli@9.0.6
