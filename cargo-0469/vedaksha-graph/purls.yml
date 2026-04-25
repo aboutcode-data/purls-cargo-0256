@@ -1,3 +1,5 @@
 - pkg:cargo/vedaksha-graph@0.1.0
 - pkg:cargo/vedaksha-graph@0.2.0
 - pkg:cargo/vedaksha-graph@1.0.0
+- pkg:cargo/vedaksha-graph@1.7.1
+- pkg:cargo/vedaksha-graph@2.0.0
