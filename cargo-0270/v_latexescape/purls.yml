@@ -12,6 +12,8 @@
 - pkg:cargo/v_latexescape@0.14.6
 - pkg:cargo/v_latexescape@0.14.7
 - pkg:cargo/v_latexescape@0.14.8
+- pkg:cargo/v_latexescape@0.15.0
+- pkg:cargo/v_latexescape@0.16.0
 - pkg:cargo/v_latexescape@0.3.2
 - pkg:cargo/v_latexescape@0.4.0
 - pkg:cargo/v_latexescape@0.4.1
