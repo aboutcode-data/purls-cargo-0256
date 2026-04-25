@@ -50,6 +50,8 @@
 - pkg:cargo/shapes_converter@0.1.97
 - pkg:cargo/shapes_converter@0.2.0
 - pkg:cargo/shapes_converter@0.2.1
+- pkg:cargo/shapes_converter@0.2.14
+- pkg:cargo/shapes_converter@0.2.15
 - pkg:cargo/shapes_converter@0.2.2
 - pkg:cargo/shapes_converter@0.2.6
 - pkg:cargo/shapes_converter@0.2.8
