@@ -19,3 +19,6 @@
 - pkg:cargo/endpoint-libs@1.5.0
 - pkg:cargo/endpoint-libs@1.5.1
 - pkg:cargo/endpoint-libs@1.6.0
+- pkg:cargo/endpoint-libs@1.7.0
+- pkg:cargo/endpoint-libs@1.7.1
+- pkg:cargo/endpoint-libs@1.7.2
