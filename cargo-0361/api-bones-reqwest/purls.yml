@@ -1,1 +1,2 @@
 - pkg:cargo/api-bones-reqwest@2.0.3
+- pkg:cargo/api-bones-reqwest@4.4.0
