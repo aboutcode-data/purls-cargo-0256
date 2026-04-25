@@ -1,3 +1,4 @@
 - pkg:cargo/waylandbackend@1.3.0-beta
 - pkg:cargo/waylandbackend@1.3.0-beta-release2
 - pkg:cargo/waylandbackend@1.4.0-unstable-beta-release
+- pkg:cargo/waylandbackend@1.4.0-unstable-beta1-release
