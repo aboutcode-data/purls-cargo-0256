@@ -7,3 +7,6 @@
 - pkg:cargo/appctl-plugin-sdk@0.6.0
 - pkg:cargo/appctl-plugin-sdk@0.7.0
 - pkg:cargo/appctl-plugin-sdk@0.7.1
+- pkg:cargo/appctl-plugin-sdk@0.8.0
+- pkg:cargo/appctl-plugin-sdk@0.9.0
+- pkg:cargo/appctl-plugin-sdk@0.9.1
