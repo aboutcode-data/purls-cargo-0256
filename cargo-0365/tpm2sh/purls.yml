@@ -101,6 +101,7 @@
 - pkg:cargo/tpm2sh@0.16.24
 - pkg:cargo/tpm2sh@0.16.25
 - pkg:cargo/tpm2sh@0.16.26
+- pkg:cargo/tpm2sh@0.16.27
 - pkg:cargo/tpm2sh@0.16.3
 - pkg:cargo/tpm2sh@0.16.4
 - pkg:cargo/tpm2sh@0.16.5
