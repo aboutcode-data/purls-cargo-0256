@@ -1,5 +1,6 @@
 - pkg:cargo/clap-noun-verb@0.1.0
 - pkg:cargo/clap-noun-verb@1.0.0
+- pkg:cargo/clap-noun-verb@26.4.25
 - pkg:cargo/clap-noun-verb@3.0.0
 - pkg:cargo/clap-noun-verb@3.2.0
 - pkg:cargo/clap-noun-verb@3.3.0
