@@ -3,3 +3,5 @@
 - pkg:cargo/weave-ios-core@0.5.2
 - pkg:cargo/weave-ios-core@0.5.3
 - pkg:cargo/weave-ios-core@0.5.4
+- pkg:cargo/weave-ios-core@0.6.0
+- pkg:cargo/weave-ios-core@0.7.0
