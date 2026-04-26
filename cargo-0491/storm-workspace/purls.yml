@@ -95,6 +95,7 @@
 - pkg:cargo/storm-workspace@0.19.195
 - pkg:cargo/storm-workspace@0.19.196
 - pkg:cargo/storm-workspace@0.19.197
+- pkg:cargo/storm-workspace@0.19.198
 - pkg:cargo/storm-workspace@0.19.22
 - pkg:cargo/storm-workspace@0.19.23
 - pkg:cargo/storm-workspace@0.19.24
