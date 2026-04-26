@@ -42,3 +42,4 @@
 - pkg:cargo/find-identical-files@0.39.0
 - pkg:cargo/find-identical-files@0.39.1
 - pkg:cargo/find-identical-files@0.39.2
+- pkg:cargo/find-identical-files@0.39.3
