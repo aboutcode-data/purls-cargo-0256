@@ -6,3 +6,4 @@
 - pkg:cargo/terminal-use@0.6.0
 - pkg:cargo/terminal-use@0.6.1
 - pkg:cargo/terminal-use@1.0.0
+- pkg:cargo/terminal-use@1.1.0
