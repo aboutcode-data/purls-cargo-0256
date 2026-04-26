@@ -1,4 +1,5 @@
 - pkg:cargo/markon@0.1.0
+- pkg:cargo/markon@0.11.4
 - pkg:cargo/markon@0.2.0
 - pkg:cargo/markon@0.2.1
 - pkg:cargo/markon@0.2.2

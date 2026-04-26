@@ -43,3 +43,4 @@
 - pkg:cargo/musicbrainz-release-grabber@1.0.1
 - pkg:cargo/musicbrainz-release-grabber@1.0.2
 - pkg:cargo/musicbrainz-release-grabber@1.0.3
+- pkg:cargo/musicbrainz-release-grabber@1.0.4
