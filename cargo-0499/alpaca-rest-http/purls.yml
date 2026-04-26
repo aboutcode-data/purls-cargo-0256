@@ -5,3 +5,5 @@
 - pkg:cargo/alpaca-rest-http@0.24.4
 - pkg:cargo/alpaca-rest-http@0.24.8
 - pkg:cargo/alpaca-rest-http@0.24.9
+- pkg:cargo/alpaca-rest-http@0.25.0
+- pkg:cargo/alpaca-rest-http@0.25.1
