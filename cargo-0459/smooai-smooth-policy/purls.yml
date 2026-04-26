@@ -5,3 +5,5 @@
 - pkg:cargo/smooai-smooth-policy@0.7.1
 - pkg:cargo/smooai-smooth-policy@0.8.0
 - pkg:cargo/smooai-smooth-policy@0.9.0
+- pkg:cargo/smooai-smooth-policy@0.9.1
+- pkg:cargo/smooai-smooth-policy@0.9.4
