@@ -13,3 +13,5 @@
 - pkg:cargo/edge-agent@0.5.2
 - pkg:cargo/edge-agent@0.5.3
 - pkg:cargo/edge-agent@0.5.4
+- pkg:cargo/edge-agent@0.6.0
+- pkg:cargo/edge-agent@0.7.0
