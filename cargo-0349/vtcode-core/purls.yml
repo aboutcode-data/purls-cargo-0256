@@ -8,6 +8,7 @@
 - pkg:cargo/vtcode-core@0.103.3
 - pkg:cargo/vtcode-core@0.104.0
 - pkg:cargo/vtcode-core@0.104.1
+- pkg:cargo/vtcode-core@0.104.2
 - pkg:cargo/vtcode-core@0.11.0
 - pkg:cargo/vtcode-core@0.11.1
 - pkg:cargo/vtcode-core@0.13.0
