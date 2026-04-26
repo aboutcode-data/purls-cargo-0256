@@ -1,1 +1,2 @@
 - pkg:cargo/tinyquant-pgvector@0.0.0
+- pkg:cargo/tinyquant-pgvector@1.1.0

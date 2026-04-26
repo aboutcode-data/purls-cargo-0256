@@ -21,5 +21,7 @@
 - pkg:cargo/zlayer-scheduler@0.10.88
 - pkg:cargo/zlayer-scheduler@0.10.89
 - pkg:cargo/zlayer-scheduler@0.11.0
+- pkg:cargo/zlayer-scheduler@0.11.1
+- pkg:cargo/zlayer-scheduler@0.11.2
 - pkg:cargo/zlayer-scheduler@0.9.993
 - pkg:cargo/zlayer-scheduler@0.9.994
