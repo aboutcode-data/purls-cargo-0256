@@ -34,6 +34,8 @@
 - pkg:cargo/arrowspace@0.25.4
 - pkg:cargo/arrowspace@0.25.5
 - pkg:cargo/arrowspace@0.26.0
+- pkg:cargo/arrowspace@0.26.1
+- pkg:cargo/arrowspace@0.26.2
 - pkg:cargo/arrowspace@0.3.0
 - pkg:cargo/arrowspace@0.5.0
 - pkg:cargo/arrowspace@0.5.1
