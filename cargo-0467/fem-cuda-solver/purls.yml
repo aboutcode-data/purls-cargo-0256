@@ -1,1 +1,2 @@
 - pkg:cargo/fem-cuda-solver@0.1.0
+- pkg:cargo/fem-cuda-solver@0.1.1
