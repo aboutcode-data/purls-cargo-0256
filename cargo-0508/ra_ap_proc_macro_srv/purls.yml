@@ -197,6 +197,7 @@
 - pkg:cargo/ra_ap_proc_macro_srv@0.0.327
 - pkg:cargo/ra_ap_proc_macro_srv@0.0.328
 - pkg:cargo/ra_ap_proc_macro_srv@0.0.329
+- pkg:cargo/ra_ap_proc_macro_srv@0.0.330
 - pkg:cargo/ra_ap_proc_macro_srv@0.0.35
 - pkg:cargo/ra_ap_proc_macro_srv@0.0.37
 - pkg:cargo/ra_ap_proc_macro_srv@0.0.38
