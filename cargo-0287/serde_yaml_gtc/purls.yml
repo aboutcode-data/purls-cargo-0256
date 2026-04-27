@@ -2,3 +2,4 @@
 - pkg:cargo/serde_yaml_gtc@2.5.24983459154
 - pkg:cargo/serde_yaml_gtc@2.5.3
 - pkg:cargo/serde_yaml_gtc@2.6.0-dev.24986054878
+- pkg:cargo/serde_yaml_gtc@2.6.0-dev.24998819965
