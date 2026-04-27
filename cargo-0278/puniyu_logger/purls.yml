@@ -23,3 +23,4 @@
 - pkg:cargo/puniyu_logger@0.6.4
 - pkg:cargo/puniyu_logger@0.7.0
 - pkg:cargo/puniyu_logger@0.7.2
+- pkg:cargo/puniyu_logger@0.7.5
