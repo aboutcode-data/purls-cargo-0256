@@ -6,3 +6,4 @@
 - pkg:cargo/squire-sqlite3-sys@0.0.1-alpha.6
 - pkg:cargo/squire-sqlite3-sys@0.0.1-alpha.7
 - pkg:cargo/squire-sqlite3-sys@0.0.1-alpha.8
+- pkg:cargo/squire-sqlite3-sys@0.0.1-alpha.9
