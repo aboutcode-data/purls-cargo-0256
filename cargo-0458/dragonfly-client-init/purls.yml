@@ -224,3 +224,4 @@
 - pkg:cargo/dragonfly-client-init@1.3.4
 - pkg:cargo/dragonfly-client-init@1.3.5
 - pkg:cargo/dragonfly-client-init@1.3.6
+- pkg:cargo/dragonfly-client-init@1.3.7
