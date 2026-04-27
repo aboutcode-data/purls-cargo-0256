@@ -10,6 +10,7 @@
 - pkg:cargo/telltale-macros@14.0.0
 - pkg:cargo/telltale-macros@15.0.0
 - pkg:cargo/telltale-macros@16.0.0
+- pkg:cargo/telltale-macros@17.0.0
 - pkg:cargo/telltale-macros@2.0.0
 - pkg:cargo/telltale-macros@2.1.0
 - pkg:cargo/telltale-macros@3.0.0
