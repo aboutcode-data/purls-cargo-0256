@@ -1,1 +1,2 @@
 - pkg:cargo/tf-rust-engineio@0.7.0
+- pkg:cargo/tf-rust-engineio@0.8.0
