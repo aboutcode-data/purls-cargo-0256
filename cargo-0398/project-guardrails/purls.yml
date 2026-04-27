@@ -3,3 +3,4 @@
 - pkg:cargo/project-guardrails@0.1.13
 - pkg:cargo/project-guardrails@0.1.16
 - pkg:cargo/project-guardrails@0.1.7
+- pkg:cargo/project-guardrails@0.2.0
