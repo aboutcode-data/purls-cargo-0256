@@ -11,3 +11,4 @@
 - pkg:cargo/build-wrap@0.5.1
 - pkg:cargo/build-wrap@0.6.0
 - pkg:cargo/build-wrap@0.6.1
+- pkg:cargo/build-wrap@0.7.0
