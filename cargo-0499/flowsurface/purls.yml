@@ -1,3 +1,4 @@
 - pkg:cargo/flowsurface@0.0.0-reserved
 - pkg:cargo/flowsurface@0.8.6
 - pkg:cargo/flowsurface@0.8.7
+- pkg:cargo/flowsurface@0.8.8
