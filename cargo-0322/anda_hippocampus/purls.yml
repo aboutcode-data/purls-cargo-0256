@@ -1,4 +1,6 @@
+- pkg:cargo/anda_hippocampus@0.4.10
 - pkg:cargo/anda_hippocampus@0.4.4
 - pkg:cargo/anda_hippocampus@0.4.6
 - pkg:cargo/anda_hippocampus@0.4.7
 - pkg:cargo/anda_hippocampus@0.4.8
+- pkg:cargo/anda_hippocampus@0.4.9
