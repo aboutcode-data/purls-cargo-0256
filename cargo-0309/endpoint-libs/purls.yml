@@ -24,3 +24,4 @@
 - pkg:cargo/endpoint-libs@1.7.2
 - pkg:cargo/endpoint-libs@1.7.3
 - pkg:cargo/endpoint-libs@1.7.4
+- pkg:cargo/endpoint-libs@1.7.5
