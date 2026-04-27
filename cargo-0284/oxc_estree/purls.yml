@@ -26,6 +26,7 @@
 - pkg:cargo/oxc_estree@0.125.0
 - pkg:cargo/oxc_estree@0.126.0
 - pkg:cargo/oxc_estree@0.127.0
+- pkg:cargo/oxc_estree@0.128.0
 - pkg:cargo/oxc_estree@0.32.0
 - pkg:cargo/oxc_estree@0.33.0
 - pkg:cargo/oxc_estree@0.34.0

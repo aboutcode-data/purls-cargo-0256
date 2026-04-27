@@ -26,6 +26,7 @@
 - pkg:cargo/oxc_cfg@0.125.0
 - pkg:cargo/oxc_cfg@0.126.0
 - pkg:cargo/oxc_cfg@0.127.0
+- pkg:cargo/oxc_cfg@0.128.0
 - pkg:cargo/oxc_cfg@0.15.0
 - pkg:cargo/oxc_cfg@0.16.0
 - pkg:cargo/oxc_cfg@0.16.1
