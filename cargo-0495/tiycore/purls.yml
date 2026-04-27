@@ -39,3 +39,6 @@
 - pkg:cargo/tiycore@0.1.9
 - pkg:cargo/tiycore@0.1.9-rc.0
 - pkg:cargo/tiycore@0.1.9-rc.26041920
+- pkg:cargo/tiycore@0.2.0
+- pkg:cargo/tiycore@0.2.0-rc.26042719
+- pkg:cargo/tiycore@0.2.1-rc.26042720
