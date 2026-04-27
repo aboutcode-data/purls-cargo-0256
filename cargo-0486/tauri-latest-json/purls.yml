@@ -8,3 +8,6 @@
 - pkg:cargo/tauri-latest-json@0.2.1
 - pkg:cargo/tauri-latest-json@0.2.4
 - pkg:cargo/tauri-latest-json@0.3.0
+- pkg:cargo/tauri-latest-json@0.4.1
+- pkg:cargo/tauri-latest-json@0.4.2
+- pkg:cargo/tauri-latest-json@0.4.4
