@@ -1,1 +1,2 @@
 - pkg:cargo/dactor-discover-k8s@0.1.0
+- pkg:cargo/dactor-discover-k8s@0.3.1
