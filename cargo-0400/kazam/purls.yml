@@ -1,2 +1,4 @@
 - pkg:cargo/kazam@0.4.0
 - pkg:cargo/kazam@1.0.0
+- pkg:cargo/kazam@1.2.0
+- pkg:cargo/kazam@1.2.1

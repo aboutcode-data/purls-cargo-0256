@@ -21,3 +21,4 @@
 - pkg:cargo/quincy-client@2.0.0-rc.3
 - pkg:cargo/quincy-client@2.0.1
 - pkg:cargo/quincy-client@2.0.2
+- pkg:cargo/quincy-client@2.1.0
