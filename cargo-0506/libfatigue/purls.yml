@@ -8,6 +8,7 @@
 - pkg:cargo/libfatigue@0.2.17
 - pkg:cargo/libfatigue@0.2.18
 - pkg:cargo/libfatigue@0.2.19
+- pkg:cargo/libfatigue@0.2.20
 - pkg:cargo/libfatigue@0.2.3
 - pkg:cargo/libfatigue@0.2.5
 - pkg:cargo/libfatigue@0.2.6
