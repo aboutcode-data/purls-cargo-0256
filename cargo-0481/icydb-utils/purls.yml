@@ -95,6 +95,8 @@
 - pkg:cargo/icydb-utils@0.138.5
 - pkg:cargo/icydb-utils@0.138.6
 - pkg:cargo/icydb-utils@0.138.7
+- pkg:cargo/icydb-utils@0.138.8
+- pkg:cargo/icydb-utils@0.138.9
 - pkg:cargo/icydb-utils@0.66.4
 - pkg:cargo/icydb-utils@0.66.5
 - pkg:cargo/icydb-utils@0.66.6
