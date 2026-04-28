@@ -24,3 +24,5 @@
 - pkg:cargo/fallow-license@2.50.0
 - pkg:cargo/fallow-license@2.51.0
 - pkg:cargo/fallow-license@2.52.0
+- pkg:cargo/fallow-license@2.52.1
+- pkg:cargo/fallow-license@2.52.2

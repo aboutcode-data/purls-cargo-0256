@@ -117,6 +117,8 @@
 - pkg:cargo/fallow-cli@2.50.0
 - pkg:cargo/fallow-cli@2.51.0
 - pkg:cargo/fallow-cli@2.52.0
+- pkg:cargo/fallow-cli@2.52.1
+- pkg:cargo/fallow-cli@2.52.2
 - pkg:cargo/fallow-cli@2.6.0
 - pkg:cargo/fallow-cli@2.7.0
 - pkg:cargo/fallow-cli@2.7.1
