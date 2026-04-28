@@ -25,3 +25,4 @@
 - pkg:cargo/xtask-wasm@0.6.2
 - pkg:cargo/xtask-wasm@0.6.3
 - pkg:cargo/xtask-wasm@0.6.4
+- pkg:cargo/xtask-wasm@0.6.5
