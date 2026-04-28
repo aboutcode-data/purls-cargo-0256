@@ -12,3 +12,5 @@
 - pkg:cargo/viewport-lib@0.8.2
 - pkg:cargo/viewport-lib@0.8.4
 - pkg:cargo/viewport-lib@0.8.5
+- pkg:cargo/viewport-lib@0.8.6
+- pkg:cargo/viewport-lib@0.8.7
