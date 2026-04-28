@@ -6,3 +6,4 @@
 - pkg:cargo/axvisor@0.3.0-preview.2
 - pkg:cargo/axvisor@0.5.3
 - pkg:cargo/axvisor@0.5.4
+- pkg:cargo/axvisor@0.5.5
