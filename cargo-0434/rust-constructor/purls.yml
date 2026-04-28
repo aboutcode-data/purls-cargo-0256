@@ -17,6 +17,7 @@
 - pkg:cargo/rust-constructor@2.11.0
 - pkg:cargo/rust-constructor@2.11.1
 - pkg:cargo/rust-constructor@2.11.2
+- pkg:cargo/rust-constructor@2.11.3
 - pkg:cargo/rust-constructor@2.2.0
 - pkg:cargo/rust-constructor@2.3.0
 - pkg:cargo/rust-constructor@2.3.1
