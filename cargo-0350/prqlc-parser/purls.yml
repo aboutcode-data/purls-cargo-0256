@@ -11,6 +11,7 @@
 - pkg:cargo/prqlc-parser@0.13.1
 - pkg:cargo/prqlc-parser@0.13.10
 - pkg:cargo/prqlc-parser@0.13.11
+- pkg:cargo/prqlc-parser@0.13.12
 - pkg:cargo/prqlc-parser@0.13.2
 - pkg:cargo/prqlc-parser@0.13.3
 - pkg:cargo/prqlc-parser@0.13.4
