@@ -48,3 +48,4 @@
 - pkg:cargo/stratisd@3.8.4
 - pkg:cargo/stratisd@3.8.5
 - pkg:cargo/stratisd@3.8.6
+- pkg:cargo/stratisd@3.9.0
