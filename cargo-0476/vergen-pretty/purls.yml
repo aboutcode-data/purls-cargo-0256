@@ -17,6 +17,7 @@
 - pkg:cargo/vergen-pretty@10.0.0-beta.5
 - pkg:cargo/vergen-pretty@10.0.0-beta.6
 - pkg:cargo/vergen-pretty@10.0.0-beta.7
+- pkg:cargo/vergen-pretty@10.0.0-beta.8
 - pkg:cargo/vergen-pretty@2.0.0
 - pkg:cargo/vergen-pretty@2.0.1
 - pkg:cargo/vergen-pretty@2.1.0
