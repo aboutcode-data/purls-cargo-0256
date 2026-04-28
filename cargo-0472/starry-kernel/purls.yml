@@ -4,3 +4,4 @@
 - pkg:cargo/starry-kernel@0.5.3
 - pkg:cargo/starry-kernel@0.5.7
 - pkg:cargo/starry-kernel@0.5.8
+- pkg:cargo/starry-kernel@0.5.9
