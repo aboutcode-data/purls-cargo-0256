@@ -1,3 +1,14 @@
 - pkg:cargo/semver-release@0.1.0
 - pkg:cargo/semver-release@0.1.1
+- pkg:cargo/semver-release@0.13.10
+- pkg:cargo/semver-release@0.13.11
+- pkg:cargo/semver-release@0.13.12
+- pkg:cargo/semver-release@0.13.13
 - pkg:cargo/semver-release@0.13.6
+- pkg:cargo/semver-release@0.13.7
+- pkg:cargo/semver-release@0.13.8
+- pkg:cargo/semver-release@0.13.9
+- pkg:cargo/semver-release@0.14.13
+- pkg:cargo/semver-release@0.14.14
+- pkg:cargo/semver-release@0.15.0
+- pkg:cargo/semver-release@0.15.1
