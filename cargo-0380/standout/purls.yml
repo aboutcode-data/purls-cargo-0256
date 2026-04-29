@@ -26,3 +26,5 @@
 - pkg:cargo/standout@7.4.0
 - pkg:cargo/standout@7.5.0
 - pkg:cargo/standout@7.5.1
+- pkg:cargo/standout@7.6.0
+- pkg:cargo/standout@7.6.1
