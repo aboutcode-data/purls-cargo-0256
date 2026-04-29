@@ -1,1 +1,4 @@
 - pkg:cargo/ash-filter@1.0.0
+- pkg:cargo/ash-filter@1.0.1
+- pkg:cargo/ash-filter@1.0.2
+- pkg:cargo/ash-filter@1.0.3
