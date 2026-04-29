@@ -8,3 +8,4 @@
 - pkg:cargo/ggsql@0.2.5
 - pkg:cargo/ggsql@0.2.6
 - pkg:cargo/ggsql@0.2.7
+- pkg:cargo/ggsql@0.3.0
