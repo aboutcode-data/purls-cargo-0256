@@ -1,1 +1,2 @@
 - pkg:cargo/awsim-lambda@0.1.0
+- pkg:cargo/awsim-lambda@0.2.0
