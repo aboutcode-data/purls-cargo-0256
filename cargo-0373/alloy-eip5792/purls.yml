@@ -109,3 +109,6 @@
 - pkg:cargo/alloy-eip5792@1.8.3
 - pkg:cargo/alloy-eip5792@2.0.0
 - pkg:cargo/alloy-eip5792@2.0.1
+- pkg:cargo/alloy-eip5792@2.0.2
+- pkg:cargo/alloy-eip5792@2.0.3
+- pkg:cargo/alloy-eip5792@2.0.4
