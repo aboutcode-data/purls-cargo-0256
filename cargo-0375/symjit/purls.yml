@@ -26,5 +26,6 @@
 - pkg:cargo/symjit@2.16.1
 - pkg:cargo/symjit@2.16.2
 - pkg:cargo/symjit@2.16.3
+- pkg:cargo/symjit@2.16.4
 - pkg:cargo/symjit@2.9.0
 - pkg:cargo/symjit@2.9.1
