@@ -2,3 +2,5 @@
 - pkg:cargo/slate-cli@0.1.1
 - pkg:cargo/slate-cli@0.1.2
 - pkg:cargo/slate-cli@0.2.0
+- pkg:cargo/slate-cli@0.3.0
+- pkg:cargo/slate-cli@0.3.1
