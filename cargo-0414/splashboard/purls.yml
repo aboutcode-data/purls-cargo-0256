@@ -3,3 +3,5 @@
 - pkg:cargo/splashboard@0.3.0
 - pkg:cargo/splashboard@0.4.0
 - pkg:cargo/splashboard@1.0.0
+- pkg:cargo/splashboard@1.1.0
+- pkg:cargo/splashboard@1.1.1
