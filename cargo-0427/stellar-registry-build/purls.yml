@@ -1,3 +1,4 @@
 - pkg:cargo/stellar-registry-build@0.0.5
 - pkg:cargo/stellar-registry-build@0.0.6
 - pkg:cargo/stellar-registry-build@0.0.7
+- pkg:cargo/stellar-registry-build@0.0.8
