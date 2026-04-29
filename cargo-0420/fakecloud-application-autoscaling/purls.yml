@@ -1,3 +1,4 @@
 - pkg:cargo/fakecloud-application-autoscaling@0.13.0
 - pkg:cargo/fakecloud-application-autoscaling@0.13.1
 - pkg:cargo/fakecloud-application-autoscaling@0.13.2
+- pkg:cargo/fakecloud-application-autoscaling@0.13.3
