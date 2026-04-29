@@ -44,6 +44,9 @@
 - pkg:cargo/weave-content@0.2.51
 - pkg:cargo/weave-content@0.2.52
 - pkg:cargo/weave-content@0.2.53
+- pkg:cargo/weave-content@0.2.54
+- pkg:cargo/weave-content@0.2.55
+- pkg:cargo/weave-content@0.2.56
 - pkg:cargo/weave-content@0.2.6
 - pkg:cargo/weave-content@0.2.7
 - pkg:cargo/weave-content@0.2.8
