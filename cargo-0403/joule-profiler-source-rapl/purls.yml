@@ -1,1 +1,2 @@
 - pkg:cargo/joule-profiler-source-rapl@1.0.1
+- pkg:cargo/joule-profiler-source-rapl@1.0.2
