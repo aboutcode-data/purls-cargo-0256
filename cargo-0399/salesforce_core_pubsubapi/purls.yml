@@ -1,1 +1,2 @@
 - pkg:cargo/salesforce_core_pubsubapi@0.13.3
+- pkg:cargo/salesforce_core_pubsubapi@0.13.4
