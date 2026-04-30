@@ -19,4 +19,5 @@
 - pkg:cargo/rs-macros@4.0.0-canary.41
 - pkg:cargo/rs-macros@4.0.0-canary.42
 - pkg:cargo/rs-macros@4.0.0-canary.43
+- pkg:cargo/rs-macros@4.0.0-canary.44
 - pkg:cargo/rs-macros@4.0.0-canary.7

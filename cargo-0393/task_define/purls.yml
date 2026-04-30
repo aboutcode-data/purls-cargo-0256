@@ -9,6 +9,7 @@
 - pkg:cargo/task_define@0.1.5
 - pkg:cargo/task_define@0.1.53
 - pkg:cargo/task_define@0.1.54
+- pkg:cargo/task_define@0.1.56
 - pkg:cargo/task_define@0.1.6
 - pkg:cargo/task_define@0.1.7
 - pkg:cargo/task_define@0.1.8
