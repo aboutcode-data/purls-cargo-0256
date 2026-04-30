@@ -41,3 +41,4 @@
 - pkg:cargo/ifc-lite-wasm@2.1.7
 - pkg:cargo/ifc-lite-wasm@2.1.8
 - pkg:cargo/ifc-lite-wasm@2.1.9
+- pkg:cargo/ifc-lite-wasm@2.2.0
