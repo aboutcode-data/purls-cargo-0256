@@ -13,3 +13,4 @@
 - pkg:cargo/ruckup@0.6.3
 - pkg:cargo/ruckup@0.6.4
 - pkg:cargo/ruckup@0.7.0
+- pkg:cargo/ruckup@0.8.0
