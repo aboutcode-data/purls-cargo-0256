@@ -6,3 +6,4 @@
 - pkg:cargo/apigate-core@0.2.4
 - pkg:cargo/apigate-core@0.2.5
 - pkg:cargo/apigate-core@0.2.6
+- pkg:cargo/apigate-core@1.0.0
