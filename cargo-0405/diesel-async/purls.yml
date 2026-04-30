@@ -19,3 +19,4 @@
 - pkg:cargo/diesel-async@0.7.3
 - pkg:cargo/diesel-async@0.7.4
 - pkg:cargo/diesel-async@0.8.0
+- pkg:cargo/diesel-async@0.9.0

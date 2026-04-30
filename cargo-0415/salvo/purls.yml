@@ -241,3 +241,4 @@
 - pkg:cargo/salvo@0.92.0
 - pkg:cargo/salvo@0.92.1
 - pkg:cargo/salvo@0.92.2
+- pkg:cargo/salvo@0.93.0
