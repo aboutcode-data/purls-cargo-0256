@@ -4,3 +4,4 @@
 - pkg:cargo/fastsync@0.6.0
 - pkg:cargo/fastsync@0.7.0
 - pkg:cargo/fastsync@0.9.1
+- pkg:cargo/fastsync@0.9.2
