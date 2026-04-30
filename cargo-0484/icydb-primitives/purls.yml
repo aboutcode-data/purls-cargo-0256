@@ -119,6 +119,8 @@
 - pkg:cargo/icydb-primitives@0.141.6
 - pkg:cargo/icydb-primitives@0.142.0
 - pkg:cargo/icydb-primitives@0.142.1
+- pkg:cargo/icydb-primitives@0.143.0
+- pkg:cargo/icydb-primitives@0.143.1
 - pkg:cargo/icydb-primitives@0.16.1
 - pkg:cargo/icydb-primitives@0.16.2
 - pkg:cargo/icydb-primitives@0.16.3
