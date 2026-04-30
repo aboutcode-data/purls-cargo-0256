@@ -35,6 +35,9 @@
 - pkg:cargo/endpoint-libs@1.7.21
 - pkg:cargo/endpoint-libs@1.7.22
 - pkg:cargo/endpoint-libs@1.7.23
+- pkg:cargo/endpoint-libs@1.7.24
+- pkg:cargo/endpoint-libs@1.7.25
+- pkg:cargo/endpoint-libs@1.7.26
 - pkg:cargo/endpoint-libs@1.7.3
 - pkg:cargo/endpoint-libs@1.7.4
 - pkg:cargo/endpoint-libs@1.7.5
