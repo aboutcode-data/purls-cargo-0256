@@ -8,4 +8,6 @@
 - pkg:cargo/fido-mds@0.5.2
 - pkg:cargo/fido-mds@0.5.3
 - pkg:cargo/fido-mds@0.5.4
+- pkg:cargo/fido-mds@0.5.5
 - pkg:cargo/fido-mds@0.6.0-dev
+- pkg:cargo/fido-mds@0.6.1-dev
