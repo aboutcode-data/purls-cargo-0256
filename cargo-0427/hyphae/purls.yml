@@ -10,3 +10,6 @@
 - pkg:cargo/hyphae@0.6.2
 - pkg:cargo/hyphae@0.6.3
 - pkg:cargo/hyphae@0.7.0
+- pkg:cargo/hyphae@1.0.0
+- pkg:cargo/hyphae@1.0.1
+- pkg:cargo/hyphae@1.0.2
