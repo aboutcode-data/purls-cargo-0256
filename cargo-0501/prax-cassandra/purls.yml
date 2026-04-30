@@ -1,1 +1,2 @@
 - pkg:cargo/prax-cassandra@0.7.3
+- pkg:cargo/prax-cassandra@0.8.0
