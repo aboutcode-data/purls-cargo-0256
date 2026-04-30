@@ -19,3 +19,4 @@
 - pkg:cargo/vectordata@0.3.2
 - pkg:cargo/vectordata@0.9.0
 - pkg:cargo/vectordata@0.9.1
+- pkg:cargo/vectordata@1.0.0
