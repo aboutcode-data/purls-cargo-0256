@@ -27,3 +27,5 @@
 - pkg:cargo/crab-usb@0.6.3
 - pkg:cargo/crab-usb@0.7.0
 - pkg:cargo/crab-usb@0.7.1
+- pkg:cargo/crab-usb@0.8.0
+- pkg:cargo/crab-usb@0.8.1
