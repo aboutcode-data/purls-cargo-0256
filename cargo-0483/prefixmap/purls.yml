@@ -49,5 +49,6 @@
 - pkg:cargo/prefixmap@0.2.15
 - pkg:cargo/prefixmap@0.2.17
 - pkg:cargo/prefixmap@0.2.17-rc.1
+- pkg:cargo/prefixmap@0.2.18
 - pkg:cargo/prefixmap@0.2.6
 - pkg:cargo/prefixmap@0.2.9

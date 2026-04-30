@@ -10,3 +10,4 @@
 - pkg:cargo/prax-postgres@0.7.0
 - pkg:cargo/prax-postgres@0.7.3
 - pkg:cargo/prax-postgres@0.8.0
+- pkg:cargo/prax-postgres@0.8.2
