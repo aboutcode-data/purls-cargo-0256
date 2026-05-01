@@ -1,2 +1,3 @@
 - pkg:cargo/tree-sitter-perl-rs@0.12.2
 - pkg:cargo/tree-sitter-perl-rs@0.13.0-rc1
+- pkg:cargo/tree-sitter-perl-rs@0.13.1

@@ -1,4 +1,6 @@
 - pkg:cargo/lethe-claude-code@0.10.0
+- pkg:cargo/lethe-claude-code@0.11.0
+- pkg:cargo/lethe-claude-code@0.12.0
 - pkg:cargo/lethe-claude-code@0.7.0
 - pkg:cargo/lethe-claude-code@0.8.0
 - pkg:cargo/lethe-claude-code@0.9.0
