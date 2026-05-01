@@ -10,3 +10,4 @@
 - pkg:cargo/pc-keyboard@0.6.1
 - pkg:cargo/pc-keyboard@0.7.0
 - pkg:cargo/pc-keyboard@0.8.0
+- pkg:cargo/pc-keyboard@0.9.0
