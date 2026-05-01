@@ -12,6 +12,7 @@
 - pkg:cargo/mtrack@0.11.0
 - pkg:cargo/mtrack@0.11.1
 - pkg:cargo/mtrack@0.11.2
+- pkg:cargo/mtrack@0.12.0
 - pkg:cargo/mtrack@0.2.0
 - pkg:cargo/mtrack@0.2.1
 - pkg:cargo/mtrack@0.3.0
