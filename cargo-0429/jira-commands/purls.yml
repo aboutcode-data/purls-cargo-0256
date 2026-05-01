@@ -34,6 +34,7 @@
 - pkg:cargo/jira-commands@0.25.0
 - pkg:cargo/jira-commands@0.26.0
 - pkg:cargo/jira-commands@0.26.1
+- pkg:cargo/jira-commands@0.27.1
 - pkg:cargo/jira-commands@0.3.0
 - pkg:cargo/jira-commands@0.4.0
 - pkg:cargo/jira-commands@0.4.2
