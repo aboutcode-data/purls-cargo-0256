@@ -1,1 +1,2 @@
 - pkg:cargo/rune-axum-ratelimit@0.1.0
+- pkg:cargo/rune-axum-ratelimit@0.1.1
