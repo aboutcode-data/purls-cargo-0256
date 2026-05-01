@@ -1,1 +1,2 @@
 - pkg:cargo/cyclonedds-rust-sys@0.1.0
+- pkg:cargo/cyclonedds-rust-sys@1.0.0
