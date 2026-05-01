@@ -3,3 +3,4 @@
 - pkg:cargo/cu-bdshot@0.13.0
 - pkg:cargo/cu-bdshot@0.14.0
 - pkg:cargo/cu-bdshot@0.15.0
+- pkg:cargo/cu-bdshot@1.0.0-rc1

@@ -3,3 +3,4 @@
 - pkg:cargo/cu-crsf@0.13.0
 - pkg:cargo/cu-crsf@0.14.0
 - pkg:cargo/cu-crsf@0.15.0
+- pkg:cargo/cu-crsf@1.0.0-rc1
