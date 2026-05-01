@@ -14,6 +14,7 @@
 - pkg:cargo/vtcode-ghostty-vt-sys@0.105.0
 - pkg:cargo/vtcode-ghostty-vt-sys@0.105.1
 - pkg:cargo/vtcode-ghostty-vt-sys@0.105.2
+- pkg:cargo/vtcode-ghostty-vt-sys@0.105.4
 - pkg:cargo/vtcode-ghostty-vt-sys@0.92.1
 - pkg:cargo/vtcode-ghostty-vt-sys@0.93.0
 - pkg:cargo/vtcode-ghostty-vt-sys@0.93.1

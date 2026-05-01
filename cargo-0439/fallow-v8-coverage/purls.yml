@@ -35,3 +35,4 @@
 - pkg:cargo/fallow-v8-coverage@2.56.0
 - pkg:cargo/fallow-v8-coverage@2.57.0
 - pkg:cargo/fallow-v8-coverage@2.58.0
+- pkg:cargo/fallow-v8-coverage@2.59.0
