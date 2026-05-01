@@ -3,3 +3,4 @@
 - pkg:cargo/mabi-runtime@1.6.0
 - pkg:cargo/mabi-runtime@1.6.1
 - pkg:cargo/mabi-runtime@1.6.2
+- pkg:cargo/mabi-runtime@1.6.3
