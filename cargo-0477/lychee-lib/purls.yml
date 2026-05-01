@@ -26,6 +26,7 @@
 - pkg:cargo/lychee-lib@0.23.0
 - pkg:cargo/lychee-lib@0.24.0
 - pkg:cargo/lychee-lib@0.24.1
+- pkg:cargo/lychee-lib@0.24.2
 - pkg:cargo/lychee-lib@0.6.0
 - pkg:cargo/lychee-lib@0.7.0
 - pkg:cargo/lychee-lib@0.7.1
