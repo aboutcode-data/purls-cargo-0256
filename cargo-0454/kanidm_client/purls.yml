@@ -14,6 +14,7 @@
 - pkg:cargo/kanidm_client@1.1.0-beta.13
 - pkg:cargo/kanidm_client@1.1.0-rc.15-dev
 - pkg:cargo/kanidm_client@1.1.0-rc.16
+- pkg:cargo/kanidm_client@1.10.0
 - pkg:cargo/kanidm_client@1.2.0
 - pkg:cargo/kanidm_client@1.2.1
 - pkg:cargo/kanidm_client@1.2.2
