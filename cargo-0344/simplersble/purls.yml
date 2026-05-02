@@ -112,7 +112,11 @@
 - pkg:cargo/simplersble@0.12.2-dev24
 - pkg:cargo/simplersble@0.12.2-dev25
 - pkg:cargo/simplersble@0.12.2-dev26
+- pkg:cargo/simplersble@0.12.2-dev28
+- pkg:cargo/simplersble@0.12.2-dev29
 - pkg:cargo/simplersble@0.12.2-dev3
+- pkg:cargo/simplersble@0.12.2-dev32
+- pkg:cargo/simplersble@0.12.2-dev33
 - pkg:cargo/simplersble@0.12.2-dev4
 - pkg:cargo/simplersble@0.12.2-dev5
 - pkg:cargo/simplersble@0.12.2-dev6
