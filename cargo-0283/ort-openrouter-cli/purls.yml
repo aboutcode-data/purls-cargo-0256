@@ -5,3 +5,4 @@
 - pkg:cargo/ort-openrouter-cli@0.4.2
 - pkg:cargo/ort-openrouter-cli@0.4.3
 - pkg:cargo/ort-openrouter-cli@0.4.6
+- pkg:cargo/ort-openrouter-cli@0.4.7
