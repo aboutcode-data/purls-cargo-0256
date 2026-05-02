@@ -16,6 +16,7 @@
 - pkg:cargo/geph5-misc-rpc@0.2.0-alpha.9
 - pkg:cargo/geph5-misc-rpc@0.2.1
 - pkg:cargo/geph5-misc-rpc@0.2.10
+- pkg:cargo/geph5-misc-rpc@0.2.102
 - pkg:cargo/geph5-misc-rpc@0.2.11
 - pkg:cargo/geph5-misc-rpc@0.2.2
 - pkg:cargo/geph5-misc-rpc@0.2.3
@@ -36,3 +37,4 @@
 - pkg:cargo/geph5-misc-rpc@0.2.9
 - pkg:cargo/geph5-misc-rpc@0.2.90
 - pkg:cargo/geph5-misc-rpc@0.2.92
+- pkg:cargo/geph5-misc-rpc@0.2.93
