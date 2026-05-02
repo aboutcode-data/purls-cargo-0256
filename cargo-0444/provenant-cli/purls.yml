@@ -23,6 +23,7 @@
 - pkg:cargo/provenant-cli@0.0.32
 - pkg:cargo/provenant-cli@0.0.33
 - pkg:cargo/provenant-cli@0.0.34
+- pkg:cargo/provenant-cli@0.0.35
 - pkg:cargo/provenant-cli@0.0.5
 - pkg:cargo/provenant-cli@0.0.6
 - pkg:cargo/provenant-cli@0.0.7
