@@ -19,3 +19,4 @@
 - pkg:cargo/mcpr-core@0.4.64
 - pkg:cargo/mcpr-core@0.4.70
 - pkg:cargo/mcpr-core@0.5.0
+- pkg:cargo/mcpr-core@0.5.1
