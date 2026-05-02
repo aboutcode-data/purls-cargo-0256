@@ -2,3 +2,4 @@
 - pkg:cargo/embassy-hall-analog@0.2.0
 - pkg:cargo/embassy-hall-analog@0.3.0
 - pkg:cargo/embassy-hall-analog@0.3.1
+- pkg:cargo/embassy-hall-analog@0.4.0
