@@ -1,2 +1,3 @@
 - pkg:cargo/vectorizer-protocol@3.0.0
 - pkg:cargo/vectorizer-protocol@3.0.3
+- pkg:cargo/vectorizer-protocol@3.2.0
