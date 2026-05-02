@@ -52,3 +52,4 @@
 - pkg:cargo/arrow-json@57.3.0
 - pkg:cargo/arrow-json@58.0.0
 - pkg:cargo/arrow-json@58.1.0
+- pkg:cargo/arrow-json@58.2.0
