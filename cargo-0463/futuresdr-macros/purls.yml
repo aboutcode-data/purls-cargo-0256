@@ -5,3 +5,4 @@
 - pkg:cargo/futuresdr-macros@0.0.5
 - pkg:cargo/futuresdr-macros@0.0.7
 - pkg:cargo/futuresdr-macros@0.0.8
+- pkg:cargo/futuresdr-macros@0.0.9
