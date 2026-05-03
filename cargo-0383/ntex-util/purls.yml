@@ -63,3 +63,4 @@
 - pkg:cargo/ntex-util@3.4.0
 - pkg:cargo/ntex-util@3.5.0
 - pkg:cargo/ntex-util@3.5.1
+- pkg:cargo/ntex-util@3.6.0
