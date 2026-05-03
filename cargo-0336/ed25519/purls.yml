@@ -33,6 +33,7 @@
 - pkg:cargo/ed25519@2.2.2
 - pkg:cargo/ed25519@2.2.3
 - pkg:cargo/ed25519@2.3.0-pre.0
+- pkg:cargo/ed25519@3.0.0
 - pkg:cargo/ed25519@3.0.0-pre.0
 - pkg:cargo/ed25519@3.0.0-rc.0
 - pkg:cargo/ed25519@3.0.0-rc.1
