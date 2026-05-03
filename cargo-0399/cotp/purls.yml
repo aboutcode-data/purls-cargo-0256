@@ -33,6 +33,7 @@
 - pkg:cargo/cotp@1.8.0
 - pkg:cargo/cotp@1.9.0
 - pkg:cargo/cotp@1.9.1
+- pkg:cargo/cotp@1.9.10
 - pkg:cargo/cotp@1.9.2
 - pkg:cargo/cotp@1.9.3
 - pkg:cargo/cotp@1.9.4
