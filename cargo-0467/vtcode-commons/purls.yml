@@ -17,6 +17,7 @@
 - pkg:cargo/vtcode-commons@0.105.3
 - pkg:cargo/vtcode-commons@0.105.4
 - pkg:cargo/vtcode-commons@0.105.5
+- pkg:cargo/vtcode-commons@0.105.6
 - pkg:cargo/vtcode-commons@0.30.7
 - pkg:cargo/vtcode-commons@0.31.0
 - pkg:cargo/vtcode-commons@0.33.0
