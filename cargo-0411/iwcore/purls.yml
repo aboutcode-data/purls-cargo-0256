@@ -14,6 +14,8 @@
 - pkg:cargo/iwcore@0.1.21
 - pkg:cargo/iwcore@0.1.22
 - pkg:cargo/iwcore@0.1.23
+- pkg:cargo/iwcore@0.1.24
+- pkg:cargo/iwcore@0.1.25
 - pkg:cargo/iwcore@0.1.3
 - pkg:cargo/iwcore@0.1.4
 - pkg:cargo/iwcore@0.1.5
