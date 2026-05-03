@@ -1,1 +1,2 @@
 - pkg:cargo/rhei-tokio-rusqlite@1.5.0
+- pkg:cargo/rhei-tokio-rusqlite@1.5.1
