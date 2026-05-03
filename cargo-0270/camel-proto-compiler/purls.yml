@@ -1,1 +1,2 @@
 - pkg:cargo/camel-proto-compiler@0.7.6
+- pkg:cargo/camel-proto-compiler@0.7.7
