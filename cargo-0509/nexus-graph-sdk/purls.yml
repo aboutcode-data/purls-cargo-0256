@@ -1,3 +1,4 @@
 - pkg:cargo/nexus-graph-sdk@1.14.0
 - pkg:cargo/nexus-graph-sdk@1.15.0
 - pkg:cargo/nexus-graph-sdk@2.0.0
+- pkg:cargo/nexus-graph-sdk@2.1.0
