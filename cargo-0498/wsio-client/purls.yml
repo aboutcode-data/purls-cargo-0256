@@ -31,3 +31,4 @@
 - pkg:cargo/wsio-client@0.8.2
 - pkg:cargo/wsio-client@0.8.3
 - pkg:cargo/wsio-client@0.8.4
+- pkg:cargo/wsio-client@0.8.5
