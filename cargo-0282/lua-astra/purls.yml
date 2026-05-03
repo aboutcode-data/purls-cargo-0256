@@ -55,3 +55,4 @@
 - pkg:cargo/lua-astra@0.45.1
 - pkg:cargo/lua-astra@0.45.2
 - pkg:cargo/lua-astra@0.45.3
+- pkg:cargo/lua-astra@0.47.0
