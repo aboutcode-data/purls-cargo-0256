@@ -1,1 +1,2 @@
 - pkg:cargo/zfs-autosnap@0.3.1
+- pkg:cargo/zfs-autosnap@0.4.0
