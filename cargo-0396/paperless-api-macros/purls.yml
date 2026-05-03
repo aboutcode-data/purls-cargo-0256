@@ -1,1 +1,2 @@
 - pkg:cargo/paperless-api-macros@0.7.0
+- pkg:cargo/paperless-api-macros@0.8.0
