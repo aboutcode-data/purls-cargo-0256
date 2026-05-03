@@ -2,3 +2,5 @@
 - pkg:cargo/manifold-csg-sys@3.4.102
 - pkg:cargo/manifold-csg-sys@3.4.103
 - pkg:cargo/manifold-csg-sys@3.4.104
+- pkg:cargo/manifold-csg-sys@3.4.105
+- pkg:cargo/manifold-csg-sys@3.4.106
