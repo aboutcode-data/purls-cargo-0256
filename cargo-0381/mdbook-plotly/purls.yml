@@ -14,5 +14,6 @@
 - pkg:cargo/mdbook-plotly@0.1.7-beta.2
 - pkg:cargo/mdbook-plotly@0.1.8
 - pkg:cargo/mdbook-plotly@0.1.8-alpha
+- pkg:cargo/mdbook-plotly@0.1.9
 - pkg:cargo/mdbook-plotly@0.1.9-alpha
 - pkg:cargo/mdbook-plotly@0.1.9-beta
