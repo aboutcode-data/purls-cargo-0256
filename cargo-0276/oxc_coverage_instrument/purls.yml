@@ -12,6 +12,7 @@
 - pkg:cargo/oxc_coverage_instrument@0.3.10
 - pkg:cargo/oxc_coverage_instrument@0.3.11
 - pkg:cargo/oxc_coverage_instrument@0.3.12
+- pkg:cargo/oxc_coverage_instrument@0.3.13
 - pkg:cargo/oxc_coverage_instrument@0.3.2
 - pkg:cargo/oxc_coverage_instrument@0.3.3
 - pkg:cargo/oxc_coverage_instrument@0.3.4
