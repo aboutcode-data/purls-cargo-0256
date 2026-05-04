@@ -35,3 +35,4 @@
 - pkg:cargo/quillmark-cli@0.68.0
 - pkg:cargo/quillmark-cli@0.69.0
 - pkg:cargo/quillmark-cli@0.69.1
+- pkg:cargo/quillmark-cli@0.70.0
