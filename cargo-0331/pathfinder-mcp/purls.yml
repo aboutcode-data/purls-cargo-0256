@@ -15,3 +15,4 @@
 - pkg:cargo/pathfinder-mcp@0.3.1
 - pkg:cargo/pathfinder-mcp@0.4.0
 - pkg:cargo/pathfinder-mcp@0.5.0
+- pkg:cargo/pathfinder-mcp@0.6.0
