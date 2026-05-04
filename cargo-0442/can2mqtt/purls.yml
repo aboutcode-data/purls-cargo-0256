@@ -1,3 +1,4 @@
 - pkg:cargo/can2mqtt@0.0.0-alpha
 - pkg:cargo/can2mqtt@3.0.0
 - pkg:cargo/can2mqtt@3.0.1
+- pkg:cargo/can2mqtt@3.0.2
