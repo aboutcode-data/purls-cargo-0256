@@ -18,6 +18,8 @@
 - pkg:cargo/tree-sitter-ursa@1.0.22
 - pkg:cargo/tree-sitter-ursa@1.0.24
 - pkg:cargo/tree-sitter-ursa@1.0.25
+- pkg:cargo/tree-sitter-ursa@1.0.26
+- pkg:cargo/tree-sitter-ursa@1.0.27
 - pkg:cargo/tree-sitter-ursa@1.0.3
 - pkg:cargo/tree-sitter-ursa@1.0.4
 - pkg:cargo/tree-sitter-ursa@1.0.5
