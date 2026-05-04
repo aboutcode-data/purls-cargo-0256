@@ -1,4 +1,5 @@
 - pkg:cargo/dbmcp-postgres@0.10.0
+- pkg:cargo/dbmcp-postgres@0.10.1
 - pkg:cargo/dbmcp-postgres@0.7.0
 - pkg:cargo/dbmcp-postgres@0.8.0
 - pkg:cargo/dbmcp-postgres@0.9.0
