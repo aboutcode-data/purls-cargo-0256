@@ -1,2 +1,3 @@
 - pkg:cargo/ristretto_types@0.29.0
 - pkg:cargo/ristretto_types@0.30.0
+- pkg:cargo/ristretto_types@0.31.0
