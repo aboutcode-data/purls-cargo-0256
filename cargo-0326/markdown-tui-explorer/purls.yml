@@ -123,6 +123,7 @@
 - pkg:cargo/markdown-tui-explorer@1.34.48
 - pkg:cargo/markdown-tui-explorer@1.34.49
 - pkg:cargo/markdown-tui-explorer@1.34.50
+- pkg:cargo/markdown-tui-explorer@1.34.53
 - pkg:cargo/markdown-tui-explorer@1.4.0
 - pkg:cargo/markdown-tui-explorer@1.4.1
 - pkg:cargo/markdown-tui-explorer@1.4.2
