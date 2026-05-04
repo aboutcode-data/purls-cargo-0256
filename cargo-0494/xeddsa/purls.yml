@@ -1,3 +1,4 @@
 - pkg:cargo/xeddsa@1.0.0
 - pkg:cargo/xeddsa@1.0.1
 - pkg:cargo/xeddsa@1.0.2
+- pkg:cargo/xeddsa@1.1.0
