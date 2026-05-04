@@ -1,4 +1,5 @@
 - pkg:cargo/ave-http@0.10.0
 - pkg:cargo/ave-http@0.11.0
+- pkg:cargo/ave-http@0.12.0
 - pkg:cargo/ave-http@0.8.0
 - pkg:cargo/ave-http@0.9.0
