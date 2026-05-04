@@ -17,3 +17,4 @@
 - pkg:cargo/aprs-cli@2.0.0-rc.2
 - pkg:cargo/aprs-cli@2.5.0
 - pkg:cargo/aprs-cli@2.6.0
+- pkg:cargo/aprs-cli@3.0.0-rc.1
