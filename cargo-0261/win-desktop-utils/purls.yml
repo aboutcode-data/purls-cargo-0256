@@ -11,3 +11,6 @@
 - pkg:cargo/win-desktop-utils@0.5.2
 - pkg:cargo/win-desktop-utils@0.5.3
 - pkg:cargo/win-desktop-utils@0.5.4
+- pkg:cargo/win-desktop-utils@0.5.5
+- pkg:cargo/win-desktop-utils@0.5.6
+- pkg:cargo/win-desktop-utils@0.5.7
