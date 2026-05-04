@@ -13,3 +13,5 @@
 - pkg:cargo/little-collections@3.6.3
 - pkg:cargo/little-collections@3.6.4
 - pkg:cargo/little-collections@3.7.0
+- pkg:cargo/little-collections@3.8.1
+- pkg:cargo/little-collections@3.8.2
