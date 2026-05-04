@@ -3,6 +3,10 @@
 - pkg:cargo/gnostr-relay@0.0.4
 - pkg:cargo/gnostr-relay@0.0.5
 - pkg:cargo/gnostr-relay@0.0.6
+- pkg:cargo/gnostr-relay@1875.947760.785336
+- pkg:cargo/gnostr-relay@1875.947772.770295
+- pkg:cargo/gnostr-relay@1875.947794.739257
+- pkg:cargo/gnostr-relay@1875.947798.733008
 - pkg:cargo/gnostr-relay@1876.947514.148827
 - pkg:cargo/gnostr-relay@1876.947517.144602
 - pkg:cargo/gnostr-relay@1876.947519.141056
