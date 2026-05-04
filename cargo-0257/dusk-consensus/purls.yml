@@ -4,3 +4,4 @@
 - pkg:cargo/dusk-consensus@1.2.0
 - pkg:cargo/dusk-consensus@1.3.0
 - pkg:cargo/dusk-consensus@1.4.0
+- pkg:cargo/dusk-consensus@1.6.0
