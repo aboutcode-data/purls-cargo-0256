@@ -37,6 +37,11 @@
 - pkg:cargo/pylon-kernel@0.3.3
 - pkg:cargo/pylon-kernel@0.3.30
 - pkg:cargo/pylon-kernel@0.3.31
+- pkg:cargo/pylon-kernel@0.3.32
+- pkg:cargo/pylon-kernel@0.3.33
+- pkg:cargo/pylon-kernel@0.3.34
+- pkg:cargo/pylon-kernel@0.3.35
+- pkg:cargo/pylon-kernel@0.3.36
 - pkg:cargo/pylon-kernel@0.3.4
 - pkg:cargo/pylon-kernel@0.3.5
 - pkg:cargo/pylon-kernel@0.3.6
