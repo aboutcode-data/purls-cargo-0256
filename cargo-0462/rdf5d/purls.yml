@@ -32,3 +32,4 @@
 - pkg:cargo/rdf5d@0.5.1
 - pkg:cargo/rdf5d@0.5.2
 - pkg:cargo/rdf5d@0.5.3
+- pkg:cargo/rdf5d@0.5.4
