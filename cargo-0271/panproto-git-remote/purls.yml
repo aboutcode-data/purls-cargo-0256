@@ -7,3 +7,6 @@
 - pkg:cargo/panproto-git-remote@0.42.2
 - pkg:cargo/panproto-git-remote@0.43.0
 - pkg:cargo/panproto-git-remote@0.43.1
+- pkg:cargo/panproto-git-remote@0.43.2
+- pkg:cargo/panproto-git-remote@0.43.3
+- pkg:cargo/panproto-git-remote@0.44.0
