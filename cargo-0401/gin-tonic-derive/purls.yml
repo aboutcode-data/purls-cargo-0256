@@ -23,3 +23,6 @@
 - pkg:cargo/gin-tonic-derive@0.8.0
 - pkg:cargo/gin-tonic-derive@0.8.1
 - pkg:cargo/gin-tonic-derive@0.8.2
+- pkg:cargo/gin-tonic-derive@0.8.3
+- pkg:cargo/gin-tonic-derive@0.8.4
+- pkg:cargo/gin-tonic-derive@0.8.5
