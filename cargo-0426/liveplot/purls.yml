@@ -5,3 +5,4 @@
 - pkg:cargo/liveplot@1.1.0
 - pkg:cargo/liveplot@2.0.0
 - pkg:cargo/liveplot@2.0.1
+- pkg:cargo/liveplot@2.0.2

@@ -81,6 +81,7 @@
 - pkg:cargo/elevator-core@15.9.1
 - pkg:cargo/elevator-core@16.0.0
 - pkg:cargo/elevator-core@16.0.1
+- pkg:cargo/elevator-core@16.0.2
 - pkg:cargo/elevator-core@3.0.0
 - pkg:cargo/elevator-core@4.0.0
 - pkg:cargo/elevator-core@4.1.0
