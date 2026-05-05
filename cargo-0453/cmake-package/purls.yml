@@ -14,3 +14,4 @@
 - pkg:cargo/cmake-package@0.1.7
 - pkg:cargo/cmake-package@0.1.8
 - pkg:cargo/cmake-package@0.1.9
+- pkg:cargo/cmake-package@0.2.0
