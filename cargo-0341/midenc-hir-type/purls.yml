@@ -19,3 +19,4 @@
 - pkg:cargo/midenc-hir-type@0.5.3
 - pkg:cargo/midenc-hir-type@0.5.4
 - pkg:cargo/midenc-hir-type@0.6.0
+- pkg:cargo/midenc-hir-type@0.6.1
