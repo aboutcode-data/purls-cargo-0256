@@ -3,3 +3,4 @@
 - pkg:cargo/shadow-diff@3.0.5
 - pkg:cargo/shadow-diff@3.0.6
 - pkg:cargo/shadow-diff@3.0.7
+- pkg:cargo/shadow-diff@3.1.0
