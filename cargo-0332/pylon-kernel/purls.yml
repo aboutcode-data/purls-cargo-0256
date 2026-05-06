@@ -47,6 +47,9 @@
 - pkg:cargo/pylon-kernel@0.3.42
 - pkg:cargo/pylon-kernel@0.3.43
 - pkg:cargo/pylon-kernel@0.3.44
+- pkg:cargo/pylon-kernel@0.3.45
+- pkg:cargo/pylon-kernel@0.3.46
+- pkg:cargo/pylon-kernel@0.3.47
 - pkg:cargo/pylon-kernel@0.3.5
 - pkg:cargo/pylon-kernel@0.3.6
 - pkg:cargo/pylon-kernel@0.3.7
