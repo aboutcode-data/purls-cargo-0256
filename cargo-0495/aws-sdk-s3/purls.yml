@@ -84,6 +84,7 @@
 - pkg:cargo/aws-sdk-s3@1.13.0
 - pkg:cargo/aws-sdk-s3@1.130.0
 - pkg:cargo/aws-sdk-s3@1.131.0
+- pkg:cargo/aws-sdk-s3@1.132.0
 - pkg:cargo/aws-sdk-s3@1.14.0
 - pkg:cargo/aws-sdk-s3@1.15.0
 - pkg:cargo/aws-sdk-s3@1.16.0
