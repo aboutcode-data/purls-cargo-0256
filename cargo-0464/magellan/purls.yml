@@ -39,3 +39,4 @@
 - pkg:cargo/magellan@3.1.7
 - pkg:cargo/magellan@3.1.9
 - pkg:cargo/magellan@3.2.0
+- pkg:cargo/magellan@3.3.0
