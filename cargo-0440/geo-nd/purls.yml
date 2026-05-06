@@ -7,3 +7,5 @@
 - pkg:cargo/geo-nd@0.5.0
 - pkg:cargo/geo-nd@0.5.2
 - pkg:cargo/geo-nd@0.6.0
+- pkg:cargo/geo-nd@0.6.3
+- pkg:cargo/geo-nd@0.6.4
