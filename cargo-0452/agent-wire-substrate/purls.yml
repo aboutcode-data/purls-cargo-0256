@@ -1,1 +1,2 @@
 - pkg:cargo/agent-wire-substrate@0.1.0
+- pkg:cargo/agent-wire-substrate@1.0.0
