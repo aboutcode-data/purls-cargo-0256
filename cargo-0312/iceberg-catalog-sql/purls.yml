@@ -4,3 +4,4 @@
 - pkg:cargo/iceberg-catalog-sql@0.7.0
 - pkg:cargo/iceberg-catalog-sql@0.8.0
 - pkg:cargo/iceberg-catalog-sql@0.9.0
+- pkg:cargo/iceberg-catalog-sql@0.9.1

@@ -1,5 +1,7 @@
 - pkg:cargo/ao-cli@0.1.10
 - pkg:cargo/ao-cli@0.1.12
 - pkg:cargo/ao-cli@0.1.13
+- pkg:cargo/ao-cli@0.1.15
+- pkg:cargo/ao-cli@0.1.16
 - pkg:cargo/ao-cli@0.1.6
 - pkg:cargo/ao-cli@0.1.9
