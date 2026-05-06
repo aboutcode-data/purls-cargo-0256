@@ -32,6 +32,7 @@
 - pkg:cargo/starbase_archive@0.12.6
 - pkg:cargo/starbase_archive@0.12.7
 - pkg:cargo/starbase_archive@0.13.0
+- pkg:cargo/starbase_archive@0.13.1
 - pkg:cargo/starbase_archive@0.2.0
 - pkg:cargo/starbase_archive@0.2.1
 - pkg:cargo/starbase_archive@0.2.2

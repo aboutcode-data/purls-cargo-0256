@@ -1,3 +1,5 @@
 - pkg:cargo/serde_dms@0.1.0
 - pkg:cargo/serde_dms@0.5.0
 - pkg:cargo/serde_dms@0.5.2
+- pkg:cargo/serde_dms@0.5.3
+- pkg:cargo/serde_dms@0.5.4
