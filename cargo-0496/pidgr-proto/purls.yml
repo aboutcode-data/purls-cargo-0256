@@ -29,3 +29,4 @@
 - pkg:cargo/pidgr-proto@0.66.0
 - pkg:cargo/pidgr-proto@0.67.0
 - pkg:cargo/pidgr-proto@0.68.0
+- pkg:cargo/pidgr-proto@0.69.0
