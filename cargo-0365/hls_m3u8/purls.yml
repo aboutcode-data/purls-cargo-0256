@@ -11,3 +11,4 @@
 - pkg:cargo/hls_m3u8@0.4.2
 - pkg:cargo/hls_m3u8@0.5.0
 - pkg:cargo/hls_m3u8@0.5.1
+- pkg:cargo/hls_m3u8@0.6.0
