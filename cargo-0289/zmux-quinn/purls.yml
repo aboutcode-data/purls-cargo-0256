@@ -1,1 +1,2 @@
 - pkg:cargo/zmux-quinn@0.1.0
+- pkg:cargo/zmux-quinn@1.0.0
