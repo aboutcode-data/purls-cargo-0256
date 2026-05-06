@@ -15,3 +15,4 @@
 - pkg:cargo/trillium-proxy@0.5.6
 - pkg:cargo/trillium-proxy@0.6.0
 - pkg:cargo/trillium-proxy@0.6.0-rc.1
+- pkg:cargo/trillium-proxy@0.7.0
