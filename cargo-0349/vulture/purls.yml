@@ -1,3 +1,4 @@
 - pkg:cargo/vulture@0.14.0
 - pkg:cargo/vulture@0.15.0
 - pkg:cargo/vulture@0.15.1
+- pkg:cargo/vulture@0.16.0

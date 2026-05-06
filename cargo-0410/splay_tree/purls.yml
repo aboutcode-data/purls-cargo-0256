@@ -14,3 +14,4 @@
 - pkg:cargo/splay_tree@0.3.0
 - pkg:cargo/splay_tree@0.3.1
 - pkg:cargo/splay_tree@0.4.0
+- pkg:cargo/splay_tree@0.5.0
