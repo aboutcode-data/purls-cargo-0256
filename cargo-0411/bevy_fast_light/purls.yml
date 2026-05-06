@@ -17,3 +17,4 @@
 - pkg:cargo/bevy_fast_light@0.7.1
 - pkg:cargo/bevy_fast_light@0.7.2
 - pkg:cargo/bevy_fast_light@0.8.0
+- pkg:cargo/bevy_fast_light@0.8.1

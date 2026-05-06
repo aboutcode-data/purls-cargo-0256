@@ -5,6 +5,7 @@
 - pkg:cargo/openapi-to-rust@0.1.12
 - pkg:cargo/openapi-to-rust@0.1.13
 - pkg:cargo/openapi-to-rust@0.1.14
+- pkg:cargo/openapi-to-rust@0.1.15
 - pkg:cargo/openapi-to-rust@0.1.7
 - pkg:cargo/openapi-to-rust@0.1.8
 - pkg:cargo/openapi-to-rust@0.1.9
