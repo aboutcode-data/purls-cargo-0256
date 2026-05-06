@@ -17,3 +17,5 @@
 - pkg:cargo/ashv2@2.1.0
 - pkg:cargo/ashv2@2.1.1
 - pkg:cargo/ashv2@3.0.0
+- pkg:cargo/ashv2@6.0.1
+- pkg:cargo/ashv2@6.0.2
