@@ -16,3 +16,4 @@
 - pkg:cargo/crypt2pay_pkcs11_loader@5.20.0
 - pkg:cargo/crypt2pay_pkcs11_loader@5.20.1
 - pkg:cargo/crypt2pay_pkcs11_loader@5.21.0
+- pkg:cargo/crypt2pay_pkcs11_loader@5.22.0

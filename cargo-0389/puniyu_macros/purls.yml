@@ -21,3 +21,4 @@
 - pkg:cargo/puniyu_macros@0.7.5
 - pkg:cargo/puniyu_macros@0.7.6
 - pkg:cargo/puniyu_macros@0.8.0
+- pkg:cargo/puniyu_macros@0.8.1
