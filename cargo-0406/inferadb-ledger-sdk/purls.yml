@@ -129,4 +129,5 @@
 - pkg:cargo/inferadb-ledger-sdk@0.1.0-dev.20260503
 - pkg:cargo/inferadb-ledger-sdk@0.1.0-dev.20260504
 - pkg:cargo/inferadb-ledger-sdk@0.1.0-dev.20260505
+- pkg:cargo/inferadb-ledger-sdk@0.1.0-dev.20260506
 - pkg:cargo/inferadb-ledger-sdk@0.1.0-nightly.20260127
