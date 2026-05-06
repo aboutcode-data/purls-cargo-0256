@@ -31,3 +31,4 @@
 - pkg:cargo/miden-client-cli@0.14.3
 - pkg:cargo/miden-client-cli@0.14.4
 - pkg:cargo/miden-client-cli@0.14.5
+- pkg:cargo/miden-client-cli@0.14.6
