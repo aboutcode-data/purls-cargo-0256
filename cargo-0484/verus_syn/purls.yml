@@ -8,4 +8,5 @@
 - pkg:cargo/verus_syn@0.0.0-2026-02-24-1505
 - pkg:cargo/verus_syn@0.0.0-2026-03-15-0111
 - pkg:cargo/verus_syn@0.0.0-2026-04-05-0114
+- pkg:cargo/verus_syn@0.0.0-2026-05-06-1803
 - pkg:cargo/verus_syn@2.0.96%2Bverus
