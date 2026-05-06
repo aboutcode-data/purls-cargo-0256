@@ -1,1 +1,3 @@
 - pkg:cargo/qubit-progress@0.1.0
+- pkg:cargo/qubit-progress@0.2.0
+- pkg:cargo/qubit-progress@0.2.1
