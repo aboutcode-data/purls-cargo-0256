@@ -17,3 +17,5 @@
 - pkg:cargo/tari_engine@0.29.1
 - pkg:cargo/tari_engine@0.30.0
 - pkg:cargo/tari_engine@0.30.1
+- pkg:cargo/tari_engine@0.30.3
+- pkg:cargo/tari_engine@0.30.4
