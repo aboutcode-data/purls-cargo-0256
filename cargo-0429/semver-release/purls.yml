@@ -14,3 +14,4 @@
 - pkg:cargo/semver-release@0.15.1
 - pkg:cargo/semver-release@0.16.1
 - pkg:cargo/semver-release@0.17.0
+- pkg:cargo/semver-release@0.20.0
