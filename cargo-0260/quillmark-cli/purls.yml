@@ -42,3 +42,4 @@
 - pkg:cargo/quillmark-cli@0.73.0
 - pkg:cargo/quillmark-cli@0.74.0
 - pkg:cargo/quillmark-cli@0.74.1
+- pkg:cargo/quillmark-cli@0.75.0
