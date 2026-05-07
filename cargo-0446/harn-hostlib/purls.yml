@@ -20,3 +20,5 @@
 - pkg:cargo/harn-hostlib@0.7.57
 - pkg:cargo/harn-hostlib@0.7.58
 - pkg:cargo/harn-hostlib@0.7.59
+- pkg:cargo/harn-hostlib@0.7.60
+- pkg:cargo/harn-hostlib@0.7.61
