@@ -1,5 +1,6 @@
 - pkg:cargo/dbmcp-mysql@0.10.0
 - pkg:cargo/dbmcp-mysql@0.10.1
+- pkg:cargo/dbmcp-mysql@0.10.2
 - pkg:cargo/dbmcp-mysql@0.7.0
 - pkg:cargo/dbmcp-mysql@0.8.0
 - pkg:cargo/dbmcp-mysql@0.9.0
