@@ -246,6 +246,7 @@
 - pkg:cargo/ids-apis@1.0.24
 - pkg:cargo/ids-apis@1.0.240
 - pkg:cargo/ids-apis@1.0.241
+- pkg:cargo/ids-apis@1.0.242
 - pkg:cargo/ids-apis@1.0.25
 - pkg:cargo/ids-apis@1.0.26
 - pkg:cargo/ids-apis@1.0.27
