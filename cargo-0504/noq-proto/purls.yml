@@ -1,2 +1,3 @@
 - pkg:cargo/noq-proto@0.16.0
 - pkg:cargo/noq-proto@0.17.0
+- pkg:cargo/noq-proto@1.0.0-rc.0
