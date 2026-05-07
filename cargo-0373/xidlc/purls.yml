@@ -51,6 +51,7 @@
 - pkg:cargo/xidlc@0.53.0
 - pkg:cargo/xidlc@0.53.1
 - pkg:cargo/xidlc@0.54.0
+- pkg:cargo/xidlc@0.55.0
 - pkg:cargo/xidlc@0.6.0
 - pkg:cargo/xidlc@0.7.0
 - pkg:cargo/xidlc@0.8.0

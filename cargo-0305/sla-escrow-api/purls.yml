@@ -3,3 +3,4 @@
 - pkg:cargo/sla-escrow-api@0.2.7
 - pkg:cargo/sla-escrow-api@0.2.8
 - pkg:cargo/sla-escrow-api@0.2.9
+- pkg:cargo/sla-escrow-api@0.3.0
