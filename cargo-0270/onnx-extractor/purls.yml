@@ -10,3 +10,7 @@
 - pkg:cargo/onnx-extractor@0.3.3
 - pkg:cargo/onnx-extractor@0.3.4
 - pkg:cargo/onnx-extractor@0.3.5
+- pkg:cargo/onnx-extractor@0.3.6
+- pkg:cargo/onnx-extractor@0.3.7
+- pkg:cargo/onnx-extractor@0.3.8
+- pkg:cargo/onnx-extractor@0.3.9
