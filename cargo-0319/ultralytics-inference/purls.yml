@@ -1,1 +1,2 @@
 - pkg:cargo/ultralytics-inference@0.0.11
+- pkg:cargo/ultralytics-inference@0.0.12
