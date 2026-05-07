@@ -24,3 +24,5 @@
 - pkg:cargo/membrane@0.9.4
 - pkg:cargo/membrane@0.9.5
 - pkg:cargo/membrane@0.9.6
+- pkg:cargo/membrane@1.0.0
+- pkg:cargo/membrane@1.0.1
