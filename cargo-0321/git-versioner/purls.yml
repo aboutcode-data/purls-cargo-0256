@@ -5,3 +5,4 @@
 - pkg:cargo/git-versioner@0.16.0
 - pkg:cargo/git-versioner@0.16.1
 - pkg:cargo/git-versioner@0.17.0
+- pkg:cargo/git-versioner@0.18.0
