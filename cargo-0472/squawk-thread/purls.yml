@@ -5,3 +5,4 @@
 - pkg:cargo/squawk-thread@2.48.0
 - pkg:cargo/squawk-thread@2.49.0
 - pkg:cargo/squawk-thread@2.50.0
+- pkg:cargo/squawk-thread@2.51.0
