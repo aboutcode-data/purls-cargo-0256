@@ -1,1 +1,2 @@
 - pkg:cargo/tracing-combi-collector@0.2.0
+- pkg:cargo/tracing-combi-collector@0.2.1
