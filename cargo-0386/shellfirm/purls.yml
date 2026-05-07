@@ -6,6 +6,7 @@
 - pkg:cargo/shellfirm@0.2.11
 - pkg:cargo/shellfirm@0.2.2
 - pkg:cargo/shellfirm@0.2.5
+- pkg:cargo/shellfirm@0.3.10
 - pkg:cargo/shellfirm@0.3.7
 - pkg:cargo/shellfirm@0.3.8
 - pkg:cargo/shellfirm@0.3.9
