@@ -11,3 +11,4 @@
 - pkg:cargo/wasm-bindgen-test-shared@0.2.117
 - pkg:cargo/wasm-bindgen-test-shared@0.2.118
 - pkg:cargo/wasm-bindgen-test-shared@0.2.120
+- pkg:cargo/wasm-bindgen-test-shared@0.2.121
