@@ -35,6 +35,7 @@
 - pkg:cargo/tor-protover@0.4.2
 - pkg:cargo/tor-protover@0.40.0
 - pkg:cargo/tor-protover@0.41.0
+- pkg:cargo/tor-protover@0.42.0
 - pkg:cargo/tor-protover@0.5.0
 - pkg:cargo/tor-protover@0.5.1
 - pkg:cargo/tor-protover@0.5.2
