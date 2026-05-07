@@ -29,3 +29,4 @@
 - pkg:cargo/kaniop-k8s-util@0.5.8
 - pkg:cargo/kaniop-k8s-util@0.5.9
 - pkg:cargo/kaniop-k8s-util@0.6.0
+- pkg:cargo/kaniop-k8s-util@0.6.1
