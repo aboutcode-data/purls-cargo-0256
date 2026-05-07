@@ -3,3 +3,4 @@
 - pkg:cargo/hyperlight-guest-macro@0.13.0
 - pkg:cargo/hyperlight-guest-macro@0.13.1
 - pkg:cargo/hyperlight-guest-macro@0.14.0
+- pkg:cargo/hyperlight-guest-macro@0.15.0

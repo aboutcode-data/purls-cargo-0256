@@ -5,3 +5,4 @@
 - pkg:cargo/thread_aware_macros@0.5.0
 - pkg:cargo/thread_aware_macros@0.6.0
 - pkg:cargo/thread_aware_macros@0.6.1
+- pkg:cargo/thread_aware_macros@0.7.0
