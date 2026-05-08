@@ -16,6 +16,7 @@
 - pkg:cargo/tauri-specta@2.0.0-rc.20
 - pkg:cargo/tauri-specta@2.0.0-rc.21
 - pkg:cargo/tauri-specta@2.0.0-rc.24
+- pkg:cargo/tauri-specta@2.0.0-rc.25
 - pkg:cargo/tauri-specta@2.0.0-rc.3
 - pkg:cargo/tauri-specta@2.0.0-rc.4
 - pkg:cargo/tauri-specta@2.0.0-rc.5
