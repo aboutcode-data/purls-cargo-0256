@@ -40,3 +40,4 @@
 - pkg:cargo/crux_platform@0.8.0-rc1
 - pkg:cargo/crux_platform@0.8.0-rc2
 - pkg:cargo/crux_platform@0.8.0-rc3
+- pkg:cargo/crux_platform@0.9.0
