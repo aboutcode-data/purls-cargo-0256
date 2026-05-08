@@ -87,6 +87,7 @@
 - pkg:cargo/csskit_ast@0.0.21-canary.fc80f623b7
 - pkg:cargo/csskit_ast@0.0.21-canary.fc907fde77
 - pkg:cargo/csskit_ast@0.0.21-canary.ff37755fc3
+- pkg:cargo/csskit_ast@0.0.22-canary.223ca0c918
 - pkg:cargo/csskit_ast@0.0.8
 - pkg:cargo/csskit_ast@0.0.9-canary.3150cde69e
 - pkg:cargo/csskit_ast@0.0.9-canary.98adc8dbf3

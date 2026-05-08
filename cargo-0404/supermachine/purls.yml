@@ -16,7 +16,13 @@
 - pkg:cargo/supermachine@0.4.13
 - pkg:cargo/supermachine@0.4.14
 - pkg:cargo/supermachine@0.4.15
+- pkg:cargo/supermachine@0.4.16
+- pkg:cargo/supermachine@0.4.17
+- pkg:cargo/supermachine@0.4.18
+- pkg:cargo/supermachine@0.4.19
 - pkg:cargo/supermachine@0.4.2
+- pkg:cargo/supermachine@0.4.20
+- pkg:cargo/supermachine@0.4.21
 - pkg:cargo/supermachine@0.4.3
 - pkg:cargo/supermachine@0.4.4
 - pkg:cargo/supermachine@0.4.5
