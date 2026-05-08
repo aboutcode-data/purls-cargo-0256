@@ -21,3 +21,4 @@
 - pkg:cargo/rust-releases-rust-dist@0.30.0
 - pkg:cargo/rust-releases-rust-dist@0.31.0
 - pkg:cargo/rust-releases-rust-dist@0.32.0
+- pkg:cargo/rust-releases-rust-dist@0.33.0
