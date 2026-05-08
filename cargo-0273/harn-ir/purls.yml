@@ -35,3 +35,4 @@
 - pkg:cargo/harn-ir@0.7.61
 - pkg:cargo/harn-ir@0.7.62
 - pkg:cargo/harn-ir@0.8.0
+- pkg:cargo/harn-ir@0.8.1
