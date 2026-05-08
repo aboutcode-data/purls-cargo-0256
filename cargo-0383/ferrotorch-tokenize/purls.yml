@@ -4,3 +4,4 @@
 - pkg:cargo/ferrotorch-tokenize@0.4.5
 - pkg:cargo/ferrotorch-tokenize@0.4.6
 - pkg:cargo/ferrotorch-tokenize@0.4.7
+- pkg:cargo/ferrotorch-tokenize@0.5.0
