@@ -8,6 +8,7 @@
 - pkg:cargo/munin-memory@0.5.1-beta-4
 - pkg:cargo/munin-memory@0.5.10
 - pkg:cargo/munin-memory@0.5.11
+- pkg:cargo/munin-memory@0.5.12
 - pkg:cargo/munin-memory@0.5.2
 - pkg:cargo/munin-memory@0.5.3
 - pkg:cargo/munin-memory@0.5.4
