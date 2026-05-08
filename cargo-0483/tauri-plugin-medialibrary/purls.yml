@@ -2,3 +2,4 @@
 - pkg:cargo/tauri-plugin-medialibrary@0.13.0
 - pkg:cargo/tauri-plugin-medialibrary@0.14.0
 - pkg:cargo/tauri-plugin-medialibrary@0.15.0
+- pkg:cargo/tauri-plugin-medialibrary@0.16.0

@@ -24,6 +24,7 @@
 - pkg:cargo/mockforge-federation@0.3.124
 - pkg:cargo/mockforge-federation@0.3.125
 - pkg:cargo/mockforge-federation@0.3.126
+- pkg:cargo/mockforge-federation@0.3.127
 - pkg:cargo/mockforge-federation@0.3.28
 - pkg:cargo/mockforge-federation@0.3.31
 - pkg:cargo/mockforge-federation@0.3.71
