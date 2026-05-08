@@ -5,6 +5,7 @@
 - pkg:cargo/matrix-sdk-indexeddb@0.13.0
 - pkg:cargo/matrix-sdk-indexeddb@0.14.0
 - pkg:cargo/matrix-sdk-indexeddb@0.16.0
+- pkg:cargo/matrix-sdk-indexeddb@0.16.1
 - pkg:cargo/matrix-sdk-indexeddb@0.17.0
 - pkg:cargo/matrix-sdk-indexeddb@0.2.0
 - pkg:cargo/matrix-sdk-indexeddb@0.7.0
