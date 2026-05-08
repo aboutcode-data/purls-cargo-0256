@@ -48,3 +48,6 @@
 - pkg:cargo/tiycore@0.2.4-rc.0
 - pkg:cargo/tiycore@0.2.4-rc.1
 - pkg:cargo/tiycore@0.2.4-rc.2
+- pkg:cargo/tiycore@0.2.5
+- pkg:cargo/tiycore@0.2.5-rc.0
+- pkg:cargo/tiycore@0.2.5-rc.2

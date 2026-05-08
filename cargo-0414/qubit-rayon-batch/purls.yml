@@ -1,3 +1,4 @@
 - pkg:cargo/qubit-rayon-batch@0.1.1
 - pkg:cargo/qubit-rayon-batch@0.3.1
 - pkg:cargo/qubit-rayon-batch@0.3.2
+- pkg:cargo/qubit-rayon-batch@0.3.3
