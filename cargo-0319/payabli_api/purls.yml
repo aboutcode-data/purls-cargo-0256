@@ -7,6 +7,7 @@
 - pkg:cargo/payabli_api@0.0.618
 - pkg:cargo/payabli_api@1.0.10
 - pkg:cargo/payabli_api@1.0.14
+- pkg:cargo/payabli_api@1.0.15
 - pkg:cargo/payabli_api@1.0.2
 - pkg:cargo/payabli_api@1.0.3
 - pkg:cargo/payabli_api@1.0.4
