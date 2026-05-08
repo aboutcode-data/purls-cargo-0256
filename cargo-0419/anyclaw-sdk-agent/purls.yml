@@ -15,6 +15,7 @@
 - pkg:cargo/anyclaw-sdk-agent@0.2.24
 - pkg:cargo/anyclaw-sdk-agent@0.2.25
 - pkg:cargo/anyclaw-sdk-agent@0.2.26
+- pkg:cargo/anyclaw-sdk-agent@0.2.27
 - pkg:cargo/anyclaw-sdk-agent@0.2.5
 - pkg:cargo/anyclaw-sdk-agent@0.2.6
 - pkg:cargo/anyclaw-sdk-agent@0.2.7
