@@ -103,6 +103,7 @@
 - pkg:cargo/cqs@1.4.0
 - pkg:cargo/cqs@1.4.1
 - pkg:cargo/cqs@1.4.2
+- pkg:cargo/cqs@1.40.0
 - pkg:cargo/cqs@1.5.0
 - pkg:cargo/cqs@1.6.0
 - pkg:cargo/cqs@1.7.0
