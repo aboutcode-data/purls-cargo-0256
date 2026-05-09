@@ -11,3 +11,4 @@
 - pkg:cargo/iced_wayland_subscriber@0.18.0-beta2
 - pkg:cargo/iced_wayland_subscriber@0.18.0-beta3
 - pkg:cargo/iced_wayland_subscriber@0.18.0-beta4
+- pkg:cargo/iced_wayland_subscriber@0.18.1
