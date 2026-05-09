@@ -1,1 +1,2 @@
 - pkg:cargo/shiplog-ingest-gitlab@0.3.0
+- pkg:cargo/shiplog-ingest-gitlab@0.4.0
