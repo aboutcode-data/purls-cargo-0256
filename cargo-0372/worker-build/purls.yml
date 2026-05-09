@@ -31,3 +31,5 @@
 - pkg:cargo/worker-build@0.7.5
 - pkg:cargo/worker-build@0.8.0
 - pkg:cargo/worker-build@0.8.1
+- pkg:cargo/worker-build@0.8.2
+- pkg:cargo/worker-build@0.8.3

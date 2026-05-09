@@ -8,3 +8,4 @@
 - pkg:cargo/opentelemetry-jaeger-propagator@0.3.0
 - pkg:cargo/opentelemetry-jaeger-propagator@0.30.0
 - pkg:cargo/opentelemetry-jaeger-propagator@0.31.0
+- pkg:cargo/opentelemetry-jaeger-propagator@0.32.0
