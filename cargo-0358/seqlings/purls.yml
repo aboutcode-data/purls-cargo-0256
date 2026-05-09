@@ -21,3 +21,5 @@
 - pkg:cargo/seqlings@6.1.4
 - pkg:cargo/seqlings@6.1.6
 - pkg:cargo/seqlings@6.2.0
+- pkg:cargo/seqlings@6.2.1
+- pkg:cargo/seqlings@6.2.2
