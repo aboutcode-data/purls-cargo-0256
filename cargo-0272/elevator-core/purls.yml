@@ -90,6 +90,13 @@
 - pkg:cargo/elevator-core@17.0.0
 - pkg:cargo/elevator-core@18.0.0
 - pkg:cargo/elevator-core@18.0.1
+- pkg:cargo/elevator-core@18.1.0
+- pkg:cargo/elevator-core@18.2.0
+- pkg:cargo/elevator-core@19.0.0
+- pkg:cargo/elevator-core@19.1.0
+- pkg:cargo/elevator-core@19.2.0
+- pkg:cargo/elevator-core@19.3.0
+- pkg:cargo/elevator-core@19.4.0
 - pkg:cargo/elevator-core@3.0.0
 - pkg:cargo/elevator-core@4.0.0
 - pkg:cargo/elevator-core@4.1.0
