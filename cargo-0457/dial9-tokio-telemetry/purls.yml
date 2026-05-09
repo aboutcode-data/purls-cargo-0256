@@ -10,3 +10,4 @@
 - pkg:cargo/dial9-tokio-telemetry@0.3.5
 - pkg:cargo/dial9-tokio-telemetry@0.3.6
 - pkg:cargo/dial9-tokio-telemetry@0.3.7
+- pkg:cargo/dial9-tokio-telemetry@0.3.8
