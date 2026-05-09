@@ -1,0 +1,2 @@
+- pkg:cargo/miden-package-registry-local@0.0.0
+- pkg:cargo/miden-package-registry-local@0.23.0
