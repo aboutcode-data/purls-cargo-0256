@@ -24,3 +24,4 @@
 - pkg:cargo/karyon_net@0.6.3
 - pkg:cargo/karyon_net@1.0.0-alpha.1
 - pkg:cargo/karyon_net@1.0.0-alpha.2
+- pkg:cargo/karyon_net@1.0.0-alpha.5
