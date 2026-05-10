@@ -99,6 +99,7 @@
 - pkg:cargo/worktrunk@0.46.1
 - pkg:cargo/worktrunk@0.47.0
 - pkg:cargo/worktrunk@0.48.0
+- pkg:cargo/worktrunk@0.49.0
 - pkg:cargo/worktrunk@0.5.0
 - pkg:cargo/worktrunk@0.5.1
 - pkg:cargo/worktrunk@0.5.2
