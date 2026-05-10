@@ -2,3 +2,4 @@
 - pkg:cargo/lex-lsp-core@0.10.4-rc.1
 - pkg:cargo/lex-lsp-core@0.10.5
 - pkg:cargo/lex-lsp-core@0.10.6
+- pkg:cargo/lex-lsp-core@0.11.0
