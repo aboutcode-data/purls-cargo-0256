@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-bsl@0.1.6
+- pkg:cargo/tree-sitter-bsl@0.1.7
