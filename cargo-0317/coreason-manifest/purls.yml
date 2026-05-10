@@ -30,3 +30,4 @@
 - pkg:cargo/coreason-manifest@0.51.1
 - pkg:cargo/coreason-manifest@0.52.0
 - pkg:cargo/coreason-manifest@0.52.1
+- pkg:cargo/coreason-manifest@0.53.0
