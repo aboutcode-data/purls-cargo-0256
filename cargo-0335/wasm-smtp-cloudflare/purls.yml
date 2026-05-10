@@ -11,3 +11,4 @@
 - pkg:cargo/wasm-smtp-cloudflare@0.9.1
 - pkg:cargo/wasm-smtp-cloudflare@0.9.2
 - pkg:cargo/wasm-smtp-cloudflare@0.9.3
+- pkg:cargo/wasm-smtp-cloudflare@0.9.4
