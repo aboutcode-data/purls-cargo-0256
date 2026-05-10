@@ -4,3 +4,4 @@
 - pkg:cargo/oxc-schemars@0.8.25
 - pkg:cargo/oxc-schemars@0.8.26
 - pkg:cargo/oxc-schemars@0.8.27
+- pkg:cargo/oxc-schemars@0.9.0
