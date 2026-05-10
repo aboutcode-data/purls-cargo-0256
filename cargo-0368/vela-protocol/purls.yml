@@ -1,2 +1,6 @@
 - pkg:cargo/vela-protocol@0.102.0
+- pkg:cargo/vela-protocol@0.105.0
+- pkg:cargo/vela-protocol@0.106.0
+- pkg:cargo/vela-protocol@0.107.0
+- pkg:cargo/vela-protocol@0.108.0
 - pkg:cargo/vela-protocol@0.77.0
