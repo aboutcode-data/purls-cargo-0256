@@ -1,1 +1,2 @@
 - pkg:cargo/stalwart-lite-proc-macros@0.15.5
+- pkg:cargo/stalwart-lite-proc-macros@0.15.6
