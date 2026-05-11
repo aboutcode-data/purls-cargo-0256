@@ -5,3 +5,4 @@
 - pkg:cargo/datasketches@0.2.0
 - pkg:cargo/datasketches@0.2.0-rc.1
 - pkg:cargo/datasketches@0.2.0-rc.2
+- pkg:cargo/datasketches@0.3.0-rc.1
