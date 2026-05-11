@@ -29,3 +29,4 @@
 - pkg:cargo/s2-sdk@0.27.0
 - pkg:cargo/s2-sdk@0.27.1
 - pkg:cargo/s2-sdk@0.28.0
+- pkg:cargo/s2-sdk@0.29.0
