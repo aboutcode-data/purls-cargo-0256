@@ -87,3 +87,4 @@
 - pkg:cargo/dylint-link@4.1.1
 - pkg:cargo/dylint-link@4.1.2
 - pkg:cargo/dylint-link@5.0.0
+- pkg:cargo/dylint-link@6.0.0
