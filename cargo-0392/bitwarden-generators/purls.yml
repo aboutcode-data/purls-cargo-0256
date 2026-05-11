@@ -1,3 +1,4 @@
 - pkg:cargo/bitwarden-generators@0.5.0
 - pkg:cargo/bitwarden-generators@1.0.0
 - pkg:cargo/bitwarden-generators@2.0.0
+- pkg:cargo/bitwarden-generators@3.0.0
