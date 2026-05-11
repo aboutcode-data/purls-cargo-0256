@@ -162,6 +162,7 @@
 - pkg:cargo/quillmark-typst@0.74.1
 - pkg:cargo/quillmark-typst@0.75.0
 - pkg:cargo/quillmark-typst@0.76.0
+- pkg:cargo/quillmark-typst@0.77.0
 - pkg:cargo/quillmark-typst@0.8.0
 - pkg:cargo/quillmark-typst@0.8.1
 - pkg:cargo/quillmark-typst@0.8.2
