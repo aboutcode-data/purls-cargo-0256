@@ -10,3 +10,4 @@
 - pkg:cargo/tree-sitter-navi@0.0.9
 - pkg:cargo/tree-sitter-navi@0.1.0
 - pkg:cargo/tree-sitter-navi@0.2.2
+- pkg:cargo/tree-sitter-navi@0.2.3

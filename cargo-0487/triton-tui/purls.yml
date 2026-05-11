@@ -8,3 +8,4 @@
 - pkg:cargo/triton-tui@0.50.0
 - pkg:cargo/triton-tui@1.0.0
 - pkg:cargo/triton-tui@2.0.0
+- pkg:cargo/triton-tui@3.0.0

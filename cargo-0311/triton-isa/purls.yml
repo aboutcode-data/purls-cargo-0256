@@ -11,3 +11,4 @@
 - pkg:cargo/triton-isa@0.50.0
 - pkg:cargo/triton-isa@1.0.0
 - pkg:cargo/triton-isa@2.0.0
+- pkg:cargo/triton-isa@3.0.0
