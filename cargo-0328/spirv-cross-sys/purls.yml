@@ -9,3 +9,5 @@
 - pkg:cargo/spirv-cross-sys@0.4.4%2Bbf6bb5c
 - pkg:cargo/spirv-cross-sys@0.6.0%2Bbf6bb5c
 - pkg:cargo/spirv-cross-sys@0.6.1%2Bbf6bb5c
+- pkg:cargo/spirv-cross-sys@0.7.0%2B68413a9
+- pkg:cargo/spirv-cross-sys@0.7.1%2B68413a9
