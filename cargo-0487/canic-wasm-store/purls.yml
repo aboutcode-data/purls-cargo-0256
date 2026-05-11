@@ -134,3 +134,4 @@
 - pkg:cargo/canic-wasm-store@0.33.6
 - pkg:cargo/canic-wasm-store@0.34.2
 - pkg:cargo/canic-wasm-store@0.34.3
+- pkg:cargo/canic-wasm-store@0.34.4
