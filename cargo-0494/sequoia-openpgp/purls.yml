@@ -55,3 +55,4 @@
 - pkg:cargo/sequoia-openpgp@2.1.0
 - pkg:cargo/sequoia-openpgp@2.2.0
 - pkg:cargo/sequoia-openpgp@2.2.0-pqc.1
+- pkg:cargo/sequoia-openpgp@2.3.0
