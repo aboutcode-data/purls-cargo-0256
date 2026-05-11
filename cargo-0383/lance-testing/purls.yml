@@ -121,3 +121,4 @@
 - pkg:cargo/lance-testing@3.0.1
 - pkg:cargo/lance-testing@4.0.0
 - pkg:cargo/lance-testing@4.0.1
+- pkg:cargo/lance-testing@6.0.0

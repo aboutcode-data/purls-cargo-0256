@@ -119,3 +119,4 @@
 - pkg:cargo/lance-linalg@3.0.1
 - pkg:cargo/lance-linalg@4.0.0
 - pkg:cargo/lance-linalg@4.0.1
+- pkg:cargo/lance-linalg@6.0.0
