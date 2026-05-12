@@ -45,6 +45,7 @@
 - pkg:cargo/panache@2.43.1
 - pkg:cargo/panache@2.44.0
 - pkg:cargo/panache@2.45.0
+- pkg:cargo/panache@2.46.0
 - pkg:cargo/panache@2.5.0
 - pkg:cargo/panache@2.5.1
 - pkg:cargo/panache@2.6.0
