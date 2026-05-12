@@ -33,3 +33,4 @@
 - pkg:cargo/foundations-macros@5.6.3
 - pkg:cargo/foundations-macros@5.6.4
 - pkg:cargo/foundations-macros@5.6.5
+- pkg:cargo/foundations-macros@5.7.0
