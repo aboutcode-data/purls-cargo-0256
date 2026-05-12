@@ -1,1 +1,2 @@
 - pkg:cargo/djvu-bitmap@0.16.1
+- pkg:cargo/djvu-bitmap@0.17.0
