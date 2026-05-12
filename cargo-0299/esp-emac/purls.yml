@@ -1,1 +1,2 @@
 - pkg:cargo/esp-emac@0.2.0
+- pkg:cargo/esp-emac@0.3.0
