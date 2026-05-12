@@ -8,3 +8,6 @@
 - pkg:cargo/vedaksha-ephem-core@2.3.0
 - pkg:cargo/vedaksha-ephem-core@2.4.0
 - pkg:cargo/vedaksha-ephem-core@2.5.0
+- pkg:cargo/vedaksha-ephem-core@2.6.0
+- pkg:cargo/vedaksha-ephem-core@3.0.0
+- pkg:cargo/vedaksha-ephem-core@3.0.1
