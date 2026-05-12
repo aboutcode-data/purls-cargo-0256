@@ -2,3 +2,4 @@
 - pkg:cargo/omq-tokio@0.2.3
 - pkg:cargo/omq-tokio@0.2.5
 - pkg:cargo/omq-tokio@0.2.6
+- pkg:cargo/omq-tokio@0.2.7
