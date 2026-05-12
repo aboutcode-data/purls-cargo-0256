@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-arkts@0.0.1-beta.0
+- pkg:cargo/tree-sitter-arkts@0.1.0

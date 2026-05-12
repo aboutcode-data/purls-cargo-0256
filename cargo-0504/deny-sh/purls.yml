@@ -1,1 +1,2 @@
 - pkg:cargo/deny-sh@1.0.0
+- pkg:cargo/deny-sh@1.1.0
