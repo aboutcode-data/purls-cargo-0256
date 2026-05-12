@@ -1,3 +1,4 @@
 - pkg:cargo/provekit-cli@0.1.2
 - pkg:cargo/provekit-cli@0.1.4
 - pkg:cargo/provekit-cli@0.1.5
+- pkg:cargo/provekit-cli@1.0.0
