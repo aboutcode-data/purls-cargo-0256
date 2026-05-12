@@ -5,3 +5,4 @@
 - pkg:cargo/delaunator@1.0.0
 - pkg:cargo/delaunator@1.0.1
 - pkg:cargo/delaunator@1.0.2
+- pkg:cargo/delaunator@1.1.0
