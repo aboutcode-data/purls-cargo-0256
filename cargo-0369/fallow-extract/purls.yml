@@ -149,6 +149,7 @@
 - pkg:cargo/fallow-extract@2.70.0
 - pkg:cargo/fallow-extract@2.71.0
 - pkg:cargo/fallow-extract@2.71.1
+- pkg:cargo/fallow-extract@2.72.0
 - pkg:cargo/fallow-extract@2.8.0
 - pkg:cargo/fallow-extract@2.8.1
 - pkg:cargo/fallow-extract@2.9.0
