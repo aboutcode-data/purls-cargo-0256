@@ -146,6 +146,7 @@
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260509
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260510
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260511
+- pkg:cargo/inferadb-common-storage-ledger@0.1.0-dev.20260512
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-nightly.20260127
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-nightly.20260128
 - pkg:cargo/inferadb-common-storage-ledger@0.1.0-nightly.20260129

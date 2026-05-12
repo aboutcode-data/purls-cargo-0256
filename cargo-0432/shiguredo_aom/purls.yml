@@ -1,3 +1,4 @@
 - pkg:cargo/shiguredo_aom@2026.1.0
 - pkg:cargo/shiguredo_aom@2026.1.0-canary.0
 - pkg:cargo/shiguredo_aom@2026.2.0-canary.0
+- pkg:cargo/shiguredo_aom@2026.2.0-canary.1
