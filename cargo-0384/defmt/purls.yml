@@ -25,3 +25,4 @@
 - pkg:cargo/defmt@1.0.0
 - pkg:cargo/defmt@1.0.0-rc.1
 - pkg:cargo/defmt@1.0.1
+- pkg:cargo/defmt@1.1.0
