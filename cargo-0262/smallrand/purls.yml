@@ -3,3 +3,4 @@
 - pkg:cargo/smallrand@0.2.1
 - pkg:cargo/smallrand@1.0.0
 - pkg:cargo/smallrand@1.0.1
+- pkg:cargo/smallrand@1.1.0
