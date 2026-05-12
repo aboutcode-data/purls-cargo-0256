@@ -14,3 +14,4 @@
 - pkg:cargo/stator_jse_ffi@0.2.7
 - pkg:cargo/stator_jse_ffi@0.2.8
 - pkg:cargo/stator_jse_ffi@0.2.9
+- pkg:cargo/stator_jse_ffi@0.3.0
