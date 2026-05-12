@@ -86,6 +86,7 @@
 - pkg:cargo/fixt@0.6.0-dev.6
 - pkg:cargo/fixt@0.6.0-dev.7
 - pkg:cargo/fixt@0.6.0-rc.0
+- pkg:cargo/fixt@0.6.1
 - pkg:cargo/fixt@0.6.1-rc.0
 - pkg:cargo/fixt@0.6.1-rc.1
 - pkg:cargo/fixt@0.6.1-rc.2
