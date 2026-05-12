@@ -19,4 +19,5 @@
 - pkg:cargo/vela-cli@0.122.0
 - pkg:cargo/vela-cli@0.123.0
 - pkg:cargo/vela-cli@0.153.0
+- pkg:cargo/vela-cli@0.230.0
 - pkg:cargo/vela-cli@0.77.0
