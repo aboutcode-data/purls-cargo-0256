@@ -11,6 +11,8 @@
 - pkg:cargo/captchaforge@0.2.17
 - pkg:cargo/captchaforge@0.2.18
 - pkg:cargo/captchaforge@0.2.19
+- pkg:cargo/captchaforge@0.2.20
+- pkg:cargo/captchaforge@0.2.21
 - pkg:cargo/captchaforge@0.2.4
 - pkg:cargo/captchaforge@0.2.5
 - pkg:cargo/captchaforge@0.2.6
