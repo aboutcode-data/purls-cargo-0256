@@ -85,6 +85,7 @@
 - pkg:cargo/alef-backend-magnus@0.15.43
 - pkg:cargo/alef-backend-magnus@0.15.44
 - pkg:cargo/alef-backend-magnus@0.15.47
+- pkg:cargo/alef-backend-magnus@0.15.49
 - pkg:cargo/alef-backend-magnus@0.15.5
 - pkg:cargo/alef-backend-magnus@0.15.6
 - pkg:cargo/alef-backend-magnus@0.15.7
