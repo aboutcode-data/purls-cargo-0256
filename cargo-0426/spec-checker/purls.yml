@@ -9,3 +9,4 @@
 - pkg:cargo/spec-checker@0.7.1
 - pkg:cargo/spec-checker@0.8.0
 - pkg:cargo/spec-checker@0.8.2
+- pkg:cargo/spec-checker@0.9.1
