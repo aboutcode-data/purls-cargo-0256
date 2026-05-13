@@ -9,3 +9,4 @@
 - pkg:cargo/lex-ast@0.7.1
 - pkg:cargo/lex-ast@0.8.0
 - pkg:cargo/lex-ast@0.8.2
+- pkg:cargo/lex-ast@0.9.1
