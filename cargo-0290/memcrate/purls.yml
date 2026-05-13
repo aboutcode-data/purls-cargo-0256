@@ -1,2 +1,4 @@
 - pkg:cargo/memcrate@0.0.0
 - pkg:cargo/memcrate@0.3.1
+- pkg:cargo/memcrate@0.3.2
+- pkg:cargo/memcrate@0.3.3

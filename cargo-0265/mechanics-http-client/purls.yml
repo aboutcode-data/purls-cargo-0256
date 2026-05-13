@@ -1,1 +1,2 @@
 - pkg:cargo/mechanics-http-client@0.1.0
+- pkg:cargo/mechanics-http-client@0.2.1
