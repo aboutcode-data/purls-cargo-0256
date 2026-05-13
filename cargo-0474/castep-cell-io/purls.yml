@@ -29,3 +29,4 @@
 - pkg:cargo/castep-cell-io@0.3.0
 - pkg:cargo/castep-cell-io@0.4.0
 - pkg:cargo/castep-cell-io@0.5.0
+- pkg:cargo/castep-cell-io@0.6.0
