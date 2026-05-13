@@ -9,4 +9,5 @@
 - pkg:cargo/libcrux-blake2@0.0.5-pre.1
 - pkg:cargo/libcrux-blake2@0.0.6
 - pkg:cargo/libcrux-blake2@0.0.6-pre.1
+- pkg:cargo/libcrux-blake2@0.0.7
 - pkg:cargo/libcrux-blake2@0.0.7-rc.1
