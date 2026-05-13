@@ -2,3 +2,4 @@
 - pkg:cargo/soroban-poseidon@25.0.0
 - pkg:cargo/soroban-poseidon@25.0.0-rc.1
 - pkg:cargo/soroban-poseidon@25.0.1
+- pkg:cargo/soroban-poseidon@26.0.0
