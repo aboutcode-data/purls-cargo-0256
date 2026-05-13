@@ -6,3 +6,4 @@
 - pkg:cargo/zingo-netutils@2.0.2
 - pkg:cargo/zingo-netutils@3.0.0
 - pkg:cargo/zingo-netutils@4.0.0
+- pkg:cargo/zingo-netutils@5.0.0
