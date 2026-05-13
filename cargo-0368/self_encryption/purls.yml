@@ -78,6 +78,7 @@
 - pkg:cargo/self_encryption@0.34.2
 - pkg:cargo/self_encryption@0.34.3
 - pkg:cargo/self_encryption@0.35.0
+- pkg:cargo/self_encryption@0.36.0
 - pkg:cargo/self_encryption@0.4.0
 - pkg:cargo/self_encryption@0.5.0
 - pkg:cargo/self_encryption@0.5.1

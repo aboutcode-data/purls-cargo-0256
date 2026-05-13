@@ -11,3 +11,4 @@
 - pkg:cargo/goku-bench@1.1.7
 - pkg:cargo/goku-bench@1.1.8
 - pkg:cargo/goku-bench@2.0.1
+- pkg:cargo/goku-bench@3.0.0
