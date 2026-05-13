@@ -21,3 +21,4 @@
 - pkg:cargo/tend@0.2.7
 - pkg:cargo/tend@0.2.8
 - pkg:cargo/tend@0.2.9
+- pkg:cargo/tend@1.0.0

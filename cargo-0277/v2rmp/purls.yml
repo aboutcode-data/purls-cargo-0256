@@ -12,3 +12,5 @@
 - pkg:cargo/v2rmp@0.4.4
 - pkg:cargo/v2rmp@0.4.5
 - pkg:cargo/v2rmp@0.4.6
+- pkg:cargo/v2rmp@0.4.7
+- pkg:cargo/v2rmp@0.4.8
