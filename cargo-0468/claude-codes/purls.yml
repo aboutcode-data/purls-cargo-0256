@@ -8,6 +8,7 @@
 - pkg:cargo/claude-codes@0.3.0
 - pkg:cargo/claude-codes@2.0.76
 - pkg:cargo/claude-codes@2.1.117
+- pkg:cargo/claude-codes@2.1.140
 - pkg:cargo/claude-codes@2.1.15
 - pkg:cargo/claude-codes@2.1.16
 - pkg:cargo/claude-codes@2.1.17

@@ -27,6 +27,8 @@
 - pkg:cargo/spider_firewall@2.35.12
 - pkg:cargo/spider_firewall@2.35.13
 - pkg:cargo/spider_firewall@2.35.14
+- pkg:cargo/spider_firewall@2.35.15
+- pkg:cargo/spider_firewall@2.35.16
 - pkg:cargo/spider_firewall@2.35.2
 - pkg:cargo/spider_firewall@2.35.3
 - pkg:cargo/spider_firewall@2.35.4
