@@ -3,3 +3,4 @@
 - pkg:cargo/symbiont-macros@0.3.0
 - pkg:cargo/symbiont-macros@0.4.0
 - pkg:cargo/symbiont-macros@0.7.0
+- pkg:cargo/symbiont-macros@0.8.0
