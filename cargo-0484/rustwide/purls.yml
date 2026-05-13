@@ -25,6 +25,7 @@
 - pkg:cargo/rustwide@0.22.1
 - pkg:cargo/rustwide@0.23.0
 - pkg:cargo/rustwide@0.23.1
+- pkg:cargo/rustwide@0.24.0
 - pkg:cargo/rustwide@0.3.0
 - pkg:cargo/rustwide@0.3.1
 - pkg:cargo/rustwide@0.3.2
