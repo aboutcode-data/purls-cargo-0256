@@ -21,3 +21,4 @@
 - pkg:cargo/uv-test@0.0.41
 - pkg:cargo/uv-test@0.0.44
 - pkg:cargo/uv-test@0.0.45
+- pkg:cargo/uv-test@0.0.47
