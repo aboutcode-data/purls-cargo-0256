@@ -18,6 +18,7 @@
 - pkg:cargo/keepass@0.12.6
 - pkg:cargo/keepass@0.12.7
 - pkg:cargo/keepass@0.12.8
+- pkg:cargo/keepass@0.12.9
 - pkg:cargo/keepass@0.3.0
 - pkg:cargo/keepass@0.3.1
 - pkg:cargo/keepass@0.3.2
