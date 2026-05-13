@@ -7,3 +7,4 @@
 - pkg:cargo/perfetto-sdk@0.2.2
 - pkg:cargo/perfetto-sdk@0.2.3
 - pkg:cargo/perfetto-sdk@0.3.0
+- pkg:cargo/perfetto-sdk@1.0.0

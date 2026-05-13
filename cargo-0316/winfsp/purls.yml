@@ -15,6 +15,9 @@
 - pkg:cargo/winfsp@0.12.2%2Bwinfsp-2.1
 - pkg:cargo/winfsp@0.12.3%2Bwinfsp-2.1
 - pkg:cargo/winfsp@0.12.4%2Bwinfsp-2.1
+- pkg:cargo/winfsp@0.12.5%2Bwinfsp-2.1
+- pkg:cargo/winfsp@0.12.6%2Bwinfsp-2.1
+- pkg:cargo/winfsp@0.13.0%2Bwinfsp-2.1
 - pkg:cargo/winfsp@0.2.0%2Bwinfsp-1.11
 - pkg:cargo/winfsp@0.2.1%2Bwinfsp-1.11
 - pkg:cargo/winfsp@0.3.0%2Bwinfsp-1.11
