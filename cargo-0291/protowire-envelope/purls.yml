@@ -1,2 +1,3 @@
 - pkg:cargo/protowire-envelope@0.70.0
 - pkg:cargo/protowire-envelope@0.75.0
+- pkg:cargo/protowire-envelope@1.0.0
