@@ -42,3 +42,4 @@
 - pkg:cargo/coreason-manifest@0.59.0
 - pkg:cargo/coreason-manifest@0.60.0
 - pkg:cargo/coreason-manifest@0.60.1
+- pkg:cargo/coreason-manifest@0.61.0

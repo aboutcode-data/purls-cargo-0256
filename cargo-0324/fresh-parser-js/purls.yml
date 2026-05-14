@@ -34,3 +34,4 @@
 - pkg:cargo/fresh-parser-js@0.3.2
 - pkg:cargo/fresh-parser-js@0.3.4
 - pkg:cargo/fresh-parser-js@0.3.5
+- pkg:cargo/fresh-parser-js@0.3.6
