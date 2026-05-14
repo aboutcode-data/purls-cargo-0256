@@ -31,3 +31,5 @@
 - pkg:cargo/cranpose-platform-android@0.0.64
 - pkg:cargo/cranpose-platform-android@0.0.65
 - pkg:cargo/cranpose-platform-android@0.0.67
+- pkg:cargo/cranpose-platform-android@0.1.0
+- pkg:cargo/cranpose-platform-android@0.1.1
