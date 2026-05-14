@@ -1,5 +1,6 @@
 - pkg:cargo/hyprshell-wl-clipboard-rs@4.10.0
 - pkg:cargo/hyprshell-wl-clipboard-rs@4.10.2
+- pkg:cargo/hyprshell-wl-clipboard-rs@4.10.3
 - pkg:cargo/hyprshell-wl-clipboard-rs@4.8.0
 - pkg:cargo/hyprshell-wl-clipboard-rs@4.8.1
 - pkg:cargo/hyprshell-wl-clipboard-rs@4.8.2
