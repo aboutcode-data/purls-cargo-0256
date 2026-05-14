@@ -1,2 +1,3 @@
 - pkg:cargo/opentelemetry-instrumentation-actix-web@0.22.0
 - pkg:cargo/opentelemetry-instrumentation-actix-web@0.23.0
+- pkg:cargo/opentelemetry-instrumentation-actix-web@0.24.0
