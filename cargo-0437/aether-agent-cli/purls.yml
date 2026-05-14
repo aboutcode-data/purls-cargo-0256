@@ -27,3 +27,4 @@
 - pkg:cargo/aether-agent-cli@0.6.1
 - pkg:cargo/aether-agent-cli@0.6.2
 - pkg:cargo/aether-agent-cli@0.6.3
+- pkg:cargo/aether-agent-cli@0.7.0
