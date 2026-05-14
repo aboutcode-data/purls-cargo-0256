@@ -13,3 +13,4 @@
 - pkg:cargo/charms-proof-wrapper@12.0.1
 - pkg:cargo/charms-proof-wrapper@13.0.0
 - pkg:cargo/charms-proof-wrapper@14.0.0
+- pkg:cargo/charms-proof-wrapper@14.1.0
