@@ -1,1 +1,2 @@
 - pkg:cargo/openauth-stripe@0.0.1
+- pkg:cargo/openauth-stripe@0.0.2
