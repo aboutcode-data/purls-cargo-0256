@@ -31,6 +31,7 @@
 - pkg:cargo/zng-ext-l10n@0.15.1
 - pkg:cargo/zng-ext-l10n@0.15.2
 - pkg:cargo/zng-ext-l10n@0.15.3
+- pkg:cargo/zng-ext-l10n@0.15.4
 - pkg:cargo/zng-ext-l10n@0.2.1
 - pkg:cargo/zng-ext-l10n@0.2.2
 - pkg:cargo/zng-ext-l10n@0.2.3
