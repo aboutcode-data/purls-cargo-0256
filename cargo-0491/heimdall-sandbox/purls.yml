@@ -1,3 +1,6 @@
 - pkg:cargo/heimdall-sandbox@0.1.10
 - pkg:cargo/heimdall-sandbox@0.1.17
+- pkg:cargo/heimdall-sandbox@0.1.19
+- pkg:cargo/heimdall-sandbox@0.1.20
+- pkg:cargo/heimdall-sandbox@0.1.22
 - pkg:cargo/heimdall-sandbox@0.1.8
