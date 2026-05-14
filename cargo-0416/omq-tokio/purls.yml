@@ -4,3 +4,4 @@
 - pkg:cargo/omq-tokio@0.2.6
 - pkg:cargo/omq-tokio@0.2.7
 - pkg:cargo/omq-tokio@0.3.0
+- pkg:cargo/omq-tokio@0.4.0

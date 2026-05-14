@@ -13,6 +13,7 @@
 - pkg:cargo/rehoboam@0.15.0
 - pkg:cargo/rehoboam@0.16.0
 - pkg:cargo/rehoboam@0.16.1
+- pkg:cargo/rehoboam@0.17.0
 - pkg:cargo/rehoboam@0.9.1
 - pkg:cargo/rehoboam@0.9.10
 - pkg:cargo/rehoboam@0.9.11
