@@ -10,4 +10,5 @@
 - pkg:cargo/opentalk-roomserver-room@0.0.35
 - pkg:cargo/opentalk-roomserver-room@0.0.36
 - pkg:cargo/opentalk-roomserver-room@0.0.38
+- pkg:cargo/opentalk-roomserver-room@0.0.39
 - pkg:cargo/opentalk-roomserver-room@0.0.8
