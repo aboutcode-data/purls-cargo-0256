@@ -5,4 +5,5 @@
 - pkg:cargo/dear-imgui-ash@0.10.4
 - pkg:cargo/dear-imgui-ash@0.11.0
 - pkg:cargo/dear-imgui-ash@0.12.0
+- pkg:cargo/dear-imgui-ash@0.13.0
 - pkg:cargo/dear-imgui-ash@0.9.0
