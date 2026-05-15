@@ -99,3 +99,4 @@
 - pkg:cargo/swc_atoms@8.0.1
 - pkg:cargo/swc_atoms@8.0.2
 - pkg:cargo/swc_atoms@9.0.0
+- pkg:cargo/swc_atoms@9.0.1
