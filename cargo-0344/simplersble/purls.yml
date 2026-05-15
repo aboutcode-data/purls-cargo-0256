@@ -121,7 +121,12 @@
 - pkg:cargo/simplersble@0.12.2-dev5
 - pkg:cargo/simplersble@0.12.2-dev6
 - pkg:cargo/simplersble@0.14.0
+- pkg:cargo/simplersble@0.14.1-dev10
+- pkg:cargo/simplersble@0.14.1-dev12
+- pkg:cargo/simplersble@0.14.1-dev14
 - pkg:cargo/simplersble@0.14.1-dev3
+- pkg:cargo/simplersble@0.14.1-dev7
+- pkg:cargo/simplersble@0.14.1-dev8
 - pkg:cargo/simplersble@0.6.0
 - pkg:cargo/simplersble@0.6.0-alpha1
 - pkg:cargo/simplersble@0.6.0-alpha2
