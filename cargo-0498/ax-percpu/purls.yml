@@ -1,4 +1,5 @@
 - pkg:cargo/ax-percpu@0.4.10
+- pkg:cargo/ax-percpu@0.4.11
 - pkg:cargo/ax-percpu@0.4.3
 - pkg:cargo/ax-percpu@0.4.4
 - pkg:cargo/ax-percpu@0.4.9
