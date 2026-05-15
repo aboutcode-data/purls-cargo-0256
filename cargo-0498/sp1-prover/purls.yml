@@ -56,3 +56,4 @@
 - pkg:cargo/sp1-prover@6.0.2
 - pkg:cargo/sp1-prover@6.1.0
 - pkg:cargo/sp1-prover@6.2.0
+- pkg:cargo/sp1-prover@6.2.1
