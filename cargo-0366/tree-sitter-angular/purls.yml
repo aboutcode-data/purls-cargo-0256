@@ -18,3 +18,4 @@
 - pkg:cargo/tree-sitter-angular@0.8.1
 - pkg:cargo/tree-sitter-angular@0.8.2
 - pkg:cargo/tree-sitter-angular@0.8.4
+- pkg:cargo/tree-sitter-angular@0.8.5
