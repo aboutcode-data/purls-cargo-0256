@@ -176,3 +176,4 @@
 - pkg:cargo/lean-ctx@3.5.7
 - pkg:cargo/lean-ctx@3.5.8
 - pkg:cargo/lean-ctx@3.5.9
+- pkg:cargo/lean-ctx@3.6.0
