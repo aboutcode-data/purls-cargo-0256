@@ -1,3 +1,4 @@
+- pkg:cargo/auditmysite@0.13.0
 - pkg:cargo/auditmysite@0.9.24
 - pkg:cargo/auditmysite@0.9.27
 - pkg:cargo/auditmysite@0.9.28
