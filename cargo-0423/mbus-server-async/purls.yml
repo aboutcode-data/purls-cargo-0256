@@ -1,1 +1,2 @@
+- pkg:cargo/mbus-server-async@0.10.0
 - pkg:cargo/mbus-server-async@0.9.0

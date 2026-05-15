@@ -52,6 +52,7 @@
 - pkg:cargo/ormlite-macro@0.23.3
 - pkg:cargo/ormlite-macro@0.24.1
 - pkg:cargo/ormlite-macro@0.24.3
+- pkg:cargo/ormlite-macro@0.24.4
 - pkg:cargo/ormlite-macro@0.3.0
 - pkg:cargo/ormlite-macro@0.3.1
 - pkg:cargo/ormlite-macro@0.3.2

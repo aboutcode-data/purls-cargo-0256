@@ -97,6 +97,7 @@
 - pkg:cargo/wit-component@0.246.2
 - pkg:cargo/wit-component@0.247.0
 - pkg:cargo/wit-component@0.248.0
+- pkg:cargo/wit-component@0.249.0
 - pkg:cargo/wit-component@0.3.1
 - pkg:cargo/wit-component@0.3.2
 - pkg:cargo/wit-component@0.4.0

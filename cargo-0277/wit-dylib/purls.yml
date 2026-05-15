@@ -11,3 +11,4 @@
 - pkg:cargo/wit-dylib@0.246.2
 - pkg:cargo/wit-dylib@0.247.0
 - pkg:cargo/wit-dylib@0.248.0
+- pkg:cargo/wit-dylib@0.249.0
