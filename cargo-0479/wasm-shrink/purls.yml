@@ -116,3 +116,4 @@
 - pkg:cargo/wasm-shrink@0.246.2
 - pkg:cargo/wasm-shrink@0.247.0
 - pkg:cargo/wasm-shrink@0.248.0
+- pkg:cargo/wasm-shrink@0.249.0
