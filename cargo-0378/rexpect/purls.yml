@@ -10,3 +10,4 @@
 - pkg:cargo/rexpect@0.6.3
 - pkg:cargo/rexpect@0.6.4
 - pkg:cargo/rexpect@0.7.0
+- pkg:cargo/rexpect@0.7.1
