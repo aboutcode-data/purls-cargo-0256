@@ -63,6 +63,7 @@
 - pkg:cargo/sentry_protos@0.1.73
 - pkg:cargo/sentry_protos@0.1.74
 - pkg:cargo/sentry_protos@0.1.75
+- pkg:cargo/sentry_protos@0.10.0
 - pkg:cargo/sentry_protos@0.2.0
 - pkg:cargo/sentry_protos@0.2.1
 - pkg:cargo/sentry_protos@0.3.0
