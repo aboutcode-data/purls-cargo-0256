@@ -1,2 +1,3 @@
 - pkg:cargo/maat_prover@0.13.0
 - pkg:cargo/maat_prover@0.13.1
+- pkg:cargo/maat_prover@0.14.0
