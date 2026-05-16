@@ -12,3 +12,4 @@
 - pkg:cargo/synadb@1.1.2
 - pkg:cargo/synadb@1.2.0
 - pkg:cargo/synadb@1.3.0
+- pkg:cargo/synadb@1.3.1
