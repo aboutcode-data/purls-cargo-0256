@@ -1,2 +1,4 @@
 - pkg:cargo/oxibrowser-core@0.2.0
 - pkg:cargo/oxibrowser-core@0.6.0
+- pkg:cargo/oxibrowser-core@0.7.0
+- pkg:cargo/oxibrowser-core@0.8.0
