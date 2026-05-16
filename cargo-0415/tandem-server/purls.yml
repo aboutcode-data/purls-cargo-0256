@@ -61,3 +61,4 @@
 - pkg:cargo/tandem-server@0.5.3
 - pkg:cargo/tandem-server@0.5.4
 - pkg:cargo/tandem-server@0.5.5
+- pkg:cargo/tandem-server@0.5.6
