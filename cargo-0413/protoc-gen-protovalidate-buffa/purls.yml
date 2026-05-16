@@ -2,3 +2,4 @@
 - pkg:cargo/protoc-gen-protovalidate-buffa@0.1.0
 - pkg:cargo/protoc-gen-protovalidate-buffa@0.1.2
 - pkg:cargo/protoc-gen-protovalidate-buffa@0.2.0
+- pkg:cargo/protoc-gen-protovalidate-buffa@0.2.1

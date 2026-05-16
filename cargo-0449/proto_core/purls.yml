@@ -269,6 +269,7 @@
 - pkg:cargo/proto_core@0.56.4
 - pkg:cargo/proto_core@0.57.0
 - pkg:cargo/proto_core@0.57.1
+- pkg:cargo/proto_core@0.57.2
 - pkg:cargo/proto_core@0.6.0
 - pkg:cargo/proto_core@0.6.1
 - pkg:cargo/proto_core@0.7.0
