@@ -1,1 +1,4 @@
 - pkg:cargo/zipatch-rs@1.0.0
+- pkg:cargo/zipatch-rs@1.0.1
+- pkg:cargo/zipatch-rs@1.0.2
+- pkg:cargo/zipatch-rs@1.1.0
