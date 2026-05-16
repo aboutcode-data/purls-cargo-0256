@@ -1,3 +1,4 @@
 - pkg:cargo/nexo-plugin-whatsapp@0.1.1
 - pkg:cargo/nexo-plugin-whatsapp@0.1.3
 - pkg:cargo/nexo-plugin-whatsapp@0.3.0
+- pkg:cargo/nexo-plugin-whatsapp@0.4.0
