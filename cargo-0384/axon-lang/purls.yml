@@ -25,6 +25,7 @@
 - pkg:cargo/axon-lang@1.28.0
 - pkg:cargo/axon-lang@1.29.0
 - pkg:cargo/axon-lang@1.29.1
+- pkg:cargo/axon-lang@1.30.0
 - pkg:cargo/axon-lang@1.5.1
 - pkg:cargo/axon-lang@1.6.0
 - pkg:cargo/axon-lang@1.7.0
