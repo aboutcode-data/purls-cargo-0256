@@ -4,6 +4,7 @@
 - pkg:cargo/stygian-extract-derive@0.13.1
 - pkg:cargo/stygian-extract-derive@0.13.2
 - pkg:cargo/stygian-extract-derive@0.13.3
+- pkg:cargo/stygian-extract-derive@0.13.4
 - pkg:cargo/stygian-extract-derive@0.8.0
 - pkg:cargo/stygian-extract-derive@0.8.1
 - pkg:cargo/stygian-extract-derive@0.8.2
