@@ -57,3 +57,4 @@
 - pkg:cargo/hjkl-engine@0.6.8
 - pkg:cargo/hjkl-engine@0.6.9
 - pkg:cargo/hjkl-engine@0.7.0
+- pkg:cargo/hjkl-engine@0.8.0
