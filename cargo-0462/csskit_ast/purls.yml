@@ -93,6 +93,7 @@
 - pkg:cargo/csskit_ast@0.0.22-canary.b78bf31894
 - pkg:cargo/csskit_ast@0.0.22-canary.e3edf77358
 - pkg:cargo/csskit_ast@0.0.22-canary.ef3245ba5f
+- pkg:cargo/csskit_ast@0.0.23-canary.12da68dd4f
 - pkg:cargo/csskit_ast@0.0.8
 - pkg:cargo/csskit_ast@0.0.9-canary.3150cde69e
 - pkg:cargo/csskit_ast@0.0.9-canary.98adc8dbf3
