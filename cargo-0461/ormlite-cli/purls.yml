@@ -36,4 +36,5 @@
 - pkg:cargo/ormlite-cli@0.24.1
 - pkg:cargo/ormlite-cli@0.24.3
 - pkg:cargo/ormlite-cli@0.24.4
+- pkg:cargo/ormlite-cli@0.24.5
 - pkg:cargo/ormlite-cli@0.9.3

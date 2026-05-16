@@ -39,6 +39,7 @@
 - pkg:cargo/ormlite-attr@0.24.1
 - pkg:cargo/ormlite-attr@0.24.3
 - pkg:cargo/ormlite-attr@0.24.4
+- pkg:cargo/ormlite-attr@0.24.5
 - pkg:cargo/ormlite-attr@0.6.0
 - pkg:cargo/ormlite-attr@0.6.1
 - pkg:cargo/ormlite-attr@0.7.0
