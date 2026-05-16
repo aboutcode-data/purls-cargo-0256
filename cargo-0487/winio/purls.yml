@@ -9,6 +9,7 @@
 - pkg:cargo/winio@0.1.8
 - pkg:cargo/winio@0.10.0
 - pkg:cargo/winio@0.11.0
+- pkg:cargo/winio@0.12.0-rc.1
 - pkg:cargo/winio@0.2.0
 - pkg:cargo/winio@0.2.1
 - pkg:cargo/winio@0.2.2
