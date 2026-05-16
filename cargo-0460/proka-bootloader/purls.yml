@@ -15,3 +15,5 @@
 - pkg:cargo/proka-bootloader@0.4.1
 - pkg:cargo/proka-bootloader@0.4.2
 - pkg:cargo/proka-bootloader@0.5.0
+- pkg:cargo/proka-bootloader@0.5.1
+- pkg:cargo/proka-bootloader@0.5.2
