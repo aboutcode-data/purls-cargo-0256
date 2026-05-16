@@ -2,3 +2,4 @@
 - pkg:cargo/apimock-routing@5.0.1
 - pkg:cargo/apimock-routing@5.1.1
 - pkg:cargo/apimock-routing@5.1.2
+- pkg:cargo/apimock-routing@5.2.0
