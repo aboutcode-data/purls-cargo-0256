@@ -1,2 +1,5 @@
 - pkg:cargo/triblespace-search@0.37.0
 - pkg:cargo/triblespace-search@0.38.0
+- pkg:cargo/triblespace-search@0.40.0
+- pkg:cargo/triblespace-search@0.40.1
+- pkg:cargo/triblespace-search@0.40.2

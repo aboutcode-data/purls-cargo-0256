@@ -21,6 +21,9 @@
 - pkg:cargo/triblespace-macros-common@0.36.0
 - pkg:cargo/triblespace-macros-common@0.37.0
 - pkg:cargo/triblespace-macros-common@0.38.0
+- pkg:cargo/triblespace-macros-common@0.40.0
+- pkg:cargo/triblespace-macros-common@0.40.1
+- pkg:cargo/triblespace-macros-common@0.40.2
 - pkg:cargo/triblespace-macros-common@0.6.0
 - pkg:cargo/triblespace-macros-common@0.7.0
 - pkg:cargo/triblespace-macros-common@0.8.0
