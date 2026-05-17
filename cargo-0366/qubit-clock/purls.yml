@@ -13,3 +13,4 @@
 - pkg:cargo/qubit-clock@0.4.1
 - pkg:cargo/qubit-clock@0.6.0
 - pkg:cargo/qubit-clock@0.6.1
+- pkg:cargo/qubit-clock@0.7.0
