@@ -69,5 +69,6 @@
 - pkg:cargo/ua_generator@0.5.6
 - pkg:cargo/ua_generator@0.5.60
 - pkg:cargo/ua_generator@0.5.61
+- pkg:cargo/ua_generator@0.5.62
 - pkg:cargo/ua_generator@0.5.7
 - pkg:cargo/ua_generator@0.5.9
