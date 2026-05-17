@@ -6,3 +6,4 @@
 - pkg:cargo/hyperfuel-client@2.2.1
 - pkg:cargo/hyperfuel-client@3.0.0
 - pkg:cargo/hyperfuel-client@3.0.1
+- pkg:cargo/hyperfuel-client@3.1.0
