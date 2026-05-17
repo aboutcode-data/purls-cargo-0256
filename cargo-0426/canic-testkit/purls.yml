@@ -225,6 +225,11 @@
 - pkg:cargo/canic-testkit@0.37.0
 - pkg:cargo/canic-testkit@0.37.1
 - pkg:cargo/canic-testkit@0.38.0
+- pkg:cargo/canic-testkit@0.38.1
+- pkg:cargo/canic-testkit@0.38.2
+- pkg:cargo/canic-testkit@0.38.3
+- pkg:cargo/canic-testkit@0.38.4
+- pkg:cargo/canic-testkit@0.38.5
 - pkg:cargo/canic-testkit@0.4.11
 - pkg:cargo/canic-testkit@0.4.12
 - pkg:cargo/canic-testkit@0.4.13

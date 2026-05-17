@@ -4,6 +4,7 @@
 - pkg:cargo/dbmcp@0.10.3
 - pkg:cargo/dbmcp@0.10.4
 - pkg:cargo/dbmcp@0.11.0
+- pkg:cargo/dbmcp@0.11.1
 - pkg:cargo/dbmcp@0.7.0
 - pkg:cargo/dbmcp@0.8.0
 - pkg:cargo/dbmcp@0.9.0
