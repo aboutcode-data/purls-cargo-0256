@@ -35,3 +35,5 @@
 - pkg:cargo/s2json-core@1.51.0
 - pkg:cargo/s2json-core@1.51.1
 - pkg:cargo/s2json-core@1.52.0
+- pkg:cargo/s2json-core@1.53.0
+- pkg:cargo/s2json-core@1.53.1
