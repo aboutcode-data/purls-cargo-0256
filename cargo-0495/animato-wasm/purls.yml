@@ -2,3 +2,4 @@
 - pkg:cargo/animato-wasm@0.8.0
 - pkg:cargo/animato-wasm@0.9.0
 - pkg:cargo/animato-wasm@1.0.0
+- pkg:cargo/animato-wasm@1.1.0
