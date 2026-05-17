@@ -35,5 +35,6 @@
 - pkg:cargo/bitrouter-observe@0.31.1
 - pkg:cargo/bitrouter-observe@0.31.2
 - pkg:cargo/bitrouter-observe@0.32.0
+- pkg:cargo/bitrouter-observe@0.33.0
 - pkg:cargo/bitrouter-observe@0.8.1
 - pkg:cargo/bitrouter-observe@0.9.0
