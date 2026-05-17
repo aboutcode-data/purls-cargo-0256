@@ -47,7 +47,14 @@
 - pkg:cargo/supermachine@0.7.0
 - pkg:cargo/supermachine@0.7.1
 - pkg:cargo/supermachine@0.7.10
+- pkg:cargo/supermachine@0.7.16
+- pkg:cargo/supermachine@0.7.17
+- pkg:cargo/supermachine@0.7.18
+- pkg:cargo/supermachine@0.7.19
 - pkg:cargo/supermachine@0.7.2
+- pkg:cargo/supermachine@0.7.20
+- pkg:cargo/supermachine@0.7.21
+- pkg:cargo/supermachine@0.7.22
 - pkg:cargo/supermachine@0.7.3
 - pkg:cargo/supermachine@0.7.4
 - pkg:cargo/supermachine@0.7.5
