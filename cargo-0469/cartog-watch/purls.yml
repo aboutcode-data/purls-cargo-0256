@@ -16,4 +16,5 @@
 - pkg:cargo/cartog-watch@0.14.3
 - pkg:cargo/cartog-watch@0.14.4
 - pkg:cargo/cartog-watch@0.14.5
+- pkg:cargo/cartog-watch@0.15.0
 - pkg:cargo/cartog-watch@0.9.4
