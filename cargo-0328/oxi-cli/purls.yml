@@ -11,6 +11,11 @@
 - pkg:cargo/oxi-cli@0.14.1
 - pkg:cargo/oxi-cli@0.15.0
 - pkg:cargo/oxi-cli@0.15.1
+- pkg:cargo/oxi-cli@0.16.0
+- pkg:cargo/oxi-cli@0.16.1
+- pkg:cargo/oxi-cli@0.16.2
+- pkg:cargo/oxi-cli@0.16.3
+- pkg:cargo/oxi-cli@0.16.4
 - pkg:cargo/oxi-cli@0.2.0-alpha
 - pkg:cargo/oxi-cli@0.2.1-alpha
 - pkg:cargo/oxi-cli@0.3.0-alpha
