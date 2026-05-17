@@ -15,3 +15,5 @@
 - pkg:cargo/bevy_stdb@0.7.1
 - pkg:cargo/bevy_stdb@0.7.2
 - pkg:cargo/bevy_stdb@0.7.3
+- pkg:cargo/bevy_stdb@0.8.0
+- pkg:cargo/bevy_stdb@0.8.1
