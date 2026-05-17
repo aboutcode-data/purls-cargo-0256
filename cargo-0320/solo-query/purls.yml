@@ -13,3 +13,4 @@
 - pkg:cargo/solo-query@0.7.0
 - pkg:cargo/solo-query@0.7.1
 - pkg:cargo/solo-query@0.8.0
+- pkg:cargo/solo-query@0.8.1
