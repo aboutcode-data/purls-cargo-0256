@@ -24,3 +24,4 @@
 - pkg:cargo/nils-git-lock@0.6.5
 - pkg:cargo/nils-git-lock@0.7.2
 - pkg:cargo/nils-git-lock@0.7.3
+- pkg:cargo/nils-git-lock@0.8.3
