@@ -1,2 +1,4 @@
 - pkg:cargo/dotenvs@0.0.1
 - pkg:cargo/dotenvs@0.1.0
+- pkg:cargo/dotenvs@0.2.0
+- pkg:cargo/dotenvs@0.2.1
