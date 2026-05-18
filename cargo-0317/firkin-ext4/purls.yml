@@ -1,1 +1,4 @@
+- pkg:cargo/firkin-ext4@0.0.1
 - pkg:cargo/firkin-ext4@0.0.1-alpha
+- pkg:cargo/firkin-ext4@0.0.2
+- pkg:cargo/firkin-ext4@0.0.3
