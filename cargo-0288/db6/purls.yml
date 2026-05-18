@@ -3,3 +3,8 @@
 - pkg:cargo/db6@4.15.1
 - pkg:cargo/db6@4.16.0
 - pkg:cargo/db6@4.16.1
+- pkg:cargo/db6@5.0.0
+- pkg:cargo/db6@5.0.1
+- pkg:cargo/db6@5.1.0
+- pkg:cargo/db6@5.2.0
+- pkg:cargo/db6@5.2.1
