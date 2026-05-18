@@ -3,3 +3,4 @@
 - pkg:cargo/sentinel-driver@1.0.0
 - pkg:cargo/sentinel-driver@2.0.0
 - pkg:cargo/sentinel-driver@3.0.0
+- pkg:cargo/sentinel-driver@4.0.0
