@@ -12,3 +12,4 @@
 - pkg:cargo/libpetri-debug@1.8.2
 - pkg:cargo/libpetri-debug@1.8.3
 - pkg:cargo/libpetri-debug@1.8.4
+- pkg:cargo/libpetri-debug@2.0.0
