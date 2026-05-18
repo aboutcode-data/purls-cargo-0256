@@ -25,9 +25,12 @@
 - pkg:cargo/cntrdct@0.2.0-rc.31
 - pkg:cargo/cntrdct@0.2.0-rc.32
 - pkg:cargo/cntrdct@0.2.0-rc.33
+- pkg:cargo/cntrdct@0.2.0-rc.34
+- pkg:cargo/cntrdct@0.2.0-rc.35
 - pkg:cargo/cntrdct@0.2.0-rc.4
 - pkg:cargo/cntrdct@0.2.0-rc.5
 - pkg:cargo/cntrdct@0.2.0-rc.6
 - pkg:cargo/cntrdct@0.2.0-rc.7
 - pkg:cargo/cntrdct@0.2.0-rc.8
 - pkg:cargo/cntrdct@0.2.0-rc.9
+- pkg:cargo/cntrdct@0.3.0

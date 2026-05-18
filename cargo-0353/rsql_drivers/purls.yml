@@ -36,4 +36,5 @@
 - pkg:cargo/rsql_drivers@0.19.1
 - pkg:cargo/rsql_drivers@0.19.2
 - pkg:cargo/rsql_drivers@0.19.3
+- pkg:cargo/rsql_drivers@0.19.4
 - pkg:cargo/rsql_drivers@0.9.0
