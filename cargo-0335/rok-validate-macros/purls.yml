@@ -1,2 +1,4 @@
 - pkg:cargo/rok-validate-macros@0.1.0
 - pkg:cargo/rok-validate-macros@0.3.4
+- pkg:cargo/rok-validate-macros@0.3.6
+- pkg:cargo/rok-validate-macros@0.3.7
