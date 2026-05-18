@@ -2,3 +2,4 @@
 - pkg:cargo/lingxia-log@0.6.3
 - pkg:cargo/lingxia-log@0.6.4
 - pkg:cargo/lingxia-log@0.6.5
+- pkg:cargo/lingxia-log@0.7.0
