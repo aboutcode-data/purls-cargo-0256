@@ -26,6 +26,7 @@
 - pkg:cargo/js-component-bindgen@1.16.8
 - pkg:cargo/js-component-bindgen@1.17.0
 - pkg:cargo/js-component-bindgen@1.18.0
+- pkg:cargo/js-component-bindgen@1.19.0
 - pkg:cargo/js-component-bindgen@1.19.0-rc.0
 - pkg:cargo/js-component-bindgen@1.19.0-rc.1
 - pkg:cargo/js-component-bindgen@1.19.0-rc.2
