@@ -71,3 +71,7 @@
 - pkg:cargo/coreason-manifest@0.79.0
 - pkg:cargo/coreason-manifest@0.80.0
 - pkg:cargo/coreason-manifest@0.81.0
+- pkg:cargo/coreason-manifest@0.82.0
+- pkg:cargo/coreason-manifest@0.82.1
+- pkg:cargo/coreason-manifest@0.83.0
+- pkg:cargo/coreason-manifest@0.83.1
