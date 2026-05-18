@@ -52,6 +52,7 @@
 - pkg:cargo/riverctl@0.1.58
 - pkg:cargo/riverctl@0.1.6
 - pkg:cargo/riverctl@0.1.60
+- pkg:cargo/riverctl@0.1.61
 - pkg:cargo/riverctl@0.1.7
 - pkg:cargo/riverctl@0.1.8
 - pkg:cargo/riverctl@0.1.9

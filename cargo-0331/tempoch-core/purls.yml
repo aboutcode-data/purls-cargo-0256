@@ -6,3 +6,4 @@
 - pkg:cargo/tempoch-core@0.4.4
 - pkg:cargo/tempoch-core@0.4.5
 - pkg:cargo/tempoch-core@0.5.1
+- pkg:cargo/tempoch-core@0.6.0
