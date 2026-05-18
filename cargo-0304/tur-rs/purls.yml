@@ -1,1 +1,4 @@
 - pkg:cargo/tur-rs@0.4.1
+- pkg:cargo/tur-rs@0.7.0
+- pkg:cargo/tur-rs@0.8.1
+- pkg:cargo/tur-rs@0.8.2
