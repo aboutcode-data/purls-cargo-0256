@@ -40,3 +40,4 @@
 - pkg:cargo/fuel-gas-price-algorithm@0.47.4
 - pkg:cargo/fuel-gas-price-algorithm@0.48.0
 - pkg:cargo/fuel-gas-price-algorithm@0.48.1
+- pkg:cargo/fuel-gas-price-algorithm@0.48.2

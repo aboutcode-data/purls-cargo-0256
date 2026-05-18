@@ -84,6 +84,7 @@
 - pkg:cargo/databend-driver-macros@0.33.5
 - pkg:cargo/databend-driver-macros@0.33.6
 - pkg:cargo/databend-driver-macros@0.33.7
+- pkg:cargo/databend-driver-macros@0.34.0
 - pkg:cargo/databend-driver-macros@0.5.2
 - pkg:cargo/databend-driver-macros@0.6.0
 - pkg:cargo/databend-driver-macros@0.6.1

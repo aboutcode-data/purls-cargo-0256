@@ -88,3 +88,4 @@
 - pkg:cargo/fuel-core-consensus-module@0.47.4
 - pkg:cargo/fuel-core-consensus-module@0.48.0
 - pkg:cargo/fuel-core-consensus-module@0.48.1
+- pkg:cargo/fuel-core-consensus-module@0.48.2
