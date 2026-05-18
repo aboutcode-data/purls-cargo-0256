@@ -6,5 +6,6 @@
 - pkg:cargo/blvm-consensus@0.1.17
 - pkg:cargo/blvm-consensus@0.1.18
 - pkg:cargo/blvm-consensus@0.1.19
+- pkg:cargo/blvm-consensus@0.1.20
 - pkg:cargo/blvm-consensus@0.1.8
 - pkg:cargo/blvm-consensus@0.1.9
