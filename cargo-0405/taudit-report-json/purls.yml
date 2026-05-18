@@ -27,3 +27,4 @@
 - pkg:cargo/taudit-report-json@1.1.0-rc.6
 - pkg:cargo/taudit-report-json@2.0.0
 - pkg:cargo/taudit-report-json@3.0.0
+- pkg:cargo/taudit-report-json@3.0.1
