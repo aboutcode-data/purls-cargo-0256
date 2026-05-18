@@ -9,3 +9,4 @@
 - pkg:cargo/wolfssl@5.0.0
 - pkg:cargo/wolfssl@6.0.0
 - pkg:cargo/wolfssl@7.0.0
+- pkg:cargo/wolfssl@7.1.0
