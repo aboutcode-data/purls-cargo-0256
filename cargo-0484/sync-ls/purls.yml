@@ -80,6 +80,7 @@
 - pkg:cargo/sync-ls@0.14.18
 - pkg:cargo/sync-ls@0.14.18-rc1
 - pkg:cargo/sync-ls@0.14.19-rc1
+- pkg:cargo/sync-ls@0.14.19-rc2
 - pkg:cargo/sync-ls@0.14.2
 - pkg:cargo/sync-ls@0.14.2-rc1
 - pkg:cargo/sync-ls@0.14.4
