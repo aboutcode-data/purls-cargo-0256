@@ -1,6 +1,7 @@
 - pkg:cargo/world-id-authenticator@0.10.0
 - pkg:cargo/world-id-authenticator@0.10.1
 - pkg:cargo/world-id-authenticator@0.10.2
+- pkg:cargo/world-id-authenticator@0.11.0
 - pkg:cargo/world-id-authenticator@0.4.0
 - pkg:cargo/world-id-authenticator@0.4.1
 - pkg:cargo/world-id-authenticator@0.4.2
