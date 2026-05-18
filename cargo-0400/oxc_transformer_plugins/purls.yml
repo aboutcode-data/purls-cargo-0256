@@ -30,6 +30,7 @@
 - pkg:cargo/oxc_transformer_plugins@0.129.0
 - pkg:cargo/oxc_transformer_plugins@0.130.0
 - pkg:cargo/oxc_transformer_plugins@0.131.0
+- pkg:cargo/oxc_transformer_plugins@0.132.0
 - pkg:cargo/oxc_transformer_plugins@0.66.0
 - pkg:cargo/oxc_transformer_plugins@0.67.0
 - pkg:cargo/oxc_transformer_plugins@0.68.0
