@@ -1,5 +1,6 @@
 - pkg:cargo/hjkl-app@0.1.0
 - pkg:cargo/hjkl-app@0.2.0
+- pkg:cargo/hjkl-app@0.25.0
 - pkg:cargo/hjkl-app@0.3.0
 - pkg:cargo/hjkl-app@0.4.0
 - pkg:cargo/hjkl-app@0.4.1

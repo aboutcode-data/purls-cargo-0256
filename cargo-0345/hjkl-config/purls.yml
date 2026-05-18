@@ -2,3 +2,6 @@
 - pkg:cargo/hjkl-config@0.1.1
 - pkg:cargo/hjkl-config@0.2.0
 - pkg:cargo/hjkl-config@0.2.1
+- pkg:cargo/hjkl-config@0.24.3
+- pkg:cargo/hjkl-config@0.24.4
+- pkg:cargo/hjkl-config@0.25.0

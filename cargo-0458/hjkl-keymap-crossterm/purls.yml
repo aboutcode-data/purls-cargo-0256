@@ -1,1 +1,4 @@
 - pkg:cargo/hjkl-keymap-crossterm@0.1.0
+- pkg:cargo/hjkl-keymap-crossterm@0.24.3
+- pkg:cargo/hjkl-keymap-crossterm@0.24.4
+- pkg:cargo/hjkl-keymap-crossterm@0.25.0
