@@ -50,3 +50,5 @@
 - pkg:cargo/fusionamm-core@1.0.83
 - pkg:cargo/fusionamm-core@1.1.0
 - pkg:cargo/fusionamm-core@1.1.1
+- pkg:cargo/fusionamm-core@1.1.2
+- pkg:cargo/fusionamm-core@1.1.3
