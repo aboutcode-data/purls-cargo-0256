@@ -1,3 +1,5 @@
 - pkg:cargo/typr-core@0.4.25
 - pkg:cargo/typr-core@0.4.26
 - pkg:cargo/typr-core@0.4.27
+- pkg:cargo/typr-core@0.5.0
+- pkg:cargo/typr-core@0.5.1
