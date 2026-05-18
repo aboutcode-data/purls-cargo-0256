@@ -16,3 +16,4 @@
 - pkg:cargo/calimero-context-client@0.10.1-rc.35
 - pkg:cargo/calimero-context-client@0.10.1-rc.37
 - pkg:cargo/calimero-context-client@0.10.1-rc.38
+- pkg:cargo/calimero-context-client@0.10.1-rc.39
