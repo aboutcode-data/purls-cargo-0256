@@ -1,5 +1,6 @@
 - pkg:cargo/peat-schema@0.9.0-rc.1
 - pkg:cargo/peat-schema@0.9.0-rc.10
+- pkg:cargo/peat-schema@0.9.0-rc.11
 - pkg:cargo/peat-schema@0.9.0-rc.2
 - pkg:cargo/peat-schema@0.9.0-rc.3
 - pkg:cargo/peat-schema@0.9.0-rc.4
