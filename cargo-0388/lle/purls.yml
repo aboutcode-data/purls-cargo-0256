@@ -19,3 +19,4 @@
 - pkg:cargo/lle@2.7.2
 - pkg:cargo/lle@2.7.3
 - pkg:cargo/lle@2.8.0
+- pkg:cargo/lle@2.9.0
