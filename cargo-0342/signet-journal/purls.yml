@@ -34,3 +34,4 @@
 - pkg:cargo/signet-journal@0.17.0
 - pkg:cargo/signet-journal@0.17.1
 - pkg:cargo/signet-journal@0.18.0
+- pkg:cargo/signet-journal@0.19.0
