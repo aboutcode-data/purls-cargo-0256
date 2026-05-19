@@ -3,3 +3,4 @@
 - pkg:cargo/iceoryx2-pal-testing@0.7.0
 - pkg:cargo/iceoryx2-pal-testing@0.8.0
 - pkg:cargo/iceoryx2-pal-testing@0.8.1
+- pkg:cargo/iceoryx2-pal-testing@0.9.0

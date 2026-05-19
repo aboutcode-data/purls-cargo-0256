@@ -10,3 +10,4 @@
 - pkg:cargo/vortex-cuda-macros@0.68.0
 - pkg:cargo/vortex-cuda-macros@0.69.0
 - pkg:cargo/vortex-cuda-macros@0.70.0
+- pkg:cargo/vortex-cuda-macros@0.71.0
