@@ -10,3 +10,9 @@
 - pkg:cargo/mcp-compressor@0.15.0-alpha.9
 - pkg:cargo/mcp-compressor@0.16.0
 - pkg:cargo/mcp-compressor@0.17.0
+- pkg:cargo/mcp-compressor@0.18.0
+- pkg:cargo/mcp-compressor@0.18.1
+- pkg:cargo/mcp-compressor@0.19.0
+- pkg:cargo/mcp-compressor@0.19.1
+- pkg:cargo/mcp-compressor@0.19.2
+- pkg:cargo/mcp-compressor@0.19.3
