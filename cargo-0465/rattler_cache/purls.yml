@@ -95,3 +95,5 @@
 - pkg:cargo/rattler_cache@0.7.0
 - pkg:cargo/rattler_cache@0.7.1
 - pkg:cargo/rattler_cache@0.8.0
+- pkg:cargo/rattler_cache@0.8.1
+- pkg:cargo/rattler_cache@0.8.2
