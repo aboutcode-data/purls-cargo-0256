@@ -23,3 +23,4 @@
 - pkg:cargo/sqlitegraph-cli@2.1.5
 - pkg:cargo/sqlitegraph-cli@3.0.0
 - pkg:cargo/sqlitegraph-cli@3.0.1
+- pkg:cargo/sqlitegraph-cli@3.0.2
