@@ -7,3 +7,4 @@
 - pkg:cargo/fakecloud-organizations@0.13.2
 - pkg:cargo/fakecloud-organizations@0.13.3
 - pkg:cargo/fakecloud-organizations@0.14.0
+- pkg:cargo/fakecloud-organizations@0.15.0

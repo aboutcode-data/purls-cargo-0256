@@ -1,1 +1,2 @@
 - pkg:cargo/fakecloud-glue@0.14.0
+- pkg:cargo/fakecloud-glue@0.15.0

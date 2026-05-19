@@ -8,3 +8,4 @@
 - pkg:cargo/procpilot@0.5.1
 - pkg:cargo/procpilot@0.6.1
 - pkg:cargo/procpilot@0.7.0
+- pkg:cargo/procpilot@0.8.0
