@@ -34,3 +34,4 @@
 - pkg:cargo/cntrdct@0.2.0-rc.8
 - pkg:cargo/cntrdct@0.2.0-rc.9
 - pkg:cargo/cntrdct@0.3.0
+- pkg:cargo/cntrdct@0.4.0

@@ -4,3 +4,4 @@
 - pkg:cargo/cloud-hypervisor-client@0.3.3
 - pkg:cargo/cloud-hypervisor-client@0.4.0%2Bapi-spec-0.3.0-2026-05-04
 - pkg:cargo/cloud-hypervisor-client@0.5.0%2Bapi-spec-0.3.0-2026-05-11
+- pkg:cargo/cloud-hypervisor-client@0.6.0%2Bapi-spec-0.3.0-2026-05-19
