@@ -15,3 +15,4 @@
 - pkg:cargo/bt_string_utils@0.2.9
 - pkg:cargo/bt_string_utils@0.3.0
 - pkg:cargo/bt_string_utils@0.4.0
+- pkg:cargo/bt_string_utils@0.4.1
