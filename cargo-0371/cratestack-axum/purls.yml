@@ -10,3 +10,5 @@
 - pkg:cargo/cratestack-axum@0.3.5
 - pkg:cargo/cratestack-axum@0.3.6
 - pkg:cargo/cratestack-axum@0.3.7
+- pkg:cargo/cratestack-axum@0.4.2
+- pkg:cargo/cratestack-axum@0.4.3
