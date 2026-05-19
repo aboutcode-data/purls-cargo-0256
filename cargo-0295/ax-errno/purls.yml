@@ -5,3 +5,4 @@
 - pkg:cargo/ax-errno@0.4.6
 - pkg:cargo/ax-errno@0.4.7
 - pkg:cargo/ax-errno@0.4.8
+- pkg:cargo/ax-errno@0.5.0

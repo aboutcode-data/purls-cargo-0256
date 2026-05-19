@@ -30,6 +30,7 @@
 - pkg:cargo/typedb-protocol@3.1.0
 - pkg:cargo/typedb-protocol@3.10.0
 - pkg:cargo/typedb-protocol@3.10.0-alpha-0
+- pkg:cargo/typedb-protocol@3.11.0
 - pkg:cargo/typedb-protocol@3.11.0-rc0
 - pkg:cargo/typedb-protocol@3.2.0
 - pkg:cargo/typedb-protocol@3.2.0-rc0
