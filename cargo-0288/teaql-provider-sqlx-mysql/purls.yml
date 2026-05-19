@@ -1,1 +1,2 @@
 - pkg:cargo/teaql-provider-sqlx-mysql@0.7.5
+- pkg:cargo/teaql-provider-sqlx-mysql@0.7.6
