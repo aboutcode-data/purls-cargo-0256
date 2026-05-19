@@ -29,3 +29,4 @@
 - pkg:cargo/tracing-opentelemetry-setup@0.7.7
 - pkg:cargo/tracing-opentelemetry-setup@0.7.8
 - pkg:cargo/tracing-opentelemetry-setup@0.7.9
+- pkg:cargo/tracing-opentelemetry-setup@0.8.0
