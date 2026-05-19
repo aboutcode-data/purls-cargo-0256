@@ -8,3 +8,5 @@
 - pkg:cargo/decimal_scaled_macros@0.3.1
 - pkg:cargo/decimal_scaled_macros@0.3.2
 - pkg:cargo/decimal_scaled_macros@0.3.3
+- pkg:cargo/decimal_scaled_macros@0.4.0
+- pkg:cargo/decimal_scaled_macros@0.4.1

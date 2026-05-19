@@ -1,1 +1,2 @@
 - pkg:cargo/multiarch-hints@0.158.0
+- pkg:cargo/multiarch-hints@0.176.0
