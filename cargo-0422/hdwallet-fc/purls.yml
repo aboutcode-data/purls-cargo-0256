@@ -8,3 +8,4 @@
 - pkg:cargo/hdwallet-fc@0.2.6
 - pkg:cargo/hdwallet-fc@0.2.7
 - pkg:cargo/hdwallet-fc@0.2.8
+- pkg:cargo/hdwallet-fc@0.2.9

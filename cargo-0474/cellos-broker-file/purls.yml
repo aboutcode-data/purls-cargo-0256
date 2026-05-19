@@ -1,1 +1,2 @@
 - pkg:cargo/cellos-broker-file@0.5.0
+- pkg:cargo/cellos-broker-file@0.5.1

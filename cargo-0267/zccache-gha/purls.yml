@@ -27,3 +27,4 @@
 - pkg:cargo/zccache-gha@1.4.8
 - pkg:cargo/zccache-gha@1.5.0
 - pkg:cargo/zccache-gha@1.6.0
+- pkg:cargo/zccache-gha@1.7.0
