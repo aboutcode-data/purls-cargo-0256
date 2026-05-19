@@ -159,6 +159,7 @@
 - pkg:cargo/alef-backend-go@0.16.69
 - pkg:cargo/alef-backend-go@0.16.71
 - pkg:cargo/alef-backend-go@0.16.8
+- pkg:cargo/alef-backend-go@0.17.0
 - pkg:cargo/alef-backend-go@0.2.0
 - pkg:cargo/alef-backend-go@0.3.0
 - pkg:cargo/alef-backend-go@0.3.1
