@@ -9,3 +9,4 @@
 - pkg:cargo/cartog-process-lock@0.16.0
 - pkg:cargo/cartog-process-lock@0.16.1
 - pkg:cargo/cartog-process-lock@0.16.2
+- pkg:cargo/cartog-process-lock@0.17.0
