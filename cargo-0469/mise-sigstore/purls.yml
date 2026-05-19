@@ -2,3 +2,4 @@
 - pkg:cargo/mise-sigstore@2026.5.0
 - pkg:cargo/mise-sigstore@2026.5.1
 - pkg:cargo/mise-sigstore@2026.5.2
+- pkg:cargo/mise-sigstore@2026.5.3
