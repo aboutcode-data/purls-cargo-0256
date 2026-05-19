@@ -39,3 +39,4 @@
 - pkg:cargo/proof-compression@0.155.8-1
 - pkg:cargo/proof-compression@0.155.9
 - pkg:cargo/proof-compression@0.156.0
+- pkg:cargo/proof-compression@0.156.1

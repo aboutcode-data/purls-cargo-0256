@@ -1,1 +1,2 @@
 - pkg:cargo/primp-hyper-rustls@0.27.7
+- pkg:cargo/primp-hyper-rustls@0.27.9
