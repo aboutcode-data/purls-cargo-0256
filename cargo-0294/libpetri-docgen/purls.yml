@@ -14,3 +14,4 @@
 - pkg:cargo/libpetri-docgen@1.8.4
 - pkg:cargo/libpetri-docgen@2.0.0
 - pkg:cargo/libpetri-docgen@2.1.0
+- pkg:cargo/libpetri-docgen@2.3.0
