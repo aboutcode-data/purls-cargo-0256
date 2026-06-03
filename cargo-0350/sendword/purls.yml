@@ -1,1 +1,2 @@
 - pkg:cargo/sendword@0.8.7
+- pkg:cargo/sendword@0.9.0
