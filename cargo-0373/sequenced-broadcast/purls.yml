@@ -7,3 +7,4 @@
 - pkg:cargo/sequenced-broadcast@0.2.4
 - pkg:cargo/sequenced-broadcast@0.2.5
 - pkg:cargo/sequenced-broadcast@0.2.6
+- pkg:cargo/sequenced-broadcast@0.3.0
