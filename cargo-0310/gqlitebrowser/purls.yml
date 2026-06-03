@@ -1,3 +1,5 @@
+- pkg:cargo/gqlitebrowser@0.10.0
+- pkg:cargo/gqlitebrowser@0.10.1
 - pkg:cargo/gqlitebrowser@0.5.3
 - pkg:cargo/gqlitebrowser@0.6.0
 - pkg:cargo/gqlitebrowser@0.6.1
