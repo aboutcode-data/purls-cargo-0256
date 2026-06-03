@@ -4,3 +4,4 @@
 - pkg:cargo/u-os-hub-client@0.2.2
 - pkg:cargo/u-os-hub-client@0.2.3
 - pkg:cargo/u-os-hub-client@0.2.5
+- pkg:cargo/u-os-hub-client@0.3.0
