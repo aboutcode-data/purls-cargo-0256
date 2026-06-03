@@ -3,3 +3,6 @@
 - pkg:cargo/bitrouter-skills@0.15.0
 - pkg:cargo/bitrouter-skills@0.16.0
 - pkg:cargo/bitrouter-skills@0.17.0
+- pkg:cargo/bitrouter-skills@1.0.0-alpha.5
+- pkg:cargo/bitrouter-skills@1.0.0-alpha.6
+- pkg:cargo/bitrouter-skills@1.0.0-alpha.7
