@@ -8,6 +8,7 @@
 - pkg:cargo/sea-query-derive@0.4.1
 - pkg:cargo/sea-query-derive@0.4.2
 - pkg:cargo/sea-query-derive@0.4.3
+- pkg:cargo/sea-query-derive@1.0.0
 - pkg:cargo/sea-query-derive@1.0.0-rc.11
 - pkg:cargo/sea-query-derive@1.0.0-rc.12
 - pkg:cargo/sea-query-derive@1.0.0-rc.5
