@@ -29,3 +29,5 @@
 - pkg:cargo/seqlings@7.1.0
 - pkg:cargo/seqlings@7.2.0
 - pkg:cargo/seqlings@7.2.2
+- pkg:cargo/seqlings@7.2.3
+- pkg:cargo/seqlings@7.3.0
