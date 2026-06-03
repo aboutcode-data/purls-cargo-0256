@@ -1,1 +1,2 @@
 - pkg:cargo/df-derive-macros@0.3.0
+- pkg:cargo/df-derive-macros@0.3.1
