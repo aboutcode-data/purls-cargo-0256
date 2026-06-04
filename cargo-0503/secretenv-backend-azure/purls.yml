@@ -6,6 +6,7 @@
 - pkg:cargo/secretenv-backend-azure@0.15.0
 - pkg:cargo/secretenv-backend-azure@0.16.0
 - pkg:cargo/secretenv-backend-azure@0.17.0
+- pkg:cargo/secretenv-backend-azure@0.18.0
 - pkg:cargo/secretenv-backend-azure@0.3.0
 - pkg:cargo/secretenv-backend-azure@0.4.0
 - pkg:cargo/secretenv-backend-azure@0.5.0
