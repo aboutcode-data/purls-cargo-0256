@@ -1,1 +1,2 @@
 - pkg:cargo/deimos_numerics@0.16.1
+- pkg:cargo/deimos_numerics@0.16.2
