@@ -35,3 +35,4 @@
 - pkg:cargo/sc-consensus-grandpa-rpc@0.40.0
 - pkg:cargo/sc-consensus-grandpa-rpc@0.41.0
 - pkg:cargo/sc-consensus-grandpa-rpc@0.42.0
+- pkg:cargo/sc-consensus-grandpa-rpc@0.43.0
