@@ -12,7 +12,12 @@
 - pkg:cargo/web-capture@0.3.16
 - pkg:cargo/web-capture@0.3.17
 - pkg:cargo/web-capture@0.3.18
+- pkg:cargo/web-capture@0.3.19
 - pkg:cargo/web-capture@0.3.2
+- pkg:cargo/web-capture@0.3.20
+- pkg:cargo/web-capture@0.3.21
+- pkg:cargo/web-capture@0.3.22
+- pkg:cargo/web-capture@0.3.23
 - pkg:cargo/web-capture@0.3.3
 - pkg:cargo/web-capture@0.3.4
 - pkg:cargo/web-capture@0.3.5
