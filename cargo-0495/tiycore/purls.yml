@@ -54,7 +54,13 @@
 - pkg:cargo/tiycore@0.2.5-rc.4
 - pkg:cargo/tiycore@0.2.6
 - pkg:cargo/tiycore@0.2.6-rc.26051521
+- pkg:cargo/tiycore@0.2.7
 - pkg:cargo/tiycore@0.2.7-rc.0
 - pkg:cargo/tiycore@0.2.7-rc.1
 - pkg:cargo/tiycore@0.2.7-rc.2
 - pkg:cargo/tiycore@0.2.7-rc.3
+- pkg:cargo/tiycore@0.2.7-rc.4
+- pkg:cargo/tiycore@0.2.7-rc.5
+- pkg:cargo/tiycore@0.2.8
+- pkg:cargo/tiycore@0.2.8-rc.0
+- pkg:cargo/tiycore@0.2.9-rc.0
