@@ -17,3 +17,4 @@
 - pkg:cargo/timely_container@0.28.0
 - pkg:cargo/timely_container@0.28.1
 - pkg:cargo/timely_container@0.29.0
+- pkg:cargo/timely_container@0.30.0
