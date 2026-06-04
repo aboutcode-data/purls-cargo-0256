@@ -1,7 +1,12 @@
 - pkg:cargo/webkit@0.1.0
 - pkg:cargo/webkit@0.2.0
 - pkg:cargo/webkit@0.2.1
+- pkg:cargo/webkit@0.3.10
+- pkg:cargo/webkit@0.3.11
 - pkg:cargo/webkit@0.3.3
 - pkg:cargo/webkit@0.3.4
 - pkg:cargo/webkit@0.3.5
 - pkg:cargo/webkit@0.3.6
+- pkg:cargo/webkit@0.3.7
+- pkg:cargo/webkit@0.3.8
+- pkg:cargo/webkit@0.3.9
