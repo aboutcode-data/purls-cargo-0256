@@ -60,6 +60,7 @@
 - pkg:cargo/biors-core@0.47.10
 - pkg:cargo/biors-core@0.47.11
 - pkg:cargo/biors-core@0.47.12
+- pkg:cargo/biors-core@0.47.13
 - pkg:cargo/biors-core@0.47.2
 - pkg:cargo/biors-core@0.47.3
 - pkg:cargo/biors-core@0.47.4
