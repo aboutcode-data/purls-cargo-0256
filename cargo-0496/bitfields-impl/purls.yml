@@ -34,3 +34,4 @@
 - pkg:cargo/bitfields-impl@2.0.6
 - pkg:cargo/bitfields-impl@2.0.7
 - pkg:cargo/bitfields-impl@2.0.8
+- pkg:cargo/bitfields-impl@3.0.0
