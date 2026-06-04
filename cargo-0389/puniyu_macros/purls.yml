@@ -28,3 +28,4 @@
 - pkg:cargo/puniyu_macros@0.8.5
 - pkg:cargo/puniyu_macros@0.8.6
 - pkg:cargo/puniyu_macros@0.8.7
+- pkg:cargo/puniyu_macros@0.8.9

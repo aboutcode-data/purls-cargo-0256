@@ -8,6 +8,7 @@
 - pkg:cargo/puniyu_adapter_core@0.8.15
 - pkg:cargo/puniyu_adapter_core@0.8.16
 - pkg:cargo/puniyu_adapter_core@0.8.17
+- pkg:cargo/puniyu_adapter_core@0.8.18
 - pkg:cargo/puniyu_adapter_core@0.8.3
 - pkg:cargo/puniyu_adapter_core@0.8.4
 - pkg:cargo/puniyu_adapter_core@0.8.5
