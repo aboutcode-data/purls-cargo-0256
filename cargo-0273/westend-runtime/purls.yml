@@ -45,6 +45,8 @@
 - pkg:cargo/westend-runtime@31.0.0
 - pkg:cargo/westend-runtime@31.1.0
 - pkg:cargo/westend-runtime@32.0.0
+- pkg:cargo/westend-runtime@33.0.0
+- pkg:cargo/westend-runtime@34.0.0
 - pkg:cargo/westend-runtime@4.0.0
 - pkg:cargo/westend-runtime@5.0.0
 - pkg:cargo/westend-runtime@6.0.0
