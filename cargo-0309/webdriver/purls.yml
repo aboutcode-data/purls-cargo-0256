@@ -65,6 +65,7 @@
 - pkg:cargo/webdriver@0.52.0
 - pkg:cargo/webdriver@0.52.1
 - pkg:cargo/webdriver@0.53.0
+- pkg:cargo/webdriver@0.54.0
 - pkg:cargo/webdriver@0.6.0
 - pkg:cargo/webdriver@0.7.0
 - pkg:cargo/webdriver@0.8.0
