@@ -4,3 +4,4 @@
 - pkg:cargo/corevm-host@0.1.22-rc.5
 - pkg:cargo/corevm-host@0.1.22-rc.6
 - pkg:cargo/corevm-host@0.1.26
+- pkg:cargo/corevm-host@0.1.28
