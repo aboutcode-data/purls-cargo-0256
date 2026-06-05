@@ -10,3 +10,5 @@
 - pkg:cargo/config-lib@0.9.6
 - pkg:cargo/config-lib@0.9.7
 - pkg:cargo/config-lib@0.9.8
+- pkg:cargo/config-lib@0.9.9
+- pkg:cargo/config-lib@1.0.0
