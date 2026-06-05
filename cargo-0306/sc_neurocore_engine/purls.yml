@@ -8,4 +8,6 @@
 - pkg:cargo/sc_neurocore_engine@3.15.5
 - pkg:cargo/sc_neurocore_engine@3.15.6
 - pkg:cargo/sc_neurocore_engine@3.15.7
+- pkg:cargo/sc_neurocore_engine@3.15.8
+- pkg:cargo/sc_neurocore_engine@3.15.9
 - pkg:cargo/sc_neurocore_engine@3.8.2
