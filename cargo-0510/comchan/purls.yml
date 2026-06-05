@@ -23,3 +23,6 @@
 - pkg:cargo/comchan@0.3.6
 - pkg:cargo/comchan@0.4.0
 - pkg:cargo/comchan@0.5.0
+- pkg:cargo/comchan@0.6.0
+- pkg:cargo/comchan@0.7.0
+- pkg:cargo/comchan@0.8.0
