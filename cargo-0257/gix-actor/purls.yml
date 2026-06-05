@@ -46,3 +46,4 @@
 - pkg:cargo/gix-actor@0.40.0
 - pkg:cargo/gix-actor@0.40.1
 - pkg:cargo/gix-actor@0.41.0
+- pkg:cargo/gix-actor@0.41.1

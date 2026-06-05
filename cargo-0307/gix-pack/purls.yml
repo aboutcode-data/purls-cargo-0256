@@ -50,3 +50,4 @@
 - pkg:cargo/gix-pack@0.68.0
 - pkg:cargo/gix-pack@0.69.0
 - pkg:cargo/gix-pack@0.70.0
+- pkg:cargo/gix-pack@0.71.0
