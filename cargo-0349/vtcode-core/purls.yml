@@ -50,6 +50,7 @@
 - pkg:cargo/vtcode-core@0.120.0
 - pkg:cargo/vtcode-core@0.121.0
 - pkg:cargo/vtcode-core@0.121.1
+- pkg:cargo/vtcode-core@0.122.0
 - pkg:cargo/vtcode-core@0.13.0
 - pkg:cargo/vtcode-core@0.13.1
 - pkg:cargo/vtcode-core@0.13.2

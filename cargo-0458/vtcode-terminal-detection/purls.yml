@@ -48,6 +48,7 @@
 - pkg:cargo/vtcode-terminal-detection@0.120.0
 - pkg:cargo/vtcode-terminal-detection@0.121.0
 - pkg:cargo/vtcode-terminal-detection@0.121.1
+- pkg:cargo/vtcode-terminal-detection@0.122.0
 - pkg:cargo/vtcode-terminal-detection@0.96.15
 - pkg:cargo/vtcode-terminal-detection@0.97.0
 - pkg:cargo/vtcode-terminal-detection@0.97.1
