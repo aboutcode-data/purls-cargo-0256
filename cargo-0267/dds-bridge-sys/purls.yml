@@ -19,3 +19,8 @@
 - pkg:cargo/dds-bridge-sys@2.0.5
 - pkg:cargo/dds-bridge-sys@2.1.0
 - pkg:cargo/dds-bridge-sys@2.1.1
+- pkg:cargo/dds-bridge-sys@3.0.0
+- pkg:cargo/dds-bridge-sys@3.1.0
+- pkg:cargo/dds-bridge-sys@3.1.1
+- pkg:cargo/dds-bridge-sys@3.2.0
+- pkg:cargo/dds-bridge-sys@3.2.1
