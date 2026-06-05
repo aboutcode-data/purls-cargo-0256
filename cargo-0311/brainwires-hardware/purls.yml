@@ -1,4 +1,5 @@
 - pkg:cargo/brainwires-hardware@0.10.0
+- pkg:cargo/brainwires-hardware@0.11.0
 - pkg:cargo/brainwires-hardware@0.7.0
 - pkg:cargo/brainwires-hardware@0.8.0
 - pkg:cargo/brainwires-hardware@0.9.0
