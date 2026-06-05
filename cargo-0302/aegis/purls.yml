@@ -38,6 +38,9 @@
 - pkg:cargo/aegis@0.8.1
 - pkg:cargo/aegis@0.9.0
 - pkg:cargo/aegis@0.9.1
+- pkg:cargo/aegis@0.9.10
+- pkg:cargo/aegis@0.9.11
+- pkg:cargo/aegis@0.9.12
 - pkg:cargo/aegis@0.9.2
 - pkg:cargo/aegis@0.9.3
 - pkg:cargo/aegis@0.9.4
@@ -45,3 +48,4 @@
 - pkg:cargo/aegis@0.9.6
 - pkg:cargo/aegis@0.9.7
 - pkg:cargo/aegis@0.9.8
+- pkg:cargo/aegis@0.9.9
