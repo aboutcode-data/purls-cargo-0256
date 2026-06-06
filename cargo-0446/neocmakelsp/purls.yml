@@ -2,6 +2,7 @@
 - pkg:cargo/neocmakelsp@0.10.0
 - pkg:cargo/neocmakelsp@0.10.1
 - pkg:cargo/neocmakelsp@0.10.2
+- pkg:cargo/neocmakelsp@0.10.3
 - pkg:cargo/neocmakelsp@0.2.0
 - pkg:cargo/neocmakelsp@0.2.1
 - pkg:cargo/neocmakelsp@0.2.2
