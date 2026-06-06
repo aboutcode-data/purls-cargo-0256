@@ -60,3 +60,5 @@
 - pkg:cargo/netxclient@2.0.1
 - pkg:cargo/netxclient@2.1.0
 - pkg:cargo/netxclient@2.2.0
+- pkg:cargo/netxclient@3.0.0
+- pkg:cargo/netxclient@3.0.1

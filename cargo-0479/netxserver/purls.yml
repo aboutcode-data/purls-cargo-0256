@@ -49,3 +49,5 @@
 - pkg:cargo/netxserver@2.1.0
 - pkg:cargo/netxserver@2.1.1
 - pkg:cargo/netxserver@2.2.0
+- pkg:cargo/netxserver@3.0.0
+- pkg:cargo/netxserver@3.0.1
