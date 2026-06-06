@@ -21,6 +21,9 @@
 - pkg:cargo/web-capture@0.3.24
 - pkg:cargo/web-capture@0.3.25
 - pkg:cargo/web-capture@0.3.26
+- pkg:cargo/web-capture@0.3.27
+- pkg:cargo/web-capture@0.3.28
+- pkg:cargo/web-capture@0.3.29
 - pkg:cargo/web-capture@0.3.3
 - pkg:cargo/web-capture@0.3.4
 - pkg:cargo/web-capture@0.3.5
