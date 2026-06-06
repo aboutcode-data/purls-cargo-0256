@@ -1,6 +1,7 @@
 - pkg:cargo/neptune-dashboard@0.10.0
 - pkg:cargo/neptune-dashboard@0.10.1
 - pkg:cargo/neptune-dashboard@0.10.2
+- pkg:cargo/neptune-dashboard@0.11.0
 - pkg:cargo/neptune-dashboard@0.4.0
 - pkg:cargo/neptune-dashboard@0.5.0
 - pkg:cargo/neptune-dashboard@0.6.0
