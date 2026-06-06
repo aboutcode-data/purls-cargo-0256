@@ -1,2 +1,4 @@
 - pkg:cargo/copilot-api-proxy@0.1.12
 - pkg:cargo/copilot-api-proxy@0.1.14
+- pkg:cargo/copilot-api-proxy@0.1.16
+- pkg:cargo/copilot-api-proxy@0.1.17
