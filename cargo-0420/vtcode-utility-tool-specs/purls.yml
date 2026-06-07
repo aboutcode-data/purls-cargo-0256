@@ -49,6 +49,9 @@
 - pkg:cargo/vtcode-utility-tool-specs@0.121.1
 - pkg:cargo/vtcode-utility-tool-specs@0.122.0
 - pkg:cargo/vtcode-utility-tool-specs@0.123.0
+- pkg:cargo/vtcode-utility-tool-specs@0.123.1
+- pkg:cargo/vtcode-utility-tool-specs@0.123.2
+- pkg:cargo/vtcode-utility-tool-specs@0.123.5
 - pkg:cargo/vtcode-utility-tool-specs@0.96.15
 - pkg:cargo/vtcode-utility-tool-specs@0.97.0
 - pkg:cargo/vtcode-utility-tool-specs@0.97.1
