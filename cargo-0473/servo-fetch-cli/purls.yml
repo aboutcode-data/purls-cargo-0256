@@ -6,6 +6,7 @@
 - pkg:cargo/servo-fetch-cli@0.11.3
 - pkg:cargo/servo-fetch-cli@0.11.4
 - pkg:cargo/servo-fetch-cli@0.12.0
+- pkg:cargo/servo-fetch-cli@0.12.1
 - pkg:cargo/servo-fetch-cli@0.6.0
 - pkg:cargo/servo-fetch-cli@0.6.1
 - pkg:cargo/servo-fetch-cli@0.7.0
