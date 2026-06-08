@@ -94,3 +94,4 @@
 - pkg:cargo/tito@0.6.0
 - pkg:cargo/tito@0.7.0
 - pkg:cargo/tito@0.7.5
+- pkg:cargo/tito@0.7.6
