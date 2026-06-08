@@ -1,4 +1,6 @@
 - pkg:cargo/vacro-parser-macro@0.1.10
+- pkg:cargo/vacro-parser-macro@0.1.11
+- pkg:cargo/vacro-parser-macro@0.1.12
 - pkg:cargo/vacro-parser-macro@0.1.7
 - pkg:cargo/vacro-parser-macro@0.1.8
 - pkg:cargo/vacro-parser-macro@0.1.9
