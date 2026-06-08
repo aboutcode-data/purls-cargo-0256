@@ -20,3 +20,4 @@
 - pkg:cargo/adk-graph@0.8.4
 - pkg:cargo/adk-graph@0.9.0
 - pkg:cargo/adk-graph@0.9.1
+- pkg:cargo/adk-graph@1.0.0
