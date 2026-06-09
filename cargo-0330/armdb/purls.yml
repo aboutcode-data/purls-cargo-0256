@@ -16,3 +16,4 @@
 - pkg:cargo/armdb@0.1.8
 - pkg:cargo/armdb@0.1.9
 - pkg:cargo/armdb@0.2.0
+- pkg:cargo/armdb@0.3.0
