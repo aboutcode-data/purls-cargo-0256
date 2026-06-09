@@ -15,3 +15,4 @@
 - pkg:cargo/uuid-rng-internal@1.23.0
 - pkg:cargo/uuid-rng-internal@1.23.1
 - pkg:cargo/uuid-rng-internal@1.23.2
+- pkg:cargo/uuid-rng-internal@1.23.3
