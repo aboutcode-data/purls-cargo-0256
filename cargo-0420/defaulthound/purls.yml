@@ -4,5 +4,7 @@
 - pkg:cargo/defaulthound@0.7.0
 - pkg:cargo/defaulthound@0.8.0
 - pkg:cargo/defaulthound@2.0.0
+- pkg:cargo/defaulthound@2.10.0
+- pkg:cargo/defaulthound@2.11.0
 - pkg:cargo/defaulthound@2.5.0
 - pkg:cargo/defaulthound@2.6.0
