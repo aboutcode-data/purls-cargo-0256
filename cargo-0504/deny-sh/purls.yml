@@ -4,3 +4,5 @@
 - pkg:cargo/deny-sh@2.0.3
 - pkg:cargo/deny-sh@2.0.6
 - pkg:cargo/deny-sh@2.1.0
+- pkg:cargo/deny-sh@2.1.1
+- pkg:cargo/deny-sh@2.2.0
