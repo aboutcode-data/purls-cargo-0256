@@ -1,6 +1,7 @@
 - pkg:cargo/shpool@0.1.0
 - pkg:cargo/shpool@0.10.0
 - pkg:cargo/shpool@0.10.1
+- pkg:cargo/shpool@0.10.2
 - pkg:cargo/shpool@0.5.0
 - pkg:cargo/shpool@0.6.0
 - pkg:cargo/shpool@0.6.1
