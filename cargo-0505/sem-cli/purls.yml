@@ -20,3 +20,4 @@
 - pkg:cargo/sem-cli@0.6.2
 - pkg:cargo/sem-cli@0.7.0
 - pkg:cargo/sem-cli@0.8.0
+- pkg:cargo/sem-cli@0.9.0
