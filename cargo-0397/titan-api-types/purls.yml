@@ -7,3 +7,5 @@
 - pkg:cargo/titan-api-types@5.1.0
 - pkg:cargo/titan-api-types@5.2.0
 - pkg:cargo/titan-api-types@5.3.0
+- pkg:cargo/titan-api-types@5.3.1
+- pkg:cargo/titan-api-types@5.4.0
