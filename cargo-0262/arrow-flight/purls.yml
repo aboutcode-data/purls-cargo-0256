@@ -91,6 +91,7 @@
 - pkg:cargo/arrow-flight@58.1.0
 - pkg:cargo/arrow-flight@58.2.0
 - pkg:cargo/arrow-flight@58.3.0
+- pkg:cargo/arrow-flight@59.0.0
 - pkg:cargo/arrow-flight@6.0.0
 - pkg:cargo/arrow-flight@6.1.0
 - pkg:cargo/arrow-flight@6.2.0
