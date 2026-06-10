@@ -25,3 +25,4 @@
 - pkg:cargo/vm-curator@0.4.8
 - pkg:cargo/vm-curator@0.4.9
 - pkg:cargo/vm-curator@1.0.0
+- pkg:cargo/vm-curator@1.1.0
