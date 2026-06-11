@@ -32,3 +32,6 @@
 - pkg:cargo/cached_proc_macro@0.7.1
 - pkg:cargo/cached_proc_macro@0.8.0
 - pkg:cargo/cached_proc_macro@0.9.0
+- pkg:cargo/cached_proc_macro@1.0.0
+- pkg:cargo/cached_proc_macro@1.1.0
+- pkg:cargo/cached_proc_macro@2.0.0
