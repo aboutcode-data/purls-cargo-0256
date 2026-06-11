@@ -3,3 +3,4 @@
 - pkg:cargo/carbon-meteora-damm-v2-decoder@0.12.0
 - pkg:cargo/carbon-meteora-damm-v2-decoder@0.9.0
 - pkg:cargo/carbon-meteora-damm-v2-decoder@0.9.1
+- pkg:cargo/carbon-meteora-damm-v2-decoder@1.0.0
