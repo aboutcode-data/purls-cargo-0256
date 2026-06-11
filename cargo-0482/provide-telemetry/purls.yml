@@ -2,3 +2,4 @@
 - pkg:cargo/provide-telemetry@0.4.4
 - pkg:cargo/provide-telemetry@0.4.6
 - pkg:cargo/provide-telemetry@0.4.7
+- pkg:cargo/provide-telemetry@0.4.8
