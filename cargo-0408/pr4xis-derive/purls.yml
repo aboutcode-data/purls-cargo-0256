@@ -1,3 +1,4 @@
 - pkg:cargo/pr4xis-derive@0.1.0
 - pkg:cargo/pr4xis-derive@0.22.0
 - pkg:cargo/pr4xis-derive@0.22.1
+- pkg:cargo/pr4xis-derive@0.23.0
