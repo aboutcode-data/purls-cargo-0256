@@ -16,6 +16,8 @@
 - pkg:cargo/ostool@0.15.1
 - pkg:cargo/ostool@0.16.0
 - pkg:cargo/ostool@0.17.0
+- pkg:cargo/ostool@0.18.0
+- pkg:cargo/ostool@0.19.0
 - pkg:cargo/ostool@0.2.0
 - pkg:cargo/ostool@0.2.1
 - pkg:cargo/ostool@0.2.10
@@ -33,6 +35,10 @@
 - pkg:cargo/ostool@0.2.7
 - pkg:cargo/ostool@0.2.8
 - pkg:cargo/ostool@0.2.9
+- pkg:cargo/ostool@0.20.0
+- pkg:cargo/ostool@0.21.0
+- pkg:cargo/ostool@0.22.0
+- pkg:cargo/ostool@0.22.1
 - pkg:cargo/ostool@0.3.0
 - pkg:cargo/ostool@0.3.1
 - pkg:cargo/ostool@0.3.10
