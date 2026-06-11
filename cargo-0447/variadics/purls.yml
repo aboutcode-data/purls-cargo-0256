@@ -10,3 +10,4 @@
 - pkg:cargo/variadics@0.0.8
 - pkg:cargo/variadics@0.0.9
 - pkg:cargo/variadics@0.1.0
+- pkg:cargo/variadics@1.0.0-alpha.0
