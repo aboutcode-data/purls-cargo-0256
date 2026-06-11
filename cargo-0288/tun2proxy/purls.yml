@@ -57,3 +57,5 @@
 - pkg:cargo/tun2proxy@0.7.7
 - pkg:cargo/tun2proxy@0.7.9
 - pkg:cargo/tun2proxy@0.8.0
+- pkg:cargo/tun2proxy@0.8.1
+- pkg:cargo/tun2proxy@0.8.2
