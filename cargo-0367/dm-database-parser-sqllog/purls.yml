@@ -21,3 +21,5 @@
 - pkg:cargo/dm-database-parser-sqllog@2.0.0
 - pkg:cargo/dm-database-parser-sqllog@2.0.1
 - pkg:cargo/dm-database-parser-sqllog@2.0.2
+- pkg:cargo/dm-database-parser-sqllog@2.0.3
+- pkg:cargo/dm-database-parser-sqllog@2.0.4
