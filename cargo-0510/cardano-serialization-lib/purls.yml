@@ -112,6 +112,7 @@
 - pkg:cargo/cardano-serialization-lib@15.0.2-beta.1
 - pkg:cargo/cardano-serialization-lib@15.0.2-beta.2
 - pkg:cargo/cardano-serialization-lib@15.0.3
+- pkg:cargo/cardano-serialization-lib@16.0.0-beta.1
 - pkg:cargo/cardano-serialization-lib@5.0.0
 - pkg:cargo/cardano-serialization-lib@6.0.0
 - pkg:cargo/cardano-serialization-lib@6.1.0
