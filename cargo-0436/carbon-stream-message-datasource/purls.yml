@@ -1,1 +1,2 @@
 - pkg:cargo/carbon-stream-message-datasource@0.12.0
+- pkg:cargo/carbon-stream-message-datasource@1.0.0
