@@ -9,3 +9,5 @@
 - pkg:cargo/cargo-archtest-cli@0.1.21
 - pkg:cargo/cargo-archtest-cli@0.1.22
 - pkg:cargo/cargo-archtest-cli@0.1.9
+- pkg:cargo/cargo-archtest-cli@0.2.2
+- pkg:cargo/cargo-archtest-cli@0.2.3
