@@ -5,3 +5,8 @@
 - pkg:cargo/helix-db@1.0.111
 - pkg:cargo/helix-db@1.0.112
 - pkg:cargo/helix-db@1.0.115
+- pkg:cargo/helix-db@2.0.0
+- pkg:cargo/helix-db@2.0.1
+- pkg:cargo/helix-db@2.0.2
+- pkg:cargo/helix-db@2.0.3
+- pkg:cargo/helix-db@2.0.4
