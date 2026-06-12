@@ -1,0 +1,7 @@
+- pkg:cargo/vey-mimalloc-sys@0.1.0
+- pkg:cargo/vey-mimalloc-sys@0.1.1
+- pkg:cargo/vey-mimalloc-sys@0.1.2
+- pkg:cargo/vey-mimalloc-sys@0.1.3
+- pkg:cargo/vey-mimalloc-sys@0.2.0%2B3.3.2
+- pkg:cargo/vey-mimalloc-sys@0.2.1%2B3.3.2
+- pkg:cargo/vey-mimalloc-sys@0.2.2%2B3.3.2
