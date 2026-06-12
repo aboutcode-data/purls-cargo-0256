@@ -6,3 +6,5 @@
 - pkg:cargo/qubit-magika@0.4.2
 - pkg:cargo/qubit-magika@0.5.0
 - pkg:cargo/qubit-magika@0.6.0
+- pkg:cargo/qubit-magika@0.7.0
+- pkg:cargo/qubit-magika@0.7.1
