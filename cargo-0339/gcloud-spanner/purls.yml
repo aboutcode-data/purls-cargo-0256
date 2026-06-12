@@ -9,3 +9,4 @@
 - pkg:cargo/gcloud-spanner@1.6.1
 - pkg:cargo/gcloud-spanner@1.7.0
 - pkg:cargo/gcloud-spanner@1.8.0
+- pkg:cargo/gcloud-spanner@1.8.1
