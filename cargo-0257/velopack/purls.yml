@@ -63,3 +63,8 @@
 - pkg:cargo/velopack@0.0.992-g26f877f
 - pkg:cargo/velopack@0.0.996-gddcb6fb
 - pkg:cargo/velopack@0.0.997-g19a92d0
+- pkg:cargo/velopack@1.0.1
+- pkg:cargo/velopack@1.0.7-ga630726
+- pkg:cargo/velopack@1.0.9-gc12205f
+- pkg:cargo/velopack@1.1.1
+- pkg:cargo/velopack@1.2.0
