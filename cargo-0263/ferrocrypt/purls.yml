@@ -5,3 +5,5 @@
 - pkg:cargo/ferrocrypt@0.2.4
 - pkg:cargo/ferrocrypt@0.2.5
 - pkg:cargo/ferrocrypt@0.3.0-beta.1
+- pkg:cargo/ferrocrypt@0.3.0-beta.2
+- pkg:cargo/ferrocrypt@0.3.0-beta.3
