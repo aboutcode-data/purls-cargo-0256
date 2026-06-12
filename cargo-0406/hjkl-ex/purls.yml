@@ -7,7 +7,13 @@
 - pkg:cargo/hjkl-ex@0.25.1
 - pkg:cargo/hjkl-ex@0.26.0
 - pkg:cargo/hjkl-ex@0.27.0
+- pkg:cargo/hjkl-ex@0.28.0
+- pkg:cargo/hjkl-ex@0.28.1
+- pkg:cargo/hjkl-ex@0.29.0
 - pkg:cargo/hjkl-ex@0.3.0
+- pkg:cargo/hjkl-ex@0.30.0
+- pkg:cargo/hjkl-ex@0.31.0
+- pkg:cargo/hjkl-ex@0.32.0
 - pkg:cargo/hjkl-ex@0.4.0
 - pkg:cargo/hjkl-ex@0.4.1
 - pkg:cargo/hjkl-ex@0.5.0

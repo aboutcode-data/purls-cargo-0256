@@ -32,6 +32,9 @@
 - pkg:cargo/hjkl-engine@0.25.1
 - pkg:cargo/hjkl-engine@0.26.0
 - pkg:cargo/hjkl-engine@0.27.0
+- pkg:cargo/hjkl-engine@0.28.0
+- pkg:cargo/hjkl-engine@0.28.1
+- pkg:cargo/hjkl-engine@0.29.0
 - pkg:cargo/hjkl-engine@0.3.0
 - pkg:cargo/hjkl-engine@0.3.1
 - pkg:cargo/hjkl-engine@0.3.2
@@ -41,6 +44,9 @@
 - pkg:cargo/hjkl-engine@0.3.6
 - pkg:cargo/hjkl-engine@0.3.7
 - pkg:cargo/hjkl-engine@0.3.8
+- pkg:cargo/hjkl-engine@0.30.0
+- pkg:cargo/hjkl-engine@0.31.0
+- pkg:cargo/hjkl-engine@0.32.0
 - pkg:cargo/hjkl-engine@0.4.1
 - pkg:cargo/hjkl-engine@0.5.0
 - pkg:cargo/hjkl-engine@0.5.1
