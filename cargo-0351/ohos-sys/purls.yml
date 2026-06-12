@@ -20,3 +20,4 @@
 - pkg:cargo/ohos-sys@0.8.4
 - pkg:cargo/ohos-sys@0.8.5
 - pkg:cargo/ohos-sys@0.8.6
+- pkg:cargo/ohos-sys@0.9.0
