@@ -16,3 +16,4 @@
 - pkg:cargo/subsecond-types@0.7.7
 - pkg:cargo/subsecond-types@0.7.8
 - pkg:cargo/subsecond-types@0.7.9
+- pkg:cargo/subsecond-types@0.8.0-alpha.0
