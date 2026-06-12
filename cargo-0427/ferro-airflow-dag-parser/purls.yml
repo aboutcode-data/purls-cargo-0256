@@ -1,1 +1,2 @@
 - pkg:cargo/ferro-airflow-dag-parser@0.0.1
+- pkg:cargo/ferro-airflow-dag-parser@1.0.0
