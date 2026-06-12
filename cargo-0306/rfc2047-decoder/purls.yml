@@ -11,3 +11,4 @@
 - pkg:cargo/rfc2047-decoder@1.0.5
 - pkg:cargo/rfc2047-decoder@1.0.6
 - pkg:cargo/rfc2047-decoder@1.1.0
+- pkg:cargo/rfc2047-decoder@1.1.2
