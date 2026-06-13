@@ -1,1 +1,2 @@
 - pkg:cargo/canopen-sdo@0.1.0
+- pkg:cargo/canopen-sdo@0.1.1
