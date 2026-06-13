@@ -188,4 +188,5 @@
 - pkg:cargo/feldera-fxp@0.307.0
 - pkg:cargo/feldera-fxp@0.308.0
 - pkg:cargo/feldera-fxp@0.309.0
+- pkg:cargo/feldera-fxp@0.310.0
 - pkg:cargo/feldera-fxp@0.99.0
