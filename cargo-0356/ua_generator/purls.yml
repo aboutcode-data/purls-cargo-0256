@@ -73,5 +73,6 @@
 - pkg:cargo/ua_generator@0.5.63
 - pkg:cargo/ua_generator@0.5.64
 - pkg:cargo/ua_generator@0.5.65
+- pkg:cargo/ua_generator@0.5.66
 - pkg:cargo/ua_generator@0.5.7
 - pkg:cargo/ua_generator@0.5.9
