@@ -1,2 +1,3 @@
 - pkg:cargo/tfhe-safe-serialize@0.0.0
 - pkg:cargo/tfhe-safe-serialize@0.1.0
+- pkg:cargo/tfhe-safe-serialize@0.1.1
