@@ -1,1 +1,2 @@
 - pkg:cargo/glua_diagnostic_macro@0.1.5
+- pkg:cargo/glua_diagnostic_macro@1.0.27

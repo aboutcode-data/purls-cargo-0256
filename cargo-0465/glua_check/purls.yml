@@ -1,1 +1,2 @@
 - pkg:cargo/glua_check@0.1.5
+- pkg:cargo/glua_check@1.0.27

@@ -1,1 +1,2 @@
 - pkg:cargo/glua_parser@0.1.5
+- pkg:cargo/glua_parser@1.0.27
