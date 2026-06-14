@@ -146,3 +146,5 @@
 - pkg:cargo/glean@67.3.0
 - pkg:cargo/glean@67.3.1
 - pkg:cargo/glean@67.3.2
+- pkg:cargo/glean@67.4.0
+- pkg:cargo/glean@67.5.0
