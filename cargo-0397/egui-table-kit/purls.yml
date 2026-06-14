@@ -5,3 +5,4 @@
 - pkg:cargo/egui-table-kit@0.1.4
 - pkg:cargo/egui-table-kit@0.1.5
 - pkg:cargo/egui-table-kit@0.2.0
+- pkg:cargo/egui-table-kit@0.2.1
