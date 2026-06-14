@@ -4,3 +4,8 @@
 - pkg:cargo/ultralytics-inference@0.0.14
 - pkg:cargo/ultralytics-inference@0.0.15
 - pkg:cargo/ultralytics-inference@0.0.16
+- pkg:cargo/ultralytics-inference@0.0.17
+- pkg:cargo/ultralytics-inference@0.0.18
+- pkg:cargo/ultralytics-inference@0.0.19
+- pkg:cargo/ultralytics-inference@0.0.20
+- pkg:cargo/ultralytics-inference@0.0.21
