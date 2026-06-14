@@ -1,0 +1,13 @@
+- pkg:cargo/hashiverse-lib@0.0.0
+- pkg:cargo/hashiverse-lib@1.0.5
+- pkg:cargo/hashiverse-lib@1.0.5-rc4
+- pkg:cargo/hashiverse-lib@1.0.5-rc6
+- pkg:cargo/hashiverse-lib@1.0.6
+- pkg:cargo/hashiverse-lib@1.0.6-rc1
+- pkg:cargo/hashiverse-lib@1.0.6-rc2
+- pkg:cargo/hashiverse-lib@1.0.6-rc4
+- pkg:cargo/hashiverse-lib@1.0.7
+- pkg:cargo/hashiverse-lib@1.0.7-rc1
+- pkg:cargo/hashiverse-lib@1.0.7-rc2
+- pkg:cargo/hashiverse-lib@1.0.8
+- pkg:cargo/hashiverse-lib@1.0.8-rc1
