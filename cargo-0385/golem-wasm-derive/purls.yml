@@ -34,6 +34,9 @@
 - pkg:cargo/golem-wasm-derive@1.5.5-dev
 - pkg:cargo/golem-wasm-derive@1.5.5-dev.10
 - pkg:cargo/golem-wasm-derive@1.5.5-dev.11
+- pkg:cargo/golem-wasm-derive@1.5.5-dev.12
+- pkg:cargo/golem-wasm-derive@1.5.5-dev.13
+- pkg:cargo/golem-wasm-derive@1.5.5-dev.14
 - pkg:cargo/golem-wasm-derive@1.5.5-dev.4
 - pkg:cargo/golem-wasm-derive@1.5.5-dev.5
 - pkg:cargo/golem-wasm-derive@1.5.5-dev.7
