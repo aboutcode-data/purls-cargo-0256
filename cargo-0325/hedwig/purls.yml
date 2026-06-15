@@ -25,3 +25,4 @@
 - pkg:cargo/hedwig@7.0.0
 - pkg:cargo/hedwig@7.1.0
 - pkg:cargo/hedwig@7.2.0
+- pkg:cargo/hedwig@7.2.3
