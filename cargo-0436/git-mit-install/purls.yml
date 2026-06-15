@@ -370,3 +370,4 @@
 - pkg:cargo/git-mit-install@6.1.0
 - pkg:cargo/git-mit-install@6.2.0
 - pkg:cargo/git-mit-install@6.3.0
+- pkg:cargo/git-mit-install@6.4.0
