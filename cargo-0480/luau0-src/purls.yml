@@ -41,6 +41,7 @@
 - pkg:cargo/luau0-src@0.20.2%2Bluau722
 - pkg:cargo/luau0-src@0.20.3%2Bluau723
 - pkg:cargo/luau0-src@0.20.4%2Bluau724
+- pkg:cargo/luau0-src@0.20.5%2Bluau725
 - pkg:cargo/luau0-src@0.3.0%2Bluau526
 - pkg:cargo/luau0-src@0.3.1%2Bluau529
 - pkg:cargo/luau0-src@0.3.2%2Bluau530
