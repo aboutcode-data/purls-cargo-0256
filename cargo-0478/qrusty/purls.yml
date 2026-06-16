@@ -46,4 +46,5 @@
 - pkg:cargo/qrusty@0.20.8
 - pkg:cargo/qrusty@0.20.9
 - pkg:cargo/qrusty@0.21.0
+- pkg:cargo/qrusty@0.21.1
 - pkg:cargo/qrusty@0.8.0
