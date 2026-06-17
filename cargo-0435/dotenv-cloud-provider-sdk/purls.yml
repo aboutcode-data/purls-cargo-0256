@@ -1,2 +1,3 @@
 - pkg:cargo/dotenv-cloud-provider-sdk@0.1.0
 - pkg:cargo/dotenv-cloud-provider-sdk@0.1.0-beta.1
+- pkg:cargo/dotenv-cloud-provider-sdk@0.2.0
