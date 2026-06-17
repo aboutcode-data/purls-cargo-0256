@@ -4,3 +4,4 @@
 - pkg:cargo/camel-component-keycloak@0.15.0
 - pkg:cargo/camel-component-keycloak@0.16.0
 - pkg:cargo/camel-component-keycloak@0.17.0
+- pkg:cargo/camel-component-keycloak@0.18.0
