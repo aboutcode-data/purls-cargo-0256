@@ -6,3 +6,4 @@
 - pkg:cargo/wolfram-expr@0.5.0
 - pkg:cargo/wolfram-expr@0.5.0-alpha.1
 - pkg:cargo/wolfram-expr@0.6.0-alpha.2
+- pkg:cargo/wolfram-expr@0.6.0-alpha.3
