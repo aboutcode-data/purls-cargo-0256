@@ -9,3 +9,5 @@
 - pkg:cargo/git-rewind@1.3.1
 - pkg:cargo/git-rewind@1.4.0
 - pkg:cargo/git-rewind@1.5.0
+- pkg:cargo/git-rewind@1.6.0
+- pkg:cargo/git-rewind@1.7.0
