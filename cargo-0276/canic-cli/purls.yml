@@ -294,4 +294,5 @@
 - pkg:cargo/canic-cli@0.68.2
 - pkg:cargo/canic-cli@0.68.22
 - pkg:cargo/canic-cli@0.68.23
+- pkg:cargo/canic-cli@0.68.24
 - pkg:cargo/canic-cli@0.68.3
