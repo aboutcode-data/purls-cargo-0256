@@ -1,3 +1,4 @@
 - pkg:cargo/heddle-client@0.2.2
 - pkg:cargo/heddle-client@0.2.3
 - pkg:cargo/heddle-client@0.2.4
+- pkg:cargo/heddle-client@0.3.1
