@@ -51,3 +51,5 @@
 - pkg:cargo/source_ss@0.5.1
 - pkg:cargo/source_ss@0.5.2
 - pkg:cargo/source_ss@0.5.3
+- pkg:cargo/source_ss@0.5.4
+- pkg:cargo/source_ss@0.5.5
