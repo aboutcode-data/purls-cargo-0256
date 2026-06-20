@@ -91,3 +91,5 @@
 - pkg:cargo/cargo-truce@0.58.3
 - pkg:cargo/cargo-truce@0.58.4
 - pkg:cargo/cargo-truce@0.59.0
+- pkg:cargo/cargo-truce@0.60.0
+- pkg:cargo/cargo-truce@0.60.1
