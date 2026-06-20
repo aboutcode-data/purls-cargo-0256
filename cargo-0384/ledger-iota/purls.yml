@@ -2,3 +2,4 @@
 - pkg:cargo/ledger-iota@0.1.1
 - pkg:cargo/ledger-iota@0.1.2
 - pkg:cargo/ledger-iota@0.1.3
+- pkg:cargo/ledger-iota@0.2.0
