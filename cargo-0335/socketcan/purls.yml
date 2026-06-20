@@ -22,3 +22,4 @@
 - pkg:cargo/socketcan@3.5.0
 - pkg:cargo/socketcan@3.6.0
 - pkg:cargo/socketcan@3.6.1
+- pkg:cargo/socketcan@3.6.2
