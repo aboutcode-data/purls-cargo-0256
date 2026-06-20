@@ -3,3 +3,13 @@
 - pkg:cargo/lex-extension@0.13.0
 - pkg:cargo/lex-extension@0.14.0
 - pkg:cargo/lex-extension@0.14.1
+- pkg:cargo/lex-extension@0.14.2-rc.1
+- pkg:cargo/lex-extension@0.14.2-rc.2
+- pkg:cargo/lex-extension@0.15.0
+- pkg:cargo/lex-extension@0.16.0
+- pkg:cargo/lex-extension@0.17.0
+- pkg:cargo/lex-extension@0.17.1
+- pkg:cargo/lex-extension@0.18.0
+- pkg:cargo/lex-extension@0.18.1
+- pkg:cargo/lex-extension@0.18.2
+- pkg:cargo/lex-extension@0.18.3
