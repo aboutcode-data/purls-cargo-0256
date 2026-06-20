@@ -1,1 +1,2 @@
 - pkg:cargo/kowalski-mcp-datafusion@1.2.0
+- pkg:cargo/kowalski-mcp-datafusion@1.3.0
