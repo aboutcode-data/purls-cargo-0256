@@ -1,2 +1,5 @@
 - pkg:cargo/lemmy_db_views_community_follower_approval@1.0.0-alpha.19
 - pkg:cargo/lemmy_db_views_community_follower_approval@1.0.0-beta.0
+- pkg:cargo/lemmy_db_views_community_follower_approval@1.0.0-test-fix-publish-1
+- pkg:cargo/lemmy_db_views_community_follower_approval@1.0.0-test-fix-publish-2
+- pkg:cargo/lemmy_db_views_community_follower_approval@1.0.0-test-fix-publish-3
