@@ -73,3 +73,5 @@
 - pkg:cargo/velesdb-core@3.0.0
 - pkg:cargo/velesdb-core@3.0.1
 - pkg:cargo/velesdb-core@3.1.0
+- pkg:cargo/velesdb-core@3.2.0
+- pkg:cargo/velesdb-core@3.2.1
