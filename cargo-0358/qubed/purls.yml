@@ -2,3 +2,5 @@
 - pkg:cargo/qubed@0.1.1
 - pkg:cargo/qubed@0.4.3
 - pkg:cargo/qubed@0.4.4
+- pkg:cargo/qubed@0.4.5
+- pkg:cargo/qubed@0.4.6
