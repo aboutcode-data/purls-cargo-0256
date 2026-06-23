@@ -220,6 +220,12 @@
 - pkg:cargo/vize_atelier_dom@0.249.0
 - pkg:cargo/vize_atelier_dom@0.25.0
 - pkg:cargo/vize_atelier_dom@0.250.0
+- pkg:cargo/vize_atelier_dom@0.251.0
+- pkg:cargo/vize_atelier_dom@0.252.0
+- pkg:cargo/vize_atelier_dom@0.253.0
+- pkg:cargo/vize_atelier_dom@0.254.0
+- pkg:cargo/vize_atelier_dom@0.255.0
+- pkg:cargo/vize_atelier_dom@0.256.0
 - pkg:cargo/vize_atelier_dom@0.26.0
 - pkg:cargo/vize_atelier_dom@0.28.0
 - pkg:cargo/vize_atelier_dom@0.29.0
