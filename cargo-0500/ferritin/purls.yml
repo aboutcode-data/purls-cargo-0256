@@ -6,6 +6,7 @@
 - pkg:cargo/ferritin@0.10.2
 - pkg:cargo/ferritin@0.11.0
 - pkg:cargo/ferritin@0.11.1
+- pkg:cargo/ferritin@0.12.0
 - pkg:cargo/ferritin@0.2.0
 - pkg:cargo/ferritin@0.3.0
 - pkg:cargo/ferritin@0.4.0
