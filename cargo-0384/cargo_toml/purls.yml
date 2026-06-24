@@ -70,3 +70,4 @@
 - pkg:cargo/cargo_toml@0.9.1
 - pkg:cargo/cargo_toml@0.9.2
 - pkg:cargo/cargo_toml@0.9.3
+- pkg:cargo/cargo_toml@1.0.0
