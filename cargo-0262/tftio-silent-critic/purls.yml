@@ -2,3 +2,7 @@
 - pkg:cargo/tftio-silent-critic@2.4.0
 - pkg:cargo/tftio-silent-critic@2.6.0
 - pkg:cargo/tftio-silent-critic@3.0.0
+- pkg:cargo/tftio-silent-critic@4.0.0
+- pkg:cargo/tftio-silent-critic@5.0.0
+- pkg:cargo/tftio-silent-critic@5.0.1
+- pkg:cargo/tftio-silent-critic@5.0.2
