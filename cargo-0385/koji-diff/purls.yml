@@ -11,6 +11,7 @@
 - pkg:cargo/koji-diff@0.13.0
 - pkg:cargo/koji-diff@0.14.0
 - pkg:cargo/koji-diff@0.15.0
+- pkg:cargo/koji-diff@0.15.1
 - pkg:cargo/koji-diff@0.6.3
 - pkg:cargo/koji-diff@0.7.0
 - pkg:cargo/koji-diff@0.8.0
