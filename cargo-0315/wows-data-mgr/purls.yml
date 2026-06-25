@@ -4,6 +4,8 @@
 - pkg:cargo/wows-data-mgr@0.13.0
 - pkg:cargo/wows-data-mgr@0.14.0
 - pkg:cargo/wows-data-mgr@0.15.0
+- pkg:cargo/wows-data-mgr@0.16.0
+- pkg:cargo/wows-data-mgr@0.17.0
 - pkg:cargo/wows-data-mgr@0.5.0
 - pkg:cargo/wows-data-mgr@0.7.0
 - pkg:cargo/wows-data-mgr@0.8.0
