@@ -10,3 +10,4 @@
 - pkg:cargo/ultralytics-inference@0.0.20
 - pkg:cargo/ultralytics-inference@0.0.21
 - pkg:cargo/ultralytics-inference@0.0.22
+- pkg:cargo/ultralytics-inference@0.0.23
