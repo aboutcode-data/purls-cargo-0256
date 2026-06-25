@@ -2,3 +2,4 @@
 - pkg:cargo/kaspa-miner@0.2.3
 - pkg:cargo/kaspa-miner@0.2.4
 - pkg:cargo/kaspa-miner@0.2.5
+- pkg:cargo/kaspa-miner@0.2.7
