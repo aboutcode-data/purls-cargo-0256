@@ -324,3 +324,5 @@
 - pkg:cargo/canic-cli@0.71.6
 - pkg:cargo/canic-cli@0.71.7
 - pkg:cargo/canic-cli@0.71.8
+- pkg:cargo/canic-cli@0.72.0
+- pkg:cargo/canic-cli@0.73.0
