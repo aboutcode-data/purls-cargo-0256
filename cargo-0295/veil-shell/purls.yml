@@ -1,1 +1,5 @@
 - pkg:cargo/veil-shell@0.1.1
+- pkg:cargo/veil-shell@1.0.0
+- pkg:cargo/veil-shell@1.0.1
+- pkg:cargo/veil-shell@1.0.2
+- pkg:cargo/veil-shell@2.0.0
