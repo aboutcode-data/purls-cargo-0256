@@ -5,3 +5,7 @@
 - pkg:cargo/nedb-engine@2.3.3
 - pkg:cargo/nedb-engine@2.3.33
 - pkg:cargo/nedb-engine@2.3.333
+- pkg:cargo/nedb-engine@2.3.3333
+- pkg:cargo/nedb-engine@2.4.0
+- pkg:cargo/nedb-engine@2.4.1
+- pkg:cargo/nedb-engine@2.4.2
