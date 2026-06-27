@@ -3,3 +3,5 @@
 - pkg:cargo/pso-chain-abi@0.6.0
 - pkg:cargo/pso-chain-abi@0.7.0
 - pkg:cargo/pso-chain-abi@0.8.0
+- pkg:cargo/pso-chain-abi@0.9.0
+- pkg:cargo/pso-chain-abi@0.9.1
