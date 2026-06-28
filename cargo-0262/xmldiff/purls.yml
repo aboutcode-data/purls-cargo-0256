@@ -1,3 +1,4 @@
 - pkg:cargo/xmldiff@0.3.0
 - pkg:cargo/xmldiff@0.7.0
 - pkg:cargo/xmldiff@1.0.0
+- pkg:cargo/xmldiff@1.1.0
