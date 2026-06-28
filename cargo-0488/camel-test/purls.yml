@@ -10,6 +10,7 @@
 - pkg:cargo/camel-test@0.18.0
 - pkg:cargo/camel-test@0.19.0
 - pkg:cargo/camel-test@0.20.0
+- pkg:cargo/camel-test@0.21.0
 - pkg:cargo/camel-test@0.3.0
 - pkg:cargo/camel-test@0.4.0
 - pkg:cargo/camel-test@0.5.0
