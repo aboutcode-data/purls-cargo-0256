@@ -45,3 +45,4 @@
 - pkg:cargo/rmcp@1.6.0
 - pkg:cargo/rmcp@1.7.0
 - pkg:cargo/rmcp@1.8.0
+- pkg:cargo/rmcp@2.0.0
