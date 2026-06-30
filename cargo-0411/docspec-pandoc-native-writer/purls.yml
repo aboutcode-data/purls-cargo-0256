@@ -12,6 +12,7 @@
 - pkg:cargo/docspec-pandoc-native-writer@1.18.0
 - pkg:cargo/docspec-pandoc-native-writer@1.18.1
 - pkg:cargo/docspec-pandoc-native-writer@1.18.2
+- pkg:cargo/docspec-pandoc-native-writer@1.18.3
 - pkg:cargo/docspec-pandoc-native-writer@1.6.0
 - pkg:cargo/docspec-pandoc-native-writer@1.7.0
 - pkg:cargo/docspec-pandoc-native-writer@1.7.1
