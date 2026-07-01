@@ -429,6 +429,9 @@
 - pkg:cargo/canic-wasm-store@0.75.1
 - pkg:cargo/canic-wasm-store@0.76.0
 - pkg:cargo/canic-wasm-store@0.76.1
+- pkg:cargo/canic-wasm-store@0.76.10
+- pkg:cargo/canic-wasm-store@0.76.11
+- pkg:cargo/canic-wasm-store@0.76.12
 - pkg:cargo/canic-wasm-store@0.76.2
 - pkg:cargo/canic-wasm-store@0.76.3
 - pkg:cargo/canic-wasm-store@0.76.4
@@ -437,3 +440,4 @@
 - pkg:cargo/canic-wasm-store@0.76.7
 - pkg:cargo/canic-wasm-store@0.76.8
 - pkg:cargo/canic-wasm-store@0.76.9
+- pkg:cargo/canic-wasm-store@0.77.0
