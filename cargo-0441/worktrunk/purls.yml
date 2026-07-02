@@ -120,6 +120,7 @@
 - pkg:cargo/worktrunk@0.62.0
 - pkg:cargo/worktrunk@0.63.0
 - pkg:cargo/worktrunk@0.64.0
+- pkg:cargo/worktrunk@0.65.0
 - pkg:cargo/worktrunk@0.7.0
 - pkg:cargo/worktrunk@0.8.0
 - pkg:cargo/worktrunk@0.8.1
