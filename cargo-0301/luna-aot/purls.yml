@@ -1,5 +1,8 @@
 - pkg:cargo/luna-aot@1.3.0
 - pkg:cargo/luna-aot@2.1.0
+- pkg:cargo/luna-aot@2.10.0
+- pkg:cargo/luna-aot@2.11.0
+- pkg:cargo/luna-aot@2.12.0
 - pkg:cargo/luna-aot@2.2.0
 - pkg:cargo/luna-aot@2.3.0
 - pkg:cargo/luna-aot@2.4.0
