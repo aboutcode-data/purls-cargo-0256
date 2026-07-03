@@ -12,3 +12,4 @@
 - pkg:cargo/car-builder@0.30.0
 - pkg:cargo/car-builder@0.31.0
 - pkg:cargo/car-builder@0.32.0
+- pkg:cargo/car-builder@0.32.1
