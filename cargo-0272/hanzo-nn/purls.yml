@@ -1,5 +1,6 @@
 - pkg:cargo/hanzo-nn@0.10.2
 - pkg:cargo/hanzo-nn@0.11.3
+- pkg:cargo/hanzo-nn@0.11.33
 - pkg:cargo/hanzo-nn@0.11.5
 - pkg:cargo/hanzo-nn@0.11.6
 - pkg:cargo/hanzo-nn@0.11.7
