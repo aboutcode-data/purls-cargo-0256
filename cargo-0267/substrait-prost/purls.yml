@@ -5,3 +5,4 @@
 - pkg:cargo/substrait-prost@0.87.0-alpha.3
 - pkg:cargo/substrait-prost@0.87.0-alpha.4
 - pkg:cargo/substrait-prost@0.95.0-alpha
+- pkg:cargo/substrait-prost@0.96.0-alpha
