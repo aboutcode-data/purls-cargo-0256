@@ -20,3 +20,4 @@
 - pkg:cargo/ferrocat-icu@2.0.0
 - pkg:cargo/ferrocat-icu@2.1.0
 - pkg:cargo/ferrocat-icu@2.1.1
+- pkg:cargo/ferrocat-icu@3.0.0
