@@ -15,3 +15,4 @@
 - pkg:cargo/docspec-markdown-writer@1.18.3
 - pkg:cargo/docspec-markdown-writer@1.19.0
 - pkg:cargo/docspec-markdown-writer@1.20.0
+- pkg:cargo/docspec-markdown-writer@1.20.1
