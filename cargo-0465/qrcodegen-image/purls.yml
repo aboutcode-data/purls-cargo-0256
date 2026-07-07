@@ -5,3 +5,4 @@
 - pkg:cargo/qrcodegen-image@1.4.0
 - pkg:cargo/qrcodegen-image@1.5.0
 - pkg:cargo/qrcodegen-image@1.5.1
+- pkg:cargo/qrcodegen-image@1.5.2
