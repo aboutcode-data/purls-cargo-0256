@@ -1,3 +1,4 @@
+- pkg:cargo/harn-opcode-macros@0.10.0
 - pkg:cargo/harn-opcode-macros@0.8.100
 - pkg:cargo/harn-opcode-macros@0.8.101
 - pkg:cargo/harn-opcode-macros@0.8.102
@@ -135,6 +136,7 @@
 - pkg:cargo/harn-opcode-macros@0.9.2
 - pkg:cargo/harn-opcode-macros@0.9.20
 - pkg:cargo/harn-opcode-macros@0.9.21
+- pkg:cargo/harn-opcode-macros@0.9.22
 - pkg:cargo/harn-opcode-macros@0.9.3
 - pkg:cargo/harn-opcode-macros@0.9.4
 - pkg:cargo/harn-opcode-macros@0.9.5
