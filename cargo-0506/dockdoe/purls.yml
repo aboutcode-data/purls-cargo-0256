@@ -1,4 +1,6 @@
 - pkg:cargo/dockdoe@0.10.0
+- pkg:cargo/dockdoe@0.11.0
+- pkg:cargo/dockdoe@0.12.0
 - pkg:cargo/dockdoe@0.7.0
 - pkg:cargo/dockdoe@0.8.0
 - pkg:cargo/dockdoe@0.9.0
