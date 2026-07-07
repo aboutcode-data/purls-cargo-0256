@@ -30,3 +30,4 @@
 - pkg:cargo/feed-rs@2.2.0
 - pkg:cargo/feed-rs@2.3.0
 - pkg:cargo/feed-rs@2.3.1
+- pkg:cargo/feed-rs@2.4.0
