@@ -7,3 +7,4 @@
 - pkg:cargo/egui-rotate@0.1.6
 - pkg:cargo/egui-rotate@1.0.0
 - pkg:cargo/egui-rotate@1.1.1
+- pkg:cargo/egui-rotate@2.0.0
