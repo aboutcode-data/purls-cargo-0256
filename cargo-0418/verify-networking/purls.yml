@@ -1,1 +1,2 @@
 - pkg:cargo/verify-networking@0.1.0
+- pkg:cargo/verify-networking@0.2.1
