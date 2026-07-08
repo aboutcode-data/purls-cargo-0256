@@ -1,2 +1,4 @@
 - pkg:cargo/cavs-analyzer@0.9.0
 - pkg:cargo/cavs-analyzer@1.0.0
+- pkg:cargo/cavs-analyzer@1.1.0
+- pkg:cargo/cavs-analyzer@1.2.0
