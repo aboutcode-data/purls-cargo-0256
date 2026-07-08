@@ -2,3 +2,4 @@
 - pkg:cargo/cavs-signature@0.7.0
 - pkg:cargo/cavs-signature@0.8.0
 - pkg:cargo/cavs-signature@0.9.0
+- pkg:cargo/cavs-signature@1.0.0
