@@ -19,6 +19,8 @@
 - pkg:cargo/docspec-html-writer@1.20.0
 - pkg:cargo/docspec-html-writer@1.20.1
 - pkg:cargo/docspec-html-writer@1.21.0
+- pkg:cargo/docspec-html-writer@1.21.1
+- pkg:cargo/docspec-html-writer@1.21.2
 - pkg:cargo/docspec-html-writer@1.5.0
 - pkg:cargo/docspec-html-writer@1.5.1
 - pkg:cargo/docspec-html-writer@1.6.0
