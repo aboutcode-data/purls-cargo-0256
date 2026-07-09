@@ -51,6 +51,10 @@
 - pkg:cargo/suno-core@0.35.0
 - pkg:cargo/suno-core@0.36.0
 - pkg:cargo/suno-core@0.36.1
+- pkg:cargo/suno-core@0.36.2
+- pkg:cargo/suno-core@0.36.3
+- pkg:cargo/suno-core@0.36.4
+- pkg:cargo/suno-core@0.36.5
 - pkg:cargo/suno-core@0.4.0
 - pkg:cargo/suno-core@0.5.0
 - pkg:cargo/suno-core@0.6.0
