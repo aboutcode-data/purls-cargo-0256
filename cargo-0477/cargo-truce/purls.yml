@@ -117,3 +117,4 @@
 - pkg:cargo/cargo-truce@4.0.0
 - pkg:cargo/cargo-truce@4.1.0
 - pkg:cargo/cargo-truce@5.0.1
+- pkg:cargo/cargo-truce@6.0.0
