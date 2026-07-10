@@ -5,3 +5,4 @@
 - pkg:cargo/vey-mimalloc-sys@0.2.0%2B3.3.2
 - pkg:cargo/vey-mimalloc-sys@0.2.1%2B3.3.2
 - pkg:cargo/vey-mimalloc-sys@0.2.2%2B3.3.2
+- pkg:cargo/vey-mimalloc-sys@0.2.3%2B3.3.2
