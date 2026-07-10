@@ -118,4 +118,5 @@
 - pkg:cargo/soroban-sdk-macros@26.0.0-rc.1
 - pkg:cargo/soroban-sdk-macros@26.0.1
 - pkg:cargo/soroban-sdk-macros@26.1.0
+- pkg:cargo/soroban-sdk-macros@27.0.0
 - pkg:cargo/soroban-sdk-macros@27.0.0-rc.1
