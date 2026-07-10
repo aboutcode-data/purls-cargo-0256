@@ -1,1 +1,2 @@
 - pkg:cargo/neptune-job-queue@0.0.0
+- pkg:cargo/neptune-job-queue@0.14.0
