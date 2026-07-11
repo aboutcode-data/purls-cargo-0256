@@ -40,3 +40,4 @@
 - pkg:cargo/cached_proc_macro@3.0.0-rc.3
 - pkg:cargo/cached_proc_macro@3.0.0-rc.4
 - pkg:cargo/cached_proc_macro@3.0.0-rc.5
+- pkg:cargo/cached_proc_macro@3.0.0-rc.6
