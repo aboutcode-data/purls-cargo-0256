@@ -1,4 +1,5 @@
 - pkg:cargo/documented-macros@0.1.0
+- pkg:cargo/documented-macros@0.10.0
 - pkg:cargo/documented-macros@0.6.0
 - pkg:cargo/documented-macros@0.7.0
 - pkg:cargo/documented-macros@0.7.1
