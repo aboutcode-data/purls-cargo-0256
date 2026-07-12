@@ -1,1 +1,2 @@
 - pkg:cargo/nexus-lang-cxx@0.8.6
+- pkg:cargo/nexus-lang-cxx@0.9.0
