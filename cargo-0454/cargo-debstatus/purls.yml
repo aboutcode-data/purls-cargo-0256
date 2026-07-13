@@ -10,3 +10,4 @@
 - pkg:cargo/cargo-debstatus@0.6.2
 - pkg:cargo/cargo-debstatus@0.6.3
 - pkg:cargo/cargo-debstatus@0.6.5
+- pkg:cargo/cargo-debstatus@0.6.6
