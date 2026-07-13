@@ -17,3 +17,4 @@
 - pkg:cargo/uuid-rng-internal@1.23.2
 - pkg:cargo/uuid-rng-internal@1.23.3
 - pkg:cargo/uuid-rng-internal@1.23.4
+- pkg:cargo/uuid-rng-internal@1.23.5
