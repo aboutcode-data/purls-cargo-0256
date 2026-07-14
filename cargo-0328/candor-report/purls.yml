@@ -1,5 +1,6 @@
 - pkg:cargo/candor-report@0.10.0
 - pkg:cargo/candor-report@0.11.0
+- pkg:cargo/candor-report@0.12.0
 - pkg:cargo/candor-report@0.3.0
 - pkg:cargo/candor-report@0.3.2
 - pkg:cargo/candor-report@0.3.3
