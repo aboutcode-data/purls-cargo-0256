@@ -1,3 +1,5 @@
+- pkg:cargo/kayactl@0.1.109
+- pkg:cargo/kayactl@0.1.110
 - pkg:cargo/kayactl@0.1.22
 - pkg:cargo/kayactl@0.1.28
 - pkg:cargo/kayactl@0.1.42
