@@ -2,6 +2,7 @@
 - pkg:cargo/ws2tcp-router@0.1.1
 - pkg:cargo/ws2tcp-router@0.1.10
 - pkg:cargo/ws2tcp-router@0.1.11
+- pkg:cargo/ws2tcp-router@0.1.12
 - pkg:cargo/ws2tcp-router@0.1.2
 - pkg:cargo/ws2tcp-router@0.1.4
 - pkg:cargo/ws2tcp-router@0.1.5
