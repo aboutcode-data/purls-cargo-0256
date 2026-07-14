@@ -6,3 +6,6 @@
 - pkg:cargo/luatalk-cli@0.3.0-alpha.3
 - pkg:cargo/luatalk-cli@0.3.0-alpha.4
 - pkg:cargo/luatalk-cli@0.3.0-alpha.5
+- pkg:cargo/luatalk-cli@0.3.0-alpha.6
+- pkg:cargo/luatalk-cli@0.3.0-rc.1
+- pkg:cargo/luatalk-cli@0.3.0-rc.2
