@@ -87,3 +87,5 @@
 - pkg:cargo/vibe_coding_tracker@1.9.0
 - pkg:cargo/vibe_coding_tracker@2.0.0
 - pkg:cargo/vibe_coding_tracker@2.1.0
+- pkg:cargo/vibe_coding_tracker@2.1.1
+- pkg:cargo/vibe_coding_tracker@2.2.0
