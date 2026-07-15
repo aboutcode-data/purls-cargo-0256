@@ -589,3 +589,6 @@
 - pkg:cargo/canic-wasm-store@0.91.5
 - pkg:cargo/canic-wasm-store@0.91.6
 - pkg:cargo/canic-wasm-store@0.92.0
+- pkg:cargo/canic-wasm-store@0.92.1
+- pkg:cargo/canic-wasm-store@0.92.2
+- pkg:cargo/canic-wasm-store@0.92.3
