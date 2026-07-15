@@ -42,3 +42,4 @@
 - pkg:cargo/gix-url@0.35.3
 - pkg:cargo/gix-url@0.36.0
 - pkg:cargo/gix-url@0.36.1
+- pkg:cargo/gix-url@0.36.2
