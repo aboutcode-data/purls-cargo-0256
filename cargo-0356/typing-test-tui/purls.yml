@@ -8,3 +8,7 @@
 - pkg:cargo/typing-test-tui@0.1.7
 - pkg:cargo/typing-test-tui@0.1.8
 - pkg:cargo/typing-test-tui@0.1.9
+- pkg:cargo/typing-test-tui@1.0.0
+- pkg:cargo/typing-test-tui@1.0.1
+- pkg:cargo/typing-test-tui@1.1.0
+- pkg:cargo/typing-test-tui@1.1.1
