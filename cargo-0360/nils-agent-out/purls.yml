@@ -1,1 +1,7 @@
+- pkg:cargo/nils-agent-out@0.27.0
 - pkg:cargo/nils-agent-out@0.8.3
+- pkg:cargo/nils-agent-out@1.0.0
+- pkg:cargo/nils-agent-out@1.0.7
+- pkg:cargo/nils-agent-out@1.12.0
+- pkg:cargo/nils-agent-out@1.21.9
+- pkg:cargo/nils-agent-out@1.9.5
