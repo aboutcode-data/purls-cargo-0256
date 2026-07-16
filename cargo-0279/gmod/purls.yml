@@ -25,6 +25,7 @@
 - pkg:cargo/gmod@16.0.1
 - pkg:cargo/gmod@16.0.2
 - pkg:cargo/gmod@17.0.0
+- pkg:cargo/gmod@17.0.1
 - pkg:cargo/gmod@2.0.0
 - pkg:cargo/gmod@2.0.1
 - pkg:cargo/gmod@3.0.0
