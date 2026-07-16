@@ -1,0 +1,6 @@
+- pkg:cargo/nv-redfish-schema@0.10.0
+- pkg:cargo/nv-redfish-schema@0.10.1
+- pkg:cargo/nv-redfish-schema@0.10.2
+- pkg:cargo/nv-redfish-schema@0.10.3
+- pkg:cargo/nv-redfish-schema@0.10.4
+- pkg:cargo/nv-redfish-schema@0.11.0
