@@ -13,3 +13,4 @@
 - pkg:cargo/playfair_cipher@1.0.3
 - pkg:cargo/playfair_cipher@1.0.4
 - pkg:cargo/playfair_cipher@1.0.5
+- pkg:cargo/playfair_cipher@1.0.6
