@@ -39,3 +39,5 @@
 - pkg:cargo/blsful@3.0.0-pre7
 - pkg:cargo/blsful@3.0.0-pre8
 - pkg:cargo/blsful@3.1.0
+- pkg:cargo/blsful@4.0.0-rc0
+- pkg:cargo/blsful@4.0.0-rc1
