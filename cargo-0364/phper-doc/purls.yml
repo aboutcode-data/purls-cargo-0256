@@ -14,6 +14,9 @@
 - pkg:cargo/phper-doc@0.15.3
 - pkg:cargo/phper-doc@0.15.4
 - pkg:cargo/phper-doc@0.15.5
+- pkg:cargo/phper-doc@0.15.6
+- pkg:cargo/phper-doc@0.15.7
+- pkg:cargo/phper-doc@0.15.8
 - pkg:cargo/phper-doc@0.6.0
 - pkg:cargo/phper-doc@0.7.0
 - pkg:cargo/phper-doc@0.8.0
