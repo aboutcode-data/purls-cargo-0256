@@ -1,1 +1,3 @@
 - pkg:cargo/rapier_testbed2d-f64@0.32.0
+- pkg:cargo/rapier_testbed2d-f64@0.33.0
+- pkg:cargo/rapier_testbed2d-f64@0.34.0
