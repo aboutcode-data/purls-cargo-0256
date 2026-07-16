@@ -41,6 +41,7 @@
 - pkg:cargo/jammi-numerics@0.43.0
 - pkg:cargo/jammi-numerics@0.44.0
 - pkg:cargo/jammi-numerics@0.45.0
+- pkg:cargo/jammi-numerics@0.46.0
 - pkg:cargo/jammi-numerics@0.7.0
 - pkg:cargo/jammi-numerics@0.8.0
 - pkg:cargo/jammi-numerics@0.9.0
