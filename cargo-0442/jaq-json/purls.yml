@@ -10,3 +10,4 @@
 - pkg:cargo/jaq-json@2.0.0-alpha
 - pkg:cargo/jaq-json@2.0.0-beta
 - pkg:cargo/jaq-json@2.0.0-gamma
+- pkg:cargo/jaq-json@2.0.1
