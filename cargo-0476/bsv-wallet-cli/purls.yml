@@ -21,3 +21,7 @@
 - pkg:cargo/bsv-wallet-cli@0.1.8
 - pkg:cargo/bsv-wallet-cli@0.1.9
 - pkg:cargo/bsv-wallet-cli@0.2.1
+- pkg:cargo/bsv-wallet-cli@0.2.2
+- pkg:cargo/bsv-wallet-cli@0.2.7
+- pkg:cargo/bsv-wallet-cli@0.2.8
+- pkg:cargo/bsv-wallet-cli@0.2.9
