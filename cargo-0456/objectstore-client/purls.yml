@@ -19,6 +19,11 @@
 - pkg:cargo/objectstore-client@0.0.9
 - pkg:cargo/objectstore-client@0.1.0
 - pkg:cargo/objectstore-client@0.1.1
+- pkg:cargo/objectstore-client@0.1.10
+- pkg:cargo/objectstore-client@0.1.11
+- pkg:cargo/objectstore-client@0.1.12
+- pkg:cargo/objectstore-client@0.1.13
+- pkg:cargo/objectstore-client@0.1.14
 - pkg:cargo/objectstore-client@0.1.2
 - pkg:cargo/objectstore-client@0.1.3
 - pkg:cargo/objectstore-client@0.1.4

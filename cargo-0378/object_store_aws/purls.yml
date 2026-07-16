@@ -1,0 +1,8 @@
+- pkg:cargo/object_store_aws@0.13.0
+- pkg:cargo/object_store_aws@0.13.1
+- pkg:cargo/object_store_aws@0.13.2
+- pkg:cargo/object_store_aws@0.13.3
+- pkg:cargo/object_store_aws@0.13.4
+- pkg:cargo/object_store_aws@0.13.5
+- pkg:cargo/object_store_aws@0.13.6
+- pkg:cargo/object_store_aws@0.13.7
