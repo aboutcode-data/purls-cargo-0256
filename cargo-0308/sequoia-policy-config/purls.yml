@@ -7,4 +7,5 @@
 - pkg:cargo/sequoia-policy-config@0.7.0
 - pkg:cargo/sequoia-policy-config@0.8.0
 - pkg:cargo/sequoia-policy-config@0.8.1
+- pkg:cargo/sequoia-policy-config@0.8.2
 - pkg:cargo/sequoia-policy-config@0.9.0-pqc.1
