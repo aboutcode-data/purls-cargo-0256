@@ -1,1 +1,4 @@
 - pkg:cargo/docling-serve@0.40.0
+- pkg:cargo/docling-serve@0.40.1
+- pkg:cargo/docling-serve@0.40.2
+- pkg:cargo/docling-serve@0.40.3

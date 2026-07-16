@@ -21,3 +21,6 @@
 - pkg:cargo/docling-core@0.38.2
 - pkg:cargo/docling-core@0.39.0
 - pkg:cargo/docling-core@0.40.0
+- pkg:cargo/docling-core@0.40.1
+- pkg:cargo/docling-core@0.40.2
+- pkg:cargo/docling-core@0.40.3
