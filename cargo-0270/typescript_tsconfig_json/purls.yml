@@ -15,3 +15,4 @@
 - pkg:cargo/typescript_tsconfig_json@0.5.3
 - pkg:cargo/typescript_tsconfig_json@0.5.4
 - pkg:cargo/typescript_tsconfig_json@0.5.5
+- pkg:cargo/typescript_tsconfig_json@0.5.6
