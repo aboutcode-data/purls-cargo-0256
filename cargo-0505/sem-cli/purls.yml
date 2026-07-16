@@ -1,5 +1,13 @@
 - pkg:cargo/sem-cli@0.10.0
 - pkg:cargo/sem-cli@0.10.1
+- pkg:cargo/sem-cli@0.11.0
+- pkg:cargo/sem-cli@0.11.1
+- pkg:cargo/sem-cli@0.12.0
+- pkg:cargo/sem-cli@0.13.0
+- pkg:cargo/sem-cli@0.13.1
+- pkg:cargo/sem-cli@0.14.0
+- pkg:cargo/sem-cli@0.14.1
+- pkg:cargo/sem-cli@0.21.0
 - pkg:cargo/sem-cli@0.3.13
 - pkg:cargo/sem-cli@0.3.14
 - pkg:cargo/sem-cli@0.3.15
