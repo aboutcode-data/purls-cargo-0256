@@ -1,4 +1,10 @@
 - pkg:cargo/nix-bindings-sys@0.2327.0
 - pkg:cargo/nix-bindings-sys@0.2328.0
 - pkg:cargo/nix-bindings-sys@0.2328.1
+- pkg:cargo/nix-bindings-sys@0.2347.2
+- pkg:cargo/nix-bindings-sys@0.2347.3
+- pkg:cargo/nix-bindings-sys@0.2347.4
+- pkg:cargo/nix-bindings-sys@0.2347.5
+- pkg:cargo/nix-bindings-sys@0.2347.7
+- pkg:cargo/nix-bindings-sys@0.2347.8
 - pkg:cargo/nix-bindings-sys@2.32.4
