@@ -32,5 +32,17 @@
 - pkg:cargo/symjit@2.17.2
 - pkg:cargo/symjit@2.17.3
 - pkg:cargo/symjit@2.18.0
+- pkg:cargo/symjit@2.18.1
+- pkg:cargo/symjit@2.18.2
+- pkg:cargo/symjit@2.18.3
+- pkg:cargo/symjit@2.18.4
+- pkg:cargo/symjit@2.18.5
+- pkg:cargo/symjit@2.18.6
+- pkg:cargo/symjit@2.18.7
+- pkg:cargo/symjit@2.18.8
+- pkg:cargo/symjit@2.18.9
+- pkg:cargo/symjit@2.19.2
+- pkg:cargo/symjit@2.19.3
+- pkg:cargo/symjit@2.20.0
 - pkg:cargo/symjit@2.9.0
 - pkg:cargo/symjit@2.9.1
