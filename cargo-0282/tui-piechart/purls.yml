@@ -14,3 +14,4 @@
 - pkg:cargo/tui-piechart@0.3.1
 - pkg:cargo/tui-piechart@0.3.2
 - pkg:cargo/tui-piechart@0.3.3
+- pkg:cargo/tui-piechart@1.0.0
