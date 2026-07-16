@@ -12,3 +12,4 @@
 - pkg:cargo/tuas_boussinesq_solver@0.1.1
 - pkg:cargo/tuas_boussinesq_solver@0.1.2
 - pkg:cargo/tuas_boussinesq_solver@0.1.3
+- pkg:cargo/tuas_boussinesq_solver@0.1.4
