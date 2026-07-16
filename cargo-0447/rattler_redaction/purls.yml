@@ -16,3 +16,4 @@
 - pkg:cargo/rattler_redaction@0.1.9
 - pkg:cargo/rattler_redaction@0.2.0
 - pkg:cargo/rattler_redaction@0.2.1
+- pkg:cargo/rattler_redaction@0.2.2
