@@ -19,6 +19,11 @@
 - pkg:cargo/ssh-vault@1.1.5
 - pkg:cargo/ssh-vault@1.2.0
 - pkg:cargo/ssh-vault@1.2.1
+- pkg:cargo/ssh-vault@1.2.10
+- pkg:cargo/ssh-vault@1.2.11
+- pkg:cargo/ssh-vault@1.2.12
+- pkg:cargo/ssh-vault@1.2.13
+- pkg:cargo/ssh-vault@1.2.14
 - pkg:cargo/ssh-vault@1.2.2
 - pkg:cargo/ssh-vault@1.2.3
 - pkg:cargo/ssh-vault@1.2.4
@@ -26,3 +31,6 @@
 - pkg:cargo/ssh-vault@1.2.6
 - pkg:cargo/ssh-vault@1.2.7
 - pkg:cargo/ssh-vault@1.2.8
+- pkg:cargo/ssh-vault@1.2.9
+- pkg:cargo/ssh-vault@1.3.0
+- pkg:cargo/ssh-vault@1.3.1
