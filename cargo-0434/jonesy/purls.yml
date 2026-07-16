@@ -1,3 +1,4 @@
+- pkg:cargo/jonesy@0.10.0
 - pkg:cargo/jonesy@0.3.0
 - pkg:cargo/jonesy@0.3.1
 - pkg:cargo/jonesy@0.4.0
@@ -13,3 +14,6 @@
 - pkg:cargo/jonesy@0.7.6
 - pkg:cargo/jonesy@0.7.7
 - pkg:cargo/jonesy@0.7.9
+- pkg:cargo/jonesy@0.8.1
+- pkg:cargo/jonesy@0.9.0
+- pkg:cargo/jonesy@0.9.1

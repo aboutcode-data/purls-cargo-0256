@@ -8,3 +8,5 @@
 - pkg:cargo/job_declaration_sv2@5.0.2
 - pkg:cargo/job_declaration_sv2@6.0.0
 - pkg:cargo/job_declaration_sv2@7.0.0
+- pkg:cargo/job_declaration_sv2@8.0.0
+- pkg:cargo/job_declaration_sv2@9.0.0
