@@ -9,3 +9,4 @@
 - pkg:cargo/thrussh-libsodium@0.2.3
 - pkg:cargo/thrussh-libsodium@0.3.0
 - pkg:cargo/thrussh-libsodium@0.4.0
+- pkg:cargo/thrussh-libsodium@0.4.1
