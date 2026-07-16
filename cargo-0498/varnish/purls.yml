@@ -32,3 +32,5 @@
 - pkg:cargo/varnish@0.5.4
 - pkg:cargo/varnish@0.5.5
 - pkg:cargo/varnish@0.6.0
+- pkg:cargo/varnish@0.7.0
+- pkg:cargo/varnish@0.7.1
