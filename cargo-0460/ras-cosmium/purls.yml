@@ -8,3 +8,7 @@
 - pkg:cargo/ras-cosmium@2.7.0
 - pkg:cargo/ras-cosmium@2.8.0
 - pkg:cargo/ras-cosmium@3.0.0
+- pkg:cargo/ras-cosmium@3.1.0
+- pkg:cargo/ras-cosmium@4.0.0
+- pkg:cargo/ras-cosmium@4.1.0
+- pkg:cargo/ras-cosmium@4.2.0

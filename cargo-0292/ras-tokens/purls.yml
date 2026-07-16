@@ -8,3 +8,7 @@
 - pkg:cargo/ras-tokens@2.7.0
 - pkg:cargo/ras-tokens@2.8.0
 - pkg:cargo/ras-tokens@3.0.0
+- pkg:cargo/ras-tokens@3.1.0
+- pkg:cargo/ras-tokens@4.0.0
+- pkg:cargo/ras-tokens@4.1.0
+- pkg:cargo/ras-tokens@4.2.0
