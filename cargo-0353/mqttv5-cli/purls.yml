@@ -29,6 +29,11 @@
 - pkg:cargo/mqttv5-cli@0.27.0
 - pkg:cargo/mqttv5-cli@0.27.1
 - pkg:cargo/mqttv5-cli@0.27.3
+- pkg:cargo/mqttv5-cli@0.27.4
+- pkg:cargo/mqttv5-cli@0.28.0
+- pkg:cargo/mqttv5-cli@0.28.1
+- pkg:cargo/mqttv5-cli@0.28.2
+- pkg:cargo/mqttv5-cli@0.28.3
 - pkg:cargo/mqttv5-cli@0.4.0
 - pkg:cargo/mqttv5-cli@0.4.1
 - pkg:cargo/mqttv5-cli@0.4.2
