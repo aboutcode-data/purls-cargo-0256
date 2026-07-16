@@ -6,3 +6,4 @@
 - pkg:cargo/cdoc-parser@0.1.1
 - pkg:cargo/cdoc-parser@0.10.0-alpha
 - pkg:cargo/cdoc-parser@0.10.0-alpha.1
+- pkg:cargo/cdoc-parser@0.9.5
