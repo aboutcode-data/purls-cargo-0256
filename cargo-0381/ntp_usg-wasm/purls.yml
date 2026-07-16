@@ -1,3 +1,4 @@
 - pkg:cargo/ntp_usg-wasm@4.0.1
 - pkg:cargo/ntp_usg-wasm@4.1.0
 - pkg:cargo/ntp_usg-wasm@4.10.1
+- pkg:cargo/ntp_usg-wasm@5.0.0

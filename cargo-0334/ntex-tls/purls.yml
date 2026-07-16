@@ -59,3 +59,6 @@
 - pkg:cargo/ntex-tls@3.5.2
 - pkg:cargo/ntex-tls@3.6.0
 - pkg:cargo/ntex-tls@3.6.1
+- pkg:cargo/ntex-tls@3.6.2
+- pkg:cargo/ntex-tls@3.6.3
+- pkg:cargo/ntex-tls@3.7.0
