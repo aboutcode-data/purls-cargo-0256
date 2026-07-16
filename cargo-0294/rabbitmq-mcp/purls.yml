@@ -1,0 +1,4 @@
+- pkg:cargo/rabbitmq-mcp@0.1.1
+- pkg:cargo/rabbitmq-mcp@0.2.0
+- pkg:cargo/rabbitmq-mcp@0.3.0
+- pkg:cargo/rabbitmq-mcp@0.3.1
