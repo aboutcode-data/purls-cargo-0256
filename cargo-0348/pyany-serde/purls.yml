@@ -17,3 +17,6 @@
 - pkg:cargo/pyany-serde@0.3.1
 - pkg:cargo/pyany-serde@0.4.0
 - pkg:cargo/pyany-serde@0.5.0
+- pkg:cargo/pyany-serde@0.6.0
+- pkg:cargo/pyany-serde@0.6.1
+- pkg:cargo/pyany-serde@0.7.0
