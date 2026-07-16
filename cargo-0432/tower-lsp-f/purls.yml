@@ -4,5 +4,11 @@
 - pkg:cargo/tower-lsp-f@0.22.0
 - pkg:cargo/tower-lsp-f@0.23.0
 - pkg:cargo/tower-lsp-f@0.24.0
+- pkg:cargo/tower-lsp-f@0.25.0
 - pkg:cargo/tower-lsp-f@0.25.0-beta1
 - pkg:cargo/tower-lsp-f@0.25.0-beta2
+- pkg:cargo/tower-lsp-f@0.25.0-beta3
+- pkg:cargo/tower-lsp-f@0.25.0-rc1
+- pkg:cargo/tower-lsp-f@0.25.0-rc2
+- pkg:cargo/tower-lsp-f@0.25.0-rc3
+- pkg:cargo/tower-lsp-f@0.26.0
