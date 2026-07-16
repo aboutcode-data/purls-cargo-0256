@@ -31,6 +31,11 @@
 - pkg:cargo/torin@0.4.0-rc.18
 - pkg:cargo/torin@0.4.0-rc.19
 - pkg:cargo/torin@0.4.0-rc.2
+- pkg:cargo/torin@0.4.0-rc.20
+- pkg:cargo/torin@0.4.0-rc.21
+- pkg:cargo/torin@0.4.0-rc.22
+- pkg:cargo/torin@0.4.0-rc.23
+- pkg:cargo/torin@0.4.0-rc.24
 - pkg:cargo/torin@0.4.0-rc.3
 - pkg:cargo/torin@0.4.0-rc.4
 - pkg:cargo/torin@0.4.0-rc.5

@@ -2,3 +2,4 @@
 - pkg:cargo/token-acl-interface@0.2.0
 - pkg:cargo/token-acl-interface@0.2.1
 - pkg:cargo/token-acl-interface@0.2.2
+- pkg:cargo/token-acl-interface@0.2.3
