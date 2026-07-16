@@ -70,6 +70,9 @@
 - pkg:cargo/variant-ssl-sys@0.17.3
 - pkg:cargo/variant-ssl-sys@0.17.30
 - pkg:cargo/variant-ssl-sys@0.17.31
+- pkg:cargo/variant-ssl-sys@0.17.32
+- pkg:cargo/variant-ssl-sys@0.17.33
+- pkg:cargo/variant-ssl-sys@0.17.34
 - pkg:cargo/variant-ssl-sys@0.17.4
 - pkg:cargo/variant-ssl-sys@0.17.5
 - pkg:cargo/variant-ssl-sys@0.17.6
