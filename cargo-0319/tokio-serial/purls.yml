@@ -21,3 +21,4 @@
 - pkg:cargo/tokio-serial@5.4.3
 - pkg:cargo/tokio-serial@5.4.4
 - pkg:cargo/tokio-serial@5.4.5
+- pkg:cargo/tokio-serial@5.5.0
