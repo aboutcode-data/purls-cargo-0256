@@ -1,1 +1,2 @@
 - pkg:cargo/openvm-mod-circuit-builder@0.0.0-reserved
+- pkg:cargo/openvm-mod-circuit-builder@2.0.1
