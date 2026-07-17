@@ -43,6 +43,9 @@
 - pkg:cargo/test-with@0.15.8
 - pkg:cargo/test-with@0.16.0
 - pkg:cargo/test-with@0.16.1
+- pkg:cargo/test-with@0.16.2
+- pkg:cargo/test-with@0.16.3
+- pkg:cargo/test-with@0.16.4
 - pkg:cargo/test-with@0.2.0
 - pkg:cargo/test-with@0.3.0
 - pkg:cargo/test-with@0.3.1
