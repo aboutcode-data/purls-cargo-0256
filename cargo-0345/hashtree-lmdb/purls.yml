@@ -64,4 +64,6 @@
 - pkg:cargo/hashtree-lmdb@0.2.80
 - pkg:cargo/hashtree-lmdb@0.2.81
 - pkg:cargo/hashtree-lmdb@0.2.82
+- pkg:cargo/hashtree-lmdb@0.2.83
+- pkg:cargo/hashtree-lmdb@0.2.84
 - pkg:cargo/hashtree-lmdb@0.2.9
