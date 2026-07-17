@@ -10,5 +10,6 @@
 - pkg:cargo/test-log@0.2.18
 - pkg:cargo/test-log@0.2.19
 - pkg:cargo/test-log@0.2.20
+- pkg:cargo/test-log@0.2.21
 - pkg:cargo/test-log@0.2.8
 - pkg:cargo/test-log@0.2.9
