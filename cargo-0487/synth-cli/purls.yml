@@ -97,6 +97,8 @@
 - pkg:cargo/synth-cli@0.45.1
 - pkg:cargo/synth-cli@0.45.2
 - pkg:cargo/synth-cli@0.46.0
+- pkg:cargo/synth-cli@0.46.1
+- pkg:cargo/synth-cli@0.47.0
 - pkg:cargo/synth-cli@0.6.0
 - pkg:cargo/synth-cli@0.7.0
 - pkg:cargo/synth-cli@0.8.0
