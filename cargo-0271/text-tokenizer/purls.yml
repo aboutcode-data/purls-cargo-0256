@@ -21,6 +21,7 @@
 - pkg:cargo/text-tokenizer@0.6.14
 - pkg:cargo/text-tokenizer@0.6.15
 - pkg:cargo/text-tokenizer@0.6.16
+- pkg:cargo/text-tokenizer@0.6.17
 - pkg:cargo/text-tokenizer@0.6.2
 - pkg:cargo/text-tokenizer@0.6.3
 - pkg:cargo/text-tokenizer@0.6.4
@@ -29,3 +30,4 @@
 - pkg:cargo/text-tokenizer@0.6.7
 - pkg:cargo/text-tokenizer@0.6.8
 - pkg:cargo/text-tokenizer@0.6.9
+- pkg:cargo/text-tokenizer@0.7.0
