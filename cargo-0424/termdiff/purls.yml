@@ -17,3 +17,5 @@
 - pkg:cargo/termdiff@4.0.0
 - pkg:cargo/termdiff@4.1.0
 - pkg:cargo/termdiff@4.1.1
+- pkg:cargo/termdiff@4.2.0
+- pkg:cargo/termdiff@4.2.1

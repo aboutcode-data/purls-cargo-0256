@@ -22,3 +22,4 @@
 - pkg:cargo/terminal-info@1.4.2
 - pkg:cargo/terminal-info@1.4.3
 - pkg:cargo/terminal-info@1.5.0
+- pkg:cargo/terminal-info@1.5.1
