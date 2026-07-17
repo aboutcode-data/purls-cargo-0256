@@ -28,3 +28,4 @@
 - pkg:cargo/rbx_dom_weak@3.0.0
 - pkg:cargo/rbx_dom_weak@4.0.0
 - pkg:cargo/rbx_dom_weak@4.1.0
+- pkg:cargo/rbx_dom_weak@4.2.0

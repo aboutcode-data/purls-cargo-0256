@@ -20,3 +20,4 @@
 - pkg:cargo/rbx_reflection_database@2.0.0%2Broblox-694
 - pkg:cargo/rbx_reflection_database@2.0.1%2Broblox-697
 - pkg:cargo/rbx_reflection_database@2.0.2%2Broblox-700
+- pkg:cargo/rbx_reflection_database@3.0.0%2Broblox-728

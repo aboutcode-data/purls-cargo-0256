@@ -32,3 +32,4 @@
 - pkg:cargo/rbx_xml@1.0.0
 - pkg:cargo/rbx_xml@2.0.0
 - pkg:cargo/rbx_xml@2.0.1
+- pkg:cargo/rbx_xml@3.0.0
