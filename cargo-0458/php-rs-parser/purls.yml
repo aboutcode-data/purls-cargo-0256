@@ -15,6 +15,7 @@
 - pkg:cargo/php-rs-parser@0.18.0
 - pkg:cargo/php-rs-parser@0.18.1
 - pkg:cargo/php-rs-parser@0.18.2
+- pkg:cargo/php-rs-parser@0.18.3
 - pkg:cargo/php-rs-parser@0.2.1
 - pkg:cargo/php-rs-parser@0.3.0
 - pkg:cargo/php-rs-parser@0.3.2
