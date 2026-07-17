@@ -9,3 +9,4 @@
 - pkg:cargo/hadris-part@1.1.2
 - pkg:cargo/hadris-part@1.2.0
 - pkg:cargo/hadris-part@1.2.1
+- pkg:cargo/hadris-part@2.0.0-rc.1
