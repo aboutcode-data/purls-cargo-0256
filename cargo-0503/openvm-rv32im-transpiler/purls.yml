@@ -1,1 +1,2 @@
 - pkg:cargo/openvm-rv32im-transpiler@0.0.0-reserved
+- pkg:cargo/openvm-rv32im-transpiler@2.0.1
