@@ -1,0 +1,5 @@
+- pkg:cargo/pgsafe@0.10.0
+- pkg:cargo/pgsafe@0.11.0
+- pkg:cargo/pgsafe@0.8.6
+- pkg:cargo/pgsafe@0.9.0
+- pkg:cargo/pgsafe@0.9.1
