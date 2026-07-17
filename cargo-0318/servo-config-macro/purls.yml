@@ -4,3 +4,4 @@
 - pkg:cargo/servo-config-macro@0.1.2
 - pkg:cargo/servo-config-macro@0.2.0
 - pkg:cargo/servo-config-macro@0.3.0
+- pkg:cargo/servo-config-macro@0.4.0

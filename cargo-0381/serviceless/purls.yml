@@ -28,3 +28,4 @@
 - pkg:cargo/serviceless@0.5.8
 - pkg:cargo/serviceless@0.5.9
 - pkg:cargo/serviceless@0.6.0
+- pkg:cargo/serviceless@0.6.1
