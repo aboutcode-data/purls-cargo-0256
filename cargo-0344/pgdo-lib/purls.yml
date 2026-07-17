@@ -13,3 +13,4 @@
 - pkg:cargo/pgdo-lib@0.5.5
 - pkg:cargo/pgdo-lib@0.5.6
 - pkg:cargo/pgdo-lib@0.5.7
+- pkg:cargo/pgdo-lib@0.6.0
