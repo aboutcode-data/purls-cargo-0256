@@ -1,1 +1,6 @@
 - pkg:cargo/terraphim_orchestrator@1.16.34
+- pkg:cargo/terraphim_orchestrator@1.19.3
+- pkg:cargo/terraphim_orchestrator@1.20.0
+- pkg:cargo/terraphim_orchestrator@1.20.1
+- pkg:cargo/terraphim_orchestrator@1.20.2
+- pkg:cargo/terraphim_orchestrator@1.20.3
