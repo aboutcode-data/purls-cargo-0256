@@ -46,4 +46,6 @@
 - pkg:cargo/tess-cli@0.58.2
 - pkg:cargo/tess-cli@0.59.0
 - pkg:cargo/tess-cli@0.60.0
+- pkg:cargo/tess-cli@0.61.0
+- pkg:cargo/tess-cli@0.62.0
 - pkg:cargo/tess-cli@0.9.1
