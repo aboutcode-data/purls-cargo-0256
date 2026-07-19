@@ -50,3 +50,4 @@
 - pkg:cargo/blockwatch@0.3.5
 - pkg:cargo/blockwatch@0.3.6
 - pkg:cargo/blockwatch@0.3.7
+- pkg:cargo/blockwatch@0.3.8
