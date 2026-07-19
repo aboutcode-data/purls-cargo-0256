@@ -28,3 +28,4 @@
 - pkg:cargo/hashtree-fips-transport@0.4.6
 - pkg:cargo/hashtree-fips-transport@0.4.7
 - pkg:cargo/hashtree-fips-transport@0.4.8
+- pkg:cargo/hashtree-fips-transport@0.4.9
