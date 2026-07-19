@@ -30,6 +30,7 @@
 - pkg:cargo/klirr@0.2.12
 - pkg:cargo/klirr@0.2.13
 - pkg:cargo/klirr@0.2.14
+- pkg:cargo/klirr@0.2.15
 - pkg:cargo/klirr@0.2.6
 - pkg:cargo/klirr@0.2.8
 - pkg:cargo/klirr@0.2.9
