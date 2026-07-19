@@ -1,3 +1,6 @@
 - pkg:cargo/mftp@0.1.102
+- pkg:cargo/mftp@0.1.130
 - pkg:cargo/mftp@0.1.48
 - pkg:cargo/mftp@0.1.49
+- pkg:cargo/mftp@0.2.0
+- pkg:cargo/mftp@0.2.2
