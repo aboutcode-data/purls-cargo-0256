@@ -154,8 +154,12 @@
 - pkg:cargo/napi-derive@3.4.1
 - pkg:cargo/napi-derive@3.5.0
 - pkg:cargo/napi-derive@3.5.1
+- pkg:cargo/napi-derive@3.5.10
 - pkg:cargo/napi-derive@3.5.2
 - pkg:cargo/napi-derive@3.5.3
 - pkg:cargo/napi-derive@3.5.4
 - pkg:cargo/napi-derive@3.5.5
 - pkg:cargo/napi-derive@3.5.6
+- pkg:cargo/napi-derive@3.5.7
+- pkg:cargo/napi-derive@3.5.8
+- pkg:cargo/napi-derive@3.5.9
