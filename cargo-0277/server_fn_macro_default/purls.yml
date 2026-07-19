@@ -86,3 +86,4 @@
 - pkg:cargo/server_fn_macro_default@0.8.4
 - pkg:cargo/server_fn_macro_default@0.8.5
 - pkg:cargo/server_fn_macro_default@0.9.0-alpha
+- pkg:cargo/server_fn_macro_default@0.9.0-beta
