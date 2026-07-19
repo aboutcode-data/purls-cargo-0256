@@ -1,0 +1,3 @@
+- pkg:cargo/onnxruntime-ep-mlx@0.2.3
+- pkg:cargo/onnxruntime-ep-mlx@0.27.0
+- pkg:cargo/onnxruntime-ep-mlx@0.3.0
