@@ -36,3 +36,6 @@
 - pkg:cargo/semifold@0.2.9
 - pkg:cargo/semifold@0.3.0-alpha.0
 - pkg:cargo/semifold@0.3.0-alpha.1
+- pkg:cargo/semifold@0.3.0-alpha.3
+- pkg:cargo/semifold@0.3.0-alpha.4
+- pkg:cargo/semifold@0.3.0-alpha.5
