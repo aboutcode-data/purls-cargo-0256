@@ -39,6 +39,7 @@
 - pkg:cargo/aether-mcp-servers@0.4.25
 - pkg:cargo/aether-mcp-servers@0.4.26
 - pkg:cargo/aether-mcp-servers@0.4.27
+- pkg:cargo/aether-mcp-servers@0.4.28
 - pkg:cargo/aether-mcp-servers@0.4.3
 - pkg:cargo/aether-mcp-servers@0.4.4
 - pkg:cargo/aether-mcp-servers@0.4.5
