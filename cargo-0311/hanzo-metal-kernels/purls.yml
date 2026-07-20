@@ -4,6 +4,9 @@
 - pkg:cargo/hanzo-metal-kernels@0.11.34
 - pkg:cargo/hanzo-metal-kernels@0.11.36
 - pkg:cargo/hanzo-metal-kernels@0.11.37
+- pkg:cargo/hanzo-metal-kernels@0.11.39
+- pkg:cargo/hanzo-metal-kernels@0.11.41
+- pkg:cargo/hanzo-metal-kernels@0.11.42
 - pkg:cargo/hanzo-metal-kernels@0.11.5
 - pkg:cargo/hanzo-metal-kernels@0.11.6
 - pkg:cargo/hanzo-metal-kernels@0.11.7
