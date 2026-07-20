@@ -15,3 +15,5 @@
 - pkg:cargo/rabbitmq-mcp@0.4.7
 - pkg:cargo/rabbitmq-mcp@0.4.8
 - pkg:cargo/rabbitmq-mcp@0.5.0
+- pkg:cargo/rabbitmq-mcp@0.6.0
+- pkg:cargo/rabbitmq-mcp@0.6.1
