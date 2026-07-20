@@ -33,6 +33,7 @@
 - pkg:cargo/aether-acp-utils@0.3.3
 - pkg:cargo/aether-acp-utils@0.3.30
 - pkg:cargo/aether-acp-utils@0.3.31
+- pkg:cargo/aether-acp-utils@0.3.32
 - pkg:cargo/aether-acp-utils@0.3.4
 - pkg:cargo/aether-acp-utils@0.3.5
 - pkg:cargo/aether-acp-utils@0.3.6
