@@ -4,3 +4,5 @@
 - pkg:cargo/systemio@0.0.3
 - pkg:cargo/systemio@0.1.0
 - pkg:cargo/systemio@1.0.0
+- pkg:cargo/systemio@2.0.0
+- pkg:cargo/systemio@2.1.0
