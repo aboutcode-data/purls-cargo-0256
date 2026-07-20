@@ -5,3 +5,4 @@
 - pkg:cargo/blackbox-recorder@1.1.0
 - pkg:cargo/blackbox-recorder@1.2.0
 - pkg:cargo/blackbox-recorder@1.3.0
+- pkg:cargo/blackbox-recorder@1.4.0
