@@ -159,6 +159,7 @@
 - pkg:cargo/sentry_protos@0.44.3
 - pkg:cargo/sentry_protos@0.45.0
 - pkg:cargo/sentry_protos@0.45.1
+- pkg:cargo/sentry_protos@0.46.0
 - pkg:cargo/sentry_protos@0.5.0
 - pkg:cargo/sentry_protos@0.6.0
 - pkg:cargo/sentry_protos@0.7.0
