@@ -34,6 +34,7 @@
 - pkg:cargo/aether-mcp-utils@0.5.24
 - pkg:cargo/aether-mcp-utils@0.5.25
 - pkg:cargo/aether-mcp-utils@0.5.26
+- pkg:cargo/aether-mcp-utils@0.5.27
 - pkg:cargo/aether-mcp-utils@0.5.3
 - pkg:cargo/aether-mcp-utils@0.5.4
 - pkg:cargo/aether-mcp-utils@0.5.5
