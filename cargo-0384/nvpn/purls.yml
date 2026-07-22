@@ -39,3 +39,5 @@
 - pkg:cargo/nvpn@4.0.86
 - pkg:cargo/nvpn@4.0.87
 - pkg:cargo/nvpn@4.0.96
+- pkg:cargo/nvpn@4.1.1
+- pkg:cargo/nvpn@4.1.3
