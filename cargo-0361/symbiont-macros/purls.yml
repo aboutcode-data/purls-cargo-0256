@@ -15,6 +15,7 @@
 - pkg:cargo/symbiont-macros@0.19.0
 - pkg:cargo/symbiont-macros@0.19.1
 - pkg:cargo/symbiont-macros@0.19.2
+- pkg:cargo/symbiont-macros@0.19.3
 - pkg:cargo/symbiont-macros@0.2.0
 - pkg:cargo/symbiont-macros@0.3.0
 - pkg:cargo/symbiont-macros@0.4.0
