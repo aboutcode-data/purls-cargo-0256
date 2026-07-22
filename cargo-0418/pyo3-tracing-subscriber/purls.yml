@@ -17,3 +17,5 @@
 - pkg:cargo/pyo3-tracing-subscriber@0.5.0-rc.0
 - pkg:cargo/pyo3-tracing-subscriber@0.5.0-rc.1
 - pkg:cargo/pyo3-tracing-subscriber@0.5.0-rc.2
+- pkg:cargo/pyo3-tracing-subscriber@0.6.0
+- pkg:cargo/pyo3-tracing-subscriber@0.7.0
