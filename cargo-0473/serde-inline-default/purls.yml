@@ -6,3 +6,4 @@
 - pkg:cargo/serde-inline-default@0.2.3
 - pkg:cargo/serde-inline-default@1.0.0
 - pkg:cargo/serde-inline-default@1.0.1
+- pkg:cargo/serde-inline-default@1.0.2
