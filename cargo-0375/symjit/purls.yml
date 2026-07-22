@@ -45,5 +45,6 @@
 - pkg:cargo/symjit@2.19.3
 - pkg:cargo/symjit@2.20.0
 - pkg:cargo/symjit@2.20.4
+- pkg:cargo/symjit@2.21.0
 - pkg:cargo/symjit@2.9.0
 - pkg:cargo/symjit@2.9.1
