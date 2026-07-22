@@ -1,3 +1,5 @@
 - pkg:cargo/integration_tests_sv2@0.1.0
 - pkg:cargo/integration_tests_sv2@0.1.1
 - pkg:cargo/integration_tests_sv2@0.2.0
+- pkg:cargo/integration_tests_sv2@0.3.0
+- pkg:cargo/integration_tests_sv2@0.4.0
