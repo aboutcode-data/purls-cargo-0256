@@ -25,3 +25,5 @@
 - pkg:cargo/klieo-runlog@3.2.1
 - pkg:cargo/klieo-runlog@3.3.0
 - pkg:cargo/klieo-runlog@3.3.1
+- pkg:cargo/klieo-runlog@3.4.0
+- pkg:cargo/klieo-runlog@3.5.0
