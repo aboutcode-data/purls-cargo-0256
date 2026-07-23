@@ -30,3 +30,8 @@
 - pkg:cargo/miden-crypto-derive@0.23.0
 - pkg:cargo/miden-crypto-derive@0.24.0
 - pkg:cargo/miden-crypto-derive@0.25.0
+- pkg:cargo/miden-crypto-derive@0.25.1
+- pkg:cargo/miden-crypto-derive@0.26.0
+- pkg:cargo/miden-crypto-derive@0.27.0
+- pkg:cargo/miden-crypto-derive@0.27.1
+- pkg:cargo/miden-crypto-derive@0.28.0
