@@ -5,3 +5,8 @@
 - pkg:cargo/moonbeam@0.5.1
 - pkg:cargo/moonbeam@0.5.2
 - pkg:cargo/moonbeam@0.6.0
+- pkg:cargo/moonbeam@0.7.0
+- pkg:cargo/moonbeam@0.7.1
+- pkg:cargo/moonbeam@0.7.2
+- pkg:cargo/moonbeam@0.7.3
+- pkg:cargo/moonbeam@0.8.0
