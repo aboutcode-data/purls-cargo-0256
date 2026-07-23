@@ -13,3 +13,4 @@
 - pkg:cargo/horfimbor-eventsource@0.3.6
 - pkg:cargo/horfimbor-eventsource@0.4.0
 - pkg:cargo/horfimbor-eventsource@0.4.1
+- pkg:cargo/horfimbor-eventsource@0.5.0
