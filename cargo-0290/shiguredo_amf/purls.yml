@@ -1,4 +1,6 @@
 - pkg:cargo/shiguredo_amf@2026.1.0
 - pkg:cargo/shiguredo_amf@2026.1.0-canary.0
 - pkg:cargo/shiguredo_amf@2026.2.0
+- pkg:cargo/shiguredo_amf@2026.3.0
 - pkg:cargo/shiguredo_amf@2026.3.0-canary.0
+- pkg:cargo/shiguredo_amf@2026.3.0-canary.1
