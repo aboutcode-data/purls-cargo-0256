@@ -3,3 +3,4 @@
 - pkg:cargo/threadloom-ui@0.1.11
 - pkg:cargo/threadloom-ui@0.1.12
 - pkg:cargo/threadloom-ui@0.1.13
+- pkg:cargo/threadloom-ui@0.1.15
