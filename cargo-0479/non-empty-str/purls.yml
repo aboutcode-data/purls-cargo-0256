@@ -4,6 +4,7 @@
 - pkg:cargo/non-empty-str@0.11.1
 - pkg:cargo/non-empty-str@0.11.2
 - pkg:cargo/non-empty-str@0.11.3
+- pkg:cargo/non-empty-str@0.12.0
 - pkg:cargo/non-empty-str@0.2.0
 - pkg:cargo/non-empty-str@0.2.1
 - pkg:cargo/non-empty-str@0.2.2
