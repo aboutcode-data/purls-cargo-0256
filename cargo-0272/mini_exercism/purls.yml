@@ -13,3 +13,5 @@
 - pkg:cargo/mini_exercism@7.0.0
 - pkg:cargo/mini_exercism@7.1.0
 - pkg:cargo/mini_exercism@8.0.0
+- pkg:cargo/mini_exercism@8.0.1
+- pkg:cargo/mini_exercism@8.1.0
