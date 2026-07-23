@@ -292,6 +292,10 @@
 - pkg:cargo/holochain_sqlite@0.6.1-rc.5
 - pkg:cargo/holochain_sqlite@0.6.1-rc.6
 - pkg:cargo/holochain_sqlite@0.6.1-rc.7
+- pkg:cargo/holochain_sqlite@0.6.2
+- pkg:cargo/holochain_sqlite@0.6.2-rc.0
+- pkg:cargo/holochain_sqlite@0.6.3
+- pkg:cargo/holochain_sqlite@0.7.0%2Bdeprecated
 - pkg:cargo/holochain_sqlite@0.7.0-dev.0
 - pkg:cargo/holochain_sqlite@0.7.0-dev.1
 - pkg:cargo/holochain_sqlite@0.7.0-dev.10
@@ -306,6 +310,10 @@
 - pkg:cargo/holochain_sqlite@0.7.0-dev.19
 - pkg:cargo/holochain_sqlite@0.7.0-dev.2
 - pkg:cargo/holochain_sqlite@0.7.0-dev.20
+- pkg:cargo/holochain_sqlite@0.7.0-dev.21
+- pkg:cargo/holochain_sqlite@0.7.0-dev.22
+- pkg:cargo/holochain_sqlite@0.7.0-dev.23
+- pkg:cargo/holochain_sqlite@0.7.0-dev.24
 - pkg:cargo/holochain_sqlite@0.7.0-dev.3
 - pkg:cargo/holochain_sqlite@0.7.0-dev.4
 - pkg:cargo/holochain_sqlite@0.7.0-dev.5
