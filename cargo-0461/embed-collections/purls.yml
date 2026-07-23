@@ -11,6 +11,12 @@
 - pkg:cargo/embed-collections@0.11.3
 - pkg:cargo/embed-collections@0.11.4
 - pkg:cargo/embed-collections@0.11.6
+- pkg:cargo/embed-collections@0.12.0
+- pkg:cargo/embed-collections@0.12.1
+- pkg:cargo/embed-collections@0.12.2
+- pkg:cargo/embed-collections@0.12.3
+- pkg:cargo/embed-collections@0.12.4
+- pkg:cargo/embed-collections@0.13.0
 - pkg:cargo/embed-collections@0.2.0
 - pkg:cargo/embed-collections@0.2.1
 - pkg:cargo/embed-collections@0.2.2
@@ -32,3 +38,4 @@
 - pkg:cargo/embed-collections@0.8.3
 - pkg:cargo/embed-collections@0.8.4
 - pkg:cargo/embed-collections@0.9.0
+- pkg:cargo/embed-collections@1.0.0
