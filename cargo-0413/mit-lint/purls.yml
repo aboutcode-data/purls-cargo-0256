@@ -38,3 +38,8 @@
 - pkg:cargo/mit-lint@3.3.0
 - pkg:cargo/mit-lint@3.3.1
 - pkg:cargo/mit-lint@3.4.0
+- pkg:cargo/mit-lint@3.4.1
+- pkg:cargo/mit-lint@4.0.0
+- pkg:cargo/mit-lint@4.0.1
+- pkg:cargo/mit-lint@4.0.2
+- pkg:cargo/mit-lint@4.1.0
