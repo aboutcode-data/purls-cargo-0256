@@ -34,3 +34,14 @@
 - pkg:cargo/shvclient@6.0.0
 - pkg:cargo/shvclient@6.0.1
 - pkg:cargo/shvclient@6.0.2
+- pkg:cargo/shvclient@6.0.3
+- pkg:cargo/shvclient@7.0.0
+- pkg:cargo/shvclient@7.0.1
+- pkg:cargo/shvclient@7.0.2
+- pkg:cargo/shvclient@7.0.3
+- pkg:cargo/shvclient@8.0.0
+- pkg:cargo/shvclient@8.0.1
+- pkg:cargo/shvclient@8.0.2
+- pkg:cargo/shvclient@8.0.3
+- pkg:cargo/shvclient@8.0.4
+- pkg:cargo/shvclient@9.0.0
