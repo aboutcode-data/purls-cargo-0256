@@ -1,2 +1,3 @@
 - pkg:cargo/hostsfile@1.7.0
 - pkg:cargo/hostsfile@1.7.1
+- pkg:cargo/hostsfile@2.0.0
