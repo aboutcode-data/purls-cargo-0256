@@ -27,9 +27,15 @@
 - pkg:cargo/vantage-diorama@0.6.2
 - pkg:cargo/vantage-diorama@0.6.20
 - pkg:cargo/vantage-diorama@0.6.21
+- pkg:cargo/vantage-diorama@0.6.22
 - pkg:cargo/vantage-diorama@0.6.3
 - pkg:cargo/vantage-diorama@0.6.5
 - pkg:cargo/vantage-diorama@0.6.6
 - pkg:cargo/vantage-diorama@0.6.7
 - pkg:cargo/vantage-diorama@0.6.8
 - pkg:cargo/vantage-diorama@0.6.9
+- pkg:cargo/vantage-diorama@0.7.0
+- pkg:cargo/vantage-diorama@0.7.1
+- pkg:cargo/vantage-diorama@0.7.2
+- pkg:cargo/vantage-diorama@0.7.3
+- pkg:cargo/vantage-diorama@0.7.4
