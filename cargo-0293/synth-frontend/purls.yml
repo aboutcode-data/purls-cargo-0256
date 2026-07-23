@@ -102,6 +102,8 @@
 - pkg:cargo/synth-frontend@0.47.0
 - pkg:cargo/synth-frontend@0.48.0
 - pkg:cargo/synth-frontend@0.49.0
+- pkg:cargo/synth-frontend@0.50.0
+- pkg:cargo/synth-frontend@0.50.1
 - pkg:cargo/synth-frontend@0.6.0
 - pkg:cargo/synth-frontend@0.7.0
 - pkg:cargo/synth-frontend@0.8.0
