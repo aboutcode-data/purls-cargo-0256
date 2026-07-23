@@ -1,1 +1,2 @@
 - pkg:cargo/embassy-l9110-motor@0.1.0
+- pkg:cargo/embassy-l9110-motor@0.2.0
