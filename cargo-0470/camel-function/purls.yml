@@ -13,4 +13,7 @@
 - pkg:cargo/camel-function@0.21.0
 - pkg:cargo/camel-function@0.22.0
 - pkg:cargo/camel-function@0.23.0
+- pkg:cargo/camel-function@0.24.0
+- pkg:cargo/camel-function@0.25.0
+- pkg:cargo/camel-function@0.25.1
 - pkg:cargo/camel-function@0.9.0
