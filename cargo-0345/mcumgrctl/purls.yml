@@ -4,3 +4,7 @@
 - pkg:cargo/mcumgrctl@0.13.0
 - pkg:cargo/mcumgrctl@0.13.1
 - pkg:cargo/mcumgrctl@0.13.2
+- pkg:cargo/mcumgrctl@0.13.3
+- pkg:cargo/mcumgrctl@0.14.0
+- pkg:cargo/mcumgrctl@0.14.1
+- pkg:cargo/mcumgrctl@0.15.0
