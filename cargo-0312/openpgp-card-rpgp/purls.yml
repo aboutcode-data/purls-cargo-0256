@@ -18,3 +18,5 @@
 - pkg:cargo/openpgp-card-rpgp@0.5.0
 - pkg:cargo/openpgp-card-rpgp@0.6.0
 - pkg:cargo/openpgp-card-rpgp@0.7.0
+- pkg:cargo/openpgp-card-rpgp@0.8.0
+- pkg:cargo/openpgp-card-rpgp@0.8.1
