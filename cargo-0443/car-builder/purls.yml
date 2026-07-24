@@ -17,3 +17,5 @@
 - pkg:cargo/car-builder@0.34.0
 - pkg:cargo/car-builder@0.35.0
 - pkg:cargo/car-builder@0.36.0
+- pkg:cargo/car-builder@0.37.0
+- pkg:cargo/car-builder@0.38.0
