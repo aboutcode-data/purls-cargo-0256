@@ -700,7 +700,13 @@
 - pkg:cargo/canic-wasm-store@0.98.8
 - pkg:cargo/canic-wasm-store@0.99.0
 - pkg:cargo/canic-wasm-store@0.99.1
+- pkg:cargo/canic-wasm-store@0.99.10
+- pkg:cargo/canic-wasm-store@0.99.11
 - pkg:cargo/canic-wasm-store@0.99.2
 - pkg:cargo/canic-wasm-store@0.99.3
 - pkg:cargo/canic-wasm-store@0.99.4
 - pkg:cargo/canic-wasm-store@0.99.5
+- pkg:cargo/canic-wasm-store@0.99.6
+- pkg:cargo/canic-wasm-store@0.99.7
+- pkg:cargo/canic-wasm-store@0.99.8
+- pkg:cargo/canic-wasm-store@0.99.9
