@@ -36,3 +36,5 @@
 - pkg:cargo/tokf-filter@0.2.48
 - pkg:cargo/tokf-filter@0.2.49
 - pkg:cargo/tokf-filter@0.2.50
+- pkg:cargo/tokf-filter@0.2.51
+- pkg:cargo/tokf-filter@0.2.52
