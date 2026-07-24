@@ -1,3 +1,4 @@
 - pkg:cargo/secunit-core@0.1.2
 - pkg:cargo/secunit-core@0.4.2
 - pkg:cargo/secunit-core@0.5.0
+- pkg:cargo/secunit-core@0.6.0
