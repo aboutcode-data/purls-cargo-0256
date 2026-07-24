@@ -22,3 +22,5 @@
 - pkg:cargo/hjkl-keymap@0.33.5
 - pkg:cargo/hjkl-keymap@0.33.6
 - pkg:cargo/hjkl-keymap@0.34.1
+- pkg:cargo/hjkl-keymap@0.34.2
+- pkg:cargo/hjkl-keymap@0.35.0
