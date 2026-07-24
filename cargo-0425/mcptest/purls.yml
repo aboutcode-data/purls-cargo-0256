@@ -1,1 +1,5 @@
 - pkg:cargo/mcptest@0.0.1
+- pkg:cargo/mcptest@1.0.0
+- pkg:cargo/mcptest@1.0.1
+- pkg:cargo/mcptest@1.1.0
+- pkg:cargo/mcptest@1.2.0
