@@ -9,3 +9,4 @@
 - pkg:cargo/boreal-cli@0.9.0
 - pkg:cargo/boreal-cli@1.0.0
 - pkg:cargo/boreal-cli@1.1.0
+- pkg:cargo/boreal-cli@1.2.0
