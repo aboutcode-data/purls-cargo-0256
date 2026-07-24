@@ -1,2 +1,8 @@
 - pkg:cargo/gbp-stack-wasm@1.5.3
 - pkg:cargo/gbp-stack-wasm@1.5.4
+- pkg:cargo/gbp-stack-wasm@1.5.5
+- pkg:cargo/gbp-stack-wasm@1.6.0
+- pkg:cargo/gbp-stack-wasm@1.7.0
+- pkg:cargo/gbp-stack-wasm@1.8.0
+- pkg:cargo/gbp-stack-wasm@1.8.1
+- pkg:cargo/gbp-stack-wasm@1.8.2
