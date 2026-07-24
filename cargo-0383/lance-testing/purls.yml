@@ -122,3 +122,6 @@
 - pkg:cargo/lance-testing@4.0.0
 - pkg:cargo/lance-testing@4.0.1
 - pkg:cargo/lance-testing@6.0.0
+- pkg:cargo/lance-testing@6.0.1
+- pkg:cargo/lance-testing@7.0.0
+- pkg:cargo/lance-testing@8.0.0
