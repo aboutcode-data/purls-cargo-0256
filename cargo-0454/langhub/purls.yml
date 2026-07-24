@@ -3,3 +3,6 @@
 - pkg:cargo/langhub@0.2.1
 - pkg:cargo/langhub@0.2.2
 - pkg:cargo/langhub@0.2.5
+- pkg:cargo/langhub@0.3.0
+- pkg:cargo/langhub@0.3.1
+- pkg:cargo/langhub@0.3.2
