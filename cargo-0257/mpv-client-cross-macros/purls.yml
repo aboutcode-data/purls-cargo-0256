@@ -1,0 +1,5 @@
+- pkg:cargo/mpv-client-cross-macros@2.0.0
+- pkg:cargo/mpv-client-cross-macros@2.0.1
+- pkg:cargo/mpv-client-cross-macros@3.0.0
+- pkg:cargo/mpv-client-cross-macros@3.0.1
+- pkg:cargo/mpv-client-cross-macros@4.0.0
