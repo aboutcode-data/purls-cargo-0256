@@ -2,3 +2,4 @@
 - pkg:cargo/shiki-tui@0.4.2
 - pkg:cargo/shiki-tui@0.5.0
 - pkg:cargo/shiki-tui@0.8.0
+- pkg:cargo/shiki-tui@0.8.1
