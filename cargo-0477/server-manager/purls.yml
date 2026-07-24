@@ -58,6 +58,10 @@
 - pkg:cargo/server-manager@5.0.19
 - pkg:cargo/server-manager@5.0.2
 - pkg:cargo/server-manager@5.0.20
+- pkg:cargo/server-manager@5.0.21
+- pkg:cargo/server-manager@5.0.22
+- pkg:cargo/server-manager@5.0.23
+- pkg:cargo/server-manager@5.0.24
 - pkg:cargo/server-manager@5.0.3
 - pkg:cargo/server-manager@5.0.4
 - pkg:cargo/server-manager@5.0.5
