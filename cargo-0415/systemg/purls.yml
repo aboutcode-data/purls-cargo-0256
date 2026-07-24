@@ -104,6 +104,7 @@
 - pkg:cargo/systemg@0.57.0
 - pkg:cargo/systemg@0.57.1
 - pkg:cargo/systemg@0.57.3
+- pkg:cargo/systemg@0.57.4
 - pkg:cargo/systemg@0.6.0
 - pkg:cargo/systemg@0.6.1
 - pkg:cargo/systemg@0.6.2
