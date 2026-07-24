@@ -16,3 +16,9 @@
 - pkg:cargo/farben-macros@0.5.1
 - pkg:cargo/farben-macros@0.5.2
 - pkg:cargo/farben-macros@0.6.0
+- pkg:cargo/farben-macros@0.7.0
+- pkg:cargo/farben-macros@0.7.0-beta.1
+- pkg:cargo/farben-macros@0.7.0-beta.2
+- pkg:cargo/farben-macros@0.7.0-beta.3
+- pkg:cargo/farben-macros@0.7.0-beta.4
+- pkg:cargo/farben-macros@0.7.1
