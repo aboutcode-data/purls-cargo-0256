@@ -24,3 +24,4 @@
 - pkg:cargo/influx_db_client@0.5.3
 - pkg:cargo/influx_db_client@0.6.0
 - pkg:cargo/influx_db_client@0.6.1
+- pkg:cargo/influx_db_client@0.7.0
