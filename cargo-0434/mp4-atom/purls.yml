@@ -1,6 +1,11 @@
 - pkg:cargo/mp4-atom@0.1.0
 - pkg:cargo/mp4-atom@0.10.0
 - pkg:cargo/mp4-atom@0.10.1
+- pkg:cargo/mp4-atom@0.11.0
+- pkg:cargo/mp4-atom@0.12.0
+- pkg:cargo/mp4-atom@0.12.1
+- pkg:cargo/mp4-atom@0.13.0
+- pkg:cargo/mp4-atom@0.14.0
 - pkg:cargo/mp4-atom@0.2.0
 - pkg:cargo/mp4-atom@0.2.1
 - pkg:cargo/mp4-atom@0.3.0
