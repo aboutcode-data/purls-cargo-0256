@@ -2,6 +2,7 @@
 - pkg:cargo/midnight-zk-stdlib@1.1.0
 - pkg:cargo/midnight-zk-stdlib@1.2.0
 - pkg:cargo/midnight-zk-stdlib@1.2.1
+- pkg:cargo/midnight-zk-stdlib@1.3.0
 - pkg:cargo/midnight-zk-stdlib@2.0.0
 - pkg:cargo/midnight-zk-stdlib@2.1.0
 - pkg:cargo/midnight-zk-stdlib@2.2.0

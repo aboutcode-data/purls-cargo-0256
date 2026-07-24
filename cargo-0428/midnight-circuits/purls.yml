@@ -3,6 +3,7 @@
 - pkg:cargo/midnight-circuits@6.1.0
 - pkg:cargo/midnight-circuits@6.2.0
 - pkg:cargo/midnight-circuits@6.2.1
+- pkg:cargo/midnight-circuits@6.3.0
 - pkg:cargo/midnight-circuits@7.0.0
 - pkg:cargo/midnight-circuits@7.1.0
 - pkg:cargo/midnight-circuits@7.2.0
