@@ -4,3 +4,4 @@
 - pkg:cargo/mc_protocol@2.0.3
 - pkg:cargo/mc_protocol@2.1.0
 - pkg:cargo/mc_protocol@2.1.1
+- pkg:cargo/mc_protocol@2.2.0
