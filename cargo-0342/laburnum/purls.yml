@@ -1,1 +1,5 @@
 - pkg:cargo/laburnum@1.16.1
+- pkg:cargo/laburnum@1.17.0
+- pkg:cargo/laburnum@1.17.1
+- pkg:cargo/laburnum@1.17.2
+- pkg:cargo/laburnum@1.17.3
