@@ -51,7 +51,16 @@
 - pkg:cargo/oxc@0.130.0
 - pkg:cargo/oxc@0.131.0
 - pkg:cargo/oxc@0.132.0
+- pkg:cargo/oxc@0.133.0
+- pkg:cargo/oxc@0.134.0
+- pkg:cargo/oxc@0.135.0
+- pkg:cargo/oxc@0.136.0
+- pkg:cargo/oxc@0.137.0
+- pkg:cargo/oxc@0.138.0
+- pkg:cargo/oxc@0.139.0
 - pkg:cargo/oxc@0.14.0
+- pkg:cargo/oxc@0.140.0
+- pkg:cargo/oxc@0.141.0
 - pkg:cargo/oxc@0.15.0
 - pkg:cargo/oxc@0.16.0
 - pkg:cargo/oxc@0.16.1
