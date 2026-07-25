@@ -53,6 +53,7 @@
 - pkg:cargo/interoptopus_proc@0.15.0-alpha.6
 - pkg:cargo/interoptopus_proc@0.15.0-alpha.7
 - pkg:cargo/interoptopus_proc@0.15.0-alpha.8
+- pkg:cargo/interoptopus_proc@0.16.0
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.0
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.1
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.10
@@ -70,6 +71,7 @@
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.21
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.22
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.23
+- pkg:cargo/interoptopus_proc@0.16.0-alpha.24
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.3
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.4
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.5
@@ -77,6 +79,8 @@
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.7
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.8
 - pkg:cargo/interoptopus_proc@0.16.0-alpha.9
+- pkg:cargo/interoptopus_proc@0.16.1
+- pkg:cargo/interoptopus_proc@0.16.3
 - pkg:cargo/interoptopus_proc@0.2.1
 - pkg:cargo/interoptopus_proc@0.2.3
 - pkg:cargo/interoptopus_proc@0.3.0
