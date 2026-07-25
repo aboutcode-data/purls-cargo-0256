@@ -17,3 +17,6 @@
 - pkg:cargo/formualizer@0.5.7
 - pkg:cargo/formualizer@0.5.8
 - pkg:cargo/formualizer@0.5.9
+- pkg:cargo/formualizer@0.6.0
+- pkg:cargo/formualizer@0.7.0
+- pkg:cargo/formualizer@0.7.1
