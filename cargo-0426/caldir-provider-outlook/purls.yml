@@ -6,3 +6,4 @@
 - pkg:cargo/caldir-provider-outlook@0.2.4
 - pkg:cargo/caldir-provider-outlook@0.3.0
 - pkg:cargo/caldir-provider-outlook@0.4.0
+- pkg:cargo/caldir-provider-outlook@0.5.0
