@@ -349,6 +349,9 @@
 - pkg:cargo/swc_ecma_ast@22.0.0
 - pkg:cargo/swc_ecma_ast@23.0.0
 - pkg:cargo/swc_ecma_ast@23.0.1
+- pkg:cargo/swc_ecma_ast@24.0.0
+- pkg:cargo/swc_ecma_ast@25.0.0
+- pkg:cargo/swc_ecma_ast@26.0.0
 - pkg:cargo/swc_ecma_ast@3.0.0
 - pkg:cargo/swc_ecma_ast@4.0.0
 - pkg:cargo/swc_ecma_ast@4.0.1

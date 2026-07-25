@@ -88,6 +88,15 @@
 - pkg:cargo/swc_magic@0.8.0
 - pkg:cargo/swc_magic@0.9.0
 - pkg:cargo/swc_magic@1.0.0
+- pkg:cargo/swc_magic@10.0.0
+- pkg:cargo/swc_magic@11.0.0
+- pkg:cargo/swc_magic@12.0.0
+- pkg:cargo/swc_magic@13.0.0
+- pkg:cargo/swc_magic@14.0.0
 - pkg:cargo/swc_magic@2.0.0
 - pkg:cargo/swc_magic@3.0.0
 - pkg:cargo/swc_magic@4.0.0
+- pkg:cargo/swc_magic@6.0.0
+- pkg:cargo/swc_magic@7.0.0
+- pkg:cargo/swc_magic@8.0.0
+- pkg:cargo/swc_magic@9.0.0

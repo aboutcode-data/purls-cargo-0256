@@ -182,6 +182,15 @@
 - pkg:cargo/swc_emotion@0.98.0
 - pkg:cargo/swc_emotion@0.99.0
 - pkg:cargo/swc_emotion@1.0.0
+- pkg:cargo/swc_emotion@10.0.0
+- pkg:cargo/swc_emotion@11.0.0
+- pkg:cargo/swc_emotion@12.0.0
+- pkg:cargo/swc_emotion@13.0.0
+- pkg:cargo/swc_emotion@14.0.0
 - pkg:cargo/swc_emotion@2.0.0
 - pkg:cargo/swc_emotion@3.0.0
 - pkg:cargo/swc_emotion@4.0.0
+- pkg:cargo/swc_emotion@6.0.0
+- pkg:cargo/swc_emotion@7.0.0
+- pkg:cargo/swc_emotion@8.0.0
+- pkg:cargo/swc_emotion@9.0.0

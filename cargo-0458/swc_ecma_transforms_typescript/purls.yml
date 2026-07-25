@@ -827,7 +827,13 @@
 - pkg:cargo/swc_ecma_transforms_typescript@46.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@46.0.1
 - pkg:cargo/swc_ecma_transforms_typescript@47.0.0
+- pkg:cargo/swc_ecma_transforms_typescript@47.0.1
+- pkg:cargo/swc_ecma_transforms_typescript@48.0.0
+- pkg:cargo/swc_ecma_transforms_typescript@49.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@5.0.0
+- pkg:cargo/swc_ecma_transforms_typescript@50.0.0
+- pkg:cargo/swc_ecma_transforms_typescript@51.0.0
+- pkg:cargo/swc_ecma_transforms_typescript@52.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@6.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@7.0.0
 - pkg:cargo/swc_ecma_transforms_typescript@8.0.0
