@@ -121,3 +121,4 @@
 - pkg:cargo/lance-test-macros@6.0.1
 - pkg:cargo/lance-test-macros@7.0.0
 - pkg:cargo/lance-test-macros@8.0.0
+- pkg:cargo/lance-test-macros@9.0.0
