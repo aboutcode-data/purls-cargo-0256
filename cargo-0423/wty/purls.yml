@@ -2,3 +2,5 @@
 - pkg:cargo/wty@0.7.1
 - pkg:cargo/wty@0.8.0
 - pkg:cargo/wty@0.8.1
+- pkg:cargo/wty@0.8.2
+- pkg:cargo/wty@0.8.3

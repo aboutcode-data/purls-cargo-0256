@@ -5,3 +5,6 @@
 - pkg:cargo/ubq@2.1.0
 - pkg:cargo/ubq@2.1.2
 - pkg:cargo/ubq@4.0.0
+- pkg:cargo/ubq@5.0.0
+- pkg:cargo/ubq@5.0.1
+- pkg:cargo/ubq@5.0.2
