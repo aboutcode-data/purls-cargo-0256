@@ -81,6 +81,8 @@
 - pkg:cargo/gtfs-structures@0.46.1
 - pkg:cargo/gtfs-structures@0.47.0
 - pkg:cargo/gtfs-structures@0.48.0
+- pkg:cargo/gtfs-structures@0.48.1
+- pkg:cargo/gtfs-structures@0.48.2
 - pkg:cargo/gtfs-structures@0.5.0
 - pkg:cargo/gtfs-structures@0.5.1
 - pkg:cargo/gtfs-structures@0.5.2
