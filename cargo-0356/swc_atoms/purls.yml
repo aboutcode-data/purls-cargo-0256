@@ -82,6 +82,7 @@
 - pkg:cargo/swc_atoms@1.0.0
 - pkg:cargo/swc_atoms@1.0.1
 - pkg:cargo/swc_atoms@1.0.2
+- pkg:cargo/swc_atoms@10.0.0
 - pkg:cargo/swc_atoms@2.0.0
 - pkg:cargo/swc_atoms@3.0.0
 - pkg:cargo/swc_atoms@3.0.1
@@ -100,3 +101,5 @@
 - pkg:cargo/swc_atoms@8.0.2
 - pkg:cargo/swc_atoms@9.0.0
 - pkg:cargo/swc_atoms@9.0.1
+- pkg:cargo/swc_atoms@9.0.2
+- pkg:cargo/swc_atoms@9.0.3
