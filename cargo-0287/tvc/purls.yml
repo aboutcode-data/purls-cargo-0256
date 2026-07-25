@@ -1,2 +1,8 @@
 - pkg:cargo/tvc@0.1.0-alpha.1
+- pkg:cargo/tvc@0.10.0
+- pkg:cargo/tvc@0.11.0
+- pkg:cargo/tvc@0.12.0
 - pkg:cargo/tvc@0.6.2
+- pkg:cargo/tvc@0.7.0
+- pkg:cargo/tvc@0.8.0
+- pkg:cargo/tvc@0.9.0
