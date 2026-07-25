@@ -49,3 +49,10 @@
 - pkg:cargo/forest-filecoin@0.33.2
 - pkg:cargo/forest-filecoin@0.33.3
 - pkg:cargo/forest-filecoin@0.33.4
+- pkg:cargo/forest-filecoin@0.33.5
+- pkg:cargo/forest-filecoin@0.33.6
+- pkg:cargo/forest-filecoin@0.33.7
+- pkg:cargo/forest-filecoin@0.33.8
+- pkg:cargo/forest-filecoin@0.34.0
+- pkg:cargo/forest-filecoin@0.34.1
+- pkg:cargo/forest-filecoin@0.35.0
