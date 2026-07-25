@@ -1,1 +1,2 @@
 - pkg:cargo/faucet-common-spanner@1.0.0
+- pkg:cargo/faucet-common-spanner@1.0.1
