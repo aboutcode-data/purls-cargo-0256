@@ -39,3 +39,4 @@
 - pkg:cargo/switchboard-on-demand-client@0.4.1-alpha0.0.0
 - pkg:cargo/switchboard-on-demand-client@0.4.2
 - pkg:cargo/switchboard-on-demand-client@0.5.1
+- pkg:cargo/switchboard-on-demand-client@0.6.0
