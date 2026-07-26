@@ -1,4 +1,8 @@
 - pkg:cargo/canic-wasm-store@0.100.0
+- pkg:cargo/canic-wasm-store@0.100.1
+- pkg:cargo/canic-wasm-store@0.100.2
+- pkg:cargo/canic-wasm-store@0.100.3
+- pkg:cargo/canic-wasm-store@0.100.4
 - pkg:cargo/canic-wasm-store@0.20.7
 - pkg:cargo/canic-wasm-store@0.20.8
 - pkg:cargo/canic-wasm-store@0.21.0
