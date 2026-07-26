@@ -91,6 +91,8 @@
 - pkg:cargo/landstrip@0.17.33
 - pkg:cargo/landstrip@0.17.34
 - pkg:cargo/landstrip@0.17.35
+- pkg:cargo/landstrip@0.17.36
+- pkg:cargo/landstrip@0.17.37
 - pkg:cargo/landstrip@0.17.4
 - pkg:cargo/landstrip@0.17.5
 - pkg:cargo/landstrip@0.17.6
