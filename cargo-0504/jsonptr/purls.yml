@@ -36,3 +36,5 @@
 - pkg:cargo/jsonptr@0.6.3
 - pkg:cargo/jsonptr@0.7.0
 - pkg:cargo/jsonptr@0.7.1
+- pkg:cargo/jsonptr@0.8.0
+- pkg:cargo/jsonptr@0.8.1
