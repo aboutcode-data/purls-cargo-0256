@@ -22,6 +22,8 @@
 - pkg:cargo/hjkl-app@0.36.0
 - pkg:cargo/hjkl-app@0.37.0
 - pkg:cargo/hjkl-app@0.37.1
+- pkg:cargo/hjkl-app@0.38.0
+- pkg:cargo/hjkl-app@0.39.0
 - pkg:cargo/hjkl-app@0.4.0
 - pkg:cargo/hjkl-app@0.4.1
 - pkg:cargo/hjkl-app@0.4.2
