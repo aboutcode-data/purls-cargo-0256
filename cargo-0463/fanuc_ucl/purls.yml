@@ -15,3 +15,4 @@
 - pkg:cargo/fanuc_ucl@1.5.2
 - pkg:cargo/fanuc_ucl@1.5.3
 - pkg:cargo/fanuc_ucl@1.5.4
+- pkg:cargo/fanuc_ucl@1.6.0
