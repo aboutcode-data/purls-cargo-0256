@@ -16,6 +16,7 @@
 - pkg:cargo/abstracttui@0.2.21
 - pkg:cargo/abstracttui@0.2.22
 - pkg:cargo/abstracttui@0.2.23
+- pkg:cargo/abstracttui@0.2.24
 - pkg:cargo/abstracttui@0.2.3
 - pkg:cargo/abstracttui@0.2.4
 - pkg:cargo/abstracttui@0.2.5
