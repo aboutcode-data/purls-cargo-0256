@@ -1,2 +1,3 @@
 - pkg:cargo/gproxy-protocol@1.0.20
 - pkg:cargo/gproxy-protocol@2.0.15
+- pkg:cargo/gproxy-protocol@2.1.6
