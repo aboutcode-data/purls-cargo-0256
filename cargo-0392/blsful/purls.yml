@@ -41,3 +41,5 @@
 - pkg:cargo/blsful@3.1.0
 - pkg:cargo/blsful@4.0.0-rc0
 - pkg:cargo/blsful@4.0.0-rc1
+- pkg:cargo/blsful@4.0.0-rc2
+- pkg:cargo/blsful@4.0.0-rc3
