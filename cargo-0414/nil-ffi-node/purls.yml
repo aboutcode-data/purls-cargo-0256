@@ -1,1 +1,2 @@
 - pkg:cargo/nil-ffi-node@0.7.0
+- pkg:cargo/nil-ffi-node@0.7.1
