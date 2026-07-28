@@ -4,3 +4,4 @@
 - pkg:cargo/blokli-client@0.29.3
 - pkg:cargo/blokli-client@0.30.0
 - pkg:cargo/blokli-client@0.30.1
+- pkg:cargo/blokli-client@0.30.2
