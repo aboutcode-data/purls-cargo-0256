@@ -57,3 +57,4 @@
 - pkg:cargo/json-gettext@4.0.7
 - pkg:cargo/json-gettext@4.0.8
 - pkg:cargo/json-gettext@4.0.9
+- pkg:cargo/json-gettext@5.0.0
