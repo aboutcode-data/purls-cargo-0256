@@ -21,3 +21,4 @@
 - pkg:cargo/lazy-regex-proc_macros@3.5.0
 - pkg:cargo/lazy-regex-proc_macros@3.5.1
 - pkg:cargo/lazy-regex-proc_macros@3.6.0
+- pkg:cargo/lazy-regex-proc_macros@3.6.1
