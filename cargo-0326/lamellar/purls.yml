@@ -13,4 +13,5 @@
 - pkg:cargo/lamellar@0.7.0
 - pkg:cargo/lamellar@0.7.0-rc.1
 - pkg:cargo/lamellar@0.7.1
+- pkg:cargo/lamellar@0.8.0
 - pkg:cargo/lamellar@0.8.0-rc.1
