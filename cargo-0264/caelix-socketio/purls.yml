@@ -22,3 +22,6 @@
 - pkg:cargo/caelix-socketio@0.0.35
 - pkg:cargo/caelix-socketio@0.0.36
 - pkg:cargo/caelix-socketio@0.0.37
+- pkg:cargo/caelix-socketio@0.0.38
+- pkg:cargo/caelix-socketio@0.0.39
+- pkg:cargo/caelix-socketio@0.0.40
