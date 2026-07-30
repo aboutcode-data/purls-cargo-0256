@@ -24,6 +24,7 @@
 - pkg:cargo/laddu-amplitudes@0.2.3
 - pkg:cargo/laddu-amplitudes@0.2.4
 - pkg:cargo/laddu-amplitudes@0.2.5
+- pkg:cargo/laddu-amplitudes@0.20.0
 - pkg:cargo/laddu-amplitudes@0.3.0
 - pkg:cargo/laddu-amplitudes@0.4.0
 - pkg:cargo/laddu-amplitudes@0.4.1
