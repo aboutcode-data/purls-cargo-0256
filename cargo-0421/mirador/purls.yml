@@ -9,6 +9,8 @@
 - pkg:cargo/mirador@0.15.0
 - pkg:cargo/mirador@0.16.0
 - pkg:cargo/mirador@0.16.1
+- pkg:cargo/mirador@0.16.2
+- pkg:cargo/mirador@0.16.3
 - pkg:cargo/mirador@0.2.0
 - pkg:cargo/mirador@0.3.0
 - pkg:cargo/mirador@0.3.1
