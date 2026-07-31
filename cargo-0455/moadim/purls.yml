@@ -44,3 +44,5 @@
 - pkg:cargo/moadim@1.7.5
 - pkg:cargo/moadim@1.7.6
 - pkg:cargo/moadim@3.0.0
+- pkg:cargo/moadim@3.1.0
+- pkg:cargo/moadim@3.2.0
