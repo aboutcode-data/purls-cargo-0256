@@ -28,3 +28,4 @@
 - pkg:cargo/hjkl-config@0.37.1
 - pkg:cargo/hjkl-config@0.38.0
 - pkg:cargo/hjkl-config@0.39.0
+- pkg:cargo/hjkl-config@0.39.1
