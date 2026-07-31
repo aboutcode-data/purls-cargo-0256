@@ -1,3 +1,4 @@
+- pkg:cargo/emergent-engine@0.10.10
 - pkg:cargo/emergent-engine@0.10.5
 - pkg:cargo/emergent-engine@0.10.6
 - pkg:cargo/emergent-engine@0.10.7
