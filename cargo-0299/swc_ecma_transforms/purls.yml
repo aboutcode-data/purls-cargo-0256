@@ -943,6 +943,7 @@
 - pkg:cargo/swc_ecma_transforms@58.0.0
 - pkg:cargo/swc_ecma_transforms@59.0.0
 - pkg:cargo/swc_ecma_transforms@6.0.0
+- pkg:cargo/swc_ecma_transforms@60.0.0
 - pkg:cargo/swc_ecma_transforms@7.0.0
 - pkg:cargo/swc_ecma_transforms@8.0.0
 - pkg:cargo/swc_ecma_transforms@9.0.0
