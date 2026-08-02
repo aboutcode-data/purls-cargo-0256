@@ -75,6 +75,8 @@
 - pkg:cargo/canic-wasm-store@0.100.8
 - pkg:cargo/canic-wasm-store@0.100.80
 - pkg:cargo/canic-wasm-store@0.100.81
+- pkg:cargo/canic-wasm-store@0.100.82
+- pkg:cargo/canic-wasm-store@0.100.83
 - pkg:cargo/canic-wasm-store@0.100.9
 - pkg:cargo/canic-wasm-store@0.20.7
 - pkg:cargo/canic-wasm-store@0.20.8
