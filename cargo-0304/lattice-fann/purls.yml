@@ -15,3 +15,4 @@
 - pkg:cargo/lattice-fann@0.5.1
 - pkg:cargo/lattice-fann@0.6.0
 - pkg:cargo/lattice-fann@0.6.1
+- pkg:cargo/lattice-fann@0.7.0
