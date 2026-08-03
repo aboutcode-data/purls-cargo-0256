@@ -21,3 +21,4 @@
 - pkg:cargo/miden-serde-utils@0.27.1
 - pkg:cargo/miden-serde-utils@0.28.0
 - pkg:cargo/miden-serde-utils@0.28.1
+- pkg:cargo/miden-serde-utils@0.28.2
