@@ -30,3 +30,4 @@
 - pkg:cargo/hjkl-config@0.39.0
 - pkg:cargo/hjkl-config@0.39.1
 - pkg:cargo/hjkl-config@0.40.0
+- pkg:cargo/hjkl-config@0.41.0
