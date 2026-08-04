@@ -9,3 +9,4 @@
 - pkg:cargo/midnight-zswap@8.0.3
 - pkg:cargo/midnight-zswap@8.0.3-rc.1
 - pkg:cargo/midnight-zswap@8.1.0
+- pkg:cargo/midnight-zswap@8.1.1
