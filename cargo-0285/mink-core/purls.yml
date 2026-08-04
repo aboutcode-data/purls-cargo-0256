@@ -6,3 +6,5 @@
 - pkg:cargo/mink-core@0.1.15
 - pkg:cargo/mink-core@0.1.9
 - pkg:cargo/mink-core@0.2.0
+- pkg:cargo/mink-core@0.3.0
+- pkg:cargo/mink-core@0.3.1
