@@ -10,3 +10,5 @@
 - pkg:cargo/mla@2.0.0-beta
 - pkg:cargo/mla@2.0.0-rc
 - pkg:cargo/mla@2.0.0-rc2
+- pkg:cargo/mla@2.1.0
+- pkg:cargo/mla@2.1.0-rc
