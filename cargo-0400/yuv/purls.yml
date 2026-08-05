@@ -13,6 +13,8 @@
 - pkg:cargo/yuv@0.8.12
 - pkg:cargo/yuv@0.8.13
 - pkg:cargo/yuv@0.8.14
+- pkg:cargo/yuv@0.8.15
+- pkg:cargo/yuv@0.8.16
 - pkg:cargo/yuv@0.8.3
 - pkg:cargo/yuv@0.8.4
 - pkg:cargo/yuv@0.8.5
