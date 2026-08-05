@@ -32,3 +32,7 @@
 - pkg:cargo/kdl@6.3.4
 - pkg:cargo/kdl@6.4.0
 - pkg:cargo/kdl@6.5.0
+- pkg:cargo/kdl@6.6.0
+- pkg:cargo/kdl@6.6.1
+- pkg:cargo/kdl@6.7.0
+- pkg:cargo/kdl@6.7.1
