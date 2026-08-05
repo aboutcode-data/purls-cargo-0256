@@ -10,3 +10,4 @@
 - pkg:cargo/bootc-internal-blockdev@1.16.4
 - pkg:cargo/bootc-internal-blockdev@1.16.5
 - pkg:cargo/bootc-internal-blockdev@1.16.6
+- pkg:cargo/bootc-internal-blockdev@1.16.7
