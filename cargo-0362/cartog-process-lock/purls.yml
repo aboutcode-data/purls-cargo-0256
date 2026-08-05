@@ -41,3 +41,4 @@
 - pkg:cargo/cartog-process-lock@0.31.1
 - pkg:cargo/cartog-process-lock@0.32.0
 - pkg:cargo/cartog-process-lock@0.32.1
+- pkg:cargo/cartog-process-lock@0.32.2
