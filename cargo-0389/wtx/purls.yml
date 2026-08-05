@@ -80,6 +80,8 @@
 - pkg:cargo/wtx@0.5.1
 - pkg:cargo/wtx@0.5.2
 - pkg:cargo/wtx@0.50.0
+- pkg:cargo/wtx@0.51.0
+- pkg:cargo/wtx@0.51.1
 - pkg:cargo/wtx@0.6.0
 - pkg:cargo/wtx@0.7.0
 - pkg:cargo/wtx@0.8.0
