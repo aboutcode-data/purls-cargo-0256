@@ -52,6 +52,7 @@
 - pkg:cargo/swapdex@0.35.2
 - pkg:cargo/swapdex@0.35.3
 - pkg:cargo/swapdex@0.35.4
+- pkg:cargo/swapdex@0.35.5
 - pkg:cargo/swapdex@0.4.0
 - pkg:cargo/swapdex@0.4.1
 - pkg:cargo/swapdex@0.4.2
