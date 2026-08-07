@@ -1,0 +1,2 @@
+- pkg:cargo/hyper-connector-mullvad@0.0.1
+- pkg:cargo/hyper-connector-mullvad@0.0.2
