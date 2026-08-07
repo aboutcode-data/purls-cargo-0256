@@ -1,4 +1,6 @@
 - pkg:cargo/encoding-mel@0.10.0
+- pkg:cargo/encoding-mel@0.10.1
+- pkg:cargo/encoding-mel@0.10.2
 - pkg:cargo/encoding-mel@0.7.0
 - pkg:cargo/encoding-mel@0.7.0-rc1
 - pkg:cargo/encoding-mel@0.7.1
