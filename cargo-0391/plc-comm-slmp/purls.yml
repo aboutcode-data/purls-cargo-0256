@@ -1,3 +1,5 @@
 - pkg:cargo/plc-comm-slmp@2.0.0
 - pkg:cargo/plc-comm-slmp@3.1.0
 - pkg:cargo/plc-comm-slmp@4.0.0
+- pkg:cargo/plc-comm-slmp@4.0.1
+- pkg:cargo/plc-comm-slmp@5.0.0

@@ -1,3 +1,5 @@
 - pkg:cargo/plc-comm-kv-hostlink@2.0.0
 - pkg:cargo/plc-comm-kv-hostlink@3.1.0
 - pkg:cargo/plc-comm-kv-hostlink@3.2.0
+- pkg:cargo/plc-comm-kv-hostlink@3.2.1
+- pkg:cargo/plc-comm-kv-hostlink@4.0.0
