@@ -5,3 +5,4 @@
 - pkg:cargo/async-hwi-cli@0.0.20
 - pkg:cargo/async-hwi-cli@0.0.22
 - pkg:cargo/async-hwi-cli@0.0.24
+- pkg:cargo/async-hwi-cli@0.0.25
