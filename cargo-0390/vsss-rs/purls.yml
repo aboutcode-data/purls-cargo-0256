@@ -82,3 +82,15 @@
 - pkg:cargo/vsss-rs@5.2.0
 - pkg:cargo/vsss-rs@5.3.0
 - pkg:cargo/vsss-rs@5.4.0
+- pkg:cargo/vsss-rs@6.0.0
+- pkg:cargo/vsss-rs@6.0.0-rc0
+- pkg:cargo/vsss-rs@6.0.0-rc1
+- pkg:cargo/vsss-rs@6.0.0-rc10
+- pkg:cargo/vsss-rs@6.0.0-rc2
+- pkg:cargo/vsss-rs@6.0.0-rc3
+- pkg:cargo/vsss-rs@6.0.0-rc5
+- pkg:cargo/vsss-rs@6.0.0-rc6
+- pkg:cargo/vsss-rs@6.0.0-rc7
+- pkg:cargo/vsss-rs@6.0.0-rc8
+- pkg:cargo/vsss-rs@6.0.0-rc9
+- pkg:cargo/vsss-rs@6.0.1
