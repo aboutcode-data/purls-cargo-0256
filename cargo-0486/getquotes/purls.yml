@@ -21,3 +21,7 @@
 - pkg:cargo/getquotes@0.5.1
 - pkg:cargo/getquotes@0.6.0
 - pkg:cargo/getquotes@0.6.1
+- pkg:cargo/getquotes@0.7.0
+- pkg:cargo/getquotes@0.7.1
+- pkg:cargo/getquotes@0.7.2
+- pkg:cargo/getquotes@0.7.3
