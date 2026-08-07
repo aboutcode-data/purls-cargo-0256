@@ -3,3 +3,5 @@
 - pkg:cargo/bity-ic-storage-canister-c2c@0.2.2
 - pkg:cargo/bity-ic-storage-canister-c2c@0.3.0
 - pkg:cargo/bity-ic-storage-canister-c2c@0.4.0
+- pkg:cargo/bity-ic-storage-canister-c2c@0.5.0
+- pkg:cargo/bity-ic-storage-canister-c2c@0.6.0
