@@ -26,3 +26,4 @@
 - pkg:cargo/caelix-axum@0.0.38
 - pkg:cargo/caelix-axum@0.0.39
 - pkg:cargo/caelix-axum@0.0.40
+- pkg:cargo/caelix-axum@0.0.41
