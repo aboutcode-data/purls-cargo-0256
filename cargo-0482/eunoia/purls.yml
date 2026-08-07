@@ -6,6 +6,10 @@
 - pkg:cargo/eunoia@0.13.0
 - pkg:cargo/eunoia@0.14.0
 - pkg:cargo/eunoia@0.15.0
+- pkg:cargo/eunoia@0.16.0
+- pkg:cargo/eunoia@0.16.1
+- pkg:cargo/eunoia@0.17.0
+- pkg:cargo/eunoia@0.18.0
 - pkg:cargo/eunoia@0.2.0
 - pkg:cargo/eunoia@0.3.0
 - pkg:cargo/eunoia@0.4.0
@@ -14,3 +18,12 @@
 - pkg:cargo/eunoia@0.7.0
 - pkg:cargo/eunoia@0.8.0
 - pkg:cargo/eunoia@0.9.0
+- pkg:cargo/eunoia@1.0.0
+- pkg:cargo/eunoia@1.1.0
+- pkg:cargo/eunoia@1.2.0
+- pkg:cargo/eunoia@1.3.0
+- pkg:cargo/eunoia@1.4.0
+- pkg:cargo/eunoia@1.5.0
+- pkg:cargo/eunoia@1.6.0
+- pkg:cargo/eunoia@1.7.0
+- pkg:cargo/eunoia@1.8.0
