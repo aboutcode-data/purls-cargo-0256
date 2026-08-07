@@ -21,3 +21,5 @@
 - pkg:cargo/jira_query@1.6.0
 - pkg:cargo/jira_query@1.7.1
 - pkg:cargo/jira_query@1.7.2
+- pkg:cargo/jira_query@1.7.3
+- pkg:cargo/jira_query@1.7.4
