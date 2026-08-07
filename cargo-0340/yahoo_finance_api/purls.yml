@@ -36,3 +36,4 @@
 - pkg:cargo/yahoo_finance_api@3.0.0
 - pkg:cargo/yahoo_finance_api@4.0.0
 - pkg:cargo/yahoo_finance_api@4.1.0
+- pkg:cargo/yahoo_finance_api@4.1.1
