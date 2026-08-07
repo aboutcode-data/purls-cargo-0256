@@ -8,3 +8,5 @@
 - pkg:cargo/killport@1.0.0
 - pkg:cargo/killport@1.1.0
 - pkg:cargo/killport@2.0.0
+- pkg:cargo/killport@2.0.1
+- pkg:cargo/killport@2.0.2
