@@ -1,0 +1,2 @@
+- pkg:cargo/hubble-sync-rocksdb@0.0.1
+- pkg:cargo/hubble-sync-rocksdb@0.0.2
