@@ -13,3 +13,5 @@
 - pkg:cargo/sk-driver@2.4.4
 - pkg:cargo/sk-driver@2.5.0
 - pkg:cargo/sk-driver@2.6.0
+- pkg:cargo/sk-driver@2.6.1
+- pkg:cargo/sk-driver@2.7.0
