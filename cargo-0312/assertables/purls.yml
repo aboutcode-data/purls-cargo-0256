@@ -1,3 +1,5 @@
+- pkg:cargo/assertables@10.0.0
+- pkg:cargo/assertables@10.1.0
 - pkg:cargo/assertables@3.0.0
 - pkg:cargo/assertables@3.0.1
 - pkg:cargo/assertables@3.1.0
