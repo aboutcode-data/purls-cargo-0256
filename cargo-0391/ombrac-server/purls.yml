@@ -36,6 +36,10 @@
 - pkg:cargo/ombrac-server@0.6.7
 - pkg:cargo/ombrac-server@0.7.0
 - pkg:cargo/ombrac-server@0.7.1
+- pkg:cargo/ombrac-server@0.7.10
+- pkg:cargo/ombrac-server@0.7.11
+- pkg:cargo/ombrac-server@0.7.12
+- pkg:cargo/ombrac-server@0.7.13
 - pkg:cargo/ombrac-server@0.7.2
 - pkg:cargo/ombrac-server@0.7.3
 - pkg:cargo/ombrac-server@0.7.4
