@@ -20,3 +20,12 @@
 - pkg:cargo/hugr-persistent@0.5.1
 - pkg:cargo/hugr-persistent@0.6.0
 - pkg:cargo/hugr-persistent@0.6.1
+- pkg:cargo/hugr-persistent@0.6.2
+- pkg:cargo/hugr-persistent@0.7.0
+- pkg:cargo/hugr-persistent@0.7.1
+- pkg:cargo/hugr-persistent@0.7.2
+- pkg:cargo/hugr-persistent@0.7.3
+- pkg:cargo/hugr-persistent@0.7.4
+- pkg:cargo/hugr-persistent@0.7.5
+- pkg:cargo/hugr-persistent@0.7.6
+- pkg:cargo/hugr-persistent@0.7.7

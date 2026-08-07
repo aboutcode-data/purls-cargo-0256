@@ -4,3 +4,4 @@
 - pkg:cargo/human-units-derive@0.5.1
 - pkg:cargo/human-units-derive@0.5.2
 - pkg:cargo/human-units-derive@0.5.3
+- pkg:cargo/human-units-derive@0.5.4
