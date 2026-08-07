@@ -2,3 +2,4 @@
 - pkg:cargo/clipper2-rust@1.0.1
 - pkg:cargo/clipper2-rust@1.0.2
 - pkg:cargo/clipper2-rust@1.0.3
+- pkg:cargo/clipper2-rust@1.1.0
