@@ -4,3 +4,4 @@
 - pkg:cargo/tor-cert-x509@0.42.0
 - pkg:cargo/tor-cert-x509@0.43.0
 - pkg:cargo/tor-cert-x509@0.44.0
+- pkg:cargo/tor-cert-x509@0.45.0
