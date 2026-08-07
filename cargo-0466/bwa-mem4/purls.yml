@@ -2,3 +2,5 @@
 - pkg:cargo/bwa-mem4@4.0.1
 - pkg:cargo/bwa-mem4@4.1.0
 - pkg:cargo/bwa-mem4@4.1.1
+- pkg:cargo/bwa-mem4@4.2.0
+- pkg:cargo/bwa-mem4@4.3.0
