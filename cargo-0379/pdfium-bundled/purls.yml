@@ -1,0 +1,2 @@
+- pkg:cargo/pdfium-bundled@0.1.0
+- pkg:cargo/pdfium-bundled@0.1.1%2Bpdfium-7881
