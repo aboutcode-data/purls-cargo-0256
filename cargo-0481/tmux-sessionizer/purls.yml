@@ -10,3 +10,4 @@
 - pkg:cargo/tmux-sessionizer@0.4.1
 - pkg:cargo/tmux-sessionizer@0.4.2
 - pkg:cargo/tmux-sessionizer@0.4.4
+- pkg:cargo/tmux-sessionizer@0.6.1
