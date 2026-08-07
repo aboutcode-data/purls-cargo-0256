@@ -18,3 +18,4 @@
 - pkg:cargo/foxclient@6.0.7
 - pkg:cargo/foxclient@6.0.8
 - pkg:cargo/foxclient@6.0.9
+- pkg:cargo/foxclient@6.1.0
