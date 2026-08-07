@@ -1,2 +1,4 @@
+- pkg:cargo/gdt-cpus@0.2606.0
+- pkg:cargo/gdt-cpus@0.2606.1
 - pkg:cargo/gdt-cpus@25.12.0
 - pkg:cargo/gdt-cpus@25.5.0
