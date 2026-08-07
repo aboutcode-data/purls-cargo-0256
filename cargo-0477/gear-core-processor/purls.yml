@@ -1,1 +1,2 @@
-- pkg:cargo/gear-core-processor@3.0.0
+- pkg:cargo/gear-core-processor@0.0.0
+- pkg:cargo/gear-core-processor@2.0.0-pre.1

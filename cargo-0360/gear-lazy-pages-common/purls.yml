@@ -33,3 +33,5 @@
 - pkg:cargo/gear-lazy-pages-common@1.9.0
 - pkg:cargo/gear-lazy-pages-common@1.9.1
 - pkg:cargo/gear-lazy-pages-common@1.9.2
+- pkg:cargo/gear-lazy-pages-common@2.0.0
+- pkg:cargo/gear-lazy-pages-common@2.0.0-pre.1
