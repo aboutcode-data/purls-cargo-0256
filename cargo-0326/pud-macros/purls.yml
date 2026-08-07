@@ -2,3 +2,6 @@
 - pkg:cargo/pud-macros@0.0.2
 - pkg:cargo/pud-macros@1.0.0
 - pkg:cargo/pud-macros@1.1.0
+- pkg:cargo/pud-macros@1.1.1
+- pkg:cargo/pud-macros@1.1.2
+- pkg:cargo/pud-macros@2.0.0

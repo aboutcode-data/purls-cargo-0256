@@ -15,3 +15,7 @@
 - pkg:cargo/putzen-cli@3.0.1
 - pkg:cargo/putzen-cli@3.1.0
 - pkg:cargo/putzen-cli@3.2.0
+- pkg:cargo/putzen-cli@3.3.0
+- pkg:cargo/putzen-cli@3.3.1
+- pkg:cargo/putzen-cli@3.3.2
+- pkg:cargo/putzen-cli@3.3.3
