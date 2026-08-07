@@ -21,3 +21,4 @@
 - pkg:cargo/serde_derive_internals@0.28.0
 - pkg:cargo/serde_derive_internals@0.29.0
 - pkg:cargo/serde_derive_internals@0.29.1
+- pkg:cargo/serde_derive_internals@0.30.0
