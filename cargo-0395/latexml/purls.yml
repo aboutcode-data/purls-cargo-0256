@@ -1,3 +1,4 @@
 - pkg:cargo/latexml@0.0.1
 - pkg:cargo/latexml@0.0.2
 - pkg:cargo/latexml@0.7.4
+- pkg:cargo/latexml@0.7.5
