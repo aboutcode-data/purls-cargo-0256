@@ -73,6 +73,9 @@
 - pkg:cargo/bitcoin@0.32.1
 - pkg:cargo/bitcoin@0.32.10
 - pkg:cargo/bitcoin@0.32.100
+- pkg:cargo/bitcoin@0.32.101
+- pkg:cargo/bitcoin@0.32.102
+- pkg:cargo/bitcoin@0.32.11
 - pkg:cargo/bitcoin@0.32.2
 - pkg:cargo/bitcoin@0.32.3
 - pkg:cargo/bitcoin@0.32.4

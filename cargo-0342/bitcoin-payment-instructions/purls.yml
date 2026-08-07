@@ -9,3 +9,4 @@
 - pkg:cargo/bitcoin-payment-instructions@0.5.1
 - pkg:cargo/bitcoin-payment-instructions@0.6.0
 - pkg:cargo/bitcoin-payment-instructions@0.7.0
+- pkg:cargo/bitcoin-payment-instructions@0.7.1
