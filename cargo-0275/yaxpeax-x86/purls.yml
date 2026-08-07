@@ -37,3 +37,6 @@
 - pkg:cargo/yaxpeax-x86@1.2.1
 - pkg:cargo/yaxpeax-x86@1.2.2
 - pkg:cargo/yaxpeax-x86@2.0.0
+- pkg:cargo/yaxpeax-x86@2.1.0
+- pkg:cargo/yaxpeax-x86@2.1.1
+- pkg:cargo/yaxpeax-x86@2.2.0
