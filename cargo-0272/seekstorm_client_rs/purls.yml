@@ -1,1 +1,4 @@
 - pkg:cargo/seekstorm_client_rs@3.3.0
+- pkg:cargo/seekstorm_client_rs@3.3.1
+- pkg:cargo/seekstorm_client_rs@3.3.2
+- pkg:cargo/seekstorm_client_rs@3.3.3
