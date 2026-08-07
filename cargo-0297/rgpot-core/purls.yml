@@ -1,2 +1,11 @@
 - pkg:cargo/rgpot-core@1.0.0
 - pkg:cargo/rgpot-core@1.0.1
+- pkg:cargo/rgpot-core@1.2.0
+- pkg:cargo/rgpot-core@2.2.0
+- pkg:cargo/rgpot-core@2.2.1
+- pkg:cargo/rgpot-core@2.5.0
+- pkg:cargo/rgpot-core@2.5.1
+- pkg:cargo/rgpot-core@2.5.2
+- pkg:cargo/rgpot-core@2.5.3
+- pkg:cargo/rgpot-core@3.0.0
+- pkg:cargo/rgpot-core@3.0.1
