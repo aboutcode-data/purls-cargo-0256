@@ -15,3 +15,4 @@
 - pkg:cargo/tokio-dbus@0.0.7
 - pkg:cargo/tokio-dbus@0.0.8
 - pkg:cargo/tokio-dbus@0.0.9
+- pkg:cargo/tokio-dbus@0.1.0
