@@ -2,3 +2,5 @@
 - pkg:cargo/async-niri-socket@0.0.2
 - pkg:cargo/async-niri-socket@0.0.3
 - pkg:cargo/async-niri-socket@0.0.4
+- pkg:cargo/async-niri-socket@0.0.5%2Bniri.26.4.0
+- pkg:cargo/async-niri-socket@0.0.6%2Bniri.26.4.0
