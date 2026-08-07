@@ -40,3 +40,13 @@
 - pkg:cargo/semifold@0.3.0-alpha.4
 - pkg:cargo/semifold@0.3.0-alpha.5
 - pkg:cargo/semifold@0.3.0-alpha.6
+- pkg:cargo/semifold@0.3.0-alpha.8
+- pkg:cargo/semifold@0.3.0-alpha.9
+- pkg:cargo/semifold@0.3.0-beta.0
+- pkg:cargo/semifold@0.3.0-beta.1
+- pkg:cargo/semifold@0.3.0-beta.2
+- pkg:cargo/semifold@0.3.0-beta.3
+- pkg:cargo/semifold@0.3.0-beta.4
+- pkg:cargo/semifold@0.3.0-rc.0
+- pkg:cargo/semifold@0.3.0-rc.1
+- pkg:cargo/semifold@0.3.0-rc.2
