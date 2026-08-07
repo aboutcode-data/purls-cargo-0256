@@ -19,3 +19,5 @@
 - pkg:cargo/kickable@0.5.34
 - pkg:cargo/kickable@0.5.36
 - pkg:cargo/kickable@0.5.39
+- pkg:cargo/kickable@0.6.0
+- pkg:cargo/kickable@0.6.1
