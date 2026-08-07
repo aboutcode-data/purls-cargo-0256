@@ -29,3 +29,4 @@
 - pkg:cargo/clap_complete_nushell@4.5.8
 - pkg:cargo/clap_complete_nushell@4.5.9
 - pkg:cargo/clap_complete_nushell@4.6.0
+- pkg:cargo/clap_complete_nushell@4.6.1
