@@ -32,3 +32,5 @@
 - pkg:cargo/m-bus-parser@0.1.4
 - pkg:cargo/m-bus-parser@0.2.0
 - pkg:cargo/m-bus-parser@0.3.0
+- pkg:cargo/m-bus-parser@0.4.0
+- pkg:cargo/m-bus-parser@0.4.1
