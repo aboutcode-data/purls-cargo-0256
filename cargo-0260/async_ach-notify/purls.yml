@@ -5,3 +5,5 @@
 - pkg:cargo/async_ach-notify@0.1.4
 - pkg:cargo/async_ach-notify@0.1.5
 - pkg:cargo/async_ach-notify@0.1.6
+- pkg:cargo/async_ach-notify@0.2.2
+- pkg:cargo/async_ach-notify@0.2.3
