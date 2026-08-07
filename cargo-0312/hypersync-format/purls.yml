@@ -25,3 +25,4 @@
 - pkg:cargo/hypersync-format@0.5.9
 - pkg:cargo/hypersync-format@0.6.0
 - pkg:cargo/hypersync-format@0.7.0
+- pkg:cargo/hypersync-format@0.8.0-arbitrum-test.0
