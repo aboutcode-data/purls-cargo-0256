@@ -1,1 +1,5 @@
 - pkg:cargo/adhammer-graph@0.0.1
+- pkg:cargo/adhammer-graph@1.0.0
+- pkg:cargo/adhammer-graph@1.1.0
+- pkg:cargo/adhammer-graph@1.2.0
+- pkg:cargo/adhammer-graph@1.3.1
