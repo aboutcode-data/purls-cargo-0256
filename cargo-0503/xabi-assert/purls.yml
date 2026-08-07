@@ -1,2 +1,4 @@
 - pkg:cargo/xabi-assert@0.1.0
 - pkg:cargo/xabi-assert@0.1.0-alpha.3
+- pkg:cargo/xabi-assert@0.1.1
+- pkg:cargo/xabi-assert@0.1.2
