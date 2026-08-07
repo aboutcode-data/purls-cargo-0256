@@ -3,6 +3,10 @@
 - pkg:cargo/bignp256@0.14.0-rc.1
 - pkg:cargo/bignp256@0.14.0-rc.10
 - pkg:cargo/bignp256@0.14.0-rc.11
+- pkg:cargo/bignp256@0.14.0-rc.12
+- pkg:cargo/bignp256@0.14.0-rc.13
+- pkg:cargo/bignp256@0.14.0-rc.14
+- pkg:cargo/bignp256@0.14.0-rc.15
 - pkg:cargo/bignp256@0.14.0-rc.2
 - pkg:cargo/bignp256@0.14.0-rc.3
 - pkg:cargo/bignp256@0.14.0-rc.4
