@@ -11,3 +11,6 @@
 - pkg:cargo/fragmentcolor@0.10.9
 - pkg:cargo/fragmentcolor@0.11.0
 - pkg:cargo/fragmentcolor@0.11.1
+- pkg:cargo/fragmentcolor@0.12.1
+- pkg:cargo/fragmentcolor@0.12.2
+- pkg:cargo/fragmentcolor@0.12.3
