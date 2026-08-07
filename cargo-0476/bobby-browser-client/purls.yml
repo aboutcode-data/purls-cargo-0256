@@ -2,3 +2,4 @@
 - pkg:cargo/bobby-browser-client@0.5.0
 - pkg:cargo/bobby-browser-client@0.5.1
 - pkg:cargo/bobby-browser-client@0.6.0
+- pkg:cargo/bobby-browser-client@0.7.0
