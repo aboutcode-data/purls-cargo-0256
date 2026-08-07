@@ -24,3 +24,7 @@
 - pkg:cargo/biors-mcp-server@0.57.1
 - pkg:cargo/biors-mcp-server@0.57.2
 - pkg:cargo/biors-mcp-server@0.57.3
+- pkg:cargo/biors-mcp-server@0.57.4
+- pkg:cargo/biors-mcp-server@0.58.0
+- pkg:cargo/biors-mcp-server@0.58.1
+- pkg:cargo/biors-mcp-server@1.0.0
