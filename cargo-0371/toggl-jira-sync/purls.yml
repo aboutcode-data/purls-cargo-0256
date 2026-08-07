@@ -12,7 +12,14 @@
 - pkg:cargo/toggl-jira-sync@0.1.21
 - pkg:cargo/toggl-jira-sync@0.1.22
 - pkg:cargo/toggl-jira-sync@0.1.23
+- pkg:cargo/toggl-jira-sync@0.1.24
+- pkg:cargo/toggl-jira-sync@0.1.25
+- pkg:cargo/toggl-jira-sync@0.1.26
+- pkg:cargo/toggl-jira-sync@0.1.27
+- pkg:cargo/toggl-jira-sync@0.1.28
+- pkg:cargo/toggl-jira-sync@0.1.29
 - pkg:cargo/toggl-jira-sync@0.1.3
+- pkg:cargo/toggl-jira-sync@0.1.30
 - pkg:cargo/toggl-jira-sync@0.1.4
 - pkg:cargo/toggl-jira-sync@0.1.5
 - pkg:cargo/toggl-jira-sync@0.1.6
