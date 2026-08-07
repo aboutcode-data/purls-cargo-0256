@@ -1,0 +1,5 @@
+- pkg:cargo/axum-observability@0.1.0
+- pkg:cargo/axum-observability@0.2.0
+- pkg:cargo/axum-observability@0.3.0
+- pkg:cargo/axum-observability@1.0.0
+- pkg:cargo/axum-observability@2.0.0
