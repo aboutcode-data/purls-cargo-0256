@@ -1,0 +1,4 @@
+- pkg:cargo/xfconf@0.1.0
+- pkg:cargo/xfconf@0.2.0%2Bdev
+- pkg:cargo/xfconf@0.2.1
+- pkg:cargo/xfconf@0.2.2
