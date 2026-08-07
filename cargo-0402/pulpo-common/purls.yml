@@ -37,3 +37,4 @@
 - pkg:cargo/pulpo-common@0.0.7
 - pkg:cargo/pulpo-common@0.0.8
 - pkg:cargo/pulpo-common@0.0.9
+- pkg:cargo/pulpo-common@0.1.0
