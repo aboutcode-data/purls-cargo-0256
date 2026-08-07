@@ -8,3 +8,5 @@
 - pkg:cargo/bitcoincash@0.32.0
 - pkg:cargo/bitcoincash@0.32.1
 - pkg:cargo/bitcoincash@0.32.2
+- pkg:cargo/bitcoincash@0.32.3
+- pkg:cargo/bitcoincash@0.32.4
