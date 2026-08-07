@@ -1,5 +1,7 @@
 - pkg:cargo/cloudcheck@10.0.0
 - pkg:cargo/cloudcheck@10.0.1
+- pkg:cargo/cloudcheck@11.0.0
+- pkg:cargo/cloudcheck@11.1.0
 - pkg:cargo/cloudcheck@8.0.0-rc.1
 - pkg:cargo/cloudcheck@8.1.1
 - pkg:cargo/cloudcheck@8.1.2
