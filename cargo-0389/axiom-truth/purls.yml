@@ -1,3 +1,7 @@
+- pkg:cargo/axiom-truth@0.15.0
+- pkg:cargo/axiom-truth@0.15.1
+- pkg:cargo/axiom-truth@0.15.2
+- pkg:cargo/axiom-truth@0.15.3
 - pkg:cargo/axiom-truth@0.4.1
 - pkg:cargo/axiom-truth@0.7.0
 - pkg:cargo/axiom-truth@0.8.1
