@@ -58,3 +58,4 @@
 - pkg:cargo/bitvec@1.0.0-rc1
 - pkg:cargo/bitvec@1.0.0-rc2
 - pkg:cargo/bitvec@1.0.1
+- pkg:cargo/bitvec@1.1.1
