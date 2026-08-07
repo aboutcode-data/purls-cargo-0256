@@ -5,3 +5,4 @@
 - pkg:cargo/azure_storage_queue@0.5.0
 - pkg:cargo/azure_storage_queue@0.6.0
 - pkg:cargo/azure_storage_queue@1.0.0
+- pkg:cargo/azure_storage_queue@1.1.0-beta.1
