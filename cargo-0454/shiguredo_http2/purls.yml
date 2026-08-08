@@ -6,3 +6,4 @@
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.6
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.7
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.8
+- pkg:cargo/shiguredo_http2@2026.1.0-canary.9
