@@ -4,3 +4,4 @@
 - pkg:cargo/cfgd-csi@0.3.6
 - pkg:cargo/cfgd-csi@0.4.0
 - pkg:cargo/cfgd-csi@0.5.0
+- pkg:cargo/cfgd-csi@0.6.0
