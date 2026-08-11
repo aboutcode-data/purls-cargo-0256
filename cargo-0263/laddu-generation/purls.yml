@@ -6,3 +6,4 @@
 - pkg:cargo/laddu-generation@0.19.5
 - pkg:cargo/laddu-generation@0.19.6
 - pkg:cargo/laddu-generation@0.20.0
+- pkg:cargo/laddu-generation@0.21.0
