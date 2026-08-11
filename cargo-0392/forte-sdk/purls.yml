@@ -27,3 +27,4 @@
 - pkg:cargo/forte-sdk@0.6.0
 - pkg:cargo/forte-sdk@0.7.0
 - pkg:cargo/forte-sdk@0.8.0
+- pkg:cargo/forte-sdk@0.8.1
