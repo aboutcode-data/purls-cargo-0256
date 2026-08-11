@@ -595,6 +595,7 @@
 - pkg:cargo/swc_ecma_transforms_testing@5.0.0
 - pkg:cargo/swc_ecma_transforms_testing@50.0.0
 - pkg:cargo/swc_ecma_transforms_testing@51.0.0
+- pkg:cargo/swc_ecma_transforms_testing@52.0.0
 - pkg:cargo/swc_ecma_transforms_testing@6.0.0
 - pkg:cargo/swc_ecma_transforms_testing@7.0.0
 - pkg:cargo/swc_ecma_transforms_testing@7.0.1
