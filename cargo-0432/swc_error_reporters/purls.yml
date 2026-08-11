@@ -153,6 +153,7 @@
 - pkg:cargo/swc_error_reporters@24.0.0
 - pkg:cargo/swc_error_reporters@25.0.0
 - pkg:cargo/swc_error_reporters@26.0.0
+- pkg:cargo/swc_error_reporters@27.0.0
 - pkg:cargo/swc_error_reporters@3.0.0
 - pkg:cargo/swc_error_reporters@4.0.0
 - pkg:cargo/swc_error_reporters@5.0.0

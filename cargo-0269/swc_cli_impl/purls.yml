@@ -289,5 +289,6 @@
 - pkg:cargo/swc_cli_impl@73.0.0
 - pkg:cargo/swc_cli_impl@74.0.0
 - pkg:cargo/swc_cli_impl@75.0.0
+- pkg:cargo/swc_cli_impl@76.0.0
 - pkg:cargo/swc_cli_impl@8.0.0
 - pkg:cargo/swc_cli_impl@9.0.0

@@ -562,6 +562,7 @@
 - pkg:cargo/swc_ecma_lints@33.0.0
 - pkg:cargo/swc_ecma_lints@34.0.0
 - pkg:cargo/swc_ecma_lints@35.0.0
+- pkg:cargo/swc_ecma_lints@36.0.0
 - pkg:cargo/swc_ecma_lints@4.0.0
 - pkg:cargo/swc_ecma_lints@5.0.0
 - pkg:cargo/swc_ecma_lints@6.0.0
