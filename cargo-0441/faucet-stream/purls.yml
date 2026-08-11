@@ -15,3 +15,5 @@
 - pkg:cargo/faucet-stream@1.6.0
 - pkg:cargo/faucet-stream@1.7.0
 - pkg:cargo/faucet-stream@1.7.1
+- pkg:cargo/faucet-stream@1.7.2
+- pkg:cargo/faucet-stream@1.7.3
