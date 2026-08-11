@@ -27,3 +27,4 @@
 - pkg:cargo/sherpa-onnx-sys@1.13.2
 - pkg:cargo/sherpa-onnx-sys@1.13.3
 - pkg:cargo/sherpa-onnx-sys@1.13.4
+- pkg:cargo/sherpa-onnx-sys@1.13.5
