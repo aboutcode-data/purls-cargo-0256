@@ -16,3 +16,4 @@
 - pkg:cargo/minidump-unwind@0.25.0
 - pkg:cargo/minidump-unwind@0.26.0
 - pkg:cargo/minidump-unwind@0.26.1
+- pkg:cargo/minidump-unwind@0.27.0
