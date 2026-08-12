@@ -112,3 +112,4 @@
 - pkg:cargo/ckb-shared@1.0.2
 - pkg:cargo/ckb-shared@1.1.0
 - pkg:cargo/ckb-shared@1.1.1
+- pkg:cargo/ckb-shared@1.1.2

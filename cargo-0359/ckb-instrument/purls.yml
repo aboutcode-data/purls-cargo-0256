@@ -112,3 +112,4 @@
 - pkg:cargo/ckb-instrument@1.0.1
 - pkg:cargo/ckb-instrument@1.0.2
 - pkg:cargo/ckb-instrument@1.1.0
+- pkg:cargo/ckb-instrument@1.1.1
