@@ -12,6 +12,11 @@
 - pkg:cargo/benchkit@0.20.0
 - pkg:cargo/benchkit@0.21.0
 - pkg:cargo/benchkit@0.22.0
+- pkg:cargo/benchkit@0.23.0
+- pkg:cargo/benchkit@0.24.1
+- pkg:cargo/benchkit@0.25.1
+- pkg:cargo/benchkit@0.26.1
+- pkg:cargo/benchkit@0.27.1
 - pkg:cargo/benchkit@0.3.0
 - pkg:cargo/benchkit@0.4.0
 - pkg:cargo/benchkit@0.5.0
