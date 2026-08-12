@@ -25,3 +25,4 @@
 - pkg:cargo/ffmpeg-sys-next@8.0.0
 - pkg:cargo/ffmpeg-sys-next@8.0.1
 - pkg:cargo/ffmpeg-sys-next@8.1.0
+- pkg:cargo/ffmpeg-sys-next@9.0.0

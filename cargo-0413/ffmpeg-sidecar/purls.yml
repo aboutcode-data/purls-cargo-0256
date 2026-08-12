@@ -28,3 +28,4 @@
 - pkg:cargo/ffmpeg-sidecar@2.4.0
 - pkg:cargo/ffmpeg-sidecar@2.5.0
 - pkg:cargo/ffmpeg-sidecar@2.5.1
+- pkg:cargo/ffmpeg-sidecar@2.5.2
