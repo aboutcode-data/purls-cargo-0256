@@ -4,3 +4,7 @@
 - pkg:cargo/yoa-marketdata-query-sdk@3.0.2
 - pkg:cargo/yoa-marketdata-query-sdk@3.0.3
 - pkg:cargo/yoa-marketdata-query-sdk@3.0.4
+- pkg:cargo/yoa-marketdata-query-sdk@3.2.0
+- pkg:cargo/yoa-marketdata-query-sdk@3.3.0
+- pkg:cargo/yoa-marketdata-query-sdk@4.0.0
+- pkg:cargo/yoa-marketdata-query-sdk@5.0.0
