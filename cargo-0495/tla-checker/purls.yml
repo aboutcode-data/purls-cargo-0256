@@ -20,4 +20,9 @@
 - pkg:cargo/tla-checker@0.5.5
 - pkg:cargo/tla-checker@0.6.0
 - pkg:cargo/tla-checker@0.6.1
+- pkg:cargo/tla-checker@0.6.10
+- pkg:cargo/tla-checker@0.6.11
 - pkg:cargo/tla-checker@0.6.3
+- pkg:cargo/tla-checker@0.6.5
+- pkg:cargo/tla-checker@0.6.6
+- pkg:cargo/tla-checker@0.6.7
