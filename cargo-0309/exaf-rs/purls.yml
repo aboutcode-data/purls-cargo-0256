@@ -3,3 +3,5 @@
 - pkg:cargo/exaf-rs@1.1.1
 - pkg:cargo/exaf-rs@1.2.0
 - pkg:cargo/exaf-rs@2.0.0
+- pkg:cargo/exaf-rs@3.0.0
+- pkg:cargo/exaf-rs@3.1.0
