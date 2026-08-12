@@ -32,3 +32,7 @@
 - pkg:cargo/t-rec@0.8.0
 - pkg:cargo/t-rec@0.8.1
 - pkg:cargo/t-rec@0.8.2
+- pkg:cargo/t-rec@0.9.0-preview1
+- pkg:cargo/t-rec@0.9.0-preview2
+- pkg:cargo/t-rec@0.9.0-preview3
+- pkg:cargo/t-rec@0.9.0-preview4
