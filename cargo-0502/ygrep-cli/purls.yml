@@ -3,3 +3,10 @@
 - pkg:cargo/ygrep-cli@3.2.2
 - pkg:cargo/ygrep-cli@3.2.3
 - pkg:cargo/ygrep-cli@3.2.4
+- pkg:cargo/ygrep-cli@3.3.0
+- pkg:cargo/ygrep-cli@3.3.1
+- pkg:cargo/ygrep-cli@3.3.2
+- pkg:cargo/ygrep-cli@3.4.0
+- pkg:cargo/ygrep-cli@3.5.0
+- pkg:cargo/ygrep-cli@3.5.1
+- pkg:cargo/ygrep-cli@4.0.0
