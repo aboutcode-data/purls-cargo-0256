@@ -3,3 +3,4 @@
 - pkg:cargo/bevy_blockout@0.3.0
 - pkg:cargo/bevy_blockout@0.3.1
 - pkg:cargo/bevy_blockout@0.4.0
+- pkg:cargo/bevy_blockout@0.5.0

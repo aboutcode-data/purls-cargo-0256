@@ -1,3 +1,4 @@
 - pkg:cargo/bevy_fast_mist@0.0.1
 - pkg:cargo/bevy_fast_mist@0.0.2
 - pkg:cargo/bevy_fast_mist@0.1.0
+- pkg:cargo/bevy_fast_mist@0.2.0
