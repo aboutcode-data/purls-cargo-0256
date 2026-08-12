@@ -24,3 +24,4 @@
 - pkg:cargo/bevy_mod_reqwest@0.19.2
 - pkg:cargo/bevy_mod_reqwest@0.20.0
 - pkg:cargo/bevy_mod_reqwest@0.21.0
+- pkg:cargo/bevy_mod_reqwest@0.22.0
