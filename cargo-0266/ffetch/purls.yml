@@ -7,3 +7,4 @@
 - pkg:cargo/ffetch@0.5.6
 - pkg:cargo/ffetch@0.5.7
 - pkg:cargo/ffetch@0.6.0
+- pkg:cargo/ffetch@0.7.0

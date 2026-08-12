@@ -50,6 +50,8 @@
 - pkg:cargo/ffizer@2.13.0
 - pkg:cargo/ffizer@2.13.1
 - pkg:cargo/ffizer@2.13.10
+- pkg:cargo/ffizer@2.13.11
+- pkg:cargo/ffizer@2.13.12
 - pkg:cargo/ffizer@2.13.2
 - pkg:cargo/ffizer@2.13.3
 - pkg:cargo/ffizer@2.13.4
