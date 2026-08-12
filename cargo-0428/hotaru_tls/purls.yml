@@ -2,3 +2,4 @@
 - pkg:cargo/hotaru_tls@0.8.1
 - pkg:cargo/hotaru_tls@0.8.2
 - pkg:cargo/hotaru_tls@0.8.3
+- pkg:cargo/hotaru_tls@0.8.5
