@@ -110,3 +110,17 @@
 - pkg:cargo/usage-cli@3.2.0
 - pkg:cargo/usage-cli@3.2.1
 - pkg:cargo/usage-cli@3.3.0
+- pkg:cargo/usage-cli@3.4.0
+- pkg:cargo/usage-cli@3.5.0
+- pkg:cargo/usage-cli@3.5.1
+- pkg:cargo/usage-cli@3.5.2
+- pkg:cargo/usage-cli@3.5.3
+- pkg:cargo/usage-cli@3.5.4
+- pkg:cargo/usage-cli@3.5.5
+- pkg:cargo/usage-cli@3.5.6
+- pkg:cargo/usage-cli@3.5.7
+- pkg:cargo/usage-cli@3.6.0
+- pkg:cargo/usage-cli@4.0.0
+- pkg:cargo/usage-cli@4.1.0
+- pkg:cargo/usage-cli@5.0.0
+- pkg:cargo/usage-cli@5.1.0

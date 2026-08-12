@@ -14,3 +14,5 @@
 - pkg:cargo/rmqtt-message-storage@0.20.0
 - pkg:cargo/rmqtt-message-storage@0.21.0
 - pkg:cargo/rmqtt-message-storage@0.22.0
+- pkg:cargo/rmqtt-message-storage@0.23.0
+- pkg:cargo/rmqtt-message-storage@0.23.1
