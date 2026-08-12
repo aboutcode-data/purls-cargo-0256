@@ -1,4 +1,7 @@
 - pkg:cargo/evlib@0.1.45
+- pkg:cargo/evlib@0.12.0
+- pkg:cargo/evlib@0.13.0
+- pkg:cargo/evlib@0.13.1
 - pkg:cargo/evlib@0.2.39
 - pkg:cargo/evlib@0.2.4
 - pkg:cargo/evlib@0.2.41
@@ -37,3 +40,4 @@
 - pkg:cargo/evlib@0.8.2
 - pkg:cargo/evlib@0.8.6
 - pkg:cargo/evlib@0.8.7
+- pkg:cargo/evlib@0.9.0
