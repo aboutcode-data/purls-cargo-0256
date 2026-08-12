@@ -5,3 +5,5 @@
 - pkg:cargo/nanobook-rebalancer@0.5.0
 - pkg:cargo/nanobook-rebalancer@0.6.0
 - pkg:cargo/nanobook-rebalancer@0.8.1
+- pkg:cargo/nanobook-rebalancer@0.8.2
+- pkg:cargo/nanobook-rebalancer@0.8.4
