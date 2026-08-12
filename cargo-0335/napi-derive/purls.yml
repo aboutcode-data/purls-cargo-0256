@@ -164,4 +164,7 @@
 - pkg:cargo/napi-derive@3.5.8
 - pkg:cargo/napi-derive@3.5.9
 - pkg:cargo/napi-derive@3.6.0
+- pkg:cargo/napi-derive@3.6.1
+- pkg:cargo/napi-derive@3.6.2
+- pkg:cargo/napi-derive@3.6.3
 - pkg:cargo/napi-derive@3.7.0-alpha.0
