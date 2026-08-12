@@ -1,1 +1,4 @@
 - pkg:cargo/upki@0.1.0
+- pkg:cargo/upki@1.0.0-beta.1
+- pkg:cargo/upki@1.0.0-beta.2
+- pkg:cargo/upki@1.0.0-beta.3
