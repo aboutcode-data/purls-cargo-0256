@@ -12,3 +12,4 @@
 - pkg:cargo/nimiq-mnemonic@1.7.0
 - pkg:cargo/nimiq-mnemonic@1.7.1
 - pkg:cargo/nimiq-mnemonic@1.7.2
+- pkg:cargo/nimiq-mnemonic@2.0.0
