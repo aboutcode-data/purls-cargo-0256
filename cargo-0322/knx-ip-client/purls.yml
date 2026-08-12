@@ -1,5 +1,9 @@
 - pkg:cargo/knx-ip-client@0.1.0
 - pkg:cargo/knx-ip-client@0.1.1
+- pkg:cargo/knx-ip-client@0.1.10
+- pkg:cargo/knx-ip-client@0.1.11
+- pkg:cargo/knx-ip-client@0.1.12
+- pkg:cargo/knx-ip-client@0.1.13
 - pkg:cargo/knx-ip-client@0.1.2
 - pkg:cargo/knx-ip-client@0.1.3
 - pkg:cargo/knx-ip-client@0.1.4
