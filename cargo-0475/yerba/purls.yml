@@ -20,3 +20,6 @@
 - pkg:cargo/yerba@0.7.4
 - pkg:cargo/yerba@0.7.5
 - pkg:cargo/yerba@0.7.6
+- pkg:cargo/yerba@0.8.0
+- pkg:cargo/yerba@0.8.1
+- pkg:cargo/yerba@0.9.0
