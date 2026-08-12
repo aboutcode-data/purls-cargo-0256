@@ -4,3 +4,6 @@
 - pkg:cargo/utf8-locale@1.0.1
 - pkg:cargo/utf8-locale@1.0.3
 - pkg:cargo/utf8-locale@1.0.4
+- pkg:cargo/utf8-locale@1.1.0
+- pkg:cargo/utf8-locale@1.1.1
+- pkg:cargo/utf8-locale@1.1.2
