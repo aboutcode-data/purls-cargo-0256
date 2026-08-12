@@ -4,3 +4,5 @@
 - pkg:cargo/bevy_mod_scripting_asset@0.17.0
 - pkg:cargo/bevy_mod_scripting_asset@0.18.0
 - pkg:cargo/bevy_mod_scripting_asset@0.19.0
+- pkg:cargo/bevy_mod_scripting_asset@0.20.0
+- pkg:cargo/bevy_mod_scripting_asset@0.21.0
