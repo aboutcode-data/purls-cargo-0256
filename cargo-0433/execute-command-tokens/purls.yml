@@ -8,3 +8,4 @@
 - pkg:cargo/execute-command-tokens@0.1.7
 - pkg:cargo/execute-command-tokens@0.1.8
 - pkg:cargo/execute-command-tokens@0.1.9
+- pkg:cargo/execute-command-tokens@0.3.0
