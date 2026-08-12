@@ -2,3 +2,4 @@
 - pkg:cargo/fastpubsub-sdk@0.1.1
 - pkg:cargo/fastpubsub-sdk@0.2.0
 - pkg:cargo/fastpubsub-sdk@0.2.1
+- pkg:cargo/fastpubsub-sdk@0.3.1
