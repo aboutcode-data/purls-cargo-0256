@@ -63,6 +63,9 @@
 - pkg:cargo/onwards@0.35.4
 - pkg:cargo/onwards@0.35.5
 - pkg:cargo/onwards@0.35.6
+- pkg:cargo/onwards@0.36.0
+- pkg:cargo/onwards@0.37.1
+- pkg:cargo/onwards@0.38.0
 - pkg:cargo/onwards@0.4.0
 - pkg:cargo/onwards@0.5.0
 - pkg:cargo/onwards@0.6.0
