@@ -54,3 +54,4 @@
 - pkg:cargo/mozjs_sys@140.13.0-1
 - pkg:cargo/mozjs_sys@140.13.0-2
 - pkg:cargo/mozjs_sys@140.13.0-3
+- pkg:cargo/mozjs_sys@140.13.0-4
