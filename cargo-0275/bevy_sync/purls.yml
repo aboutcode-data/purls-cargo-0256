@@ -44,3 +44,5 @@
 - pkg:cargo/bevy_sync@0.18.3
 - pkg:cargo/bevy_sync@0.18.4
 - pkg:cargo/bevy_sync@0.18.5
+- pkg:cargo/bevy_sync@0.19.0
+- pkg:cargo/bevy_sync@0.19.1
