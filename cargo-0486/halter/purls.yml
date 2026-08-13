@@ -2,3 +2,6 @@
 - pkg:cargo/halter@0.1.1
 - pkg:cargo/halter@0.1.2
 - pkg:cargo/halter@0.2.0
+- pkg:cargo/halter@0.3.0
+- pkg:cargo/halter@0.4.0
+- pkg:cargo/halter@0.5.0
