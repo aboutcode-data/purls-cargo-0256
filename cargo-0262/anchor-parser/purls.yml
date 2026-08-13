@@ -4,3 +4,4 @@
 - pkg:cargo/anchor-parser@0.1.4
 - pkg:cargo/anchor-parser@2.0.0
 - pkg:cargo/anchor-parser@2.1.0
+- pkg:cargo/anchor-parser@3.0.0
