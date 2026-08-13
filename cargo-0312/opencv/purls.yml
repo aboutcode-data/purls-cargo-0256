@@ -1,6 +1,8 @@
 - pkg:cargo/opencv@0.0.1
 - pkg:cargo/opencv@0.1.0
 - pkg:cargo/opencv@0.10.0
+- pkg:cargo/opencv@0.100.0
+- pkg:cargo/opencv@0.100.1
 - pkg:cargo/opencv@0.11.0
 - pkg:cargo/opencv@0.12.0
 - pkg:cargo/opencv@0.13.0
