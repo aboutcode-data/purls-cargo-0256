@@ -42,3 +42,4 @@
 - pkg:cargo/foundations@5.7.4
 - pkg:cargo/foundations@5.8.0
 - pkg:cargo/foundations@5.8.1
+- pkg:cargo/foundations@5.9.0
