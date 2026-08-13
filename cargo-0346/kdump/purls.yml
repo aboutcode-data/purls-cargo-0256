@@ -19,3 +19,4 @@
 - pkg:cargo/kdump@1.6.9
 - pkg:cargo/kdump@2.0.0
 - pkg:cargo/kdump@2.0.1
+- pkg:cargo/kdump@2.0.4
