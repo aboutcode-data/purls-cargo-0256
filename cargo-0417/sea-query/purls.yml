@@ -162,3 +162,4 @@
 - pkg:cargo/sea-query@1.0.0-rc.8
 - pkg:cargo/sea-query@1.0.0-rc.9
 - pkg:cargo/sea-query@1.0.1
+- pkg:cargo/sea-query@1.0.2
