@@ -11,6 +11,7 @@
 - pkg:cargo/whisker-macro-syntax@0.10.8
 - pkg:cargo/whisker-macro-syntax@0.10.9
 - pkg:cargo/whisker-macro-syntax@0.11.0
+- pkg:cargo/whisker-macro-syntax@0.11.1
 - pkg:cargo/whisker-macro-syntax@0.3.1
 - pkg:cargo/whisker-macro-syntax@0.4.0
 - pkg:cargo/whisker-macro-syntax@0.4.1
