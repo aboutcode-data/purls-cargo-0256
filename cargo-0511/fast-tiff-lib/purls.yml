@@ -12,3 +12,4 @@
 - pkg:cargo/fast-tiff-lib@0.9.0
 - pkg:cargo/fast-tiff-lib@0.9.3
 - pkg:cargo/fast-tiff-lib@0.9.6
+- pkg:cargo/fast-tiff-lib@0.9.8
