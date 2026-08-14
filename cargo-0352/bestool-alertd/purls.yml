@@ -85,6 +85,7 @@
 - pkg:cargo/bestool-alertd@25.2.2
 - pkg:cargo/bestool-alertd@25.2.3
 - pkg:cargo/bestool-alertd@25.2.4
+- pkg:cargo/bestool-alertd@25.2.5
 - pkg:cargo/bestool-alertd@3.0.0
 - pkg:cargo/bestool-alertd@4.0.0
 - pkg:cargo/bestool-alertd@5.0.0
