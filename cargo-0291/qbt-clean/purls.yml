@@ -41,6 +41,7 @@
 - pkg:cargo/qbt-clean@0.184.0
 - pkg:cargo/qbt-clean@0.186.0
 - pkg:cargo/qbt-clean@0.188.0
+- pkg:cargo/qbt-clean@0.190.0
 - pkg:cargo/qbt-clean@0.20.0
 - pkg:cargo/qbt-clean@0.22.0
 - pkg:cargo/qbt-clean@0.24.0
