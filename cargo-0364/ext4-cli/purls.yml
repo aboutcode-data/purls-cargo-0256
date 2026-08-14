@@ -1,3 +1,4 @@
 - pkg:cargo/ext4-cli@0.0.1
 - pkg:cargo/ext4-cli@0.0.2
 - pkg:cargo/ext4-cli@0.0.3
+- pkg:cargo/ext4-cli@0.0.4
