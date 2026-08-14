@@ -1,3 +1,4 @@
 - pkg:cargo/sdkt-rpc@0.6.0-alpha
 - pkg:cargo/sdkt-rpc@2.0.0
 - pkg:cargo/sdkt-rpc@2.4.0
+- pkg:cargo/sdkt-rpc@2.5.0
