@@ -24,3 +24,4 @@
 - pkg:cargo/tcpclient@1.4.1
 - pkg:cargo/tcpclient@2.0.0
 - pkg:cargo/tcpclient@2.1.0
+- pkg:cargo/tcpclient@2.1.2
