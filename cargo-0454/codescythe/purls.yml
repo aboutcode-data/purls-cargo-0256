@@ -1,4 +1,6 @@
 - pkg:cargo/codescythe@0.0.0-oidc.0
+- pkg:cargo/codescythe@0.10.0
+- pkg:cargo/codescythe@0.10.1
 - pkg:cargo/codescythe@0.4.13
 - pkg:cargo/codescythe@0.4.13-e2e.20260526
 - pkg:cargo/codescythe@0.4.13-e2e.20260526.2
@@ -8,3 +10,6 @@
 - pkg:cargo/codescythe@0.6.0
 - pkg:cargo/codescythe@0.6.1
 - pkg:cargo/codescythe@0.7.0
+- pkg:cargo/codescythe@0.7.1
+- pkg:cargo/codescythe@0.8.0
+- pkg:cargo/codescythe@0.9.0
