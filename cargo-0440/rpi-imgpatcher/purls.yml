@@ -3,3 +3,5 @@
 - pkg:cargo/rpi-imgpatcher@0.9.6
 - pkg:cargo/rpi-imgpatcher@0.9.7
 - pkg:cargo/rpi-imgpatcher@0.9.8
+- pkg:cargo/rpi-imgpatcher@1.0.0
+- pkg:cargo/rpi-imgpatcher@1.1.0

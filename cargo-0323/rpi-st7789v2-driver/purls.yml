@@ -3,6 +3,10 @@
 - pkg:cargo/rpi-st7789v2-driver@0.3.0
 - pkg:cargo/rpi-st7789v2-driver@0.3.1
 - pkg:cargo/rpi-st7789v2-driver@0.3.10
+- pkg:cargo/rpi-st7789v2-driver@0.3.11
+- pkg:cargo/rpi-st7789v2-driver@0.3.12
+- pkg:cargo/rpi-st7789v2-driver@0.3.13
+- pkg:cargo/rpi-st7789v2-driver@0.3.14
 - pkg:cargo/rpi-st7789v2-driver@0.3.2
 - pkg:cargo/rpi-st7789v2-driver@0.3.3
 - pkg:cargo/rpi-st7789v2-driver@0.3.4
