@@ -42,3 +42,5 @@
 - pkg:cargo/tcpserver@2.1.0
 - pkg:cargo/tcpserver@2.2.0
 - pkg:cargo/tcpserver@2.2.1
+- pkg:cargo/tcpserver@2.2.2
+- pkg:cargo/tcpserver@2.2.3
