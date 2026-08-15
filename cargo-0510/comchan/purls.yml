@@ -8,6 +8,12 @@
 - pkg:cargo/comchan@0.1.7
 - pkg:cargo/comchan@0.1.8
 - pkg:cargo/comchan@0.1.9
+- pkg:cargo/comchan@0.10.0
+- pkg:cargo/comchan@0.10.1
+- pkg:cargo/comchan@0.11.0
+- pkg:cargo/comchan@0.12.0
+- pkg:cargo/comchan@0.13.0
+- pkg:cargo/comchan@0.14.0
 - pkg:cargo/comchan@0.2.0
 - pkg:cargo/comchan@0.2.1
 - pkg:cargo/comchan@0.2.2
@@ -27,3 +33,4 @@
 - pkg:cargo/comchan@0.7.0
 - pkg:cargo/comchan@0.8.0
 - pkg:cargo/comchan@0.9.0
+- pkg:cargo/comchan@0.9.1
