@@ -55,3 +55,4 @@
 - pkg:cargo/semifold@0.3.0-rc.4
 - pkg:cargo/semifold@0.3.0-rc.5
 - pkg:cargo/semifold@0.3.0-rc.6
+- pkg:cargo/semifold@0.3.1
