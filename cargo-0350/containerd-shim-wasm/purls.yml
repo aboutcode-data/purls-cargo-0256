@@ -11,3 +11,4 @@
 - pkg:cargo/containerd-shim-wasm@0.9.0
 - pkg:cargo/containerd-shim-wasm@1.0.0
 - pkg:cargo/containerd-shim-wasm@1.0.0-rc.1
+- pkg:cargo/containerd-shim-wasm@1.0.1
