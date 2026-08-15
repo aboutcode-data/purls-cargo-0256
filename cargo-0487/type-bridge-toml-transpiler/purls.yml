@@ -1,3 +1,4 @@
 - pkg:cargo/type-bridge-toml-transpiler@1.5.10
 - pkg:cargo/type-bridge-toml-transpiler@1.5.11
 - pkg:cargo/type-bridge-toml-transpiler@1.5.9
+- pkg:cargo/type-bridge-toml-transpiler@2.0.1
