@@ -13,6 +13,7 @@
 - pkg:cargo/api-bones@6.0.0
 - pkg:cargo/api-bones@6.1.0
 - pkg:cargo/api-bones@6.10.0
+- pkg:cargo/api-bones@6.11.0
 - pkg:cargo/api-bones@6.2.0
 - pkg:cargo/api-bones@6.3.0
 - pkg:cargo/api-bones@6.3.1
