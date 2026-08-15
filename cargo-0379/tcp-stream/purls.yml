@@ -88,6 +88,10 @@
 - pkg:cargo/tcp-stream@0.34.0
 - pkg:cargo/tcp-stream@0.34.1
 - pkg:cargo/tcp-stream@0.34.10
+- pkg:cargo/tcp-stream@0.34.11
+- pkg:cargo/tcp-stream@0.34.12
+- pkg:cargo/tcp-stream@0.34.13
+- pkg:cargo/tcp-stream@0.34.14
 - pkg:cargo/tcp-stream@0.34.2
 - pkg:cargo/tcp-stream@0.34.3
 - pkg:cargo/tcp-stream@0.34.4
