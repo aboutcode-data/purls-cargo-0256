@@ -8,3 +8,4 @@
 - pkg:cargo/type-bridge-typedb-runtime@1.5.7
 - pkg:cargo/type-bridge-typedb-runtime@1.5.8
 - pkg:cargo/type-bridge-typedb-runtime@1.5.9
+- pkg:cargo/type-bridge-typedb-runtime@2.0.1
