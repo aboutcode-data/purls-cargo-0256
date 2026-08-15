@@ -22,3 +22,12 @@
 - pkg:cargo/gap-protocol@1.5.2
 - pkg:cargo/gap-protocol@1.5.3
 - pkg:cargo/gap-protocol@1.5.4
+- pkg:cargo/gap-protocol@1.5.5
+- pkg:cargo/gap-protocol@1.6.0
+- pkg:cargo/gap-protocol@1.7.0
+- pkg:cargo/gap-protocol@1.8.0
+- pkg:cargo/gap-protocol@1.8.1
+- pkg:cargo/gap-protocol@1.8.2
+- pkg:cargo/gap-protocol@1.9.0
+- pkg:cargo/gap-protocol@1.9.1
+- pkg:cargo/gap-protocol@1.9.2-rc1
