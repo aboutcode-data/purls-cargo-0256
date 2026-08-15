@@ -1,0 +1,3 @@
+- pkg:cargo/const_shader_layout_derive@0.1.0
+- pkg:cargo/const_shader_layout_derive@0.1.1
+- pkg:cargo/const_shader_layout_derive@0.2.0
