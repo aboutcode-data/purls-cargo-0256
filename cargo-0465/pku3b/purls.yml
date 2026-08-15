@@ -8,6 +8,9 @@
 - pkg:cargo/pku3b@0.12.0
 - pkg:cargo/pku3b@0.12.1
 - pkg:cargo/pku3b@0.13.0
+- pkg:cargo/pku3b@0.14.0
+- pkg:cargo/pku3b@0.15.0
+- pkg:cargo/pku3b@0.16.0
 - pkg:cargo/pku3b@0.2.0
 - pkg:cargo/pku3b@0.3.0
 - pkg:cargo/pku3b@0.3.1

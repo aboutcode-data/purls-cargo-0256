@@ -7,6 +7,7 @@
 - pkg:cargo/pkgx@2.10.1
 - pkg:cargo/pkgx@2.10.2
 - pkg:cargo/pkgx@2.10.3
+- pkg:cargo/pkgx@2.11.0
 - pkg:cargo/pkgx@2.2.0
 - pkg:cargo/pkgx@2.2.1
 - pkg:cargo/pkgx@2.3.0
