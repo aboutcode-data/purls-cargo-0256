@@ -12,6 +12,7 @@
 - pkg:cargo/codelens-mcp@1.13.10
 - pkg:cargo/codelens-mcp@1.13.2
 - pkg:cargo/codelens-mcp@1.13.3
+- pkg:cargo/codelens-mcp@1.13.34
 - pkg:cargo/codelens-mcp@1.13.4
 - pkg:cargo/codelens-mcp@1.13.5
 - pkg:cargo/codelens-mcp@1.13.6
