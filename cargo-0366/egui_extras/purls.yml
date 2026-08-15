@@ -36,3 +36,5 @@
 - pkg:cargo/egui_extras@0.34.2
 - pkg:cargo/egui_extras@0.34.3
 - pkg:cargo/egui_extras@0.35.0
+- pkg:cargo/egui_extras@0.36.0
+- pkg:cargo/egui_extras@0.36.1
