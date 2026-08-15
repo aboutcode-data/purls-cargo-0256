@@ -25,3 +25,4 @@
 - pkg:cargo/typstyle-core@0.14.3
 - pkg:cargo/typstyle-core@0.14.4
 - pkg:cargo/typstyle-core@0.15.0
+- pkg:cargo/typstyle-core@0.15.1
