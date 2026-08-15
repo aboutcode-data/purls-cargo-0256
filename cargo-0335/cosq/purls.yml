@@ -10,3 +10,5 @@
 - pkg:cargo/cosq@0.7.0
 - pkg:cargo/cosq@0.8.0
 - pkg:cargo/cosq@0.9.0
+- pkg:cargo/cosq@0.9.1
+- pkg:cargo/cosq@1.0.0
