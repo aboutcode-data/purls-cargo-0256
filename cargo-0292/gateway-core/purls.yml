@@ -23,6 +23,7 @@
 - pkg:cargo/gateway-core@0.3.37
 - pkg:cargo/gateway-core@0.3.38
 - pkg:cargo/gateway-core@0.3.39
+- pkg:cargo/gateway-core@0.3.40
 - pkg:cargo/gateway-core@0.3.6
 - pkg:cargo/gateway-core@0.3.7
 - pkg:cargo/gateway-core@0.3.8
