@@ -2,5 +2,10 @@
 - pkg:cargo/gamekit-rs@0.2.0
 - pkg:cargo/gamekit-rs@0.2.1
 - pkg:cargo/gamekit-rs@0.3.2
+- pkg:cargo/gamekit-rs@0.8.10
+- pkg:cargo/gamekit-rs@0.8.11
 - pkg:cargo/gamekit-rs@0.8.5
 - pkg:cargo/gamekit-rs@0.8.6
+- pkg:cargo/gamekit-rs@0.8.7
+- pkg:cargo/gamekit-rs@0.8.8
+- pkg:cargo/gamekit-rs@0.8.9

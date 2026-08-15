@@ -5,3 +5,8 @@
 - pkg:cargo/gametank-sdk@0.14.0
 - pkg:cargo/gametank-sdk@0.15.0
 - pkg:cargo/gametank-sdk@0.17.0
+- pkg:cargo/gametank-sdk@0.17.1
+- pkg:cargo/gametank-sdk@0.18.1
+- pkg:cargo/gametank-sdk@0.18.1-rc.8
+- pkg:cargo/gametank-sdk@0.18.1-rc.9
+- pkg:cargo/gametank-sdk@0.18.2-rc.1
