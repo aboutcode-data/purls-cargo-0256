@@ -12,3 +12,5 @@
 - pkg:cargo/egui-table-kit@0.5.1
 - pkg:cargo/egui-table-kit@0.5.2
 - pkg:cargo/egui-table-kit@0.5.3
+- pkg:cargo/egui-table-kit@0.5.4
+- pkg:cargo/egui-table-kit@0.5.5
