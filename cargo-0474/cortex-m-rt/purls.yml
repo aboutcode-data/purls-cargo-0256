@@ -56,3 +56,4 @@
 - pkg:cargo/cortex-m-rt@0.7.3
 - pkg:cargo/cortex-m-rt@0.7.4
 - pkg:cargo/cortex-m-rt@0.7.5
+- pkg:cargo/cortex-m-rt@0.7.6
