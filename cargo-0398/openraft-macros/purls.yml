@@ -18,6 +18,7 @@
 - pkg:cargo/openraft-macros@0.10.0-alpha.31
 - pkg:cargo/openraft-macros@0.10.0-alpha.32
 - pkg:cargo/openraft-macros@0.10.0-alpha.33
+- pkg:cargo/openraft-macros@0.10.0-alpha.34
 - pkg:cargo/openraft-macros@0.9.0
 - pkg:cargo/openraft-macros@0.9.1
 - pkg:cargo/openraft-macros@0.9.10
