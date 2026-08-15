@@ -26,12 +26,17 @@
 - pkg:cargo/bilrost-types@0.1012.1
 - pkg:cargo/bilrost-types@0.1012.2
 - pkg:cargo/bilrost-types@0.1012.3
+- pkg:cargo/bilrost-types@0.1012.4
 - pkg:cargo/bilrost-types@0.1013.0
 - pkg:cargo/bilrost-types@0.1013.0-rc.1
 - pkg:cargo/bilrost-types@0.1013.0-rc.2
 - pkg:cargo/bilrost-types@0.1013.0-rc.3
 - pkg:cargo/bilrost-types@0.1013.0-rc.4
+- pkg:cargo/bilrost-types@0.1013.1
 - pkg:cargo/bilrost-types@0.1014.0
 - pkg:cargo/bilrost-types@0.1014.1
 - pkg:cargo/bilrost-types@0.1014.2
+- pkg:cargo/bilrost-types@0.1014.3
 - pkg:cargo/bilrost-types@0.1015.0
+- pkg:cargo/bilrost-types@0.1015.1
+- pkg:cargo/bilrost-types@0.1016.0
