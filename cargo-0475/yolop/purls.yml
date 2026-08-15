@@ -5,6 +5,7 @@
 - pkg:cargo/yolop@0.13.0
 - pkg:cargo/yolop@0.14.0
 - pkg:cargo/yolop@0.15.0
+- pkg:cargo/yolop@0.15.1
 - pkg:cargo/yolop@0.2.0
 - pkg:cargo/yolop@0.3.0
 - pkg:cargo/yolop@0.4.0
