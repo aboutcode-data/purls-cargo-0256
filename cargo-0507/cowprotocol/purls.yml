@@ -1,3 +1,5 @@
+- pkg:cargo/cowprotocol@0.1.0
+- pkg:cargo/cowprotocol@0.2.0-alpha.1
 - pkg:cargo/cowprotocol@1.0.0-alpha
 - pkg:cargo/cowprotocol@1.0.0-alpha.1
 - pkg:cargo/cowprotocol@1.0.0-alpha.2
