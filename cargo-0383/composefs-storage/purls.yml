@@ -1,1 +1,2 @@
 - pkg:cargo/composefs-storage@0.4.0
+- pkg:cargo/composefs-storage@0.7.0
