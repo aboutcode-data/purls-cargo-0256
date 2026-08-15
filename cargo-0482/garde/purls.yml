@@ -22,6 +22,7 @@
 - pkg:cargo/garde@0.21.1
 - pkg:cargo/garde@0.22.0
 - pkg:cargo/garde@0.22.1
+- pkg:cargo/garde@0.23.0
 - pkg:cargo/garde@0.3.0
 - pkg:cargo/garde@0.3.1
 - pkg:cargo/garde@0.4.0
