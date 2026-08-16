@@ -73,6 +73,7 @@
 - pkg:cargo/docling-core@1.11.0
 - pkg:cargo/docling-core@1.11.1
 - pkg:cargo/docling-core@1.11.2
+- pkg:cargo/docling-core@1.12.0
 - pkg:cargo/docling-core@1.2.0
 - pkg:cargo/docling-core@1.3.0
 - pkg:cargo/docling-core@1.4.0
