@@ -44,3 +44,4 @@
 - pkg:cargo/oneharness-core@0.7.0
 - pkg:cargo/oneharness-core@0.7.1
 - pkg:cargo/oneharness-core@0.8.0
+- pkg:cargo/oneharness-core@0.9.0
