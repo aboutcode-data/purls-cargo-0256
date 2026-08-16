@@ -34,3 +34,5 @@
 - pkg:cargo/openlogi-hidpp@0.6.7
 - pkg:cargo/openlogi-hidpp@0.6.8
 - pkg:cargo/openlogi-hidpp@0.6.9
+- pkg:cargo/openlogi-hidpp@0.7.0
+- pkg:cargo/openlogi-hidpp@0.7.1
