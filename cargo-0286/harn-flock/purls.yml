@@ -1,3 +1,5 @@
+- pkg:cargo/harn-flock@0.10.100
+- pkg:cargo/harn-flock@0.10.101
 - pkg:cargo/harn-flock@0.10.41
 - pkg:cargo/harn-flock@0.10.42
 - pkg:cargo/harn-flock@0.10.43
@@ -55,3 +57,4 @@
 - pkg:cargo/harn-flock@0.10.96
 - pkg:cargo/harn-flock@0.10.97
 - pkg:cargo/harn-flock@0.10.98
+- pkg:cargo/harn-flock@0.10.99
