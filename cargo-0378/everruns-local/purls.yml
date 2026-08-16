@@ -28,3 +28,4 @@
 - pkg:cargo/everruns-local@0.17.7
 - pkg:cargo/everruns-local@0.17.8
 - pkg:cargo/everruns-local@0.17.9
+- pkg:cargo/everruns-local@0.18.0
