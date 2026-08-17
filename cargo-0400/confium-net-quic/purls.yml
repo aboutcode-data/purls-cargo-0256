@@ -1,1 +1,2 @@
 - pkg:cargo/confium-net-quic@0.3.0
+- pkg:cargo/confium-net-quic@0.4.7
