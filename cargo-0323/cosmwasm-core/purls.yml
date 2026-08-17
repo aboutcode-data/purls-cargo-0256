@@ -46,3 +46,4 @@
 - pkg:cargo/cosmwasm-core@3.0.8
 - pkg:cargo/cosmwasm-core@3.0.9
 - pkg:cargo/cosmwasm-core@3.1.0-rc.0
+- pkg:cargo/cosmwasm-core@3.1.0-rc.1
