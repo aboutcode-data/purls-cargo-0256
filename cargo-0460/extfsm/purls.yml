@@ -1,6 +1,7 @@
 - pkg:cargo/extfsm@0.10.0
 - pkg:cargo/extfsm@0.11.0
 - pkg:cargo/extfsm@0.12.1
+- pkg:cargo/extfsm@0.14.0
 - pkg:cargo/extfsm@0.5.0
 - pkg:cargo/extfsm@0.5.1
 - pkg:cargo/extfsm@0.5.2
