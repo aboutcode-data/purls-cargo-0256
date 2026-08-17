@@ -190,3 +190,4 @@
 - pkg:cargo/cosmwasm-std@3.0.8
 - pkg:cargo/cosmwasm-std@3.0.9
 - pkg:cargo/cosmwasm-std@3.1.0-rc.0
+- pkg:cargo/cosmwasm-std@3.1.0-rc.1
