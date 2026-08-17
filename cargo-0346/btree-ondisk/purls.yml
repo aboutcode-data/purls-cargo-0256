@@ -6,3 +6,4 @@
 - pkg:cargo/btree-ondisk@0.17.0
 - pkg:cargo/btree-ondisk@0.18.0
 - pkg:cargo/btree-ondisk@0.18.1
+- pkg:cargo/btree-ondisk@0.19.0
