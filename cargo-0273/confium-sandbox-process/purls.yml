@@ -1,1 +1,2 @@
 - pkg:cargo/confium-sandbox-process@0.3.0
+- pkg:cargo/confium-sandbox-process@0.4.7
