@@ -27,3 +27,5 @@
 - pkg:cargo/karyon_jsonrpc_macro@1.0.0-alpha.5
 - pkg:cargo/karyon_jsonrpc_macro@1.0.0-alpha.6
 - pkg:cargo/karyon_jsonrpc_macro@1.0.0-alpha.7
+- pkg:cargo/karyon_jsonrpc_macro@1.0.0-alpha.8
+- pkg:cargo/karyon_jsonrpc_macro@1.0.0-alpha.9

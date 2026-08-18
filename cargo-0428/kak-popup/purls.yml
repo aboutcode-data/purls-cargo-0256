@@ -18,3 +18,4 @@
 - pkg:cargo/kak-popup@0.5.1
 - pkg:cargo/kak-popup@0.6.1-beta
 - pkg:cargo/kak-popup@0.6.2-beta
+- pkg:cargo/kak-popup@0.7.0
