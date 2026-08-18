@@ -6,3 +6,5 @@
 - pkg:cargo/kawa@0.6.6
 - pkg:cargo/kawa@0.6.7
 - pkg:cargo/kawa@0.6.8
+- pkg:cargo/kawa@0.7.0
+- pkg:cargo/kawa@0.7.1
