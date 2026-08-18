@@ -19,3 +19,5 @@
 - pkg:cargo/pi_mqtt@0.5.7
 - pkg:cargo/pi_mqtt@0.6.0
 - pkg:cargo/pi_mqtt@0.7.0
+- pkg:cargo/pi_mqtt@0.7.1
+- pkg:cargo/pi_mqtt@0.8.0
