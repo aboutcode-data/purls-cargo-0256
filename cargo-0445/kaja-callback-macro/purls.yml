@@ -1,1 +1,4 @@
 - pkg:cargo/kaja-callback-macro@0.1.0
+- pkg:cargo/kaja-callback-macro@1.0.0
+- pkg:cargo/kaja-callback-macro@1.0.1
+- pkg:cargo/kaja-callback-macro@1.0.2
