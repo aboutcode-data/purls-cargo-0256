@@ -25,3 +25,4 @@
 - pkg:cargo/dcrypt-api@2.0.0
 - pkg:cargo/dcrypt-api@3.0.0
 - pkg:cargo/dcrypt-api@4.0.0
+- pkg:cargo/dcrypt-api@4.0.1
