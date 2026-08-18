@@ -26,3 +26,5 @@
 - pkg:cargo/pi_tcp@0.5.9
 - pkg:cargo/pi_tcp@0.6.0
 - pkg:cargo/pi_tcp@0.7.0
+- pkg:cargo/pi_tcp@0.8.0
+- pkg:cargo/pi_tcp@0.8.1
