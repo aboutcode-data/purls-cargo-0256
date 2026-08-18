@@ -9,3 +9,6 @@
 - pkg:cargo/hekate-crypto@0.29.0
 - pkg:cargo/hekate-crypto@0.29.1
 - pkg:cargo/hekate-crypto@0.30.0
+- pkg:cargo/hekate-crypto@0.31.0
+- pkg:cargo/hekate-crypto@0.32.0
+- pkg:cargo/hekate-crypto@0.33.0
