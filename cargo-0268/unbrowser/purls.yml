@@ -1,3 +1,12 @@
+- pkg:cargo/unbrowser@0.0.10
+- pkg:cargo/unbrowser@0.0.11
+- pkg:cargo/unbrowser@0.0.12
+- pkg:cargo/unbrowser@0.0.13
+- pkg:cargo/unbrowser@0.0.14
+- pkg:cargo/unbrowser@0.0.15
+- pkg:cargo/unbrowser@0.0.16
+- pkg:cargo/unbrowser@0.0.18
+- pkg:cargo/unbrowser@0.0.19
 - pkg:cargo/unbrowser@0.0.4
 - pkg:cargo/unbrowser@0.0.5
 - pkg:cargo/unbrowser@0.0.7
