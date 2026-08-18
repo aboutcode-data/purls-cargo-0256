@@ -9,6 +9,11 @@
 - pkg:cargo/pi_async_transaction@0.10.3
 - pkg:cargo/pi_async_transaction@0.10.5
 - pkg:cargo/pi_async_transaction@0.11.0
+- pkg:cargo/pi_async_transaction@0.11.1
+- pkg:cargo/pi_async_transaction@0.11.2
+- pkg:cargo/pi_async_transaction@0.12.0
+- pkg:cargo/pi_async_transaction@0.12.1
+- pkg:cargo/pi_async_transaction@0.12.2
 - pkg:cargo/pi_async_transaction@0.2.0
 - pkg:cargo/pi_async_transaction@0.2.1
 - pkg:cargo/pi_async_transaction@0.2.2
