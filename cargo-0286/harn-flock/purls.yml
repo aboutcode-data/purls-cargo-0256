@@ -2,6 +2,8 @@
 - pkg:cargo/harn-flock@0.10.101
 - pkg:cargo/harn-flock@0.10.102
 - pkg:cargo/harn-flock@0.10.103
+- pkg:cargo/harn-flock@0.10.104
+- pkg:cargo/harn-flock@0.10.105
 - pkg:cargo/harn-flock@0.10.41
 - pkg:cargo/harn-flock@0.10.42
 - pkg:cargo/harn-flock@0.10.43
