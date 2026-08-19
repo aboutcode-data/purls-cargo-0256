@@ -13,3 +13,4 @@
 - pkg:cargo/apl-token-metadata@0.6.8
 - pkg:cargo/apl-token-metadata@0.7.0
 - pkg:cargo/apl-token-metadata@0.8.0
+- pkg:cargo/apl-token-metadata@0.8.2
