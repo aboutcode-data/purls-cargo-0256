@@ -6,6 +6,7 @@
 - pkg:cargo/pdk-test@0.0.0-alpha.6
 - pkg:cargo/pdk-test@0.0.0-alpha.7
 - pkg:cargo/pdk-test@0.1.0
+- pkg:cargo/pdk-test@1.10.0
 - pkg:cargo/pdk-test@1.3.0-alpha.0
 - pkg:cargo/pdk-test@1.6.0
 - pkg:cargo/pdk-test@1.6.0-rc.0
