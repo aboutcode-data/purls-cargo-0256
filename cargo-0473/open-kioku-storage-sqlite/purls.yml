@@ -11,3 +11,5 @@
 - pkg:cargo/open-kioku-storage-sqlite@2.3.0
 - pkg:cargo/open-kioku-storage-sqlite@2.4.0
 - pkg:cargo/open-kioku-storage-sqlite@3.0.0
+- pkg:cargo/open-kioku-storage-sqlite@3.0.1
+- pkg:cargo/open-kioku-storage-sqlite@3.0.2
