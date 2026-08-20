@@ -56,3 +56,4 @@
 - pkg:cargo/forest-filecoin@0.34.0
 - pkg:cargo/forest-filecoin@0.34.1
 - pkg:cargo/forest-filecoin@0.35.0
+- pkg:cargo/forest-filecoin@0.36.0
