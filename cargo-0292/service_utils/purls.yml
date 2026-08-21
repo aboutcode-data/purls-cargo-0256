@@ -10,3 +10,4 @@
 - pkg:cargo/service_utils@0.2.2
 - pkg:cargo/service_utils@0.2.3
 - pkg:cargo/service_utils@0.3.0
+- pkg:cargo/service_utils@0.3.1
