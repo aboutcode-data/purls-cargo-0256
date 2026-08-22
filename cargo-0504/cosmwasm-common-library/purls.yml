@@ -12,3 +12,4 @@
 - pkg:cargo/cosmwasm-common-library@0.1.7
 - pkg:cargo/cosmwasm-common-library@0.1.8
 - pkg:cargo/cosmwasm-common-library@0.1.9
+- pkg:cargo/cosmwasm-common-library@3.0.0
