@@ -20,3 +20,4 @@
 - pkg:cargo/apl-associated-token-account@0.8.0
 - pkg:cargo/apl-associated-token-account@0.8.2
 - pkg:cargo/apl-associated-token-account@0.8.3
+- pkg:cargo/apl-associated-token-account@0.8.4
