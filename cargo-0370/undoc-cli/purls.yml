@@ -21,3 +21,5 @@
 - pkg:cargo/undoc-cli@0.6.0
 - pkg:cargo/undoc-cli@0.7.0
 - pkg:cargo/undoc-cli@0.8.0
+- pkg:cargo/undoc-cli@0.8.1
+- pkg:cargo/undoc-cli@0.9.0
