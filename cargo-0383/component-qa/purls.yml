@@ -39,6 +39,9 @@
 - pkg:cargo/component-qa@1.2.0-dev.29634956005
 - pkg:cargo/component-qa@1.2.0-dev.30609860097
 - pkg:cargo/component-qa@1.2.0-dev.31083204436
+- pkg:cargo/component-qa@1.2.0-dev.32222118560
+- pkg:cargo/component-qa@1.2.0-dev.32239830082
+- pkg:cargo/component-qa@1.2.0-dev.32252058439
 - pkg:cargo/component-qa@1.2.0-research.0
 - pkg:cargo/component-qa@1.2.0-research.1
 - pkg:cargo/component-qa@1.3.0-research.0
