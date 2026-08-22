@@ -10,6 +10,7 @@
 - pkg:cargo/sem-cli@0.21.0
 - pkg:cargo/sem-cli@0.22.0
 - pkg:cargo/sem-cli@0.22.1
+- pkg:cargo/sem-cli@0.23.0
 - pkg:cargo/sem-cli@0.3.13
 - pkg:cargo/sem-cli@0.3.14
 - pkg:cargo/sem-cli@0.3.15
