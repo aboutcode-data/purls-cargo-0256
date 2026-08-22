@@ -9,3 +9,5 @@
 - pkg:cargo/cyclonedds-cli@1.8.0
 - pkg:cargo/cyclonedds-cli@2.0.0
 - pkg:cargo/cyclonedds-cli@2.0.3
+- pkg:cargo/cyclonedds-cli@3.0.0-alpha.2
+- pkg:cargo/cyclonedds-cli@3.0.0-alpha.3
