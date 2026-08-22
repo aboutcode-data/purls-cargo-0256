@@ -17,3 +17,4 @@
 - pkg:cargo/egui_double_slider@1.1.0
 - pkg:cargo/egui_double_slider@2.0.0
 - pkg:cargo/egui_double_slider@3.0.0
+- pkg:cargo/egui_double_slider@4.0.0
