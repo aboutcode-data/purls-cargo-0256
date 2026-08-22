@@ -1,3 +1,4 @@
+- pkg:cargo/beamr-wasm@0.10.0
 - pkg:cargo/beamr-wasm@0.4.1
 - pkg:cargo/beamr-wasm@0.5.0
 - pkg:cargo/beamr-wasm@0.6.0
