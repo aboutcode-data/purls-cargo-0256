@@ -1,1 +1,2 @@
 - pkg:cargo/composefs-ctl@0.7.0
+- pkg:cargo/composefs-ctl@0.9.0
