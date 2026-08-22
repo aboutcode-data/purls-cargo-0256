@@ -4,3 +4,5 @@
 - pkg:cargo/rpcl2-derive@0.4.0
 - pkg:cargo/rpcl2-derive@0.5.0
 - pkg:cargo/rpcl2-derive@1.0.0-rc.1
+- pkg:cargo/rpcl2-derive@1.0.0-rc.2
+- pkg:cargo/rpcl2-derive@1.0.0-rc.3
