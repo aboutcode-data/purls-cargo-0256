@@ -12,3 +12,4 @@
 - pkg:cargo/pdf-inspector@1.14.2
 - pkg:cargo/pdf-inspector@1.15.0
 - pkg:cargo/pdf-inspector@1.16.0
+- pkg:cargo/pdf-inspector@1.17.0
