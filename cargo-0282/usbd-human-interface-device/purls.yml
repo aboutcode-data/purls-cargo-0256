@@ -16,3 +16,4 @@
 - pkg:cargo/usbd-human-interface-device@0.5.0
 - pkg:cargo/usbd-human-interface-device@0.5.1
 - pkg:cargo/usbd-human-interface-device@0.6.0
+- pkg:cargo/usbd-human-interface-device@0.6.1
