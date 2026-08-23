@@ -23,3 +23,4 @@
 - pkg:cargo/opensecret@3.5.0
 - pkg:cargo/opensecret@3.6.0
 - pkg:cargo/opensecret@3.6.1
+- pkg:cargo/opensecret@3.6.2
