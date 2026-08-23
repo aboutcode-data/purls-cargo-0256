@@ -6,3 +6,5 @@
 - pkg:cargo/codeeraser@0.7.1
 - pkg:cargo/codeeraser@0.7.2
 - pkg:cargo/codeeraser@0.7.3
+- pkg:cargo/codeeraser@1.0.0
+- pkg:cargo/codeeraser@1.0.1
