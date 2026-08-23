@@ -64,5 +64,6 @@
 - pkg:cargo/collection_tools@0.69.1
 - pkg:cargo/collection_tools@0.7.0
 - pkg:cargo/collection_tools@0.70.1
+- pkg:cargo/collection_tools@0.71.1
 - pkg:cargo/collection_tools@0.8.0
 - pkg:cargo/collection_tools@0.9.0
