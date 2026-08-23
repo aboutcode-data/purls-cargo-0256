@@ -1,2 +1,5 @@
 - pkg:cargo/unigateway-session-redis@2.14.0
 - pkg:cargo/unigateway-session-redis@2.14.1
+- pkg:cargo/unigateway-session-redis@2.14.2
+- pkg:cargo/unigateway-session-redis@2.15.0
+- pkg:cargo/unigateway-session-redis@2.15.1
