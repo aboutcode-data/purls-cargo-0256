@@ -7,4 +7,5 @@
 - pkg:cargo/onnxruntime-ep-mlx@0.27.5
 - pkg:cargo/onnxruntime-ep-mlx@0.27.6
 - pkg:cargo/onnxruntime-ep-mlx@0.29.0
+- pkg:cargo/onnxruntime-ep-mlx@0.29.1
 - pkg:cargo/onnxruntime-ep-mlx@0.3.0
