@@ -1,5 +1,6 @@
 - pkg:cargo/bevy-brink@0.0.10
 - pkg:cargo/bevy-brink@0.0.11
+- pkg:cargo/bevy-brink@0.0.15
 - pkg:cargo/bevy-brink@0.0.2
 - pkg:cargo/bevy-brink@0.0.3
 - pkg:cargo/bevy-brink@0.0.4
