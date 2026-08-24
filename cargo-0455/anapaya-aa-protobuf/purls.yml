@@ -3,3 +3,4 @@
 - pkg:cargo/anapaya-aa-protobuf@0.5.2
 - pkg:cargo/anapaya-aa-protobuf@0.6.0
 - pkg:cargo/anapaya-aa-protobuf@0.6.1
+- pkg:cargo/anapaya-aa-protobuf@0.7.0
