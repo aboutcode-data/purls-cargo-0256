@@ -206,6 +206,7 @@
 - pkg:cargo/ant-quic@0.27.42
 - pkg:cargo/ant-quic@0.27.43
 - pkg:cargo/ant-quic@0.27.44
+- pkg:cargo/ant-quic@0.27.45
 - pkg:cargo/ant-quic@0.27.5
 - pkg:cargo/ant-quic@0.27.6
 - pkg:cargo/ant-quic@0.27.7
