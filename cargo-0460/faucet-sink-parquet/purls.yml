@@ -10,3 +10,4 @@
 - pkg:cargo/faucet-sink-parquet@1.1.7
 - pkg:cargo/faucet-sink-parquet@1.1.8
 - pkg:cargo/faucet-sink-parquet@1.2.0
+- pkg:cargo/faucet-sink-parquet@1.2.1
