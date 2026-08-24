@@ -17,3 +17,5 @@
 - pkg:cargo/xad-rs@4.1.0
 - pkg:cargo/xad-rs@5.0.0
 - pkg:cargo/xad-rs@5.1.0
+- pkg:cargo/xad-rs@6.0.0
+- pkg:cargo/xad-rs@6.1.0
