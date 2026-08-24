@@ -3,3 +3,5 @@
 - pkg:cargo/usage-config@6.0.0
 - pkg:cargo/usage-config@6.1.0
 - pkg:cargo/usage-config@6.1.1
+- pkg:cargo/usage-config@6.2.0
+- pkg:cargo/usage-config@6.3.0
