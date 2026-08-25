@@ -11,3 +11,4 @@
 - pkg:cargo/sdforge@0.4.4
 - pkg:cargo/sdforge@0.4.6
 - pkg:cargo/sdforge@0.4.7
+- pkg:cargo/sdforge@0.5.0-rc.1
