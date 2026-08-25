@@ -5,3 +5,4 @@
 - pkg:cargo/usage-validation@6.1.1
 - pkg:cargo/usage-validation@6.2.0
 - pkg:cargo/usage-validation@6.3.0
+- pkg:cargo/usage-validation@6.4.0
