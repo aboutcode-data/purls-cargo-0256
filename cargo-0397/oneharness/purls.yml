@@ -2,6 +2,7 @@
 - pkg:cargo/oneharness@0.10.2
 - pkg:cargo/oneharness@0.10.3
 - pkg:cargo/oneharness@0.11.0
+- pkg:cargo/oneharness@0.11.1
 - pkg:cargo/oneharness@0.3.10
 - pkg:cargo/oneharness@0.3.11
 - pkg:cargo/oneharness@0.3.12
