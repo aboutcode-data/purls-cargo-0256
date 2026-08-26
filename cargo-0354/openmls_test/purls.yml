@@ -6,6 +6,7 @@
 - pkg:cargo/openmls_test@0.2.0-pre.2
 - pkg:cargo/openmls_test@0.2.1
 - pkg:cargo/openmls_test@0.2.1-rc.1
+- pkg:cargo/openmls_test@0.3.0
 - pkg:cargo/openmls_test@0.3.0-rc.1
 - pkg:cargo/openmls_test@0.3.0-rc.2
 - pkg:cargo/openmls_test@0.3.0-rc.3
