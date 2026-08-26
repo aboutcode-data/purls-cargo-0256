@@ -9,3 +9,4 @@
 - pkg:cargo/openlogi-hidpp-derive@0.7.7
 - pkg:cargo/openlogi-hidpp-derive@0.7.8
 - pkg:cargo/openlogi-hidpp-derive@0.7.9
+- pkg:cargo/openlogi-hidpp-derive@0.8.0
