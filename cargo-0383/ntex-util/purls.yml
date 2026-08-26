@@ -67,3 +67,4 @@
 - pkg:cargo/ntex-util@3.6.1
 - pkg:cargo/ntex-util@4.0.0-beta.0
 - pkg:cargo/ntex-util@4.0.0-beta.1
+- pkg:cargo/ntex-util@4.0.0-beta.2
