@@ -99,6 +99,7 @@
 - pkg:cargo/fallow-v8-coverage@3.16.0
 - pkg:cargo/fallow-v8-coverage@3.17.0
 - pkg:cargo/fallow-v8-coverage@3.18.0
+- pkg:cargo/fallow-v8-coverage@3.19.0
 - pkg:cargo/fallow-v8-coverage@3.2.0
 - pkg:cargo/fallow-v8-coverage@3.3.0
 - pkg:cargo/fallow-v8-coverage@3.4.2
