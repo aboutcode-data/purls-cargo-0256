@@ -7,3 +7,5 @@
 - pkg:cargo/const_shader_layout@0.3.3
 - pkg:cargo/const_shader_layout@0.3.4
 - pkg:cargo/const_shader_layout@0.4.0
+- pkg:cargo/const_shader_layout@0.4.1
+- pkg:cargo/const_shader_layout@0.4.2
