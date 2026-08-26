@@ -23,3 +23,4 @@
 - pkg:cargo/opcda-bridge-gateway@0.4.6
 - pkg:cargo/opcda-bridge-gateway@0.4.7
 - pkg:cargo/opcda-bridge-gateway@0.4.8
+- pkg:cargo/opcda-bridge-gateway@0.4.9
