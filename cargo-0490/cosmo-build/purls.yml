@@ -1,0 +1,5 @@
+- pkg:cargo/cosmo-build@1.0.0
+- pkg:cargo/cosmo-build@2.0.0
+- pkg:cargo/cosmo-build@3.0.0
+- pkg:cargo/cosmo-build@4.0.0
+- pkg:cargo/cosmo-build@5.0.0
