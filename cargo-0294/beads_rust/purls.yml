@@ -24,3 +24,4 @@
 - pkg:cargo/beads_rust@0.2.9
 - pkg:cargo/beads_rust@0.3.0
 - pkg:cargo/beads_rust@0.3.2
+- pkg:cargo/beads_rust@0.5.1
