@@ -26,3 +26,4 @@
 - pkg:cargo/x86_vcpu@0.5.8
 - pkg:cargo/x86_vcpu@0.5.9
 - pkg:cargo/x86_vcpu@0.6.0
+- pkg:cargo/x86_vcpu@0.6.1
