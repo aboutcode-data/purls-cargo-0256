@@ -130,3 +130,4 @@
 - pkg:cargo/usage-cli@6.2.0
 - pkg:cargo/usage-cli@6.3.0
 - pkg:cargo/usage-cli@6.4.0
+- pkg:cargo/usage-cli@6.4.1
