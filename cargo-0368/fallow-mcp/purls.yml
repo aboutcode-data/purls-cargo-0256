@@ -203,6 +203,7 @@
 - pkg:cargo/fallow-mcp@3.16.0
 - pkg:cargo/fallow-mcp@3.17.0
 - pkg:cargo/fallow-mcp@3.18.0
+- pkg:cargo/fallow-mcp@3.19.0
 - pkg:cargo/fallow-mcp@3.2.0
 - pkg:cargo/fallow-mcp@3.3.0
 - pkg:cargo/fallow-mcp@3.4.2
