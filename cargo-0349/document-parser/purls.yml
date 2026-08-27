@@ -1,1 +1,4 @@
 - pkg:cargo/document-parser@0.1.0-alpha.1
+- pkg:cargo/document-parser@0.1.0-alpha.11
+- pkg:cargo/document-parser@0.1.0-alpha.12
+- pkg:cargo/document-parser@0.1.0-alpha.13
