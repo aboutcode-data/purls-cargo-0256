@@ -38,3 +38,4 @@
 - pkg:cargo/lcms2@6.0.4
 - pkg:cargo/lcms2@6.1.0
 - pkg:cargo/lcms2@6.1.1
+- pkg:cargo/lcms2@6.2.0
