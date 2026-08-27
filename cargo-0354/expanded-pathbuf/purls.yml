@@ -1,3 +1,4 @@
 - pkg:cargo/expanded-pathbuf@0.1.0
 - pkg:cargo/expanded-pathbuf@0.1.1
 - pkg:cargo/expanded-pathbuf@0.1.2
+- pkg:cargo/expanded-pathbuf@1.0.0
