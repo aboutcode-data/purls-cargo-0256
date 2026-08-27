@@ -12,5 +12,6 @@
 - pkg:cargo/binvim@0.5.15
 - pkg:cargo/binvim@0.5.16
 - pkg:cargo/binvim@0.5.17
+- pkg:cargo/binvim@0.5.18
 - pkg:cargo/binvim@0.5.8
 - pkg:cargo/binvim@0.5.9
