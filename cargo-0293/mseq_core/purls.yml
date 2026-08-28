@@ -5,3 +5,4 @@
 - pkg:cargo/mseq_core@0.1.4
 - pkg:cargo/mseq_core@0.1.5
 - pkg:cargo/mseq_core@0.1.6
+- pkg:cargo/mseq_core@1.0.0
