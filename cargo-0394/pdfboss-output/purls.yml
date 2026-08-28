@@ -10,3 +10,4 @@
 - pkg:cargo/pdfboss-output@0.20.0
 - pkg:cargo/pdfboss-output@0.21.0
 - pkg:cargo/pdfboss-output@0.21.1
+- pkg:cargo/pdfboss-output@0.22.0
