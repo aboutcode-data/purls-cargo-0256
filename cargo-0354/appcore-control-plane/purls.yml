@@ -1,3 +1,5 @@
 - pkg:cargo/appcore-control-plane@1.0.0
 - pkg:cargo/appcore-control-plane@1.0.1-rc.8
+- pkg:cargo/appcore-control-plane@1.0.2-rc
+- pkg:cargo/appcore-control-plane@1.0.3-rc
 - pkg:cargo/appcore-control-plane@2.0.0-alpha.1
