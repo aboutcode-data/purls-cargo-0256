@@ -6,6 +6,7 @@
 - pkg:cargo/bevy_flowfield_tiles_plugin@0.12.0
 - pkg:cargo/bevy_flowfield_tiles_plugin@0.13.0
 - pkg:cargo/bevy_flowfield_tiles_plugin@0.14.0
+- pkg:cargo/bevy_flowfield_tiles_plugin@0.15.0
 - pkg:cargo/bevy_flowfield_tiles_plugin@0.2.0
 - pkg:cargo/bevy_flowfield_tiles_plugin@0.3.0
 - pkg:cargo/bevy_flowfield_tiles_plugin@0.4.0
