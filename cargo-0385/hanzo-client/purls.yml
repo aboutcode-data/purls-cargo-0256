@@ -2,4 +2,5 @@
 - pkg:cargo/hanzo-client@0.1.1
 - pkg:cargo/hanzo-client@0.1.2
 - pkg:cargo/hanzo-client@0.1.3
+- pkg:cargo/hanzo-client@8.5.156
 - pkg:cargo/hanzo-client@8.5.89
