@@ -19,3 +19,4 @@
 - pkg:cargo/onefetch-manifest@2.26.1
 - pkg:cargo/onefetch-manifest@2.27.0
 - pkg:cargo/onefetch-manifest@2.27.1
+- pkg:cargo/onefetch-manifest@2.28.0
