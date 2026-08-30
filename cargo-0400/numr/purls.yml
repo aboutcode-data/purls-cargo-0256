@@ -17,3 +17,5 @@
 - pkg:cargo/numr@0.6.0-beta.1
 - pkg:cargo/numr@0.6.1
 - pkg:cargo/numr@0.6.1-beta.3
+- pkg:cargo/numr@0.7.0
+- pkg:cargo/numr@0.7.0-beta.1
