@@ -16,3 +16,4 @@
 - pkg:cargo/pdfboss-output@0.25.0
 - pkg:cargo/pdfboss-output@1.0.0
 - pkg:cargo/pdfboss-output@1.1.0
+- pkg:cargo/pdfboss-output@1.2.0
