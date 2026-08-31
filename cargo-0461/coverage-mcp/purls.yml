@@ -4,6 +4,8 @@
 - pkg:cargo/coverage-mcp@0.15.0
 - pkg:cargo/coverage-mcp@0.15.1
 - pkg:cargo/coverage-mcp@0.15.2
+- pkg:cargo/coverage-mcp@0.15.3
+- pkg:cargo/coverage-mcp@0.15.4
 - pkg:cargo/coverage-mcp@0.8.6
 - pkg:cargo/coverage-mcp@0.9.0
 - pkg:cargo/coverage-mcp@0.9.1
