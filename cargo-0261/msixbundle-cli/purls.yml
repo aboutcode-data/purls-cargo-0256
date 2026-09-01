@@ -4,6 +4,7 @@
 - pkg:cargo/msixbundle-cli@1.1.0
 - pkg:cargo/msixbundle-cli@1.1.10
 - pkg:cargo/msixbundle-cli@1.1.11
+- pkg:cargo/msixbundle-cli@1.1.12
 - pkg:cargo/msixbundle-cli@1.1.4
 - pkg:cargo/msixbundle-cli@1.1.5
 - pkg:cargo/msixbundle-cli@1.1.6
