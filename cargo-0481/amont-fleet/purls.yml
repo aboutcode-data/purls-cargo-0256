@@ -23,6 +23,8 @@
 - pkg:cargo/amont-fleet@1.22.0
 - pkg:cargo/amont-fleet@1.23.0
 - pkg:cargo/amont-fleet@1.24.0
+- pkg:cargo/amont-fleet@1.25.0
+- pkg:cargo/amont-fleet@1.25.1
 - pkg:cargo/amont-fleet@1.3.0
 - pkg:cargo/amont-fleet@1.4.0
 - pkg:cargo/amont-fleet@1.4.1
