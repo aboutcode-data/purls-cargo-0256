@@ -1,4 +1,5 @@
 - pkg:cargo/ct2rs@0.10.0
+- pkg:cargo/ct2rs@0.10.1
 - pkg:cargo/ct2rs@0.4.4
 - pkg:cargo/ct2rs@0.4.5
 - pkg:cargo/ct2rs@0.4.6
