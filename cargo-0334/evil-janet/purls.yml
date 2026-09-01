@@ -42,3 +42,4 @@
 - pkg:cargo/evil-janet@1.37.2
 - pkg:cargo/evil-janet@1.41.2
 - pkg:cargo/evil-janet@1.41.3
+- pkg:cargo/evil-janet@1.42.0
