@@ -148,4 +148,5 @@
 - pkg:cargo/commonmeta@0.9.8
 - pkg:cargo/commonmeta@0.9.80
 - pkg:cargo/commonmeta@0.9.81
+- pkg:cargo/commonmeta@0.9.82
 - pkg:cargo/commonmeta@0.9.9
