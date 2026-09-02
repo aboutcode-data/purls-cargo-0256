@@ -37,6 +37,7 @@
 - pkg:cargo/corgi-build@0.1.42
 - pkg:cargo/corgi-build@0.1.43
 - pkg:cargo/corgi-build@0.1.44
+- pkg:cargo/corgi-build@0.1.45
 - pkg:cargo/corgi-build@0.1.5%2B260820
 - pkg:cargo/corgi-build@0.1.6%2B260820
 - pkg:cargo/corgi-build@0.1.7%2B260820
