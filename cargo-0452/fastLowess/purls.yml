@@ -17,3 +17,4 @@
 - pkg:cargo/fastLowess@2.0.0
 - pkg:cargo/fastLowess@3.0.0
 - pkg:cargo/fastLowess@3.1.0
+- pkg:cargo/fastLowess@3.2.0
