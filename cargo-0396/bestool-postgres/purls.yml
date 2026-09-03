@@ -11,3 +11,4 @@
 - pkg:cargo/bestool-postgres@1.0.9
 - pkg:cargo/bestool-postgres@1.1.0
 - pkg:cargo/bestool-postgres@1.2.0
+- pkg:cargo/bestool-postgres@1.2.1
