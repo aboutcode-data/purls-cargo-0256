@@ -47,6 +47,7 @@
 - pkg:cargo/ckb-vm@0.24.12
 - pkg:cargo/ckb-vm@0.24.13
 - pkg:cargo/ckb-vm@0.24.14
+- pkg:cargo/ckb-vm@0.24.15
 - pkg:cargo/ckb-vm@0.24.2
 - pkg:cargo/ckb-vm@0.24.3
 - pkg:cargo/ckb-vm@0.24.4
