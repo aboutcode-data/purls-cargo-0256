@@ -28,6 +28,7 @@
 - pkg:cargo/hang@0.2.0
 - pkg:cargo/hang@0.20.0
 - pkg:cargo/hang@0.20.1
+- pkg:cargo/hang@0.20.10
 - pkg:cargo/hang@0.20.2
 - pkg:cargo/hang@0.20.3
 - pkg:cargo/hang@0.20.4
