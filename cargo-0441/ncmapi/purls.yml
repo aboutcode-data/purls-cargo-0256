@@ -12,3 +12,4 @@
 - pkg:cargo/ncmapi@0.1.7
 - pkg:cargo/ncmapi@0.1.8
 - pkg:cargo/ncmapi@0.1.9
+- pkg:cargo/ncmapi@1.0.0
