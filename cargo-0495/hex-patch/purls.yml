@@ -11,6 +11,7 @@
 - pkg:cargo/hex-patch@1.12.5
 - pkg:cargo/hex-patch@1.12.6
 - pkg:cargo/hex-patch@1.13.0
+- pkg:cargo/hex-patch@1.13.1
 - pkg:cargo/hex-patch@1.6.0
 - pkg:cargo/hex-patch@1.6.1
 - pkg:cargo/hex-patch@1.6.2
