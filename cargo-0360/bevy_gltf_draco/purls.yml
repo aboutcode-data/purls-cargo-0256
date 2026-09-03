@@ -1,3 +1,4 @@
 - pkg:cargo/bevy_gltf_draco@0.1.0
 - pkg:cargo/bevy_gltf_draco@0.1.0-rc
 - pkg:cargo/bevy_gltf_draco@0.2.0
+- pkg:cargo/bevy_gltf_draco@0.2.1
