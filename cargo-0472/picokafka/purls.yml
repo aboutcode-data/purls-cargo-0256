@@ -14,3 +14,4 @@
 - pkg:cargo/picokafka@0.1.9
 - pkg:cargo/picokafka@0.2.0
 - pkg:cargo/picokafka@0.3.0
+- pkg:cargo/picokafka@0.4.0

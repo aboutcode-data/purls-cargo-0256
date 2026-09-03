@@ -1,2 +1,7 @@
+- pkg:cargo/pina_profile@0.10.0
+- pkg:cargo/pina_profile@0.11.1
+- pkg:cargo/pina_profile@0.12.0
+- pkg:cargo/pina_profile@0.12.2
 - pkg:cargo/pina_profile@0.7.0
 - pkg:cargo/pina_profile@0.8.0
+- pkg:cargo/pina_profile@0.9.0
