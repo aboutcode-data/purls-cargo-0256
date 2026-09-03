@@ -5,3 +5,4 @@
 - pkg:cargo/nm_otel_impl@0.4.14
 - pkg:cargo/nm_otel_impl@0.4.15
 - pkg:cargo/nm_otel_impl@0.4.16
+- pkg:cargo/nm_otel_impl@0.4.17
