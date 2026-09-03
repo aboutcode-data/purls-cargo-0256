@@ -9,3 +9,6 @@
 - pkg:cargo/piper-phonemize-sys@0.3.4
 - pkg:cargo/piper-phonemize-sys@0.3.5
 - pkg:cargo/piper-phonemize-sys@0.3.6
+- pkg:cargo/piper-phonemize-sys@1.4.11
+- pkg:cargo/piper-phonemize-sys@1.4.8
+- pkg:cargo/piper-phonemize-sys@1.4.9
