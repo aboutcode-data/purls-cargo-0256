@@ -1,3 +1,7 @@
 - pkg:cargo/netrunner@1.0.0
 - pkg:cargo/netrunner@1.0.1
 - pkg:cargo/netrunner@2.0.0
+- pkg:cargo/netrunner@2.0.1
+- pkg:cargo/netrunner@2.0.2
+- pkg:cargo/netrunner@2.0.3
+- pkg:cargo/netrunner@2.0.4
