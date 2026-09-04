@@ -3,3 +3,4 @@
 - pkg:cargo/env_toml@0.2.1%2Bupstream-1.1.2
 - pkg:cargo/env_toml@0.2.2%2Bupstream-1.1.2
 - pkg:cargo/env_toml@0.2.3%2Bupstream-1.1.2
+- pkg:cargo/env_toml@0.2.4%2Bupstream-1.1.4
