@@ -2,3 +2,4 @@
 - pkg:cargo/encointer-offline-payment-core@22.0.0
 - pkg:cargo/encointer-offline-payment-core@22.1.0
 - pkg:cargo/encointer-offline-payment-core@22.2.0
+- pkg:cargo/encointer-offline-payment-core@24.0.0
