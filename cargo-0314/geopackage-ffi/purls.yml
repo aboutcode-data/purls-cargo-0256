@@ -2,3 +2,5 @@
 - pkg:cargo/geopackage-ffi@0.7.0
 - pkg:cargo/geopackage-ffi@0.7.1
 - pkg:cargo/geopackage-ffi@0.8.0
+- pkg:cargo/geopackage-ffi@0.9.0
+- pkg:cargo/geopackage-ffi@0.9.1
