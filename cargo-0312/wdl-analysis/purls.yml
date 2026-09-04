@@ -14,6 +14,11 @@
 - pkg:cargo/wdl-analysis@0.19.1
 - pkg:cargo/wdl-analysis@0.2.0
 - pkg:cargo/wdl-analysis@0.20.0
+- pkg:cargo/wdl-analysis@0.21.0
+- pkg:cargo/wdl-analysis@0.22.0
+- pkg:cargo/wdl-analysis@0.23.0
+- pkg:cargo/wdl-analysis@0.24.0
+- pkg:cargo/wdl-analysis@0.25.0
 - pkg:cargo/wdl-analysis@0.3.0
 - pkg:cargo/wdl-analysis@0.4.0
 - pkg:cargo/wdl-analysis@0.5.0
