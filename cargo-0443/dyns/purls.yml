@@ -7,3 +7,7 @@
 - pkg:cargo/dyns@0.7.0
 - pkg:cargo/dyns@0.7.0-beta.1
 - pkg:cargo/dyns@0.7.0-beta.2
+- pkg:cargo/dyns@0.7.1
+- pkg:cargo/dyns@0.7.1-beta.1
+- pkg:cargo/dyns@0.7.1-beta.2
+- pkg:cargo/dyns@0.7.2
