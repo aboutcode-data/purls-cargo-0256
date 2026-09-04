@@ -2,3 +2,4 @@
 - pkg:cargo/nvtx@1.1.1
 - pkg:cargo/nvtx@1.2.0
 - pkg:cargo/nvtx@1.3.0
+- pkg:cargo/nvtx@2.0.0
