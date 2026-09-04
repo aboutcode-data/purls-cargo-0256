@@ -4,4 +4,7 @@
 - pkg:cargo/genmeta-discover@0.4.0-beta.1
 - pkg:cargo/genmeta-discover@0.4.0-beta.2
 - pkg:cargo/genmeta-discover@0.4.0-beta.3
+- pkg:cargo/genmeta-discover@0.4.1
 - pkg:cargo/genmeta-discover@0.4.1-beta.1
+- pkg:cargo/genmeta-discover@0.4.2
+- pkg:cargo/genmeta-discover@0.4.2-beta.1
