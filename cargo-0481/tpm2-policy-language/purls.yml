@@ -1,6 +1,7 @@
 - pkg:cargo/tpm2-policy-language@0.1.0
 - pkg:cargo/tpm2-policy-language@0.10.0
 - pkg:cargo/tpm2-policy-language@0.10.1
+- pkg:cargo/tpm2-policy-language@0.10.10
 - pkg:cargo/tpm2-policy-language@0.10.2
 - pkg:cargo/tpm2-policy-language@0.10.3
 - pkg:cargo/tpm2-policy-language@0.10.4
@@ -9,8 +10,11 @@
 - pkg:cargo/tpm2-policy-language@0.10.7
 - pkg:cargo/tpm2-policy-language@0.10.8
 - pkg:cargo/tpm2-policy-language@0.10.9
+- pkg:cargo/tpm2-policy-language@0.11.0
 - pkg:cargo/tpm2-policy-language@0.2.0
 - pkg:cargo/tpm2-policy-language@0.2.1
+- pkg:cargo/tpm2-policy-language@0.20.0
+- pkg:cargo/tpm2-policy-language@0.20.1
 - pkg:cargo/tpm2-policy-language@0.3.0
 - pkg:cargo/tpm2-policy-language@0.3.1
 - pkg:cargo/tpm2-policy-language@0.3.2
@@ -46,3 +50,8 @@
 - pkg:cargo/tpm2-policy-language@0.9.6
 - pkg:cargo/tpm2-policy-language@0.9.7
 - pkg:cargo/tpm2-policy-language@0.9.8
+- pkg:cargo/tpm2-policy-language@1.0.0
+- pkg:cargo/tpm2-policy-language@1.0.2
+- pkg:cargo/tpm2-policy-language@1.1.0
+- pkg:cargo/tpm2-policy-language@1.1.1
+- pkg:cargo/tpm2-policy-language@1.2.0
