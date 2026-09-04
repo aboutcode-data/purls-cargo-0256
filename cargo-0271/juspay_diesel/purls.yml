@@ -1,1 +1,3 @@
 - pkg:cargo/juspay_diesel@2.2.4
+- pkg:cargo/juspay_diesel@2.3.0
+- pkg:cargo/juspay_diesel@2.3.1
