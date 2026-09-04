@@ -1,1 +1,2 @@
 - pkg:cargo/rafter-transport-tcp-insecure@0.0.1
+- pkg:cargo/rafter-transport-tcp-insecure@0.0.2-alpha.1
