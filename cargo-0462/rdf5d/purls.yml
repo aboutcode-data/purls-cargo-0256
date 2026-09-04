@@ -33,3 +33,17 @@
 - pkg:cargo/rdf5d@0.5.2
 - pkg:cargo/rdf5d@0.5.3
 - pkg:cargo/rdf5d@0.5.4
+- pkg:cargo/rdf5d@0.5.5
+- pkg:cargo/rdf5d@0.6.0
+- pkg:cargo/rdf5d@0.6.0-a1
+- pkg:cargo/rdf5d@0.6.0-a2
+- pkg:cargo/rdf5d@0.6.0-a3
+- pkg:cargo/rdf5d@0.6.0-a4
+- pkg:cargo/rdf5d@0.6.0-a5
+- pkg:cargo/rdf5d@0.6.0-a6
+- pkg:cargo/rdf5d@0.6.0-a7
+- pkg:cargo/rdf5d@0.6.0-a8
+- pkg:cargo/rdf5d@0.6.0-a9
+- pkg:cargo/rdf5d@0.6.1
+- pkg:cargo/rdf5d@0.6.2
+- pkg:cargo/rdf5d@0.6.3
