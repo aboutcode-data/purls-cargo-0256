@@ -53,3 +53,12 @@
 - pkg:cargo/tsalign@2.0.5
 - pkg:cargo/tsalign@2.1.0
 - pkg:cargo/tsalign@2.1.1
+- pkg:cargo/tsalign@2.1.2
+- pkg:cargo/tsalign@3.0.0
+- pkg:cargo/tsalign@4.0.0
+- pkg:cargo/tsalign@4.0.1
+- pkg:cargo/tsalign@4.1.0
+- pkg:cargo/tsalign@5.0.0
+- pkg:cargo/tsalign@5.0.1
+- pkg:cargo/tsalign@6.0.0
+- pkg:cargo/tsalign@6.0.1
