@@ -12,6 +12,7 @@
 - pkg:cargo/rtc-interceptor-derive@0.20.2
 - pkg:cargo/rtc-interceptor-derive@0.20.3
 - pkg:cargo/rtc-interceptor-derive@0.20.4
+- pkg:cargo/rtc-interceptor-derive@0.20.5
 - pkg:cargo/rtc-interceptor-derive@0.21.0-alpha.1
 - pkg:cargo/rtc-interceptor-derive@0.21.0-alpha.2
 - pkg:cargo/rtc-interceptor-derive@0.7.3
