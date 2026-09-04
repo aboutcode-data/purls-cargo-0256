@@ -17,3 +17,4 @@
 - pkg:cargo/ya-rand@2.0.0
 - pkg:cargo/ya-rand@2.0.1
 - pkg:cargo/ya-rand@2.0.2
+- pkg:cargo/ya-rand@3.0.0
