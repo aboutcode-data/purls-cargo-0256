@@ -3,3 +3,4 @@
 - pkg:cargo/rama-crypto@0.3.0-alpha.3
 - pkg:cargo/rama-crypto@0.3.0-alpha.4
 - pkg:cargo/rama-crypto@0.3.0-rc1
+- pkg:cargo/rama-crypto@0.4.0
