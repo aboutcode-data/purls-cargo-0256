@@ -5,3 +5,4 @@
 - pkg:cargo/yara-x-capi@1.17.0
 - pkg:cargo/yara-x-capi@1.18.0
 - pkg:cargo/yara-x-capi@1.19.0
+- pkg:cargo/yara-x-capi@1.20.0
