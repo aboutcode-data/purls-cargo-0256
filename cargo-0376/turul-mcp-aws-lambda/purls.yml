@@ -47,3 +47,4 @@
 - pkg:cargo/turul-mcp-aws-lambda@0.3.7
 - pkg:cargo/turul-mcp-aws-lambda@0.3.8
 - pkg:cargo/turul-mcp-aws-lambda@0.3.9
+- pkg:cargo/turul-mcp-aws-lambda@0.4.0
