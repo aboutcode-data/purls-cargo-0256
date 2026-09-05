@@ -34,6 +34,15 @@
 - pkg:cargo/warpgate_api@0.17.2
 - pkg:cargo/warpgate_api@0.17.3
 - pkg:cargo/warpgate_api@0.17.4
+- pkg:cargo/warpgate_api@0.17.5
+- pkg:cargo/warpgate_api@0.17.6
+- pkg:cargo/warpgate_api@0.18.0
+- pkg:cargo/warpgate_api@0.18.1
+- pkg:cargo/warpgate_api@0.18.2
+- pkg:cargo/warpgate_api@0.18.3
+- pkg:cargo/warpgate_api@0.19.0
+- pkg:cargo/warpgate_api@0.19.1
+- pkg:cargo/warpgate_api@0.19.2
 - pkg:cargo/warpgate_api@0.2.0
 - pkg:cargo/warpgate_api@0.3.0
 - pkg:cargo/warpgate_api@0.3.1
