@@ -74,6 +74,11 @@
 - pkg:cargo/mehari@0.42.0
 - pkg:cargo/mehari@0.43.0
 - pkg:cargo/mehari@0.43.2
+- pkg:cargo/mehari@0.43.3
+- pkg:cargo/mehari@0.44.0
+- pkg:cargo/mehari@0.44.1
+- pkg:cargo/mehari@0.45.0
+- pkg:cargo/mehari@0.45.1
 - pkg:cargo/mehari@0.5.0
 - pkg:cargo/mehari@0.5.1
 - pkg:cargo/mehari@0.5.2
