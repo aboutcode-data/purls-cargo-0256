@@ -10,3 +10,6 @@
 - pkg:cargo/watchexec-supervisor@5.0.2
 - pkg:cargo/watchexec-supervisor@5.1.0
 - pkg:cargo/watchexec-supervisor@5.2.0
+- pkg:cargo/watchexec-supervisor@5.3.0
+- pkg:cargo/watchexec-supervisor@5.3.1
+- pkg:cargo/watchexec-supervisor@5.4.0
