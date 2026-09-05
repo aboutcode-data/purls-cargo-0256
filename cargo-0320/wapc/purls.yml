@@ -24,3 +24,4 @@
 - pkg:cargo/wapc@1.1.0
 - pkg:cargo/wapc@2.0.0
 - pkg:cargo/wapc@2.1.0
+- pkg:cargo/wapc@2.2.0
