@@ -19,3 +19,4 @@
 - pkg:cargo/wasmi_runtime_layer@0.50.0
 - pkg:cargo/wasmi_runtime_layer@0.51.0
 - pkg:cargo/wasmi_runtime_layer@1.0.0
+- pkg:cargo/wasmi_runtime_layer@2.0.0
