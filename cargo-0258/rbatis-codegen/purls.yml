@@ -34,6 +34,7 @@
 - pkg:cargo/rbatis-codegen@4.0.8
 - pkg:cargo/rbatis-codegen@4.0.9
 - pkg:cargo/rbatis-codegen@4.1.0
+- pkg:cargo/rbatis-codegen@4.10.0
 - pkg:cargo/rbatis-codegen@4.2.0
 - pkg:cargo/rbatis-codegen@4.3.0
 - pkg:cargo/rbatis-codegen@4.3.1
@@ -87,3 +88,5 @@
 - pkg:cargo/rbatis-codegen@4.8.0
 - pkg:cargo/rbatis-codegen@4.8.1
 - pkg:cargo/rbatis-codegen@4.9.0
+- pkg:cargo/rbatis-codegen@4.9.1
+- pkg:cargo/rbatis-codegen@4.9.2
