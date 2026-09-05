@@ -1,3 +1,4 @@
 - pkg:cargo/waapi-rs@0.2.0
 - pkg:cargo/waapi-rs@0.2.1
 - pkg:cargo/waapi-rs@0.2.2
+- pkg:cargo/waapi-rs@0.3.0
