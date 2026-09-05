@@ -8,6 +8,7 @@
 - pkg:cargo/brokk-bifrost-mcp@0.10.7
 - pkg:cargo/brokk-bifrost-mcp@0.10.8
 - pkg:cargo/brokk-bifrost-mcp@0.10.9
+- pkg:cargo/brokk-bifrost-mcp@0.11.0
 - pkg:cargo/brokk-bifrost-mcp@0.8.15
 - pkg:cargo/brokk-bifrost-mcp@0.8.16
 - pkg:cargo/brokk-bifrost-mcp@0.8.17
