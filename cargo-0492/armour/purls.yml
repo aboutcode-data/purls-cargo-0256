@@ -144,6 +144,7 @@
 - pkg:cargo/armour@0.30.7
 - pkg:cargo/armour@0.30.8
 - pkg:cargo/armour@0.31.0
+- pkg:cargo/armour@0.32.0
 - pkg:cargo/armour@0.4.0
 - pkg:cargo/armour@0.4.1
 - pkg:cargo/armour@0.4.2
