@@ -5,6 +5,7 @@
 - pkg:cargo/ws2tcp-local@0.1.12
 - pkg:cargo/ws2tcp-local@0.1.13
 - pkg:cargo/ws2tcp-local@0.1.14
+- pkg:cargo/ws2tcp-local@0.1.15
 - pkg:cargo/ws2tcp-local@0.1.2
 - pkg:cargo/ws2tcp-local@0.1.3
 - pkg:cargo/ws2tcp-local@0.1.4
