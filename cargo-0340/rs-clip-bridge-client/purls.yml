@@ -5,3 +5,5 @@
 - pkg:cargo/rs-clip-bridge-client@0.1.4
 - pkg:cargo/rs-clip-bridge-client@0.1.5
 - pkg:cargo/rs-clip-bridge-client@0.1.6
+- pkg:cargo/rs-clip-bridge-client@0.2.0
+- pkg:cargo/rs-clip-bridge-client@0.2.1
