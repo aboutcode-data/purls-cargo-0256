@@ -1,4 +1,6 @@
 - pkg:cargo/melodium-repository@0.10.0
+- pkg:cargo/melodium-repository@0.10.1
+- pkg:cargo/melodium-repository@0.10.2
 - pkg:cargo/melodium-repository@0.7.0
 - pkg:cargo/melodium-repository@0.7.0-rc1
 - pkg:cargo/melodium-repository@0.7.1

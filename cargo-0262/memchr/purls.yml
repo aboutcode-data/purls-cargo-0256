@@ -42,3 +42,6 @@
 - pkg:cargo/memchr@2.7.5
 - pkg:cargo/memchr@2.7.6
 - pkg:cargo/memchr@2.8.0
+- pkg:cargo/memchr@2.8.1
+- pkg:cargo/memchr@2.8.2
+- pkg:cargo/memchr@2.8.3
