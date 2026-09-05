@@ -111,6 +111,7 @@
 - pkg:cargo/wayland-protocols@0.32.10
 - pkg:cargo/wayland-protocols@0.32.11
 - pkg:cargo/wayland-protocols@0.32.12
+- pkg:cargo/wayland-protocols@0.32.13
 - pkg:cargo/wayland-protocols@0.32.2
 - pkg:cargo/wayland-protocols@0.32.3
 - pkg:cargo/wayland-protocols@0.32.4
