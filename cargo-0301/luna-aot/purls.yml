@@ -7,6 +7,8 @@
 - pkg:cargo/luna-aot@2.14.0
 - pkg:cargo/luna-aot@2.15.0
 - pkg:cargo/luna-aot@2.16.0
+- pkg:cargo/luna-aot@2.17.0
+- pkg:cargo/luna-aot@2.18.0
 - pkg:cargo/luna-aot@2.2.0
 - pkg:cargo/luna-aot@2.3.0
 - pkg:cargo/luna-aot@2.4.0
@@ -15,3 +17,4 @@
 - pkg:cargo/luna-aot@2.7.0
 - pkg:cargo/luna-aot@2.8.0
 - pkg:cargo/luna-aot@2.9.0
+- pkg:cargo/luna-aot@3.0.0
