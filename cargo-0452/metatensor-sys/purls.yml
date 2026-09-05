@@ -17,3 +17,7 @@
 - pkg:cargo/metatensor-sys@0.2.0
 - pkg:cargo/metatensor-sys@0.2.0-rc3
 - pkg:cargo/metatensor-sys@0.2.0-rc4
+- pkg:cargo/metatensor-sys@0.2.1
+- pkg:cargo/metatensor-sys@0.2.2
+- pkg:cargo/metatensor-sys@0.2.3
+- pkg:cargo/metatensor-sys@0.2.4
