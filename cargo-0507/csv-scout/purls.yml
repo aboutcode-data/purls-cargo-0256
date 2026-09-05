@@ -1,5 +1,6 @@
 - pkg:cargo/csv-scout@0.0.10
 - pkg:cargo/csv-scout@0.0.11
+- pkg:cargo/csv-scout@0.0.12
 - pkg:cargo/csv-scout@0.0.2
 - pkg:cargo/csv-scout@0.0.3
 - pkg:cargo/csv-scout@0.0.4
