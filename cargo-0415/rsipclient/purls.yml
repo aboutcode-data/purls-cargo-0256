@@ -1,0 +1,5 @@
+- pkg:cargo/rsipclient@2.4.0
+- pkg:cargo/rsipclient@2.5.0
+- pkg:cargo/rsipclient@2.5.1
+- pkg:cargo/rsipclient@2.5.2
+- pkg:cargo/rsipclient@2.6.0
