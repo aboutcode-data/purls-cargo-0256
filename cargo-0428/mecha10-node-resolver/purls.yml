@@ -1,3 +1,5 @@
 - pkg:cargo/mecha10-node-resolver@0.1.44
 - pkg:cargo/mecha10-node-resolver@0.1.47
 - pkg:cargo/mecha10-node-resolver@0.1.48
+- pkg:cargo/mecha10-node-resolver@0.6.2
+- pkg:cargo/mecha10-node-resolver@0.6.3
