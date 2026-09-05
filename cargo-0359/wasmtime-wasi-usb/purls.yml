@@ -1,0 +1,6 @@
+- pkg:cargo/wasmtime-wasi-usb@44.0.0
+- pkg:cargo/wasmtime-wasi-usb@45.0.0
+- pkg:cargo/wasmtime-wasi-usb@46.0.0
+- pkg:cargo/wasmtime-wasi-usb@46.0.1
+- pkg:cargo/wasmtime-wasi-usb@47.0.0
+- pkg:cargo/wasmtime-wasi-usb@48.0.0
