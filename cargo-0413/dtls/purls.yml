@@ -3,3 +3,4 @@
 - pkg:cargo/dtls@0.13.0
 - pkg:cargo/dtls@0.17.0
 - pkg:cargo/dtls@0.17.1
+- pkg:cargo/dtls@0.17.2
