@@ -10,3 +10,4 @@
 - pkg:cargo/wasmsh-ast@0.6.2
 - pkg:cargo/wasmsh-ast@0.6.3
 - pkg:cargo/wasmsh-ast@0.7.0
+- pkg:cargo/wasmsh-ast@0.8.0
