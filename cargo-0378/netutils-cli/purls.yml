@@ -25,3 +25,4 @@
 - pkg:cargo/netutils-cli@0.3.7
 - pkg:cargo/netutils-cli@0.3.8
 - pkg:cargo/netutils-cli@0.3.9
+- pkg:cargo/netutils-cli@0.5.0
