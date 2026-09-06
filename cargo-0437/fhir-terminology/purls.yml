@@ -5,3 +5,4 @@
 - pkg:cargo/fhir-terminology@0.1.33
 - pkg:cargo/fhir-terminology@0.1.37
 - pkg:cargo/fhir-terminology@0.1.43
+- pkg:cargo/fhir-terminology@0.1.65
