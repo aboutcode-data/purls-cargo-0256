@@ -10,3 +10,4 @@
 - pkg:cargo/bit-string@0.4.4
 - pkg:cargo/bit-string@0.4.5
 - pkg:cargo/bit-string@0.5.0
+- pkg:cargo/bit-string@0.6.0
