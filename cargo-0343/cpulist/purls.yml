@@ -30,3 +30,4 @@
 - pkg:cargo/cpulist@1.1.6
 - pkg:cargo/cpulist@1.1.7
 - pkg:cargo/cpulist@1.1.8
+- pkg:cargo/cpulist@1.1.9
