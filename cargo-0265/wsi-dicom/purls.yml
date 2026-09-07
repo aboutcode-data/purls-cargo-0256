@@ -13,3 +13,4 @@
 - pkg:cargo/wsi-dicom@0.7.0
 - pkg:cargo/wsi-dicom@0.7.3
 - pkg:cargo/wsi-dicom@0.7.4
+- pkg:cargo/wsi-dicom@0.7.5
