@@ -1,2 +1,3 @@
 - pkg:cargo/geokernel-sys@1.5.22
 - pkg:cargo/geokernel-sys@1.5.23
+- pkg:cargo/geokernel-sys@1.5.24
