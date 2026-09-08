@@ -10,3 +10,4 @@
 - pkg:cargo/garage_net@2.1.0
 - pkg:cargo/garage_net@2.3.0
 - pkg:cargo/garage_net@2.4.0
+- pkg:cargo/garage_net@2.4.1
