@@ -14,3 +14,4 @@
 - pkg:cargo/tui-lipan-macro@0.7.3
 - pkg:cargo/tui-lipan-macro@0.7.4
 - pkg:cargo/tui-lipan-macro@0.8.0
+- pkg:cargo/tui-lipan-macro@0.9.0
