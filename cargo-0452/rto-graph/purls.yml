@@ -84,3 +84,4 @@
 - pkg:cargo/rto-graph@5.7.0
 - pkg:cargo/rto-graph@5.8.0
 - pkg:cargo/rto-graph@5.8.1
+- pkg:cargo/rto-graph@5.9.0
