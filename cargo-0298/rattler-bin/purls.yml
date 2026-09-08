@@ -31,3 +31,4 @@
 - pkg:cargo/rattler-bin@0.2.7
 - pkg:cargo/rattler-bin@0.2.8
 - pkg:cargo/rattler-bin@0.2.9
+- pkg:cargo/rattler-bin@0.3.0
