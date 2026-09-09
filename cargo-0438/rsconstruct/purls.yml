@@ -113,5 +113,7 @@
 - pkg:cargo/rsconstruct@0.9.76
 - pkg:cargo/rsconstruct@0.9.77
 - pkg:cargo/rsconstruct@0.9.78
+- pkg:cargo/rsconstruct@0.9.79
 - pkg:cargo/rsconstruct@0.9.8
+- pkg:cargo/rsconstruct@0.9.80
 - pkg:cargo/rsconstruct@0.9.9
