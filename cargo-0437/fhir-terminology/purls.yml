@@ -8,3 +8,4 @@
 - pkg:cargo/fhir-terminology@0.1.65
 - pkg:cargo/fhir-terminology@0.1.84
 - pkg:cargo/fhir-terminology@0.1.85
+- pkg:cargo/fhir-terminology@0.1.92
