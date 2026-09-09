@@ -39,6 +39,9 @@
 - pkg:cargo/memra-validate@0.132.0
 - pkg:cargo/memra-validate@0.133.0
 - pkg:cargo/memra-validate@0.134.0
+- pkg:cargo/memra-validate@0.135.0
+- pkg:cargo/memra-validate@0.136.0
+- pkg:cargo/memra-validate@0.137.0
 - pkg:cargo/memra-validate@0.69.0
 - pkg:cargo/memra-validate@0.70.0
 - pkg:cargo/memra-validate@0.71.0
