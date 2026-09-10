@@ -38,6 +38,7 @@
 - pkg:cargo/geyserlite@0.5.23
 - pkg:cargo/geyserlite@0.5.24
 - pkg:cargo/geyserlite@0.5.26
+- pkg:cargo/geyserlite@0.5.27
 - pkg:cargo/geyserlite@0.5.3
 - pkg:cargo/geyserlite@0.5.4
 - pkg:cargo/geyserlite@0.5.6
