@@ -18,3 +18,4 @@
 - pkg:cargo/benzina-derive@0.5.3
 - pkg:cargo/benzina-derive@0.5.4
 - pkg:cargo/benzina-derive@0.5.5
+- pkg:cargo/benzina-derive@0.5.6
