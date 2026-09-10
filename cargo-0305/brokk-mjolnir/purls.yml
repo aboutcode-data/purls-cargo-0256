@@ -92,3 +92,4 @@
 - pkg:cargo/brokk-mjolnir@2.4.0
 - pkg:cargo/brokk-mjolnir@2.5.0
 - pkg:cargo/brokk-mjolnir@2.6.0
+- pkg:cargo/brokk-mjolnir@2.6.1
