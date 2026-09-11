@@ -7,3 +7,4 @@
 - pkg:cargo/geoarrow-cast@0.6.2
 - pkg:cargo/geoarrow-cast@0.7.0
 - pkg:cargo/geoarrow-cast@0.8.0
+- pkg:cargo/geoarrow-cast@0.9.0
