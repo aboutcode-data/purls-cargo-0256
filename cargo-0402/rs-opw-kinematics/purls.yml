@@ -45,3 +45,4 @@
 - pkg:cargo/rs-opw-kinematics@2.0.1
 - pkg:cargo/rs-opw-kinematics@2.0.2
 - pkg:cargo/rs-opw-kinematics@2.0.3
+- pkg:cargo/rs-opw-kinematics@3.0.0
