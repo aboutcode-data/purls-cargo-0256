@@ -153,6 +153,7 @@
 - pkg:cargo/rsipstack@0.5.9
 - pkg:cargo/rsipstack@0.6.0
 - pkg:cargo/rsipstack@0.6.1
+- pkg:cargo/rsipstack@0.6.10
 - pkg:cargo/rsipstack@0.6.2
 - pkg:cargo/rsipstack@0.6.3
 - pkg:cargo/rsipstack@0.6.4
