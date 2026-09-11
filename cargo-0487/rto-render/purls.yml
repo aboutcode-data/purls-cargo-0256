@@ -79,6 +79,7 @@
 - pkg:cargo/rto-render@5.10.0
 - pkg:cargo/rto-render@5.10.1
 - pkg:cargo/rto-render@5.10.2
+- pkg:cargo/rto-render@5.11.0
 - pkg:cargo/rto-render@5.2.0
 - pkg:cargo/rto-render@5.3.0
 - pkg:cargo/rto-render@5.4.0
