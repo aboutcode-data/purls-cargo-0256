@@ -2,6 +2,8 @@
 - pkg:cargo/rapidstr2int@1.0.1
 - pkg:cargo/rapidstr2int@1.0.10
 - pkg:cargo/rapidstr2int@1.0.11
+- pkg:cargo/rapidstr2int@1.0.12
+- pkg:cargo/rapidstr2int@1.0.14
 - pkg:cargo/rapidstr2int@1.0.2
 - pkg:cargo/rapidstr2int@1.0.4
 - pkg:cargo/rapidstr2int@1.0.5
