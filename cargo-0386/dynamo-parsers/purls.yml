@@ -57,3 +57,4 @@
 - pkg:cargo/dynamo-parsers@8.2.0
 - pkg:cargo/dynamo-parsers@8.2.1
 - pkg:cargo/dynamo-parsers@8.2.2
+- pkg:cargo/dynamo-parsers@9.0.0
