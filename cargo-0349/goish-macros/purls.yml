@@ -3,6 +3,7 @@
 - pkg:cargo/goish-macros@0.6.0
 - pkg:cargo/goish-macros@1.0.0-alpha.10
 - pkg:cargo/goish-macros@1.0.0-alpha.11
+- pkg:cargo/goish-macros@1.0.0-alpha.12
 - pkg:cargo/goish-macros@1.0.0-alpha.5
 - pkg:cargo/goish-macros@1.0.0-alpha.6
 - pkg:cargo/goish-macros@1.0.0-alpha.7
