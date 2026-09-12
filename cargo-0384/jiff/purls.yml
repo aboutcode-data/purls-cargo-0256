@@ -59,6 +59,8 @@
 - pkg:cargo/jiff@0.2.33
 - pkg:cargo/jiff@0.2.34
 - pkg:cargo/jiff@0.2.35
+- pkg:cargo/jiff@0.2.36
+- pkg:cargo/jiff@0.2.37
 - pkg:cargo/jiff@0.2.4
 - pkg:cargo/jiff@0.2.5
 - pkg:cargo/jiff@0.2.6
