@@ -1,2 +1,4 @@
 - pkg:cargo/brokk-anvil-client@0.28.1
 - pkg:cargo/brokk-anvil-client@0.28.2
+- pkg:cargo/brokk-anvil-client@0.28.3
+- pkg:cargo/brokk-anvil-client@0.28.4
