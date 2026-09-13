@@ -4,3 +4,4 @@
 - pkg:cargo/memcordon-windows-launch-core@0.5.2-rc.22
 - pkg:cargo/memcordon-windows-launch-core@0.5.2-rc.23
 - pkg:cargo/memcordon-windows-launch-core@0.5.3-rc.4
+- pkg:cargo/memcordon-windows-launch-core@0.5.4-rc.1
