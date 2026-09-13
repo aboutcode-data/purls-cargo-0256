@@ -44,3 +44,5 @@
 - pkg:cargo/nedb-engine@4.1.0
 - pkg:cargo/nedb-engine@4.1.1
 - pkg:cargo/nedb-engine@4.2.0
+- pkg:cargo/nedb-engine@4.3.0
+- pkg:cargo/nedb-engine@4.3.1
