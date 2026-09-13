@@ -63,3 +63,4 @@
 - pkg:cargo/endpoint-libs@2.1.4
 - pkg:cargo/endpoint-libs@2.1.5
 - pkg:cargo/endpoint-libs@3.0.0
+- pkg:cargo/endpoint-libs@3.0.3
