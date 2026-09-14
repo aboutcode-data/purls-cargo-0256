@@ -17,3 +17,5 @@
 - pkg:cargo/sqeel-core@0.4.7
 - pkg:cargo/sqeel-core@0.4.8
 - pkg:cargo/sqeel-core@0.4.9
+- pkg:cargo/sqeel-core@0.5.0
+- pkg:cargo/sqeel-core@0.6.0
