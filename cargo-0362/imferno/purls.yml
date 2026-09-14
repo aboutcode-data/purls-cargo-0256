@@ -15,3 +15,5 @@
 - pkg:cargo/imferno@2.3.0
 - pkg:cargo/imferno@2.4.0
 - pkg:cargo/imferno@2.4.1
+- pkg:cargo/imferno@3.0.0
+- pkg:cargo/imferno@3.0.1
