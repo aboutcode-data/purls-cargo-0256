@@ -9,3 +9,10 @@
 - pkg:cargo/uv-sbom@2.1.0
 - pkg:cargo/uv-sbom@2.2.0
 - pkg:cargo/uv-sbom@2.3.0
+- pkg:cargo/uv-sbom@2.4.0
+- pkg:cargo/uv-sbom@2.5.0
+- pkg:cargo/uv-sbom@2.6.0
+- pkg:cargo/uv-sbom@2.7.0
+- pkg:cargo/uv-sbom@2.8.0
+- pkg:cargo/uv-sbom@2.8.1
+- pkg:cargo/uv-sbom@3.0.0
