@@ -14,3 +14,4 @@
 - pkg:cargo/tsoracle-driver-paxos@2.0.1
 - pkg:cargo/tsoracle-driver-paxos@2.0.2
 - pkg:cargo/tsoracle-driver-paxos@2.0.3
+- pkg:cargo/tsoracle-driver-paxos@2.0.4
