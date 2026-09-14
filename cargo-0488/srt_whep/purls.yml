@@ -10,3 +10,6 @@
 - pkg:cargo/srt_whep@1.2.6
 - pkg:cargo/srt_whep@1.2.8
 - pkg:cargo/srt_whep@1.3.0
+- pkg:cargo/srt_whep@2.0.0
+- pkg:cargo/srt_whep@2.1.0
+- pkg:cargo/srt_whep@2.1.1
