@@ -1,1 +1,2 @@
 - pkg:cargo/qrcode-render@2.0.0
+- pkg:cargo/qrcode-render@2.1.0
