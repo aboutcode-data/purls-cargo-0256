@@ -5,3 +5,5 @@
 - pkg:cargo/srtm_reader@0.4.2
 - pkg:cargo/srtm_reader@0.5.0
 - pkg:cargo/srtm_reader@0.5.1
+- pkg:cargo/srtm_reader@0.5.2
+- pkg:cargo/srtm_reader@0.5.3

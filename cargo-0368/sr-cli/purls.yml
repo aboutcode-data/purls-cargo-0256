@@ -65,3 +65,6 @@
 - pkg:cargo/sr-cli@8.0.6
 - pkg:cargo/sr-cli@8.0.7
 - pkg:cargo/sr-cli@8.0.8
+- pkg:cargo/sr-cli@8.0.9
+- pkg:cargo/sr-cli@8.1.0
+- pkg:cargo/sr-cli@9.0.0
