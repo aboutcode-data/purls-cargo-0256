@@ -1,0 +1,3 @@
+- pkg:cargo/purrdf-text@0.0.0-bootstrap
+- pkg:cargo/purrdf-text@1.0.0
+- pkg:cargo/purrdf-text@1.1.0
