@@ -1,1 +1,2 @@
 - pkg:cargo/sqlx-pool-router@0.2.0
+- pkg:cargo/sqlx-pool-router@1.0.0
