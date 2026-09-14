@@ -1,2 +1,6 @@
 - pkg:cargo/eventbus-kit@0.1.0
 - pkg:cargo/eventbus-kit@0.2.0
+- pkg:cargo/eventbus-kit@0.3.0
+- pkg:cargo/eventbus-kit@0.3.1
+- pkg:cargo/eventbus-kit@0.3.4
+- pkg:cargo/eventbus-kit@0.3.5

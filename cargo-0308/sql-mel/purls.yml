@@ -1,4 +1,7 @@
 - pkg:cargo/sql-mel@0.10.0
+- pkg:cargo/sql-mel@0.10.1
+- pkg:cargo/sql-mel@0.10.2
+- pkg:cargo/sql-mel@0.10.3
 - pkg:cargo/sql-mel@0.8.0
 - pkg:cargo/sql-mel@0.8.0-rc1
 - pkg:cargo/sql-mel@0.8.0-rc2
