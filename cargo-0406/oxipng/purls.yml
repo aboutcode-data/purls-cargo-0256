@@ -45,6 +45,8 @@
 - pkg:cargo/oxipng@10.0.0
 - pkg:cargo/oxipng@10.1.0
 - pkg:cargo/oxipng@10.1.1
+- pkg:cargo/oxipng@10.2.0
+- pkg:cargo/oxipng@10.2.1
 - pkg:cargo/oxipng@2.0.0
 - pkg:cargo/oxipng@2.0.1
 - pkg:cargo/oxipng@2.0.2
