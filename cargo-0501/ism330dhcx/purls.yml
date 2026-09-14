@@ -8,3 +8,5 @@
 - pkg:cargo/ism330dhcx@0.5.1
 - pkg:cargo/ism330dhcx@0.5.2
 - pkg:cargo/ism330dhcx@0.6.0
+- pkg:cargo/ism330dhcx@0.7.0
+- pkg:cargo/ism330dhcx@0.7.1
