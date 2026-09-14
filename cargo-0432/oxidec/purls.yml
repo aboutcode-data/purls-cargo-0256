@@ -10,3 +10,4 @@
 - pkg:cargo/oxidec@0.3.4
 - pkg:cargo/oxidec@0.3.5
 - pkg:cargo/oxidec@0.3.6
+- pkg:cargo/oxidec@2.0.0
