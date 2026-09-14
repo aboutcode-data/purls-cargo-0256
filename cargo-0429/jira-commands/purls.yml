@@ -72,6 +72,7 @@
 - pkg:cargo/jira-commands@1.8.1
 - pkg:cargo/jira-commands@2.0.0
 - pkg:cargo/jira-commands@2.1.0
+- pkg:cargo/jira-commands@2.10.0
 - pkg:cargo/jira-commands@2.2.0
 - pkg:cargo/jira-commands@2.3.0
 - pkg:cargo/jira-commands@2.3.1
