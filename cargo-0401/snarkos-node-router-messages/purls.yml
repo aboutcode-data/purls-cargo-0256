@@ -19,6 +19,7 @@
 - pkg:cargo/snarkos-node-router-messages@4.0.0
 - pkg:cargo/snarkos-node-router-messages@4.0.1
 - pkg:cargo/snarkos-node-router-messages@4.1.0
+- pkg:cargo/snarkos-node-router-messages@4.10.0
 - pkg:cargo/snarkos-node-router-messages@4.2.0
 - pkg:cargo/snarkos-node-router-messages@4.2.1
 - pkg:cargo/snarkos-node-router-messages@4.2.2
