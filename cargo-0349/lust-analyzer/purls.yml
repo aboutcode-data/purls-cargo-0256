@@ -25,3 +25,4 @@
 - pkg:cargo/lust-analyzer@0.4.30
 - pkg:cargo/lust-analyzer@0.5.1
 - pkg:cargo/lust-analyzer@0.6.1
+- pkg:cargo/lust-analyzer@0.6.2
