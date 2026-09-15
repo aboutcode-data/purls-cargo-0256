@@ -55,6 +55,7 @@
 - pkg:cargo/snarkvm-synthesizer-snark@3.8.0
 - pkg:cargo/snarkvm-synthesizer-snark@4.0.0
 - pkg:cargo/snarkvm-synthesizer-snark@4.1.0
+- pkg:cargo/snarkvm-synthesizer-snark@4.10.0
 - pkg:cargo/snarkvm-synthesizer-snark@4.2.0
 - pkg:cargo/snarkvm-synthesizer-snark@4.2.1
 - pkg:cargo/snarkvm-synthesizer-snark@4.3.0
