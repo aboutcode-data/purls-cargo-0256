@@ -4,3 +4,6 @@
 - pkg:cargo/purrdf-datalog@0.13.0
 - pkg:cargo/purrdf-datalog@1.0.0
 - pkg:cargo/purrdf-datalog@1.1.0
+- pkg:cargo/purrdf-datalog@2.0.0
+- pkg:cargo/purrdf-datalog@2.0.1
+- pkg:cargo/purrdf-datalog@2.0.2

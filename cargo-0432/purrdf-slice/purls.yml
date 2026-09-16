@@ -25,3 +25,6 @@
 - pkg:cargo/purrdf-slice@0.9.0
 - pkg:cargo/purrdf-slice@1.0.0
 - pkg:cargo/purrdf-slice@1.1.0
+- pkg:cargo/purrdf-slice@2.0.0
+- pkg:cargo/purrdf-slice@2.0.1
+- pkg:cargo/purrdf-slice@2.0.2
