@@ -8,3 +8,5 @@
 - pkg:cargo/iroh-ping@0.7.0
 - pkg:cargo/iroh-ping@0.8.0
 - pkg:cargo/iroh-ping@0.9.0
+- pkg:cargo/iroh-ping@1.0.0
+- pkg:cargo/iroh-ping@1.0.0-rc.1
