@@ -3,4 +3,5 @@
 - pkg:cargo/cdk-nwc@0.17.4
 - pkg:cargo/cdk-nwc@0.17.5
 - pkg:cargo/cdk-nwc@0.17.6
+- pkg:cargo/cdk-nwc@0.17.7
 - pkg:cargo/cdk-nwc@0.18.0-rc.0
