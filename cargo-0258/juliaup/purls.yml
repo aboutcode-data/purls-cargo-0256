@@ -37,3 +37,4 @@
 - pkg:cargo/juliaup@1.21.0
 - pkg:cargo/juliaup@1.22.2
 - pkg:cargo/juliaup@1.22.3
+- pkg:cargo/juliaup@1.22.7
