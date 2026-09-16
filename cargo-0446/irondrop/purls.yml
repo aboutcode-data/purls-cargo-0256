@@ -1,3 +1,5 @@
 - pkg:cargo/irondrop@2.6.4
 - pkg:cargo/irondrop@2.6.5
 - pkg:cargo/irondrop@2.7.0
+- pkg:cargo/irondrop@2.7.2
+- pkg:cargo/irondrop@2.7.5
