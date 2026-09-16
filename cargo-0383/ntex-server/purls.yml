@@ -51,3 +51,4 @@
 - pkg:cargo/ntex-server@4.0.0-beta.4
 - pkg:cargo/ntex-server@4.0.0-beta.5
 - pkg:cargo/ntex-server@4.0.0-beta.6
+- pkg:cargo/ntex-server@4.1.0
