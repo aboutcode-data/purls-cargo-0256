@@ -5,3 +5,4 @@
 - pkg:cargo/gommage-cli@0.50.0-beta.1
 - pkg:cargo/gommage-cli@0.51.0-beta.1
 - pkg:cargo/gommage-cli@0.51.1-beta.1
+- pkg:cargo/gommage-cli@0.52.0-beta.1
