@@ -7,3 +7,4 @@
 - pkg:cargo/armature-ratelimit@0.3.0
 - pkg:cargo/armature-ratelimit@0.3.1
 - pkg:cargo/armature-ratelimit@0.4.0
+- pkg:cargo/armature-ratelimit@0.5.0
