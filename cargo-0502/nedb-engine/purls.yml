@@ -1,3 +1,5 @@
+- pkg:cargo/nedb-engine@10.30.90
+- pkg:cargo/nedb-engine@10.30.91
 - pkg:cargo/nedb-engine@2.2.29
 - pkg:cargo/nedb-engine@2.2.31
 - pkg:cargo/nedb-engine@2.2.32
@@ -55,3 +57,7 @@
 - pkg:cargo/nedb-engine@7.2.0
 - pkg:cargo/nedb-engine@8.0.0
 - pkg:cargo/nedb-engine@8.8.8
+- pkg:cargo/nedb-engine@8.8.9
+- pkg:cargo/nedb-engine@9.0.0
+- pkg:cargo/nedb-engine@9.0.1
+- pkg:cargo/nedb-engine@9.0.2
