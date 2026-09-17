@@ -1,5 +1,7 @@
 - pkg:cargo/nedb-engine@10.30.90
 - pkg:cargo/nedb-engine@10.30.91
+- pkg:cargo/nedb-engine@10.30.92
+- pkg:cargo/nedb-engine@10.30.93
 - pkg:cargo/nedb-engine@2.2.29
 - pkg:cargo/nedb-engine@2.2.31
 - pkg:cargo/nedb-engine@2.2.32
