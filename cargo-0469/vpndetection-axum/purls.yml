@@ -1,3 +1,4 @@
 - pkg:cargo/vpndetection-axum@1.0.0
 - pkg:cargo/vpndetection-axum@2.0.0
 - pkg:cargo/vpndetection-axum@3.0.0
+- pkg:cargo/vpndetection-axum@3.0.1
