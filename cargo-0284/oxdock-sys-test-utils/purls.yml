@@ -4,6 +4,7 @@
 - pkg:cargo/oxdock-sys-test-utils@0.13.0-alpha
 - pkg:cargo/oxdock-sys-test-utils@0.14.0-alpha
 - pkg:cargo/oxdock-sys-test-utils@0.14.1-alpha
+- pkg:cargo/oxdock-sys-test-utils@0.15.0-alpha
 - pkg:cargo/oxdock-sys-test-utils@0.6.0-alpha
 - pkg:cargo/oxdock-sys-test-utils@0.7.0-alpha
 - pkg:cargo/oxdock-sys-test-utils@0.8.0-alpha
