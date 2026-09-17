@@ -18,6 +18,7 @@
 - pkg:cargo/wsio-core@0.12.9
 - pkg:cargo/wsio-core@0.13.0
 - pkg:cargo/wsio-core@0.13.1
+- pkg:cargo/wsio-core@0.14.0
 - pkg:cargo/wsio-core@0.2.0
 - pkg:cargo/wsio-core@0.3.0
 - pkg:cargo/wsio-core@0.3.1
