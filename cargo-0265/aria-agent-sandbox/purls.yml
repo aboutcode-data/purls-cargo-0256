@@ -6,6 +6,9 @@
 - pkg:cargo/aria-agent-sandbox@0.15.0
 - pkg:cargo/aria-agent-sandbox@0.16.0
 - pkg:cargo/aria-agent-sandbox@0.16.1
+- pkg:cargo/aria-agent-sandbox@0.17.0
+- pkg:cargo/aria-agent-sandbox@0.17.1
+- pkg:cargo/aria-agent-sandbox@0.18.0
 - pkg:cargo/aria-agent-sandbox@0.2.0
 - pkg:cargo/aria-agent-sandbox@0.3.0
 - pkg:cargo/aria-agent-sandbox@0.4.0
