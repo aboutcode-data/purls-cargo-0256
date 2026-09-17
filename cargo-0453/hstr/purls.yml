@@ -40,3 +40,4 @@
 - pkg:cargo/hstr@3.0.6
 - pkg:cargo/hstr@4.0.0
 - pkg:cargo/hstr@4.0.1
+- pkg:cargo/hstr@4.0.2
