@@ -53,6 +53,7 @@
 - pkg:cargo/aws-sdk-migrationhubrefactorspaces@1.109.0
 - pkg:cargo/aws-sdk-migrationhubrefactorspaces@1.11.0
 - pkg:cargo/aws-sdk-migrationhubrefactorspaces@1.110.0
+- pkg:cargo/aws-sdk-migrationhubrefactorspaces@1.111.0
 - pkg:cargo/aws-sdk-migrationhubrefactorspaces@1.12.0
 - pkg:cargo/aws-sdk-migrationhubrefactorspaces@1.13.0
 - pkg:cargo/aws-sdk-migrationhubrefactorspaces@1.14.0
