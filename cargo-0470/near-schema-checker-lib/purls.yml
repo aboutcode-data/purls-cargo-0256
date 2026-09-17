@@ -49,3 +49,4 @@
 - pkg:cargo/near-schema-checker-lib@0.37.3
 - pkg:cargo/near-schema-checker-lib@0.37.4
 - pkg:cargo/near-schema-checker-lib@0.38.0-rc.1
+- pkg:cargo/near-schema-checker-lib@0.38.0-rc.2
