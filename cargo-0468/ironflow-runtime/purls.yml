@@ -72,6 +72,7 @@
 - pkg:cargo/ironflow-runtime@2.4.3
 - pkg:cargo/ironflow-runtime@2.4.30
 - pkg:cargo/ironflow-runtime@2.4.31
+- pkg:cargo/ironflow-runtime@2.4.32
 - pkg:cargo/ironflow-runtime@2.4.4
 - pkg:cargo/ironflow-runtime@2.4.5
 - pkg:cargo/ironflow-runtime@2.4.6

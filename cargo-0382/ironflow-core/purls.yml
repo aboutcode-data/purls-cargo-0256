@@ -46,6 +46,7 @@
 - pkg:cargo/ironflow-core@3.14.0
 - pkg:cargo/ironflow-core@3.15.0
 - pkg:cargo/ironflow-core@3.15.1
+- pkg:cargo/ironflow-core@3.16.0
 - pkg:cargo/ironflow-core@3.2.0
 - pkg:cargo/ironflow-core@3.3.0
 - pkg:cargo/ironflow-core@3.4.0
