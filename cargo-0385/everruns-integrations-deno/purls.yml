@@ -40,3 +40,6 @@
 - pkg:cargo/everruns-integrations-deno@0.19.1
 - pkg:cargo/everruns-integrations-deno@0.19.2
 - pkg:cargo/everruns-integrations-deno@0.19.3
+- pkg:cargo/everruns-integrations-deno@0.19.4
+- pkg:cargo/everruns-integrations-deno@0.19.5
+- pkg:cargo/everruns-integrations-deno@0.28.0
