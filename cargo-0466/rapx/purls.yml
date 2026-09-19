@@ -59,3 +59,6 @@
 - pkg:cargo/rapx@0.7.39
 - pkg:cargo/rapx@0.7.40
 - pkg:cargo/rapx@0.7.41
+- pkg:cargo/rapx@0.7.42
+- pkg:cargo/rapx@0.7.43
+- pkg:cargo/rapx@0.7.50
