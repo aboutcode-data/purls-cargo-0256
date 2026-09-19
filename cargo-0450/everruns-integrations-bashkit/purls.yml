@@ -8,3 +8,4 @@
 - pkg:cargo/everruns-integrations-bashkit@0.18.7
 - pkg:cargo/everruns-integrations-bashkit@0.18.8
 - pkg:cargo/everruns-integrations-bashkit@0.28.0
+- pkg:cargo/everruns-integrations-bashkit@0.29.0
