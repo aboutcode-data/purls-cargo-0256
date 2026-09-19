@@ -1,1 +1,2 @@
 - pkg:cargo/biome_lsp_converters@0.1.0
+- pkg:cargo/biome_lsp_converters@0.7.0
