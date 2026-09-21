@@ -98,3 +98,4 @@
 - pkg:cargo/rto-render@5.8.0
 - pkg:cargo/rto-render@5.8.1
 - pkg:cargo/rto-render@5.9.0
+- pkg:cargo/rto-render@6.0.1
