@@ -18,3 +18,4 @@
 - pkg:cargo/ws2tcp-local@0.1.6
 - pkg:cargo/ws2tcp-local@0.1.7
 - pkg:cargo/ws2tcp-local@0.2.0
+- pkg:cargo/ws2tcp-local@0.2.1
