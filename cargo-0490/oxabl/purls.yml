@@ -1,3 +1,5 @@
 - pkg:cargo/oxabl@0.3.1
 - pkg:cargo/oxabl@0.4.0
 - pkg:cargo/oxabl@1.1.1
+- pkg:cargo/oxabl@1.1.2
+- pkg:cargo/oxabl@1.1.3
