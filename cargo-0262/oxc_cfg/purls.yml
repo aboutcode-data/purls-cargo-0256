@@ -50,6 +50,7 @@
 - pkg:cargo/oxc_cfg@0.149.0
 - pkg:cargo/oxc_cfg@0.15.0
 - pkg:cargo/oxc_cfg@0.150.0
+- pkg:cargo/oxc_cfg@0.151.0
 - pkg:cargo/oxc_cfg@0.16.0
 - pkg:cargo/oxc_cfg@0.16.1
 - pkg:cargo/oxc_cfg@0.16.2
