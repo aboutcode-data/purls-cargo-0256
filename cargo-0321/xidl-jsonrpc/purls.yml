@@ -110,3 +110,4 @@
 - pkg:cargo/xidl-jsonrpc@0.92.1
 - pkg:cargo/xidl-jsonrpc@0.93.0
 - pkg:cargo/xidl-jsonrpc@0.93.1
+- pkg:cargo/xidl-jsonrpc@0.94.0
