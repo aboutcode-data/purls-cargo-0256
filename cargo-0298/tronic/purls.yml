@@ -12,3 +12,8 @@
 - pkg:cargo/tronic@0.5.2
 - pkg:cargo/tronic@0.5.3
 - pkg:cargo/tronic@0.5.4
+- pkg:cargo/tronic@0.5.5
+- pkg:cargo/tronic@0.5.6
+- pkg:cargo/tronic@0.5.7
+- pkg:cargo/tronic@0.6.0
+- pkg:cargo/tronic@0.6.1

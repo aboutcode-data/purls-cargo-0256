@@ -1,2 +1,3 @@
 - pkg:cargo/trybuild-internals-api@1.0.114
+- pkg:cargo/trybuild-internals-api@1.0.120
 - pkg:cargo/trybuild-internals-api@1.0.99
