@@ -44,3 +44,6 @@
 - pkg:cargo/i_shape@1.8.0
 - pkg:cargo/i_shape@1.9.0
 - pkg:cargo/i_shape@2.0.0
+- pkg:cargo/i_shape@3.0.0
+- pkg:cargo/i_shape@4.0.0
+- pkg:cargo/i_shape@5.0.0
