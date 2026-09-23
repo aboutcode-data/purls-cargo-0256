@@ -91,3 +91,12 @@
 - pkg:cargo/lindera-unidic@3.0.5
 - pkg:cargo/lindera-unidic@3.0.6
 - pkg:cargo/lindera-unidic@3.0.7
+- pkg:cargo/lindera-unidic@4.0.0
+- pkg:cargo/lindera-unidic@4.0.1
+- pkg:cargo/lindera-unidic@5.0.0
+- pkg:cargo/lindera-unidic@5.0.1
+- pkg:cargo/lindera-unidic@5.0.2
+- pkg:cargo/lindera-unidic@5.1.0
+- pkg:cargo/lindera-unidic@5.2.0
+- pkg:cargo/lindera-unidic@5.3.0
+- pkg:cargo/lindera-unidic@6.0.0
