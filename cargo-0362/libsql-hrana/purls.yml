@@ -1,5 +1,9 @@
 - pkg:cargo/libsql-hrana@0.1.0
 - pkg:cargo/libsql-hrana@0.1.1
+- pkg:cargo/libsql-hrana@0.10.0-pre.1
+- pkg:cargo/libsql-hrana@0.10.0-pre.2
+- pkg:cargo/libsql-hrana@0.10.0-pre.3
+- pkg:cargo/libsql-hrana@0.10.0-pre.4
 - pkg:cargo/libsql-hrana@0.2.0
 - pkg:cargo/libsql-hrana@0.9.0
 - pkg:cargo/libsql-hrana@0.9.1

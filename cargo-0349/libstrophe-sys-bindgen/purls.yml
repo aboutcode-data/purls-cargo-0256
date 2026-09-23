@@ -28,3 +28,4 @@
 - pkg:cargo/libstrophe-sys-bindgen@8.0.2
 - pkg:cargo/libstrophe-sys-bindgen@8.1.0
 - pkg:cargo/libstrophe-sys-bindgen@8.1.1
+- pkg:cargo/libstrophe-sys-bindgen@8.1.2
