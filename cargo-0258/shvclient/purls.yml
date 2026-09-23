@@ -13,6 +13,14 @@
 - pkg:cargo/shvclient@0.28.0
 - pkg:cargo/shvclient@1.0.0
 - pkg:cargo/shvclient@1.0.1
+- pkg:cargo/shvclient@10.0.0
+- pkg:cargo/shvclient@11.0.0
+- pkg:cargo/shvclient@11.0.1
+- pkg:cargo/shvclient@11.0.2
+- pkg:cargo/shvclient@11.0.3
+- pkg:cargo/shvclient@12.0.0
+- pkg:cargo/shvclient@12.0.1
+- pkg:cargo/shvclient@12.0.2
 - pkg:cargo/shvclient@2.0.0
 - pkg:cargo/shvclient@3.0.0
 - pkg:cargo/shvclient@3.0.1
@@ -46,3 +54,4 @@
 - pkg:cargo/shvclient@8.0.4
 - pkg:cargo/shvclient@9.0.0
 - pkg:cargo/shvclient@9.1.0
+- pkg:cargo/shvclient@9.1.1
