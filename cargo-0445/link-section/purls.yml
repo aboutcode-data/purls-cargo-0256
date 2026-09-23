@@ -19,5 +19,13 @@
 - pkg:cargo/link-section@0.17.0
 - pkg:cargo/link-section@0.17.1
 - pkg:cargo/link-section@0.17.2
+- pkg:cargo/link-section@0.18.0
+- pkg:cargo/link-section@0.18.1
+- pkg:cargo/link-section@0.18.2
+- pkg:cargo/link-section@0.18.3
+- pkg:cargo/link-section@0.19.0
+- pkg:cargo/link-section@0.19.1
+- pkg:cargo/link-section@0.19.2
+- pkg:cargo/link-section@0.19.3
 - pkg:cargo/link-section@0.2.0
 - pkg:cargo/link-section@0.2.1
