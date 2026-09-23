@@ -9,3 +9,6 @@
 - pkg:cargo/qp-rusty-crystals-dilithium@2.5.0
 - pkg:cargo/qp-rusty-crystals-dilithium@3.0.0
 - pkg:cargo/qp-rusty-crystals-dilithium@3.0.1
+- pkg:cargo/qp-rusty-crystals-dilithium@4.0.0
+- pkg:cargo/qp-rusty-crystals-dilithium@4.1.0
+- pkg:cargo/qp-rusty-crystals-dilithium@4.1.1

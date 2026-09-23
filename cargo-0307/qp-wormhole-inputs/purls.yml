@@ -16,3 +16,8 @@
 - pkg:cargo/qp-wormhole-inputs@2.0.1
 - pkg:cargo/qp-wormhole-inputs@3.0.0
 - pkg:cargo/qp-wormhole-inputs@3.1.0
+- pkg:cargo/qp-wormhole-inputs@4.0.0
+- pkg:cargo/qp-wormhole-inputs@4.1.0
+- pkg:cargo/qp-wormhole-inputs@4.2.0
+- pkg:cargo/qp-wormhole-inputs@4.3.0
+- pkg:cargo/qp-wormhole-inputs@4.4.0

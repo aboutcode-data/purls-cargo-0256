@@ -17,3 +17,5 @@
 - pkg:cargo/qp-plonky2-field@1.5.1
 - pkg:cargo/qp-plonky2-field@1.5.3
 - pkg:cargo/qp-plonky2-field@1.5.4
+- pkg:cargo/qp-plonky2-field@1.5.5
+- pkg:cargo/qp-plonky2-field@1.5.6
