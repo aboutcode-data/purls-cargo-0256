@@ -4,3 +4,4 @@
 - pkg:cargo/lightning-macros@0.2.0-rc1
 - pkg:cargo/lightning-macros@0.2.0-rc2
 - pkg:cargo/lightning-macros@0.2.1
+- pkg:cargo/lightning-macros@0.2.2%2Bgit
