@@ -1,4 +1,6 @@
 - pkg:cargo/krusty-kms-client@0.1.0
+- pkg:cargo/krusty-kms-client@0.10.0
+- pkg:cargo/krusty-kms-client@0.11.0
 - pkg:cargo/krusty-kms-client@0.2.0
 - pkg:cargo/krusty-kms-client@0.2.1
 - pkg:cargo/krusty-kms-client@0.2.2
@@ -12,3 +14,4 @@
 - pkg:cargo/krusty-kms-client@0.5.2
 - pkg:cargo/krusty-kms-client@0.5.4
 - pkg:cargo/krusty-kms-client@0.6.0
+- pkg:cargo/krusty-kms-client@0.7.0
