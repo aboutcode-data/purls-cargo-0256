@@ -2,3 +2,8 @@
 - pkg:cargo/tracel-rspirv@0.12.1%2Bsdk-1.4.341.0
 - pkg:cargo/tracel-rspirv@0.13.0%2Bsdk-1.4.341.0
 - pkg:cargo/tracel-rspirv@0.13.1%2Bsdk-1.4.350.0
+- pkg:cargo/tracel-rspirv@0.13.2%2Bsdk-1.4.357.0
+- pkg:cargo/tracel-rspirv@0.13.3%2Bsdk-1.4.357.0
+- pkg:cargo/tracel-rspirv@0.14.0%2Bsdk-1.4.357.0
+- pkg:cargo/tracel-rspirv@0.14.1%2Bsdk-1.4.357.0
+- pkg:cargo/tracel-rspirv@0.15.0%2Bsdk-1.4.357.0
