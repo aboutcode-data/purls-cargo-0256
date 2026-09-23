@@ -12,3 +12,4 @@
 - pkg:cargo/mdbook-nix-repl@0.5.7
 - pkg:cargo/mdbook-nix-repl@0.5.8
 - pkg:cargo/mdbook-nix-repl@0.6.8
+- pkg:cargo/mdbook-nix-repl@0.6.9
