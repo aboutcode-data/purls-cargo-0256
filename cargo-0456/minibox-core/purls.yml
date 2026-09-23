@@ -2,3 +2,7 @@
 - pkg:cargo/minibox-core@0.23.0
 - pkg:cargo/minibox-core@0.24.0
 - pkg:cargo/minibox-core@0.30.0
+- pkg:cargo/minibox-core@0.32.0
+- pkg:cargo/minibox-core@0.32.1
+- pkg:cargo/minibox-core@0.33.0
+- pkg:cargo/minibox-core@0.33.1
