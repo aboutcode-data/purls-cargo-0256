@@ -19,6 +19,8 @@
 - pkg:cargo/shors@0.12.5
 - pkg:cargo/shors@0.12.6
 - pkg:cargo/shors@0.13.0
+- pkg:cargo/shors@0.13.1
+- pkg:cargo/shors@0.13.2
 - pkg:cargo/shors@0.2.0
 - pkg:cargo/shors@0.3.0
 - pkg:cargo/shors@0.4.0
