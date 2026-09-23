@@ -30,3 +30,10 @@
 - pkg:cargo/tracing-opentelemetry-setup@0.7.8
 - pkg:cargo/tracing-opentelemetry-setup@0.7.9
 - pkg:cargo/tracing-opentelemetry-setup@0.8.0
+- pkg:cargo/tracing-opentelemetry-setup@0.8.1
+- pkg:cargo/tracing-opentelemetry-setup@0.8.2
+- pkg:cargo/tracing-opentelemetry-setup@0.8.3
+- pkg:cargo/tracing-opentelemetry-setup@0.8.4
+- pkg:cargo/tracing-opentelemetry-setup@0.8.5
+- pkg:cargo/tracing-opentelemetry-setup@0.8.6
+- pkg:cargo/tracing-opentelemetry-setup@0.8.7
