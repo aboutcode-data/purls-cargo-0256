@@ -1,1 +1,7 @@
 - pkg:cargo/elastik-core@7.2.0
+- pkg:cargo/elastik-core@8.0.0
+- pkg:cargo/elastik-core@8.0.1
+- pkg:cargo/elastik-core@8.1.0
+- pkg:cargo/elastik-core@8.2.0
+- pkg:cargo/elastik-core@8.2.1
+- pkg:cargo/elastik-core@8.3.0
