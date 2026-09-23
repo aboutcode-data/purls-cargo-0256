@@ -17,3 +17,6 @@
 - pkg:cargo/mimalloc-safe@0.1.62
 - pkg:cargo/mimalloc-safe@0.1.63
 - pkg:cargo/mimalloc-safe@0.1.64
+- pkg:cargo/mimalloc-safe@0.1.65
+- pkg:cargo/mimalloc-safe@0.1.66
+- pkg:cargo/mimalloc-safe@0.1.67
