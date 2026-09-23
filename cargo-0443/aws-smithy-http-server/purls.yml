@@ -76,3 +76,7 @@
 - pkg:cargo/aws-smithy-http-server@0.66.2
 - pkg:cargo/aws-smithy-http-server@0.66.3
 - pkg:cargo/aws-smithy-http-server@0.66.4
+- pkg:cargo/aws-smithy-http-server@0.66.5
+- pkg:cargo/aws-smithy-http-server@0.66.6
+- pkg:cargo/aws-smithy-http-server@0.67.0
+- pkg:cargo/aws-smithy-http-server@0.67.1
