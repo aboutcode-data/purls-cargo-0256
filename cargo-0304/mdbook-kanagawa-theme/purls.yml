@@ -24,3 +24,6 @@
 - pkg:cargo/mdbook-kanagawa-theme@1.1.5
 - pkg:cargo/mdbook-kanagawa-theme@1.2.3
 - pkg:cargo/mdbook-kanagawa-theme@1.2.4
+- pkg:cargo/mdbook-kanagawa-theme@1.2.6
+- pkg:cargo/mdbook-kanagawa-theme@1.2.7
+- pkg:cargo/mdbook-kanagawa-theme@1.3.0
