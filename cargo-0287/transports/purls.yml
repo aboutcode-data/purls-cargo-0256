@@ -1,1 +1,9 @@
 - pkg:cargo/transports@0.1.2
+- pkg:cargo/transports@0.3.0
+- pkg:cargo/transports@0.4.0
+- pkg:cargo/transports@0.6.0
+- pkg:cargo/transports@0.7.0
+- pkg:cargo/transports@0.8.0
+- pkg:cargo/transports@0.8.4
+- pkg:cargo/transports@0.8.5
+- pkg:cargo/transports@0.8.6
