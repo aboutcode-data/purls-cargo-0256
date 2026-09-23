@@ -20,6 +20,7 @@
 - pkg:cargo/libcprover_rust@6.0.1
 - pkg:cargo/libcprover_rust@6.1.0
 - pkg:cargo/libcprover_rust@6.1.1
+- pkg:cargo/libcprover_rust@6.10.0
 - pkg:cargo/libcprover_rust@6.2.0
 - pkg:cargo/libcprover_rust@6.3.0
 - pkg:cargo/libcprover_rust@6.3.1

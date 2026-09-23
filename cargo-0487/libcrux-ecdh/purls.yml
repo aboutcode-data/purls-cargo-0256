@@ -15,3 +15,5 @@
 - pkg:cargo/libcrux-ecdh@0.0.7
 - pkg:cargo/libcrux-ecdh@0.0.7-rc.1
 - pkg:cargo/libcrux-ecdh@0.0.7-rc.2
+- pkg:cargo/libcrux-ecdh@0.0.8
+- pkg:cargo/libcrux-ecdh@0.0.8-pre.1
