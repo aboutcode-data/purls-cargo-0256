@@ -6,3 +6,4 @@
 - pkg:cargo/bakunin_config@0.3.0
 - pkg:cargo/bakunin_config@1.0.0
 - pkg:cargo/bakunin_config@1.0.0-alpha.1
+- pkg:cargo/bakunin_config@1.0.1
