@@ -12,3 +12,4 @@
 - pkg:cargo/libh3@0.2.3
 - pkg:cargo/libh3@0.2.3-beta.0
 - pkg:cargo/libh3@0.2.3-beta.1
+- pkg:cargo/libh3@0.3.0
