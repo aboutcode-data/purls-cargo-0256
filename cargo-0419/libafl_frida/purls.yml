@@ -12,6 +12,8 @@
 - pkg:cargo/libafl_frida@0.15.2
 - pkg:cargo/libafl_frida@0.15.3
 - pkg:cargo/libafl_frida@0.15.4
+- pkg:cargo/libafl_frida@0.16.0
+- pkg:cargo/libafl_frida@0.16.1
 - pkg:cargo/libafl_frida@0.2.0
 - pkg:cargo/libafl_frida@0.2.1
 - pkg:cargo/libafl_frida@0.3.0
