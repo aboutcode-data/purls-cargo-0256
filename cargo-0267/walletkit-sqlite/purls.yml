@@ -2,3 +2,5 @@
 - pkg:cargo/walletkit-sqlite@0.22.0
 - pkg:cargo/walletkit-sqlite@0.23.0
 - pkg:cargo/walletkit-sqlite@0.23.1
+- pkg:cargo/walletkit-sqlite@0.23.2
+- pkg:cargo/walletkit-sqlite@0.24.0
