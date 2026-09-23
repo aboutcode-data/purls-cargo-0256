@@ -1,0 +1,5 @@
+- pkg:cargo/qail-workflow-postgres@2.0.0
+- pkg:cargo/qail-workflow-postgres@2.0.1
+- pkg:cargo/qail-workflow-postgres@2.0.2
+- pkg:cargo/qail-workflow-postgres@2.0.3
+- pkg:cargo/qail-workflow-postgres@2.0.4
