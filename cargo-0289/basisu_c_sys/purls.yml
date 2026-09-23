@@ -16,3 +16,6 @@
 - pkg:cargo/basisu_c_sys@0.6.1
 - pkg:cargo/basisu_c_sys@0.7.0
 - pkg:cargo/basisu_c_sys@0.7.1
+- pkg:cargo/basisu_c_sys@0.8.0
+- pkg:cargo/basisu_c_sys@0.9.0
+- pkg:cargo/basisu_c_sys@0.9.1
