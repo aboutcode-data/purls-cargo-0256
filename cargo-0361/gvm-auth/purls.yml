@@ -8,3 +8,4 @@
 - pkg:cargo/gvm-auth@0.2.2
 - pkg:cargo/gvm-auth@0.2.3
 - pkg:cargo/gvm-auth@0.3.0
+- pkg:cargo/gvm-auth@0.3.1
