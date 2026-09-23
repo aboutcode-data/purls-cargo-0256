@@ -1,2 +1,3 @@
 - pkg:cargo/luau-printf@0.732.0
 - pkg:cargo/luau-printf@0.733.0
+- pkg:cargo/luau-printf@0.734.0
