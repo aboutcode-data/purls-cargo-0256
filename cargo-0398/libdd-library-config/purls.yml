@@ -1,2 +1,5 @@
 - pkg:cargo/libdd-library-config@1.0.0
 - pkg:cargo/libdd-library-config@1.1.0
+- pkg:cargo/libdd-library-config@2.0.0
+- pkg:cargo/libdd-library-config@3.0.0
+- pkg:cargo/libdd-library-config@4.0.0
