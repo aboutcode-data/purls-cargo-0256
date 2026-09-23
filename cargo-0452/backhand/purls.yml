@@ -22,6 +22,9 @@
 - pkg:cargo/backhand@0.24.1
 - pkg:cargo/backhand@0.25.0
 - pkg:cargo/backhand@0.25.1
+- pkg:cargo/backhand@0.25.2
+- pkg:cargo/backhand@0.25.3
+- pkg:cargo/backhand@0.25.4
 - pkg:cargo/backhand@0.3.0
 - pkg:cargo/backhand@0.4.0
 - pkg:cargo/backhand@0.5.0
