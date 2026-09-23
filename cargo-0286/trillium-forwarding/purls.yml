@@ -6,3 +6,4 @@
 - pkg:cargo/trillium-forwarding@0.2.4
 - pkg:cargo/trillium-forwarding@0.3.0
 - pkg:cargo/trillium-forwarding@0.3.0-rc.1
+- pkg:cargo/trillium-forwarding@0.3.1
