@@ -25,6 +25,7 @@
 - pkg:cargo/dotenvx-rs@0.4.30
 - pkg:cargo/dotenvx-rs@0.4.31
 - pkg:cargo/dotenvx-rs@0.4.32
+- pkg:cargo/dotenvx-rs@0.4.33
 - pkg:cargo/dotenvx-rs@0.4.4
 - pkg:cargo/dotenvx-rs@0.4.8
 - pkg:cargo/dotenvx-rs@0.4.9
