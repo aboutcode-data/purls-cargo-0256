@@ -1,2 +1,3 @@
 - pkg:cargo/yaml-sigil-wasm@0.0.0-prepub.0
 - pkg:cargo/yaml-sigil-wasm@0.6.0-rc.1
+- pkg:cargo/yaml-sigil-wasm@0.6.0-rc.2
