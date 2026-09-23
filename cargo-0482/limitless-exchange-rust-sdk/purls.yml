@@ -1,4 +1,8 @@
 - pkg:cargo/limitless-exchange-rust-sdk@1.0.10
+- pkg:cargo/limitless-exchange-rust-sdk@1.0.11
+- pkg:cargo/limitless-exchange-rust-sdk@1.0.12
+- pkg:cargo/limitless-exchange-rust-sdk@1.0.13
 - pkg:cargo/limitless-exchange-rust-sdk@1.0.7
 - pkg:cargo/limitless-exchange-rust-sdk@1.0.8
 - pkg:cargo/limitless-exchange-rust-sdk@1.0.9
+- pkg:cargo/limitless-exchange-rust-sdk@1.1.0
