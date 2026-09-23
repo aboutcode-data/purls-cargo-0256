@@ -2,6 +2,10 @@
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.10
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.11
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.12
+- pkg:cargo/shiguredo_http2@2026.1.0-canary.13
+- pkg:cargo/shiguredo_http2@2026.1.0-canary.14
+- pkg:cargo/shiguredo_http2@2026.1.0-canary.15
+- pkg:cargo/shiguredo_http2@2026.1.0-canary.16
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.2
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.3
 - pkg:cargo/shiguredo_http2@2026.1.0-canary.4
