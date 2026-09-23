@@ -14,3 +14,6 @@
 - pkg:cargo/backhand-cli@0.24.1
 - pkg:cargo/backhand-cli@0.25.0
 - pkg:cargo/backhand-cli@0.25.1
+- pkg:cargo/backhand-cli@0.25.2
+- pkg:cargo/backhand-cli@0.25.3
+- pkg:cargo/backhand-cli@0.25.4
