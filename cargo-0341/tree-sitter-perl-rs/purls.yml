@@ -4,3 +4,8 @@
 - pkg:cargo/tree-sitter-perl-rs@0.13.2
 - pkg:cargo/tree-sitter-perl-rs@0.13.3
 - pkg:cargo/tree-sitter-perl-rs@0.14.0
+- pkg:cargo/tree-sitter-perl-rs@0.15.0
+- pkg:cargo/tree-sitter-perl-rs@0.15.1
+- pkg:cargo/tree-sitter-perl-rs@0.15.2
+- pkg:cargo/tree-sitter-perl-rs@0.16.0
+- pkg:cargo/tree-sitter-perl-rs@0.17.0
