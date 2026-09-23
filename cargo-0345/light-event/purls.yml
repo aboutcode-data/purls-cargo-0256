@@ -7,5 +7,7 @@
 - pkg:cargo/light-event@0.22.0
 - pkg:cargo/light-event@0.23.0
 - pkg:cargo/light-event@0.23.1
+- pkg:cargo/light-event@0.24.0
+- pkg:cargo/light-event@0.25.0
 - pkg:cargo/light-event@0.3.0
 - pkg:cargo/light-event@0.4.0
