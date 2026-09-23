@@ -1,0 +1,4 @@
+- pkg:cargo/bark-runtime@0.0.0
+- pkg:cargo/bark-runtime@0.6.2
+- pkg:cargo/bark-runtime@0.7.0
+- pkg:cargo/bark-runtime@0.7.1
