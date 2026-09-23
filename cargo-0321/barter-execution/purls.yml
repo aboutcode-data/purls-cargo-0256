@@ -11,3 +11,5 @@
 - pkg:cargo/barter-execution@0.5.3
 - pkg:cargo/barter-execution@0.6.0
 - pkg:cargo/barter-execution@0.7.0
+- pkg:cargo/barter-execution@0.8.0
+- pkg:cargo/barter-execution@0.9.0

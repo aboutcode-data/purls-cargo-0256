@@ -13,3 +13,4 @@
 - pkg:cargo/backfill@1.1.1
 - pkg:cargo/backfill@2.0.0
 - pkg:cargo/backfill@3.0.0
+- pkg:cargo/backfill@3.1.0
