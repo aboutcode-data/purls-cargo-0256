@@ -26,3 +26,6 @@
 - pkg:cargo/ballista@50.0.0
 - pkg:cargo/ballista@51.0.0
 - pkg:cargo/ballista@52.0.0
+- pkg:cargo/ballista@53.0.0
+- pkg:cargo/ballista@54.0.0
+- pkg:cargo/ballista@54.1.0
