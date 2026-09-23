@@ -115,6 +115,9 @@
 - pkg:cargo/elevator-core@20.7.0
 - pkg:cargo/elevator-core@20.8.0
 - pkg:cargo/elevator-core@20.9.0
+- pkg:cargo/elevator-core@21.0.0
+- pkg:cargo/elevator-core@21.0.1
+- pkg:cargo/elevator-core@21.0.2
 - pkg:cargo/elevator-core@3.0.0
 - pkg:cargo/elevator-core@4.0.0
 - pkg:cargo/elevator-core@4.1.0
