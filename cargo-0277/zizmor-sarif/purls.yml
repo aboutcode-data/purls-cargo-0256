@@ -1,3 +1,9 @@
 - pkg:cargo/zizmor-sarif@0.0.1
 - pkg:cargo/zizmor-sarif@1.26.1
 - pkg:cargo/zizmor-sarif@1.27.0
+- pkg:cargo/zizmor-sarif@1.28.0
+- pkg:cargo/zizmor-sarif@1.29.0
+- pkg:cargo/zizmor-sarif@1.30.0
+- pkg:cargo/zizmor-sarif@1.30.0-rc1
+- pkg:cargo/zizmor-sarif@1.30.0-rc2
+- pkg:cargo/zizmor-sarif@1.30.1
