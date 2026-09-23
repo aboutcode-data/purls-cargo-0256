@@ -1,3 +1,4 @@
+- pkg:cargo/shiki-config@0.10.0
 - pkg:cargo/shiki-config@0.4.1
 - pkg:cargo/shiki-config@0.4.2
 - pkg:cargo/shiki-config@0.5.0
@@ -12,3 +13,10 @@
 - pkg:cargo/shiki-config@0.8.8
 - pkg:cargo/shiki-config@0.8.9
 - pkg:cargo/shiki-config@0.9.0
+- pkg:cargo/shiki-config@0.9.1
+- pkg:cargo/shiki-config@0.9.2
+- pkg:cargo/shiki-config@0.9.3
+- pkg:cargo/shiki-config@0.9.4
+- pkg:cargo/shiki-config@0.9.5
+- pkg:cargo/shiki-config@0.9.6
+- pkg:cargo/shiki-config@0.9.7
