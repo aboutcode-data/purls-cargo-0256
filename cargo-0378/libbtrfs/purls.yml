@@ -5,4 +5,6 @@
 - pkg:cargo/libbtrfs@0.0.12
 - pkg:cargo/libbtrfs@0.0.2
 - pkg:cargo/libbtrfs@0.0.20
+- pkg:cargo/libbtrfs@0.0.30
+- pkg:cargo/libbtrfs@0.0.40
 - pkg:cargo/libbtrfs@0.0.5
