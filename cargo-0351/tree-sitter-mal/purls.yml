@@ -1,2 +1,3 @@
 - pkg:cargo/tree-sitter-mal@1.0.1
 - pkg:cargo/tree-sitter-mal@1.2.4
+- pkg:cargo/tree-sitter-mal@1.3.0
