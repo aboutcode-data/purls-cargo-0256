@@ -2,3 +2,5 @@
 - pkg:cargo/treesitter-types-scala@0.1.1
 - pkg:cargo/treesitter-types-scala@0.1.2
 - pkg:cargo/treesitter-types-scala@0.2.0
+- pkg:cargo/treesitter-types-scala@1.0.0
+- pkg:cargo/treesitter-types-scala@2.0.0
