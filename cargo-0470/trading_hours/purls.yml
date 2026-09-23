@@ -1,6 +1,5 @@
-- pkg:cargo/trading_hours@1.10.7
-- pkg:cargo/trading_hours@1.7.10
-- pkg:cargo/trading_hours@10.10.10
-- pkg:cargo/trading_hours@10.10.11
-- pkg:cargo/trading_hours@7.7.7
-- pkg:cargo/trading_hours@7.7.8
+- pkg:cargo/trading_hours@0.0.2
+- pkg:cargo/trading_hours@0.0.3
+- pkg:cargo/trading_hours@0.0.4
+- pkg:cargo/trading_hours@0.0.5
+- pkg:cargo/trading_hours@0.0.6
