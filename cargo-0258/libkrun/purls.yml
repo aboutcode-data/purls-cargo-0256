@@ -1,1 +1,5 @@
 - pkg:cargo/libkrun@1.18.0
+- pkg:cargo/libkrun@1.18.1
+- pkg:cargo/libkrun@1.19.0
+- pkg:cargo/libkrun@1.19.2
+- pkg:cargo/libkrun@1.19.3
