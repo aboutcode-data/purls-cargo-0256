@@ -1,1 +1,3 @@
 - pkg:cargo/zkboo-profiling@0.1.0
+- pkg:cargo/zkboo-profiling@1.0.0
+- pkg:cargo/zkboo-profiling@2.0.0
