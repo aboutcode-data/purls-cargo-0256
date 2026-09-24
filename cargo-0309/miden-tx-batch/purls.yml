@@ -17,3 +17,4 @@
 - pkg:cargo/miden-tx-batch@0.17.0-rc.4
 - pkg:cargo/miden-tx-batch@0.17.0-rc.5
 - pkg:cargo/miden-tx-batch@0.17.0-rc.6
+- pkg:cargo/miden-tx-batch@0.17.0-rc.7
