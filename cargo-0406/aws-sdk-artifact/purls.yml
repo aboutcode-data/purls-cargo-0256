@@ -1,6 +1,11 @@
 - pkg:cargo/aws-sdk-artifact@1.0.0
 - pkg:cargo/aws-sdk-artifact@1.1.0
 - pkg:cargo/aws-sdk-artifact@1.10.0
+- pkg:cargo/aws-sdk-artifact@1.100.0
+- pkg:cargo/aws-sdk-artifact@1.101.0
+- pkg:cargo/aws-sdk-artifact@1.102.0
+- pkg:cargo/aws-sdk-artifact@1.103.0
+- pkg:cargo/aws-sdk-artifact@1.104.0
 - pkg:cargo/aws-sdk-artifact@1.11.0
 - pkg:cargo/aws-sdk-artifact@1.12.0
 - pkg:cargo/aws-sdk-artifact@1.13.0
@@ -88,3 +93,13 @@
 - pkg:cargo/aws-sdk-artifact@1.88.0
 - pkg:cargo/aws-sdk-artifact@1.89.0
 - pkg:cargo/aws-sdk-artifact@1.9.0
+- pkg:cargo/aws-sdk-artifact@1.90.0
+- pkg:cargo/aws-sdk-artifact@1.91.0
+- pkg:cargo/aws-sdk-artifact@1.92.0
+- pkg:cargo/aws-sdk-artifact@1.93.0
+- pkg:cargo/aws-sdk-artifact@1.94.0
+- pkg:cargo/aws-sdk-artifact@1.95.0
+- pkg:cargo/aws-sdk-artifact@1.96.0
+- pkg:cargo/aws-sdk-artifact@1.97.0
+- pkg:cargo/aws-sdk-artifact@1.98.0
+- pkg:cargo/aws-sdk-artifact@1.99.0

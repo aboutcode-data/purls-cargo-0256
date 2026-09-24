@@ -79,6 +79,7 @@
 - pkg:cargo/aws-sdk-customerprofiles@1.126.0
 - pkg:cargo/aws-sdk-customerprofiles@1.127.0
 - pkg:cargo/aws-sdk-customerprofiles@1.128.0
+- pkg:cargo/aws-sdk-customerprofiles@1.129.0
 - pkg:cargo/aws-sdk-customerprofiles@1.13.0
 - pkg:cargo/aws-sdk-customerprofiles@1.14.0
 - pkg:cargo/aws-sdk-customerprofiles@1.15.0
