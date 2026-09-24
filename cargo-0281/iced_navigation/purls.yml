@@ -7,3 +7,7 @@
 - pkg:cargo/iced_navigation@1.4.1
 - pkg:cargo/iced_navigation@1.5.0
 - pkg:cargo/iced_navigation@1.6.0
+- pkg:cargo/iced_navigation@2.0.0
+- pkg:cargo/iced_navigation@2.0.1
+- pkg:cargo/iced_navigation@3.0.0
+- pkg:cargo/iced_navigation@3.0.1

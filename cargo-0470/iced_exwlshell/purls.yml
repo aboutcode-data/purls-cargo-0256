@@ -2,3 +2,7 @@
 - pkg:cargo/iced_exwlshell@0.18.0-beta1
 - pkg:cargo/iced_exwlshell@0.18.0-beta4
 - pkg:cargo/iced_exwlshell@0.18.1
+- pkg:cargo/iced_exwlshell@0.19.0
+- pkg:cargo/iced_exwlshell@0.19.1
+- pkg:cargo/iced_exwlshell@0.20.0
+- pkg:cargo/iced_exwlshell@0.20.1
