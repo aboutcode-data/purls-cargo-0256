@@ -48,3 +48,4 @@
 - pkg:cargo/viam-rust-utils@0.5.2
 - pkg:cargo/viam-rust-utils@0.5.3
 - pkg:cargo/viam-rust-utils@0.6.0
+- pkg:cargo/viam-rust-utils@0.6.1
