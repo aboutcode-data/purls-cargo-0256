@@ -30,3 +30,5 @@
 - pkg:cargo/baijimu-cmodel-actix@5.6.0
 - pkg:cargo/baijimu-cmodel-actix@5.7.0
 - pkg:cargo/baijimu-cmodel-actix@5.8.0
+- pkg:cargo/baijimu-cmodel-actix@6.0.0
+- pkg:cargo/baijimu-cmodel-actix@7.0.0
