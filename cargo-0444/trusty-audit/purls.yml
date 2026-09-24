@@ -6,6 +6,7 @@
 - pkg:cargo/trusty-audit@0.13.3
 - pkg:cargo/trusty-audit@0.14.0
 - pkg:cargo/trusty-audit@0.14.2
+- pkg:cargo/trusty-audit@0.15.0
 - pkg:cargo/trusty-audit@0.7.0
 - pkg:cargo/trusty-audit@0.8.0
 - pkg:cargo/trusty-audit@0.8.1
