@@ -8,6 +8,7 @@
 - pkg:cargo/trusty-installer@0.13.5
 - pkg:cargo/trusty-installer@0.13.6
 - pkg:cargo/trusty-installer@0.13.7
+- pkg:cargo/trusty-installer@0.13.8
 - pkg:cargo/trusty-installer@0.2.0
 - pkg:cargo/trusty-installer@0.3.0
 - pkg:cargo/trusty-installer@0.4.0
