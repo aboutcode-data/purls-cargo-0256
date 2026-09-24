@@ -5,3 +5,4 @@
 - pkg:cargo/ic-llm@1.0.0
 - pkg:cargo/ic-llm@1.0.1
 - pkg:cargo/ic-llm@1.1.0
+- pkg:cargo/ic-llm@2.0.0
