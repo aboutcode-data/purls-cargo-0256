@@ -1,1 +1,3 @@
 - pkg:cargo/vona-qwen@0.1.1
+- pkg:cargo/vona-qwen@0.2.0
+- pkg:cargo/vona-qwen@0.3.0
