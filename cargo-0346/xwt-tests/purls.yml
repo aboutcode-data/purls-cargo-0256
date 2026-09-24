@@ -1,6 +1,10 @@
 - pkg:cargo/xwt-tests@0.10.0
 - pkg:cargo/xwt-tests@0.11.0
 - pkg:cargo/xwt-tests@0.12.0
+- pkg:cargo/xwt-tests@0.13.0
+- pkg:cargo/xwt-tests@0.13.1
+- pkg:cargo/xwt-tests@0.14.0
+- pkg:cargo/xwt-tests@0.14.1
 - pkg:cargo/xwt-tests@0.2.0
 - pkg:cargo/xwt-tests@0.2.1
 - pkg:cargo/xwt-tests@0.3.0
