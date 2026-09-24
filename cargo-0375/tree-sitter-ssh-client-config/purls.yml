@@ -134,4 +134,5 @@
 - pkg:cargo/tree-sitter-ssh-client-config@2026.8.6
 - pkg:cargo/tree-sitter-ssh-client-config@2026.9.10
 - pkg:cargo/tree-sitter-ssh-client-config@2026.9.17
+- pkg:cargo/tree-sitter-ssh-client-config@2026.9.24
 - pkg:cargo/tree-sitter-ssh-client-config@2026.9.3
