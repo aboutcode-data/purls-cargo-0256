@@ -84,3 +84,4 @@
 - pkg:cargo/minijinja-autoreload@2.9.0
 - pkg:cargo/minijinja-autoreload@3.0.0-alpha.0
 - pkg:cargo/minijinja-autoreload@3.0.0-alpha.1
+- pkg:cargo/minijinja-autoreload@3.0.0-alpha.2
