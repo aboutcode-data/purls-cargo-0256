@@ -28,6 +28,7 @@
 - pkg:cargo/vgi-rpc-client@0.25.0
 - pkg:cargo/vgi-rpc-client@0.26.0
 - pkg:cargo/vgi-rpc-client@0.27.0
+- pkg:cargo/vgi-rpc-client@0.27.1
 - pkg:cargo/vgi-rpc-client@0.3.0
 - pkg:cargo/vgi-rpc-client@0.4.0
 - pkg:cargo/vgi-rpc-client@0.5.0
