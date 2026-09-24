@@ -8,3 +8,7 @@
 - pkg:cargo/vibeio-http@0.3.2
 - pkg:cargo/vibeio-http@0.3.3
 - pkg:cargo/vibeio-http@0.3.4
+- pkg:cargo/vibeio-http@0.3.5
+- pkg:cargo/vibeio-http@0.4.0
+- pkg:cargo/vibeio-http@0.4.1
+- pkg:cargo/vibeio-http@0.4.2%2Bzincio-http.0.4.1
