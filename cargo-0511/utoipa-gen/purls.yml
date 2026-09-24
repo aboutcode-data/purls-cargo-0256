@@ -58,3 +58,4 @@
 - pkg:cargo/utoipa-gen@5.4.0
 - pkg:cargo/utoipa-gen@5.5.0
 - pkg:cargo/utoipa-gen@6.0.0
+- pkg:cargo/utoipa-gen@6.0.1
