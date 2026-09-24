@@ -31,6 +31,7 @@
 - pkg:cargo/aws-sdk-osis@1.114.0
 - pkg:cargo/aws-sdk-osis@1.115.0
 - pkg:cargo/aws-sdk-osis@1.116.0
+- pkg:cargo/aws-sdk-osis@1.117.0
 - pkg:cargo/aws-sdk-osis@1.12.0
 - pkg:cargo/aws-sdk-osis@1.13.0
 - pkg:cargo/aws-sdk-osis@1.14.0
