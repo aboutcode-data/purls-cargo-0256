@@ -20,3 +20,4 @@
 - pkg:cargo/baijimu-auth@5.8.0
 - pkg:cargo/baijimu-auth@6.0.0
 - pkg:cargo/baijimu-auth@7.0.0
+- pkg:cargo/baijimu-auth@8.0.0
