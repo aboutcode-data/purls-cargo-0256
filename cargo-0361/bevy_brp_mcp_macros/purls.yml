@@ -24,3 +24,4 @@
 - pkg:cargo/bevy_brp_mcp_macros@0.22.4
 - pkg:cargo/bevy_brp_mcp_macros@0.22.5
 - pkg:cargo/bevy_brp_mcp_macros@0.22.6
+- pkg:cargo/bevy_brp_mcp_macros@0.22.7
