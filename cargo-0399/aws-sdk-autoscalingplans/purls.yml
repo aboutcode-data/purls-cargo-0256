@@ -47,7 +47,21 @@
 - pkg:cargo/aws-sdk-autoscalingplans@0.9.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.1.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.10.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.100.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.101.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.102.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.103.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.104.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.105.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.106.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.107.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.108.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.109.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.11.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.110.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.111.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.112.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.113.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.12.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.13.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.14.0
@@ -143,3 +157,4 @@
 - pkg:cargo/aws-sdk-autoscalingplans@1.96.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.97.0
 - pkg:cargo/aws-sdk-autoscalingplans@1.98.0
+- pkg:cargo/aws-sdk-autoscalingplans@1.99.0
