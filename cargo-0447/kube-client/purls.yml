@@ -56,3 +56,5 @@
 - pkg:cargo/kube-client@3.0.0
 - pkg:cargo/kube-client@3.0.1
 - pkg:cargo/kube-client@3.1.0
+- pkg:cargo/kube-client@4.0.0
+- pkg:cargo/kube-client@4.2.0
