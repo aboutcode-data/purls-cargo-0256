@@ -41,3 +41,4 @@
 - pkg:cargo/squawk-lexer@2.63.0
 - pkg:cargo/squawk-lexer@2.64.0
 - pkg:cargo/squawk-lexer@2.65.0
+- pkg:cargo/squawk-lexer@2.66.0
