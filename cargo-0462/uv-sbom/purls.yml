@@ -16,3 +16,4 @@
 - pkg:cargo/uv-sbom@2.8.0
 - pkg:cargo/uv-sbom@2.8.1
 - pkg:cargo/uv-sbom@3.0.0
+- pkg:cargo/uv-sbom@3.1.0
