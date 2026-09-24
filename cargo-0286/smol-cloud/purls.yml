@@ -1,3 +1,4 @@
 - pkg:cargo/smol-cloud@1.15.0
 - pkg:cargo/smol-cloud@1.17.0
+- pkg:cargo/smol-cloud@1.18.0
 - pkg:cargo/smol-cloud@1.9.0
