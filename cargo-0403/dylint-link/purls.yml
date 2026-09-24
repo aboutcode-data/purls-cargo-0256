@@ -92,3 +92,4 @@
 - pkg:cargo/dylint-link@6.0.2
 - pkg:cargo/dylint-link@6.0.3
 - pkg:cargo/dylint-link@6.0.4
+- pkg:cargo/dylint-link@6.1.0
