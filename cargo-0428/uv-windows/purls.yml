@@ -66,3 +66,4 @@
 - pkg:cargo/uv-windows@0.0.82
 - pkg:cargo/uv-windows@0.0.83
 - pkg:cargo/uv-windows@0.0.84
+- pkg:cargo/uv-windows@0.0.85
