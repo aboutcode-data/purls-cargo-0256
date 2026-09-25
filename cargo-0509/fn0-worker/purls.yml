@@ -72,6 +72,7 @@
 - pkg:cargo/fn0-worker@0.4.16
 - pkg:cargo/fn0-worker@0.4.17
 - pkg:cargo/fn0-worker@0.4.2
+- pkg:cargo/fn0-worker@0.4.21
 - pkg:cargo/fn0-worker@0.4.3
 - pkg:cargo/fn0-worker@0.4.4
 - pkg:cargo/fn0-worker@0.4.5
