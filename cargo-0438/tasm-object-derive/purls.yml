@@ -8,3 +8,8 @@
 - pkg:cargo/tasm-object-derive@1.0.0
 - pkg:cargo/tasm-object-derive@2.0.0
 - pkg:cargo/tasm-object-derive@3.0.0
+- pkg:cargo/tasm-object-derive@3.0.1
+- pkg:cargo/tasm-object-derive@4.0.0
+- pkg:cargo/tasm-object-derive@6.0.0
+- pkg:cargo/tasm-object-derive@7.0.0
+- pkg:cargo/tasm-object-derive@8.0.0
