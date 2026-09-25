@@ -42,3 +42,4 @@
 - pkg:cargo/libpetri@5.1.0
 - pkg:cargo/libpetri@6.0.0
 - pkg:cargo/libpetri@7.0.0
+- pkg:cargo/libpetri@8.0.0
