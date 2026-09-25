@@ -42,3 +42,4 @@
 - pkg:cargo/libpetri-debug@5.1.0
 - pkg:cargo/libpetri-debug@6.0.0
 - pkg:cargo/libpetri-debug@7.0.0
+- pkg:cargo/libpetri-debug@8.0.0
