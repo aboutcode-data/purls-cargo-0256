@@ -26,3 +26,14 @@
 - pkg:cargo/tari_template_builtin@0.30.1
 - pkg:cargo/tari_template_builtin@0.30.3
 - pkg:cargo/tari_template_builtin@0.30.4
+- pkg:cargo/tari_template_builtin@0.31.0
+- pkg:cargo/tari_template_builtin@0.32.0
+- pkg:cargo/tari_template_builtin@0.32.1
+- pkg:cargo/tari_template_builtin@0.35.0
+- pkg:cargo/tari_template_builtin@0.36.0
+- pkg:cargo/tari_template_builtin@0.37.0
+- pkg:cargo/tari_template_builtin@0.38.0
+- pkg:cargo/tari_template_builtin@0.40.0
+- pkg:cargo/tari_template_builtin@0.41.0
+- pkg:cargo/tari_template_builtin@0.41.1
+- pkg:cargo/tari_template_builtin@0.41.2
