@@ -4,3 +4,7 @@
 - pkg:cargo/tauri-plugin-vnidrop-share@0.1.3
 - pkg:cargo/tauri-plugin-vnidrop-share@0.2.0
 - pkg:cargo/tauri-plugin-vnidrop-share@0.2.1
+- pkg:cargo/tauri-plugin-vnidrop-share@0.2.2
+- pkg:cargo/tauri-plugin-vnidrop-share@1.0.0-rc
+- pkg:cargo/tauri-plugin-vnidrop-share@1.0.0-rc.1
+- pkg:cargo/tauri-plugin-vnidrop-share@1.0.0-rc.2
