@@ -80,6 +80,7 @@
 - pkg:cargo/aws-sdk-iot@1.126.0
 - pkg:cargo/aws-sdk-iot@1.127.0
 - pkg:cargo/aws-sdk-iot@1.128.0
+- pkg:cargo/aws-sdk-iot@1.128.1
 - pkg:cargo/aws-sdk-iot@1.13.0
 - pkg:cargo/aws-sdk-iot@1.14.0
 - pkg:cargo/aws-sdk-iot@1.15.0
