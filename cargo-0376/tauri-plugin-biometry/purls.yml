@@ -7,3 +7,7 @@
 - pkg:cargo/tauri-plugin-biometry@0.2.4
 - pkg:cargo/tauri-plugin-biometry@0.2.5
 - pkg:cargo/tauri-plugin-biometry@0.2.6
+- pkg:cargo/tauri-plugin-biometry@0.2.8
+- pkg:cargo/tauri-plugin-biometry@0.3.0-rc.1
+- pkg:cargo/tauri-plugin-biometry@0.3.0-rc.2
+- pkg:cargo/tauri-plugin-biometry@0.3.0-rc.3
