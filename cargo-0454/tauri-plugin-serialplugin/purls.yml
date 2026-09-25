@@ -28,6 +28,9 @@
 - pkg:cargo/tauri-plugin-serialplugin@2.21.0
 - pkg:cargo/tauri-plugin-serialplugin@2.21.1
 - pkg:cargo/tauri-plugin-serialplugin@2.22.0
+- pkg:cargo/tauri-plugin-serialplugin@2.23.0
+- pkg:cargo/tauri-plugin-serialplugin@2.24.0
+- pkg:cargo/tauri-plugin-serialplugin@2.24.1
 - pkg:cargo/tauri-plugin-serialplugin@2.3.0
 - pkg:cargo/tauri-plugin-serialplugin@2.3.1
 - pkg:cargo/tauri-plugin-serialplugin@2.3.2
@@ -46,3 +49,11 @@
 - pkg:cargo/tauri-plugin-serialplugin@2.8.1
 - pkg:cargo/tauri-plugin-serialplugin@2.8.2
 - pkg:cargo/tauri-plugin-serialplugin@2.9.0
+- pkg:cargo/tauri-plugin-serialplugin@3.0.0
+- pkg:cargo/tauri-plugin-serialplugin@3.0.1
+- pkg:cargo/tauri-plugin-serialplugin@3.0.2
+- pkg:cargo/tauri-plugin-serialplugin@3.0.3
+- pkg:cargo/tauri-plugin-serialplugin@3.0.4
+- pkg:cargo/tauri-plugin-serialplugin@3.0.5
+- pkg:cargo/tauri-plugin-serialplugin@3.0.6
+- pkg:cargo/tauri-plugin-serialplugin@3.0.7
