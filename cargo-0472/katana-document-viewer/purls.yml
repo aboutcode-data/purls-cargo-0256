@@ -24,3 +24,5 @@
 - pkg:cargo/katana-document-viewer@0.5.1
 - pkg:cargo/katana-document-viewer@0.5.2
 - pkg:cargo/katana-document-viewer@0.5.3
+- pkg:cargo/katana-document-viewer@0.5.4
+- pkg:cargo/katana-document-viewer@0.5.5
