@@ -42,3 +42,4 @@
 - pkg:cargo/libpetri-runtime@5.1.0
 - pkg:cargo/libpetri-runtime@6.0.0
 - pkg:cargo/libpetri-runtime@7.0.0
+- pkg:cargo/libpetri-runtime@8.0.0
