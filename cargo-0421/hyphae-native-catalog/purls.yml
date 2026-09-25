@@ -3,3 +3,5 @@
 - pkg:cargo/hyphae-native-catalog@1.2.2
 - pkg:cargo/hyphae-native-catalog@2.0.1
 - pkg:cargo/hyphae-native-catalog@2.2.0
+- pkg:cargo/hyphae-native-catalog@3.0.0
+- pkg:cargo/hyphae-native-catalog@4.0.0

@@ -10,6 +10,7 @@
 - pkg:cargo/hydro_deploy@0.17.0-alpha.1
 - pkg:cargo/hydro_deploy@0.17.0-alpha.2
 - pkg:cargo/hydro_deploy@0.17.0-alpha.3
+- pkg:cargo/hydro_deploy@0.17.0-alpha.4
 - pkg:cargo/hydro_deploy@0.5.1
 - pkg:cargo/hydro_deploy@0.6.0
 - pkg:cargo/hydro_deploy@0.6.1

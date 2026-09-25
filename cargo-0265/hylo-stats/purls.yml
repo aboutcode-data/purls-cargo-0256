@@ -19,3 +19,6 @@
 - pkg:cargo/hylo-stats@2.3.8
 - pkg:cargo/hylo-stats@2.3.9
 - pkg:cargo/hylo-stats@2.4.0
+- pkg:cargo/hylo-stats@2.5.0
+- pkg:cargo/hylo-stats@2.6.0
+- pkg:cargo/hylo-stats@2.6.1
