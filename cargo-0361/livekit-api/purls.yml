@@ -44,3 +44,4 @@
 - pkg:cargo/livekit-api@0.7.0
 - pkg:cargo/livekit-api@0.7.1
 - pkg:cargo/livekit-api@0.8.0
+- pkg:cargo/livekit-api@0.8.1
