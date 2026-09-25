@@ -4,3 +4,7 @@
 - pkg:cargo/tauri-plugin-better-cors-fetch@1.3.4
 - pkg:cargo/tauri-plugin-better-cors-fetch@1.3.5
 - pkg:cargo/tauri-plugin-better-cors-fetch@1.3.6
+- pkg:cargo/tauri-plugin-better-cors-fetch@1.4.0
+- pkg:cargo/tauri-plugin-better-cors-fetch@1.6.0
+- pkg:cargo/tauri-plugin-better-cors-fetch@1.7.0
+- pkg:cargo/tauri-plugin-better-cors-fetch@1.8.0
