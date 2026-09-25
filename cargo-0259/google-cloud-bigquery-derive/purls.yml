@@ -1,1 +1,2 @@
 - pkg:cargo/google-cloud-bigquery-derive@0.1.0
+- pkg:cargo/google-cloud-bigquery-derive@0.1.0-preview
