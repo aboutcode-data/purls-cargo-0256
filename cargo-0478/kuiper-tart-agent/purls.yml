@@ -2,3 +2,4 @@
 - pkg:cargo/kuiper-tart-agent@0.2.2
 - pkg:cargo/kuiper-tart-agent@0.3.0
 - pkg:cargo/kuiper-tart-agent@0.3.1
+- pkg:cargo/kuiper-tart-agent@0.4.0
