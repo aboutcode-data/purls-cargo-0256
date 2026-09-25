@@ -52,6 +52,7 @@
 - pkg:cargo/smallvec@1.15.2
 - pkg:cargo/smallvec@1.16.0
 - pkg:cargo/smallvec@1.16.1
+- pkg:cargo/smallvec@1.16.2
 - pkg:cargo/smallvec@1.2.0
 - pkg:cargo/smallvec@1.3.0
 - pkg:cargo/smallvec@1.4.0
