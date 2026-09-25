@@ -66,6 +66,7 @@
 - pkg:cargo/videre-api@0.39.0
 - pkg:cargo/videre-api@0.40.0
 - pkg:cargo/videre-api@0.41.0
+- pkg:cargo/videre-api@0.42.1
 - pkg:cargo/videre-api@0.9.10
 - pkg:cargo/videre-api@0.9.8
 - pkg:cargo/videre-api@0.9.9
