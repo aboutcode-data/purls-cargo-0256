@@ -1,5 +1,6 @@
 - pkg:cargo/krusty-kms-gateway@0.10.0
 - pkg:cargo/krusty-kms-gateway@0.11.0
+- pkg:cargo/krusty-kms-gateway@0.12.0
 - pkg:cargo/krusty-kms-gateway@0.4.3
 - pkg:cargo/krusty-kms-gateway@0.4.4
 - pkg:cargo/krusty-kms-gateway@0.4.5

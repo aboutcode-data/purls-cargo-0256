@@ -1,5 +1,6 @@
 - pkg:cargo/krusty-kms-wallet-api@0.10.0
 - pkg:cargo/krusty-kms-wallet-api@0.11.0
+- pkg:cargo/krusty-kms-wallet-api@0.12.0
 - pkg:cargo/krusty-kms-wallet-api@0.4.2
 - pkg:cargo/krusty-kms-wallet-api@0.4.3
 - pkg:cargo/krusty-kms-wallet-api@0.4.4
