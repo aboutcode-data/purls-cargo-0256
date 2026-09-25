@@ -6,3 +6,12 @@
 - pkg:cargo/sz-orm-postgis@1.5.0
 - pkg:cargo/sz-orm-postgis@2.0.0
 - pkg:cargo/sz-orm-postgis@2.1.0
+- pkg:cargo/sz-orm-postgis@2.3.0
+- pkg:cargo/sz-orm-postgis@3.5.0
+- pkg:cargo/sz-orm-postgis@4.9.0
+- pkg:cargo/sz-orm-postgis@5.1.0
+- pkg:cargo/sz-orm-postgis@6.0.0
+- pkg:cargo/sz-orm-postgis@7.3.0
+- pkg:cargo/sz-orm-postgis@7.6.0
+- pkg:cargo/sz-orm-postgis@7.7.0
+- pkg:cargo/sz-orm-postgis@8.7.0

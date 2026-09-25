@@ -5,3 +5,13 @@
 - pkg:cargo/sz-orm-wasm@1.5.0
 - pkg:cargo/sz-orm-wasm@2.0.0
 - pkg:cargo/sz-orm-wasm@2.1.0
+- pkg:cargo/sz-orm-wasm@2.3.0
+- pkg:cargo/sz-orm-wasm@2.4.0
+- pkg:cargo/sz-orm-wasm@3.5.0
+- pkg:cargo/sz-orm-wasm@4.9.0
+- pkg:cargo/sz-orm-wasm@5.1.0
+- pkg:cargo/sz-orm-wasm@6.0.0
+- pkg:cargo/sz-orm-wasm@6.9.0
+- pkg:cargo/sz-orm-wasm@7.3.0
+- pkg:cargo/sz-orm-wasm@7.6.0
+- pkg:cargo/sz-orm-wasm@7.7.0
