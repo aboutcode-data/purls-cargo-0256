@@ -8,3 +8,4 @@
 - pkg:cargo/taimux-daemon@0.16.0
 - pkg:cargo/taimux-daemon@0.17.0
 - pkg:cargo/taimux-daemon@0.18.0
+- pkg:cargo/taimux-daemon@0.19.0
