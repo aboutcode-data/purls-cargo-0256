@@ -37,3 +37,7 @@
 - pkg:cargo/trimsec@4.0.2
 - pkg:cargo/trimsec@4.1.0
 - pkg:cargo/trimsec@4.2.0
+- pkg:cargo/trimsec@4.3.0
+- pkg:cargo/trimsec@4.3.1
+- pkg:cargo/trimsec@4.3.2
+- pkg:cargo/trimsec@4.3.3
