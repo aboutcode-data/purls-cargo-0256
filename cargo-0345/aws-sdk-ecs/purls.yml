@@ -106,6 +106,7 @@
 - pkg:cargo/aws-sdk-ecs@1.145.0
 - pkg:cargo/aws-sdk-ecs@1.146.0
 - pkg:cargo/aws-sdk-ecs@1.147.0
+- pkg:cargo/aws-sdk-ecs@1.148.0
 - pkg:cargo/aws-sdk-ecs@1.15.0
 - pkg:cargo/aws-sdk-ecs@1.16.0
 - pkg:cargo/aws-sdk-ecs@1.17.0
