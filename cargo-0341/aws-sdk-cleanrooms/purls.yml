@@ -63,6 +63,7 @@
 - pkg:cargo/aws-sdk-cleanrooms@1.138.0
 - pkg:cargo/aws-sdk-cleanrooms@1.139.0
 - pkg:cargo/aws-sdk-cleanrooms@1.14.0
+- pkg:cargo/aws-sdk-cleanrooms@1.140.0
 - pkg:cargo/aws-sdk-cleanrooms@1.15.0
 - pkg:cargo/aws-sdk-cleanrooms@1.16.0
 - pkg:cargo/aws-sdk-cleanrooms@1.17.0
