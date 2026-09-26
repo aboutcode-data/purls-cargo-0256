@@ -1,1 +1,2 @@
 - pkg:cargo/smolvm-checkpoint@1.19.1
+- pkg:cargo/smolvm-checkpoint@1.19.2
