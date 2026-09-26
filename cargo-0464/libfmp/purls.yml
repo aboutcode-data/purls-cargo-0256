@@ -2,6 +2,7 @@
 - pkg:cargo/libfmp@0.1.1
 - pkg:cargo/libfmp@0.10.0
 - pkg:cargo/libfmp@0.11.0
+- pkg:cargo/libfmp@0.12.0
 - pkg:cargo/libfmp@0.2.0
 - pkg:cargo/libfmp@0.3.0
 - pkg:cargo/libfmp@0.4.0
@@ -10,3 +11,4 @@
 - pkg:cargo/libfmp@0.7.0
 - pkg:cargo/libfmp@0.8.0
 - pkg:cargo/libfmp@0.9.0
+- pkg:cargo/libfmp@1.0.0
