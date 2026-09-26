@@ -60,3 +60,4 @@
 - pkg:cargo/dynamo-parsers@9.0.0
 - pkg:cargo/dynamo-parsers@9.0.1
 - pkg:cargo/dynamo-parsers@9.1.0
+- pkg:cargo/dynamo-parsers@9.1.1
