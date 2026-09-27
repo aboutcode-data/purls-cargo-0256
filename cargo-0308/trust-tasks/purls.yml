@@ -69,3 +69,7 @@
 - pkg:cargo/trust-tasks@0.23.1
 - pkg:cargo/trust-tasks@0.23.2
 - pkg:cargo/trust-tasks@0.23.3
+- pkg:cargo/trust-tasks@0.23.4
+- pkg:cargo/trust-tasks@0.23.5
+- pkg:cargo/trust-tasks@0.23.6
+- pkg:cargo/trust-tasks@0.24.0
