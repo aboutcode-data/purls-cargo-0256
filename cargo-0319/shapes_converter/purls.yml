@@ -76,6 +76,7 @@
 - pkg:cargo/shapes_converter@0.3.2
 - pkg:cargo/shapes_converter@0.3.20
 - pkg:cargo/shapes_converter@0.3.21
+- pkg:cargo/shapes_converter@0.3.22
 - pkg:cargo/shapes_converter@0.3.3
 - pkg:cargo/shapes_converter@0.3.4
 - pkg:cargo/shapes_converter@0.3.5
