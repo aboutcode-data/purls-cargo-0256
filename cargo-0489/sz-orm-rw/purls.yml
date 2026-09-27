@@ -16,3 +16,4 @@
 - pkg:cargo/sz-orm-rw@7.7.0
 - pkg:cargo/sz-orm-rw@8.7.0
 - pkg:cargo/sz-orm-rw@8.8.0
+- pkg:cargo/sz-orm-rw@9.0.0

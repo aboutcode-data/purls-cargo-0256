@@ -16,3 +16,4 @@
 - pkg:cargo/sz-orm-postgis@7.7.0
 - pkg:cargo/sz-orm-postgis@8.7.0
 - pkg:cargo/sz-orm-postgis@8.8.0
+- pkg:cargo/sz-orm-postgis@9.0.0
