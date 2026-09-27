@@ -33,3 +33,4 @@
 - pkg:cargo/miden-serde-utils@0.32.0
 - pkg:cargo/miden-serde-utils@0.32.1
 - pkg:cargo/miden-serde-utils@0.33.0
+- pkg:cargo/miden-serde-utils@0.34.0
