@@ -30,6 +30,7 @@
 - pkg:cargo/affinidi-tdk@0.2.7
 - pkg:cargo/affinidi-tdk@0.2.8
 - pkg:cargo/affinidi-tdk@0.2.9
+- pkg:cargo/affinidi-tdk@0.20.0
 - pkg:cargo/affinidi-tdk@0.3.0
 - pkg:cargo/affinidi-tdk@0.4.1
 - pkg:cargo/affinidi-tdk@0.4.2
