@@ -59,3 +59,4 @@
 - pkg:cargo/libmoq@0.6.5
 - pkg:cargo/libmoq@0.6.6
 - pkg:cargo/libmoq@0.6.7
+- pkg:cargo/libmoq@0.6.8
