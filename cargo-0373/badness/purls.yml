@@ -17,6 +17,7 @@
 - pkg:cargo/badness@0.22.1
 - pkg:cargo/badness@0.23.0
 - pkg:cargo/badness@0.24.0
+- pkg:cargo/badness@0.25.0
 - pkg:cargo/badness@0.3.0
 - pkg:cargo/badness@0.4.0
 - pkg:cargo/badness@0.5.0
