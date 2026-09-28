@@ -1,5 +1,6 @@
 - pkg:cargo/smix-authoring-ir@10.0.0
 - pkg:cargo/smix-authoring-ir@10.1.0
+- pkg:cargo/smix-authoring-ir@11.0.0
 - pkg:cargo/smix-authoring-ir@2.0.0
 - pkg:cargo/smix-authoring-ir@2.1.0
 - pkg:cargo/smix-authoring-ir@2.2.0
