@@ -60,3 +60,4 @@
 - pkg:cargo/s2-sdk@0.34.8
 - pkg:cargo/s2-sdk@0.34.9
 - pkg:cargo/s2-sdk@0.35.0
+- pkg:cargo/s2-sdk@0.35.1
