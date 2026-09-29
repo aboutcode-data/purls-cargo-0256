@@ -8,3 +8,4 @@
 - pkg:cargo/smtlib@0.1.8
 - pkg:cargo/smtlib@0.2.0
 - pkg:cargo/smtlib@0.3.0
+- pkg:cargo/smtlib@0.4.0
