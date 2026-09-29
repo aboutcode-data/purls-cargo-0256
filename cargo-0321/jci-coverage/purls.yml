@@ -2,3 +2,5 @@
 - pkg:cargo/jci-coverage@0.0.2
 - pkg:cargo/jci-coverage@0.0.3
 - pkg:cargo/jci-coverage@0.0.4
+- pkg:cargo/jci-coverage@0.0.5
+- pkg:cargo/jci-coverage@0.0.6
