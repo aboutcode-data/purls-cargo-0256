@@ -53,3 +53,5 @@
 - pkg:cargo/workshop-rs@0.9.0
 - pkg:cargo/workshop-rs@0.9.1
 - pkg:cargo/workshop-rs@1.0.0
+- pkg:cargo/workshop-rs@1.1.0
+- pkg:cargo/workshop-rs@1.2.0
