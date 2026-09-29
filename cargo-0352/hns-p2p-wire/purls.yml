@@ -4,3 +4,4 @@
 - pkg:cargo/hns-p2p-wire@0.3.1
 - pkg:cargo/hns-p2p-wire@0.4.1
 - pkg:cargo/hns-p2p-wire@0.4.2
+- pkg:cargo/hns-p2p-wire@0.5.0
