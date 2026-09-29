@@ -42,3 +42,4 @@
 - pkg:cargo/minotari_app_grpc@5.7.0-pre.8
 - pkg:cargo/minotari_app_grpc@6.0.0
 - pkg:cargo/minotari_app_grpc@6.0.1-pre.0
+- pkg:cargo/minotari_app_grpc@6.0.1-pre.1
