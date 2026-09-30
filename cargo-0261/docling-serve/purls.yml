@@ -163,6 +163,7 @@
 - pkg:cargo/docling-serve@1.75.2
 - pkg:cargo/docling-serve@1.76.0
 - pkg:cargo/docling-serve@1.77.0
+- pkg:cargo/docling-serve@1.78.0
 - pkg:cargo/docling-serve@1.8.0
 - pkg:cargo/docling-serve@1.9.0
 - pkg:cargo/docling-serve@1.9.1
