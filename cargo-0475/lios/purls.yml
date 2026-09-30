@@ -67,4 +67,6 @@
 - pkg:cargo/lios@0.1.78
 - pkg:cargo/lios@0.1.79
 - pkg:cargo/lios@0.1.8
+- pkg:cargo/lios@0.1.85
+- pkg:cargo/lios@0.1.86
 - pkg:cargo/lios@0.1.9
