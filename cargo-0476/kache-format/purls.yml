@@ -11,3 +11,5 @@
 - pkg:cargo/kache-format@0.26.0
 - pkg:cargo/kache-format@0.26.3
 - pkg:cargo/kache-format@0.27.0
+- pkg:cargo/kache-format@0.28.0
+- pkg:cargo/kache-format@0.28.1
