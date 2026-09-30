@@ -8,3 +8,4 @@
 - pkg:cargo/hyperlight-unikraft@0.14.2
 - pkg:cargo/hyperlight-unikraft@0.15.0
 - pkg:cargo/hyperlight-unikraft@0.16.0
+- pkg:cargo/hyperlight-unikraft@0.17.0
