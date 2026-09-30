@@ -13,3 +13,4 @@
 - pkg:cargo/tasm-object-derive@6.0.0
 - pkg:cargo/tasm-object-derive@7.0.0
 - pkg:cargo/tasm-object-derive@8.0.0
+- pkg:cargo/tasm-object-derive@9.0.0
