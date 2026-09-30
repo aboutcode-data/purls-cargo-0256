@@ -17,3 +17,4 @@
 - pkg:cargo/triton-isa@6.0.0
 - pkg:cargo/triton-isa@7.0.0
 - pkg:cargo/triton-isa@8.0.0
+- pkg:cargo/triton-isa@9.0.0
