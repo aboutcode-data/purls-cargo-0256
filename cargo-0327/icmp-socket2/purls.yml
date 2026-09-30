@@ -6,3 +6,5 @@
 - pkg:cargo/icmp-socket2@0.6.0
 - pkg:cargo/icmp-socket2@0.6.1
 - pkg:cargo/icmp-socket2@0.6.2
+- pkg:cargo/icmp-socket2@0.6.3
+- pkg:cargo/icmp-socket2@0.6.4
