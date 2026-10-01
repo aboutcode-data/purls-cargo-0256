@@ -47,3 +47,4 @@
 - pkg:cargo/miden-utils-indexing@0.32.1
 - pkg:cargo/miden-utils-indexing@0.33.0
 - pkg:cargo/miden-utils-indexing@0.34.0
+- pkg:cargo/miden-utils-indexing@0.35.0
