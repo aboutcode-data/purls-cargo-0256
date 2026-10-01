@@ -43,3 +43,4 @@
 - pkg:cargo/libpetri-docgen@6.0.0
 - pkg:cargo/libpetri-docgen@7.0.0
 - pkg:cargo/libpetri-docgen@8.0.0
+- pkg:cargo/libpetri-docgen@9.0.0
