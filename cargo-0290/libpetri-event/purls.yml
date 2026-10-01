@@ -43,3 +43,4 @@
 - pkg:cargo/libpetri-event@6.0.0
 - pkg:cargo/libpetri-event@7.0.0
 - pkg:cargo/libpetri-event@8.0.0
+- pkg:cargo/libpetri-event@9.0.0
