@@ -20,7 +20,10 @@
 - pkg:cargo/bao-servo-devtools@0.5.26
 - pkg:cargo/bao-servo-devtools@0.5.27
 - pkg:cargo/bao-servo-devtools@0.5.28
+- pkg:cargo/bao-servo-devtools@0.5.29
 - pkg:cargo/bao-servo-devtools@0.5.3
+- pkg:cargo/bao-servo-devtools@0.5.30
+- pkg:cargo/bao-servo-devtools@0.5.31
 - pkg:cargo/bao-servo-devtools@0.5.4
 - pkg:cargo/bao-servo-devtools@0.5.5
 - pkg:cargo/bao-servo-devtools@0.5.6
