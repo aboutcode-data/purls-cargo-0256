@@ -907,6 +907,10 @@
 - pkg:cargo/icydb-core@0.261.7
 - pkg:cargo/icydb-core@0.261.8
 - pkg:cargo/icydb-core@0.261.9
+- pkg:cargo/icydb-core@0.262.2
+- pkg:cargo/icydb-core@0.264.1
+- pkg:cargo/icydb-core@0.264.2
+- pkg:cargo/icydb-core@0.264.3
 - pkg:cargo/icydb-core@0.27.0
 - pkg:cargo/icydb-core@0.27.1
 - pkg:cargo/icydb-core@0.27.2
