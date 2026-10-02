@@ -5,3 +5,4 @@
 - pkg:cargo/kuest-builder-relayer-client@0.1.5
 - pkg:cargo/kuest-builder-relayer-client@0.1.6
 - pkg:cargo/kuest-builder-relayer-client@0.1.7
+- pkg:cargo/kuest-builder-relayer-client@0.1.8
