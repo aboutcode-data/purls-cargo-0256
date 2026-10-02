@@ -14,3 +14,4 @@
 - pkg:cargo/sz-rust-macros@1.1.0
 - pkg:cargo/sz-rust-macros@1.2.0
 - pkg:cargo/sz-rust-macros@1.4.0
+- pkg:cargo/sz-rust-macros@1.6.0

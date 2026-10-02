@@ -14,3 +14,4 @@
 - pkg:cargo/sz-rust-addons-loader@1.1.0
 - pkg:cargo/sz-rust-addons-loader@1.2.0
 - pkg:cargo/sz-rust-addons-loader@1.4.0
+- pkg:cargo/sz-rust-addons-loader@1.6.0
