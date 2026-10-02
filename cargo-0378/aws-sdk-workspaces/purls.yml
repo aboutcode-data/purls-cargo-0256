@@ -90,6 +90,7 @@
 - pkg:cargo/aws-sdk-workspaces@1.135.0
 - pkg:cargo/aws-sdk-workspaces@1.136.0
 - pkg:cargo/aws-sdk-workspaces@1.137.0
+- pkg:cargo/aws-sdk-workspaces@1.138.0
 - pkg:cargo/aws-sdk-workspaces@1.14.0
 - pkg:cargo/aws-sdk-workspaces@1.15.0
 - pkg:cargo/aws-sdk-workspaces@1.15.1
