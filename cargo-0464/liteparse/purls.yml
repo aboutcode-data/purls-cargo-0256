@@ -27,6 +27,7 @@
 - pkg:cargo/liteparse@2.14.6
 - pkg:cargo/liteparse@2.14.7
 - pkg:cargo/liteparse@2.15.0
+- pkg:cargo/liteparse@2.15.1
 - pkg:cargo/liteparse@2.2.0
 - pkg:cargo/liteparse@2.2.1
 - pkg:cargo/liteparse@2.3.0
