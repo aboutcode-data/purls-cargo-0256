@@ -2,5 +2,7 @@
 - pkg:cargo/ntex-polling@3.11.0
 - pkg:cargo/ntex-polling@3.11.1
 - pkg:cargo/ntex-polling@3.11.2
+- pkg:cargo/ntex-polling@3.11.3
 - pkg:cargo/ntex-polling@3.7.4
 - pkg:cargo/ntex-polling@3.8.0
+- pkg:cargo/ntex-polling@4.0.0
