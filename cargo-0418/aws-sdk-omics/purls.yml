@@ -53,6 +53,7 @@
 - pkg:cargo/aws-sdk-omics@1.128.0
 - pkg:cargo/aws-sdk-omics@1.129.0
 - pkg:cargo/aws-sdk-omics@1.13.0
+- pkg:cargo/aws-sdk-omics@1.130.0
 - pkg:cargo/aws-sdk-omics@1.14.0
 - pkg:cargo/aws-sdk-omics@1.15.0
 - pkg:cargo/aws-sdk-omics@1.16.0
