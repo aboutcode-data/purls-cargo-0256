@@ -21,6 +21,7 @@
 - pkg:cargo/katana-render-runtime-cli@0.4.2
 - pkg:cargo/katana-render-runtime-cli@0.4.20
 - pkg:cargo/katana-render-runtime-cli@0.4.21
+- pkg:cargo/katana-render-runtime-cli@0.4.22
 - pkg:cargo/katana-render-runtime-cli@0.4.3
 - pkg:cargo/katana-render-runtime-cli@0.4.4
 - pkg:cargo/katana-render-runtime-cli@0.4.5
