@@ -8,3 +8,4 @@
 - pkg:cargo/smolvm-checkpoint@1.21.1
 - pkg:cargo/smolvm-checkpoint@1.22.0
 - pkg:cargo/smolvm-checkpoint@1.22.1
+- pkg:cargo/smolvm-checkpoint@1.22.2
