@@ -73,3 +73,4 @@
 - pkg:cargo/pkarr@8.0.1
 - pkg:cargo/pkarr@8.0.2
 - pkg:cargo/pkarr@8.0.2-rc.0
+- pkg:cargo/pkarr@8.1.0

@@ -30,3 +30,4 @@
 - pkg:cargo/pkarr-relay@2.0.1
 - pkg:cargo/pkarr-relay@2.0.2
 - pkg:cargo/pkarr-relay@2.0.2-rc.0
+- pkg:cargo/pkarr-relay@2.1.0
