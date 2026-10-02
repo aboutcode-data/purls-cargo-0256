@@ -46,7 +46,9 @@
 - pkg:cargo/zlog-gpui-unofficial@1.20.2
 - pkg:cargo/zlog-gpui-unofficial@1.21.0
 - pkg:cargo/zlog-gpui-unofficial@1.21.0-pre
+- pkg:cargo/zlog-gpui-unofficial@1.22.0
 - pkg:cargo/zlog-gpui-unofficial@1.22.0-pre
+- pkg:cargo/zlog-gpui-unofficial@1.23.0-pre
 - pkg:cargo/zlog-gpui-unofficial@1.7.2
 - pkg:cargo/zlog-gpui-unofficial@1.8.2
 - pkg:cargo/zlog-gpui-unofficial@1.9.0
