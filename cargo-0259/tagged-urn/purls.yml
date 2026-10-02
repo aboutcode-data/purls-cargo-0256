@@ -2,3 +2,6 @@
 - pkg:cargo/tagged-urn@0.12.3794
 - pkg:cargo/tagged-urn@0.14.3800
 - pkg:cargo/tagged-urn@1.49.155
+- pkg:cargo/tagged-urn@1.51.204
+- pkg:cargo/tagged-urn@1.69.127
+- pkg:cargo/tagged-urn@1.71.20
