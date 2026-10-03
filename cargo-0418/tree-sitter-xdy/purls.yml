@@ -3,6 +3,7 @@
 - pkg:cargo/tree-sitter-xdy@0.12.0
 - pkg:cargo/tree-sitter-xdy@0.13.0
 - pkg:cargo/tree-sitter-xdy@0.14.0
+- pkg:cargo/tree-sitter-xdy@0.14.1
 - pkg:cargo/tree-sitter-xdy@0.7.0
 - pkg:cargo/tree-sitter-xdy@0.8.0
 - pkg:cargo/tree-sitter-xdy@0.8.1
