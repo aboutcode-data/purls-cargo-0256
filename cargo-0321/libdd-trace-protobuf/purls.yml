@@ -8,3 +8,4 @@
 - pkg:cargo/libdd-trace-protobuf@4.0.1
 - pkg:cargo/libdd-trace-protobuf@5.0.0
 - pkg:cargo/libdd-trace-protobuf@5.0.1
+- pkg:cargo/libdd-trace-protobuf@5.1.0
