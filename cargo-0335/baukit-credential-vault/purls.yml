@@ -9,3 +9,4 @@
 - pkg:cargo/baukit-credential-vault@0.5.1
 - pkg:cargo/baukit-credential-vault@0.5.2
 - pkg:cargo/baukit-credential-vault@0.6.0
+- pkg:cargo/baukit-credential-vault@0.7.0
