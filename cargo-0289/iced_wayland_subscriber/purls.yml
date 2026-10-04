@@ -16,3 +16,4 @@
 - pkg:cargo/iced_wayland_subscriber@0.19.1
 - pkg:cargo/iced_wayland_subscriber@0.20.0
 - pkg:cargo/iced_wayland_subscriber@0.20.1
+- pkg:cargo/iced_wayland_subscriber@0.21.0-rc1
