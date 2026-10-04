@@ -32,3 +32,4 @@
 - pkg:cargo/smbcloud-networking-project@0.5.3
 - pkg:cargo/smbcloud-networking-project@0.5.4
 - pkg:cargo/smbcloud-networking-project@0.6.0
+- pkg:cargo/smbcloud-networking-project@0.6.1
