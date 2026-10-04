@@ -92,6 +92,7 @@
 - pkg:cargo/fff-query-parser@0.10.7-nightly.e8d80e4
 - pkg:cargo/fff-query-parser@0.10.7-nightly.f3647b7
 - pkg:cargo/fff-query-parser@0.11.0
+- pkg:cargo/fff-query-parser@0.11.1-nightly.266cde1
 - pkg:cargo/fff-query-parser@0.11.1-nightly.27d4930
 - pkg:cargo/fff-query-parser@0.11.1-nightly.282ffec
 - pkg:cargo/fff-query-parser@0.11.1-nightly.708d57b
