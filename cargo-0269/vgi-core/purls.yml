@@ -3,6 +3,11 @@
 - pkg:cargo/vgi-core@0.1.2
 - pkg:cargo/vgi-core@0.10.0
 - pkg:cargo/vgi-core@0.11.0
+- pkg:cargo/vgi-core@0.11.1
+- pkg:cargo/vgi-core@0.12.0
+- pkg:cargo/vgi-core@0.12.1
+- pkg:cargo/vgi-core@0.12.2
+- pkg:cargo/vgi-core@0.13.0
 - pkg:cargo/vgi-core@0.2.0
 - pkg:cargo/vgi-core@0.4.0
 - pkg:cargo/vgi-core@0.4.1
