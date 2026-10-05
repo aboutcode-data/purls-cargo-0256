@@ -10,3 +10,5 @@
 - pkg:cargo/tauri-plugin-modular-agent@0.20.0
 - pkg:cargo/tauri-plugin-modular-agent@0.21.0
 - pkg:cargo/tauri-plugin-modular-agent@0.22.0
+- pkg:cargo/tauri-plugin-modular-agent@0.32.0
+- pkg:cargo/tauri-plugin-modular-agent@0.33.0
