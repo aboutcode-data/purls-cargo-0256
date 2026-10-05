@@ -24,6 +24,7 @@
 - pkg:cargo/bao_cdp@0.3.12
 - pkg:cargo/bao_cdp@0.3.13
 - pkg:cargo/bao_cdp@0.3.14
+- pkg:cargo/bao_cdp@0.3.15
 - pkg:cargo/bao_cdp@0.3.2
 - pkg:cargo/bao_cdp@0.3.3
 - pkg:cargo/bao_cdp@0.3.4
