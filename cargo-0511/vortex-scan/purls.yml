@@ -45,3 +45,4 @@
 - pkg:cargo/vortex-scan@0.84.0
 - pkg:cargo/vortex-scan@0.85.0
 - pkg:cargo/vortex-scan@0.86.1
+- pkg:cargo/vortex-scan@0.87.0
