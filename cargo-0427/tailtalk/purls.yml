@@ -4,6 +4,7 @@
 - pkg:cargo/tailtalk@0.10.0
 - pkg:cargo/tailtalk@0.10.1
 - pkg:cargo/tailtalk@0.10.2
+- pkg:cargo/tailtalk@0.12.0
 - pkg:cargo/tailtalk@0.3.0
 - pkg:cargo/tailtalk@0.3.1
 - pkg:cargo/tailtalk@0.4.0
