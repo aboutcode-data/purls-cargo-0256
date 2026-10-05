@@ -218,3 +218,6 @@
 - pkg:cargo/docling-asr@1.93.3
 - pkg:cargo/docling-asr@1.93.4
 - pkg:cargo/docling-asr@1.93.5
+- pkg:cargo/docling-asr@1.94.0
+- pkg:cargo/docling-asr@1.95.0
+- pkg:cargo/docling-asr@1.96.0
