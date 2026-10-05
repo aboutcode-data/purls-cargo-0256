@@ -25,6 +25,15 @@
 - pkg:cargo/ic-testkit@0.12.0
 - pkg:cargo/ic-testkit@0.13.0
 - pkg:cargo/ic-testkit@0.14.0
+- pkg:cargo/ic-testkit@0.14.1
+- pkg:cargo/ic-testkit@0.14.11
+- pkg:cargo/ic-testkit@0.14.2
+- pkg:cargo/ic-testkit@0.14.3
+- pkg:cargo/ic-testkit@0.14.4
+- pkg:cargo/ic-testkit@0.14.5
+- pkg:cargo/ic-testkit@0.14.7
+- pkg:cargo/ic-testkit@0.15.1
+- pkg:cargo/ic-testkit@0.15.3
 - pkg:cargo/ic-testkit@0.2.0
 - pkg:cargo/ic-testkit@0.2.1
 - pkg:cargo/ic-testkit@0.2.2
