@@ -12,6 +12,7 @@
 - pkg:cargo/vgi-core@0.15.0
 - pkg:cargo/vgi-core@0.15.1
 - pkg:cargo/vgi-core@0.16.0
+- pkg:cargo/vgi-core@0.17.0
 - pkg:cargo/vgi-core@0.2.0
 - pkg:cargo/vgi-core@0.4.0
 - pkg:cargo/vgi-core@0.4.1
