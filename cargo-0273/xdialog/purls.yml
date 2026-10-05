@@ -27,3 +27,5 @@
 - pkg:cargo/xdialog@3.1.7
 - pkg:cargo/xdialog@3.1.8
 - pkg:cargo/xdialog@3.1.9
+- pkg:cargo/xdialog@4.0.1
+- pkg:cargo/xdialog@4.1.0
