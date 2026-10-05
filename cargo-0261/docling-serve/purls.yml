@@ -189,3 +189,10 @@
 - pkg:cargo/docling-serve@1.91.2
 - pkg:cargo/docling-serve@1.91.3
 - pkg:cargo/docling-serve@1.92.0
+- pkg:cargo/docling-serve@1.92.1
+- pkg:cargo/docling-serve@1.93.0
+- pkg:cargo/docling-serve@1.93.1
+- pkg:cargo/docling-serve@1.93.2
+- pkg:cargo/docling-serve@1.93.3
+- pkg:cargo/docling-serve@1.93.4
+- pkg:cargo/docling-serve@1.93.5
