@@ -1,3 +1,4 @@
 - pkg:cargo/kaspa-alloc@0.0.0
 - pkg:cargo/kaspa-alloc@0.13.4
 - pkg:cargo/kaspa-alloc@0.15.0
+- pkg:cargo/kaspa-alloc@2.1.0
