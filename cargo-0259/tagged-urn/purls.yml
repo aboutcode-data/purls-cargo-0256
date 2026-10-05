@@ -5,3 +5,5 @@
 - pkg:cargo/tagged-urn@1.51.204
 - pkg:cargo/tagged-urn@1.69.127
 - pkg:cargo/tagged-urn@1.71.20
+- pkg:cargo/tagged-urn@1.74.16
+- pkg:cargo/tagged-urn@1.76.8
