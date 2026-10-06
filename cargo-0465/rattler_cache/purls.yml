@@ -16,6 +16,7 @@
 - pkg:cargo/rattler_cache@0.10.13
 - pkg:cargo/rattler_cache@0.10.14
 - pkg:cargo/rattler_cache@0.10.15
+- pkg:cargo/rattler_cache@0.10.16
 - pkg:cargo/rattler_cache@0.10.2
 - pkg:cargo/rattler_cache@0.10.3
 - pkg:cargo/rattler_cache@0.10.4
