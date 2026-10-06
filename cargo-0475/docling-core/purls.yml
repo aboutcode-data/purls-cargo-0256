@@ -70,6 +70,8 @@
 - pkg:cargo/docling-core@1.1.0
 - pkg:cargo/docling-core@1.1.1
 - pkg:cargo/docling-core@1.10.0
+- pkg:cargo/docling-core@1.100.0
+- pkg:cargo/docling-core@1.100.1
 - pkg:cargo/docling-core@1.11.0
 - pkg:cargo/docling-core@1.11.1
 - pkg:cargo/docling-core@1.11.2
@@ -225,3 +227,11 @@
 - pkg:cargo/docling-core@1.96.1
 - pkg:cargo/docling-core@1.97.0
 - pkg:cargo/docling-core@1.97.1
+- pkg:cargo/docling-core@1.97.2
+- pkg:cargo/docling-core@1.97.3
+- pkg:cargo/docling-core@1.97.4
+- pkg:cargo/docling-core@1.98.0
+- pkg:cargo/docling-core@1.98.1
+- pkg:cargo/docling-core@1.99.0
+- pkg:cargo/docling-core@1.99.1
+- pkg:cargo/docling-core@1.99.2
