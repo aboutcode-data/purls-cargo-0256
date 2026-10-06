@@ -4,3 +4,4 @@
 - pkg:cargo/qail-workflow-postgres@2.0.3
 - pkg:cargo/qail-workflow-postgres@2.0.4
 - pkg:cargo/qail-workflow-postgres@2.0.5
+- pkg:cargo/qail-workflow-postgres@3.0.0

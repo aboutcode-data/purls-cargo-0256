@@ -75,3 +75,4 @@
 - pkg:cargo/qail-qdrant@2.0.3
 - pkg:cargo/qail-qdrant@2.0.4
 - pkg:cargo/qail-qdrant@2.0.5
+- pkg:cargo/qail-qdrant@3.0.0
