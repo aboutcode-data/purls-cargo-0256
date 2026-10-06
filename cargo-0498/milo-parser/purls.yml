@@ -11,3 +11,4 @@
 - pkg:cargo/milo-parser@0.8.3
 - pkg:cargo/milo-parser@0.8.4
 - pkg:cargo/milo-parser@0.8.5
+- pkg:cargo/milo-parser@0.9.0
