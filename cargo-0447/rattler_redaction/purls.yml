@@ -21,3 +21,4 @@
 - pkg:cargo/rattler_redaction@0.2.4
 - pkg:cargo/rattler_redaction@0.2.5
 - pkg:cargo/rattler_redaction@0.2.6
+- pkg:cargo/rattler_redaction@0.2.7
