@@ -11,6 +11,7 @@
 - pkg:cargo/baijimu-cmodel-actix@1.4.0
 - pkg:cargo/baijimu-cmodel-actix@1.5.0
 - pkg:cargo/baijimu-cmodel-actix@1.6.0
+- pkg:cargo/baijimu-cmodel-actix@10.0.0
 - pkg:cargo/baijimu-cmodel-actix@2.0.0
 - pkg:cargo/baijimu-cmodel-actix@2.1.0
 - pkg:cargo/baijimu-cmodel-actix@2.1.1
