@@ -1,1 +1,2 @@
 - pkg:cargo/rados-sys@0.0.0
+- pkg:cargo/rados-sys@0.1.0
