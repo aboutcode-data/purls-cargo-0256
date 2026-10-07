@@ -11,3 +11,4 @@
 - pkg:cargo/libcrux-poly1305@0.0.5-rc.1
 - pkg:cargo/libcrux-poly1305@0.0.6
 - pkg:cargo/libcrux-poly1305@0.0.6-rc.1
+- pkg:cargo/libcrux-poly1305@0.0.7-pre.1
