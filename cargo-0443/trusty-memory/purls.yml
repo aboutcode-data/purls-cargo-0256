@@ -52,6 +52,9 @@
 - pkg:cargo/trusty-memory@0.28.0
 - pkg:cargo/trusty-memory@0.28.1
 - pkg:cargo/trusty-memory@0.28.2
+- pkg:cargo/trusty-memory@0.29.0
+- pkg:cargo/trusty-memory@0.29.1
+- pkg:cargo/trusty-memory@0.29.2
 - pkg:cargo/trusty-memory@0.3.0
 - pkg:cargo/trusty-memory@0.5.0
 - pkg:cargo/trusty-memory@0.5.1
