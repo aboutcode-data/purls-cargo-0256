@@ -1,1 +1,2 @@
 - pkg:cargo/lipl-gatt-zbus@0.4.8
+- pkg:cargo/lipl-gatt-zbus@0.5.0
