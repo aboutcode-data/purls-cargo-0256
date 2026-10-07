@@ -65,3 +65,4 @@
 - pkg:cargo/miden-remote-prover@0.17.0-rc.2
 - pkg:cargo/miden-remote-prover@0.17.0-rc.3
 - pkg:cargo/miden-remote-prover@0.17.0-rc.4
+- pkg:cargo/miden-remote-prover@0.17.1
