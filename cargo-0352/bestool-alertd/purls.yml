@@ -108,6 +108,12 @@
 - pkg:cargo/bestool-alertd@28.1.1
 - pkg:cargo/bestool-alertd@28.1.2
 - pkg:cargo/bestool-alertd@28.2.0
+- pkg:cargo/bestool-alertd@28.2.1
+- pkg:cargo/bestool-alertd@28.2.2
+- pkg:cargo/bestool-alertd@28.2.3
+- pkg:cargo/bestool-alertd@28.3.0
+- pkg:cargo/bestool-alertd@28.4.0
+- pkg:cargo/bestool-alertd@28.4.1
 - pkg:cargo/bestool-alertd@3.0.0
 - pkg:cargo/bestool-alertd@4.0.0
 - pkg:cargo/bestool-alertd@5.0.0
