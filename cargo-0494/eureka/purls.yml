@@ -15,3 +15,4 @@
 - pkg:cargo/eureka@1.8.1
 - pkg:cargo/eureka@2.0.0
 - pkg:cargo/eureka@2.0.1
+- pkg:cargo/eureka@2.1.0
