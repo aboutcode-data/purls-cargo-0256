@@ -9,7 +9,10 @@
 - pkg:cargo/pallet-migrations@15.0.0
 - pkg:cargo/pallet-migrations@16.0.0
 - pkg:cargo/pallet-migrations@17.0.0
+- pkg:cargo/pallet-migrations@18.0.0
+- pkg:cargo/pallet-migrations@19.0.0
 - pkg:cargo/pallet-migrations@2.0.0
+- pkg:cargo/pallet-migrations@20.0.0
 - pkg:cargo/pallet-migrations@3.0.0
 - pkg:cargo/pallet-migrations@4.0.0
 - pkg:cargo/pallet-migrations@5.0.0

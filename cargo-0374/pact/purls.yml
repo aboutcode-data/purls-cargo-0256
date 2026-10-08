@@ -2,6 +2,14 @@
 - pkg:cargo/pact@0.1.0
 - pkg:cargo/pact@0.1.1
 - pkg:cargo/pact@0.10.0
+- pkg:cargo/pact@0.10.1
+- pkg:cargo/pact@0.10.2
+- pkg:cargo/pact@0.10.3
+- pkg:cargo/pact@0.10.4
+- pkg:cargo/pact@0.10.5
+- pkg:cargo/pact@0.10.6
+- pkg:cargo/pact@0.10.7
+- pkg:cargo/pact@0.10.8
 - pkg:cargo/pact@0.2.0
 - pkg:cargo/pact@0.3.0
 - pkg:cargo/pact@0.4.0
