@@ -24,3 +24,6 @@
 - pkg:cargo/parakeet-rs@0.3.3
 - pkg:cargo/parakeet-rs@0.3.4
 - pkg:cargo/parakeet-rs@0.3.5
+- pkg:cargo/parakeet-rs@0.3.6
+- pkg:cargo/parakeet-rs@0.3.7
+- pkg:cargo/parakeet-rs@0.3.8
