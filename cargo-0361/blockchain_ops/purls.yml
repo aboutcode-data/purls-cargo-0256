@@ -21,3 +21,5 @@
 - pkg:cargo/blockchain_ops@0.8.3
 - pkg:cargo/blockchain_ops@0.8.4
 - pkg:cargo/blockchain_ops@0.8.5
+- pkg:cargo/blockchain_ops@0.8.6
+- pkg:cargo/blockchain_ops@0.8.7
