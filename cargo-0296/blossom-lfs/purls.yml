@@ -12,3 +12,5 @@
 - pkg:cargo/blossom-lfs@0.5.4
 - pkg:cargo/blossom-lfs@0.5.5
 - pkg:cargo/blossom-lfs@0.5.6
+- pkg:cargo/blossom-lfs@0.5.7
+- pkg:cargo/blossom-lfs@0.6.1
