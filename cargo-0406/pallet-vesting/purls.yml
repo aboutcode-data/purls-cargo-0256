@@ -57,7 +57,10 @@
 - pkg:cargo/pallet-vesting@45.0.0
 - pkg:cargo/pallet-vesting@46.0.0
 - pkg:cargo/pallet-vesting@47.0.0
+- pkg:cargo/pallet-vesting@48.0.0
+- pkg:cargo/pallet-vesting@49.0.0
 - pkg:cargo/pallet-vesting@5.0.0
+- pkg:cargo/pallet-vesting@50.0.0
 - pkg:cargo/pallet-vesting@6.0.0
 - pkg:cargo/pallet-vesting@7.0.0
 - pkg:cargo/pallet-vesting@8.0.0

@@ -44,7 +44,10 @@
 - pkg:cargo/pallet-uniques@45.0.0
 - pkg:cargo/pallet-uniques@46.0.0
 - pkg:cargo/pallet-uniques@47.0.0
+- pkg:cargo/pallet-uniques@48.0.0
+- pkg:cargo/pallet-uniques@49.0.0
 - pkg:cargo/pallet-uniques@5.0.0
+- pkg:cargo/pallet-uniques@50.0.0
 - pkg:cargo/pallet-uniques@6.0.0
 - pkg:cargo/pallet-uniques@7.0.0
 - pkg:cargo/pallet-uniques@8.0.0

@@ -59,6 +59,9 @@
 - pkg:cargo/pallet-transaction-payment-rpc@49.0.0
 - pkg:cargo/pallet-transaction-payment-rpc@5.0.0
 - pkg:cargo/pallet-transaction-payment-rpc@50.0.0
+- pkg:cargo/pallet-transaction-payment-rpc@51.0.0
+- pkg:cargo/pallet-transaction-payment-rpc@52.0.0
+- pkg:cargo/pallet-transaction-payment-rpc@53.0.0
 - pkg:cargo/pallet-transaction-payment-rpc@6.0.0
 - pkg:cargo/pallet-transaction-payment-rpc@7.0.0
 - pkg:cargo/pallet-transaction-payment-rpc@8.0.0

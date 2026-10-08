@@ -15,6 +15,8 @@
 - pkg:cargo/pallet-root-testing@21.0.0
 - pkg:cargo/pallet-root-testing@22.0.0
 - pkg:cargo/pallet-root-testing@23.0.0
+- pkg:cargo/pallet-root-testing@24.0.0
+- pkg:cargo/pallet-root-testing@25.0.0
 - pkg:cargo/pallet-root-testing@3.0.0
 - pkg:cargo/pallet-root-testing@4.0.0
 - pkg:cargo/pallet-root-testing@5.0.0
