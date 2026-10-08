@@ -37,3 +37,5 @@
 - pkg:cargo/tari_template_builtin@0.41.0
 - pkg:cargo/tari_template_builtin@0.41.1
 - pkg:cargo/tari_template_builtin@0.41.2
+- pkg:cargo/tari_template_builtin@0.42.0
+- pkg:cargo/tari_template_builtin@0.43.0
