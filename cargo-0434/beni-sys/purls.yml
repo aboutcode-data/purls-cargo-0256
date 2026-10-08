@@ -10,7 +10,10 @@
 - pkg:cargo/beni-sys@0.16.0
 - pkg:cargo/beni-sys@0.17.0
 - pkg:cargo/beni-sys@0.18.0
+- pkg:cargo/beni-sys@0.19.0
 - pkg:cargo/beni-sys@0.2.0
+- pkg:cargo/beni-sys@0.20.0
+- pkg:cargo/beni-sys@0.21.0
 - pkg:cargo/beni-sys@0.3.0
 - pkg:cargo/beni-sys@0.4.0
 - pkg:cargo/beni-sys@0.5.0
