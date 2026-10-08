@@ -11,6 +11,8 @@
 - pkg:cargo/arraylake@0.11.0
 - pkg:cargo/arraylake@0.12.0
 - pkg:cargo/arraylake@0.13.0
+- pkg:cargo/arraylake@0.14.0
+- pkg:cargo/arraylake@0.15.0
 - pkg:cargo/arraylake@0.2.0
 - pkg:cargo/arraylake@0.3.0
 - pkg:cargo/arraylake@0.3.1
