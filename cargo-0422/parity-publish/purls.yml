@@ -7,6 +7,8 @@
 - pkg:cargo/parity-publish@0.10.13
 - pkg:cargo/parity-publish@0.10.14
 - pkg:cargo/parity-publish@0.10.15
+- pkg:cargo/parity-publish@0.10.17
+- pkg:cargo/parity-publish@0.10.18
 - pkg:cargo/parity-publish@0.10.2
 - pkg:cargo/parity-publish@0.10.3
 - pkg:cargo/parity-publish@0.10.4
