@@ -57,7 +57,10 @@
 - pkg:cargo/pallet-indices@45.0.0
 - pkg:cargo/pallet-indices@46.0.0
 - pkg:cargo/pallet-indices@47.0.0
+- pkg:cargo/pallet-indices@48.0.0
+- pkg:cargo/pallet-indices@49.0.0
 - pkg:cargo/pallet-indices@5.0.0
+- pkg:cargo/pallet-indices@50.0.0
 - pkg:cargo/pallet-indices@6.0.0
 - pkg:cargo/pallet-indices@7.0.0
 - pkg:cargo/pallet-indices@8.0.0

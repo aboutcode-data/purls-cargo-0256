@@ -59,6 +59,9 @@
 - pkg:cargo/pallet-im-online@44.0.0
 - pkg:cargo/pallet-im-online@45.0.0
 - pkg:cargo/pallet-im-online@46.0.0
+- pkg:cargo/pallet-im-online@47.0.0
+- pkg:cargo/pallet-im-online@48.0.0
+- pkg:cargo/pallet-im-online@49.0.0
 - pkg:cargo/pallet-im-online@5.0.0
 - pkg:cargo/pallet-im-online@6.0.0
 - pkg:cargo/pallet-im-online@7.0.0

@@ -46,6 +46,10 @@
 - pkg:cargo/pallet-nomination-pools-benchmarking@43.0.1
 - pkg:cargo/pallet-nomination-pools-benchmarking@44.0.0
 - pkg:cargo/pallet-nomination-pools-benchmarking@45.0.0
+- pkg:cargo/pallet-nomination-pools-benchmarking@46.0.0
+- pkg:cargo/pallet-nomination-pools-benchmarking@47.0.0
+- pkg:cargo/pallet-nomination-pools-benchmarking@48.0.0
+- pkg:cargo/pallet-nomination-pools-benchmarking@49.0.0
 - pkg:cargo/pallet-nomination-pools-benchmarking@5.0.0
 - pkg:cargo/pallet-nomination-pools-benchmarking@6.0.0
 - pkg:cargo/pallet-nomination-pools-benchmarking@7.0.0

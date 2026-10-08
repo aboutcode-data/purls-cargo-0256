@@ -62,7 +62,10 @@
 - pkg:cargo/pallet-scheduler@46.0.0
 - pkg:cargo/pallet-scheduler@47.0.0
 - pkg:cargo/pallet-scheduler@48.0.0
+- pkg:cargo/pallet-scheduler@49.0.0
 - pkg:cargo/pallet-scheduler@5.0.0
+- pkg:cargo/pallet-scheduler@50.0.0
+- pkg:cargo/pallet-scheduler@51.0.0
 - pkg:cargo/pallet-scheduler@6.0.0
 - pkg:cargo/pallet-scheduler@7.0.0
 - pkg:cargo/pallet-scheduler@8.0.0

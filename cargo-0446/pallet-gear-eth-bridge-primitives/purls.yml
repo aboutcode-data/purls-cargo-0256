@@ -2,3 +2,5 @@
 - pkg:cargo/pallet-gear-eth-bridge-primitives@1.9.0
 - pkg:cargo/pallet-gear-eth-bridge-primitives@1.9.1
 - pkg:cargo/pallet-gear-eth-bridge-primitives@1.9.2
+- pkg:cargo/pallet-gear-eth-bridge-primitives@2.0.0
+- pkg:cargo/pallet-gear-eth-bridge-primitives@2.0.0-pre.1

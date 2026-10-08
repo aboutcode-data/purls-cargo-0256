@@ -14,6 +14,8 @@
 - pkg:cargo/pallet-encointer-communities-rpc@21.1.0
 - pkg:cargo/pallet-encointer-communities-rpc@22.1.0
 - pkg:cargo/pallet-encointer-communities-rpc@22.2.0
+- pkg:cargo/pallet-encointer-communities-rpc@22.3.0
+- pkg:cargo/pallet-encointer-communities-rpc@24.0.0
 - pkg:cargo/pallet-encointer-communities-rpc@3.0.0
 - pkg:cargo/pallet-encointer-communities-rpc@3.0.1
 - pkg:cargo/pallet-encointer-communities-rpc@3.0.2
