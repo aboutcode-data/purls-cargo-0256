@@ -6,3 +6,9 @@
 - pkg:cargo/parquet-geospatial@58.1.0
 - pkg:cargo/parquet-geospatial@58.2.0
 - pkg:cargo/parquet-geospatial@58.3.0
+- pkg:cargo/parquet-geospatial@58.4.0
+- pkg:cargo/parquet-geospatial@59.0.0
+- pkg:cargo/parquet-geospatial@59.1.0
+- pkg:cargo/parquet-geospatial@59.2.0
+- pkg:cargo/parquet-geospatial@59.3.0
+- pkg:cargo/parquet-geospatial@60.0.0
