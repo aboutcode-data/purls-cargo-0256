@@ -1,1 +1,2 @@
 - pkg:cargo/nym-bls12_381-fork@0.8.0-forked
+- pkg:cargo/nym-bls12_381-fork@0.9.0-forked
