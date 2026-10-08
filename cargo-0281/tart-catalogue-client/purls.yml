@@ -3,3 +3,5 @@
 - pkg:cargo/tart-catalogue-client@0.4.1
 - pkg:cargo/tart-catalogue-client@0.5.0
 - pkg:cargo/tart-catalogue-client@0.5.2
+- pkg:cargo/tart-catalogue-client@0.6.0
+- pkg:cargo/tart-catalogue-client@0.6.1
