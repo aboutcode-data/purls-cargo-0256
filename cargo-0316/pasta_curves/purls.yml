@@ -10,3 +10,5 @@
 - pkg:cargo/pasta_curves@0.4.1
 - pkg:cargo/pasta_curves@0.5.0
 - pkg:cargo/pasta_curves@0.5.1
+- pkg:cargo/pasta_curves@0.5.2
+- pkg:cargo/pasta_curves@0.6.0
