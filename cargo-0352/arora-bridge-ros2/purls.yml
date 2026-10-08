@@ -1,5 +1,6 @@
 - pkg:cargo/arora-bridge-ros2@0.1.0
 - pkg:cargo/arora-bridge-ros2@1.0.0
+- pkg:cargo/arora-bridge-ros2@10.0.0
 - pkg:cargo/arora-bridge-ros2@2.0.0
 - pkg:cargo/arora-bridge-ros2@2.0.1
 - pkg:cargo/arora-bridge-ros2@3.0.0
@@ -17,3 +18,9 @@
 - pkg:cargo/arora-bridge-ros2@6.3.0
 - pkg:cargo/arora-bridge-ros2@6.3.1
 - pkg:cargo/arora-bridge-ros2@6.4.0
+- pkg:cargo/arora-bridge-ros2@6.5.0
+- pkg:cargo/arora-bridge-ros2@7.0.0
+- pkg:cargo/arora-bridge-ros2@8.0.0
+- pkg:cargo/arora-bridge-ros2@8.0.1
+- pkg:cargo/arora-bridge-ros2@8.1.0
+- pkg:cargo/arora-bridge-ros2@9.0.0

@@ -10,3 +10,8 @@
 - pkg:cargo/arora-web@5.3.0
 - pkg:cargo/arora-web@6.0.0
 - pkg:cargo/arora-web@6.1.0
+- pkg:cargo/arora-web@7.0.0
+- pkg:cargo/arora-web@8.0.0
+- pkg:cargo/arora-web@8.1.0
+- pkg:cargo/arora-web@8.2.0
+- pkg:cargo/arora-web@9.0.0
