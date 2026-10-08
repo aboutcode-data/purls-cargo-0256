@@ -39,3 +39,4 @@
 - pkg:cargo/rattler-bin@0.5.2
 - pkg:cargo/rattler-bin@0.5.3
 - pkg:cargo/rattler-bin@0.5.4
+- pkg:cargo/rattler-bin@0.5.5
