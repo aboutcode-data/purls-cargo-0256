@@ -68,3 +68,4 @@
 - pkg:cargo/ntex-tls@4.1.0
 - pkg:cargo/ntex-tls@4.2.0
 - pkg:cargo/ntex-tls@4.3.0
+- pkg:cargo/ntex-tls@4.3.1
