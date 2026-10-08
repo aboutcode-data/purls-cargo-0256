@@ -12,3 +12,4 @@
 - pkg:cargo/task-runs@0.8.37
 - pkg:cargo/task-runs@0.8.40
 - pkg:cargo/task-runs@0.8.41
+- pkg:cargo/task-runs@0.8.42
