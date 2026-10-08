@@ -72,7 +72,10 @@
 - pkg:cargo/pallet-staking@45.1.0
 - pkg:cargo/pallet-staking@46.0.0
 - pkg:cargo/pallet-staking@47.0.0
+- pkg:cargo/pallet-staking@48.0.0
+- pkg:cargo/pallet-staking@49.0.0
 - pkg:cargo/pallet-staking@5.0.0
+- pkg:cargo/pallet-staking@50.0.0
 - pkg:cargo/pallet-staking@6.0.0
 - pkg:cargo/pallet-staking@7.0.0
 - pkg:cargo/pallet-staking@8.0.0

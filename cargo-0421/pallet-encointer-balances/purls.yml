@@ -16,6 +16,8 @@
 - pkg:cargo/pallet-encointer-balances@21.2.1
 - pkg:cargo/pallet-encointer-balances@22.2.1
 - pkg:cargo/pallet-encointer-balances@22.3.0
+- pkg:cargo/pallet-encointer-balances@22.4.0
+- pkg:cargo/pallet-encointer-balances@24.0.0
 - pkg:cargo/pallet-encointer-balances@3.0.0
 - pkg:cargo/pallet-encointer-balances@3.0.1
 - pkg:cargo/pallet-encointer-balances@3.0.2
