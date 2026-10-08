@@ -14,6 +14,7 @@
 - pkg:cargo/blockwatch@0.1.7
 - pkg:cargo/blockwatch@0.1.8
 - pkg:cargo/blockwatch@0.1.9
+- pkg:cargo/blockwatch@0.10.0
 - pkg:cargo/blockwatch@0.2.0
 - pkg:cargo/blockwatch@0.2.1
 - pkg:cargo/blockwatch@0.2.10
@@ -66,3 +67,7 @@
 - pkg:cargo/blockwatch@0.5.4
 - pkg:cargo/blockwatch@0.5.5
 - pkg:cargo/blockwatch@0.6.0
+- pkg:cargo/blockwatch@0.7.0
+- pkg:cargo/blockwatch@0.8.0
+- pkg:cargo/blockwatch@0.8.1
+- pkg:cargo/blockwatch@0.9.0
