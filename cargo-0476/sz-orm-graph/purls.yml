@@ -8,3 +8,4 @@
 - pkg:cargo/sz-orm-graph@8.7.0
 - pkg:cargo/sz-orm-graph@8.8.0
 - pkg:cargo/sz-orm-graph@9.0.0
+- pkg:cargo/sz-orm-graph@9.4.0
