@@ -1,2 +1,3 @@
 - pkg:cargo/jujitsui@0.28.1
 - pkg:cargo/jujitsui@0.28.2
+- pkg:cargo/jujitsui@1.0.0
