@@ -62,6 +62,7 @@
 - pkg:cargo/fframes_skia_renderer@1.2.1-rc.11
 - pkg:cargo/fframes_skia_renderer@1.2.1-rc.12
 - pkg:cargo/fframes_skia_renderer@1.2.1-rc.13
+- pkg:cargo/fframes_skia_renderer@1.2.1-rc.14
 - pkg:cargo/fframes_skia_renderer@1.2.1-rc.2
 - pkg:cargo/fframes_skia_renderer@1.2.1-rc.3
 - pkg:cargo/fframes_skia_renderer@1.2.1-rc.4
