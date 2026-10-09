@@ -22,3 +22,4 @@
 - pkg:cargo/smolvm-checkpoint@1.24.1
 - pkg:cargo/smolvm-checkpoint@1.24.2
 - pkg:cargo/smolvm-checkpoint@1.25.0
+- pkg:cargo/smolvm-checkpoint@1.25.1
