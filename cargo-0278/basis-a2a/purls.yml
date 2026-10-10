@@ -1,2 +1,4 @@
 - pkg:cargo/basis-a2a@0.13.0
 - pkg:cargo/basis-a2a@0.14.0
+- pkg:cargo/basis-a2a@0.15.0
+- pkg:cargo/basis-a2a@0.15.1
