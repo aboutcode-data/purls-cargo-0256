@@ -117,3 +117,4 @@
 - pkg:cargo/bashrs@7.3.0
 - pkg:cargo/bashrs@7.4.0
 - pkg:cargo/bashrs@7.4.1
+- pkg:cargo/bashrs@7.4.2
