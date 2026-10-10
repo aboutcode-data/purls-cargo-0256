@@ -7,3 +7,4 @@
 - pkg:cargo/udb-client@0.5.27
 - pkg:cargo/udb-client@0.5.28
 - pkg:cargo/udb-client@0.5.29
+- pkg:cargo/udb-client@0.5.30
