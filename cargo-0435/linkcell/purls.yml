@@ -1,4 +1,5 @@
 - pkg:cargo/linkcell@0.3.10
+- pkg:cargo/linkcell@0.3.11
 - pkg:cargo/linkcell@0.3.3
 - pkg:cargo/linkcell@0.3.4
 - pkg:cargo/linkcell@0.3.5
