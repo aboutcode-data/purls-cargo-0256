@@ -49,3 +49,4 @@
 - pkg:cargo/minotari_ledger_wallet_comms@6.1.0
 - pkg:cargo/minotari_ledger_wallet_comms@6.1.0-pre.0
 - pkg:cargo/minotari_ledger_wallet_comms@6.1.0-pre.1
+- pkg:cargo/minotari_ledger_wallet_comms@6.2.0-pre.0
