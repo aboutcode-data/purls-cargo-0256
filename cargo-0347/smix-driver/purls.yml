@@ -38,6 +38,7 @@
 - pkg:cargo/smix-driver@13.0.0
 - pkg:cargo/smix-driver@13.1.0
 - pkg:cargo/smix-driver@14.0.0
+- pkg:cargo/smix-driver@14.1.0
 - pkg:cargo/smix-driver@2.0.0
 - pkg:cargo/smix-driver@2.1.0
 - pkg:cargo/smix-driver@2.2.0
