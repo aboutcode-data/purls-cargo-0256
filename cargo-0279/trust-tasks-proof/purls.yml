@@ -110,6 +110,8 @@
 - pkg:cargo/trust-tasks-proof@0.27.7
 - pkg:cargo/trust-tasks-proof@0.27.8
 - pkg:cargo/trust-tasks-proof@0.28.0
+- pkg:cargo/trust-tasks-proof@0.28.1
+- pkg:cargo/trust-tasks-proof@0.29.0
 - pkg:cargo/trust-tasks-proof@0.3.0
 - pkg:cargo/trust-tasks-proof@0.4.0
 - pkg:cargo/trust-tasks-proof@0.5.0
