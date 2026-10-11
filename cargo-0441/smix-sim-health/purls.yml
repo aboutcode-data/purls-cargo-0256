@@ -27,6 +27,7 @@
 - pkg:cargo/smix-sim-health@12.1.0
 - pkg:cargo/smix-sim-health@13.0.0
 - pkg:cargo/smix-sim-health@13.1.0
+- pkg:cargo/smix-sim-health@14.0.0
 - pkg:cargo/smix-sim-health@2.0.0
 - pkg:cargo/smix-sim-health@2.1.0
 - pkg:cargo/smix-sim-health@2.2.0
