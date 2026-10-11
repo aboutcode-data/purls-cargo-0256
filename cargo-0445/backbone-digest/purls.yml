@@ -1,3 +1,4 @@
 - pkg:cargo/backbone-digest@0.2.24
 - pkg:cargo/backbone-digest@0.3.0
 - pkg:cargo/backbone-digest@0.4.0
+- pkg:cargo/backbone-digest@0.4.1
