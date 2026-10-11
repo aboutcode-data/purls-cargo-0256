@@ -14,3 +14,4 @@
 - pkg:cargo/xacpp@0.8.2
 - pkg:cargo/xacpp@0.8.3
 - pkg:cargo/xacpp@0.8.5
+- pkg:cargo/xacpp@0.8.6
