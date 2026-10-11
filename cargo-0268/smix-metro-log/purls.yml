@@ -33,6 +33,7 @@
 - pkg:cargo/smix-metro-log@12.1.0
 - pkg:cargo/smix-metro-log@13.0.0
 - pkg:cargo/smix-metro-log@13.1.0
+- pkg:cargo/smix-metro-log@14.0.0
 - pkg:cargo/smix-metro-log@2.0.0
 - pkg:cargo/smix-metro-log@2.1.0
 - pkg:cargo/smix-metro-log@2.2.0
