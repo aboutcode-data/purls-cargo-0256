@@ -7,6 +7,7 @@
 - pkg:cargo/smix-contract@13.1.0
 - pkg:cargo/smix-contract@14.0.0
 - pkg:cargo/smix-contract@14.1.0
+- pkg:cargo/smix-contract@14.1.1
 - pkg:cargo/smix-contract@6.6.0
 - pkg:cargo/smix-contract@6.7.0
 - pkg:cargo/smix-contract@6.7.1
