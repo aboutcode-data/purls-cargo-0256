@@ -52,3 +52,4 @@
 - pkg:cargo/trimsec@4.5.7
 - pkg:cargo/trimsec@4.5.8
 - pkg:cargo/trimsec@4.6.0
+- pkg:cargo/trimsec@4.7.0
