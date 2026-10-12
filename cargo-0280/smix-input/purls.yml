@@ -40,6 +40,8 @@
 - pkg:cargo/smix-input@14.0.0
 - pkg:cargo/smix-input@14.1.0
 - pkg:cargo/smix-input@14.1.1
+- pkg:cargo/smix-input@14.2.0
+- pkg:cargo/smix-input@15.0.0
 - pkg:cargo/smix-input@2.0.0
 - pkg:cargo/smix-input@2.1.0
 - pkg:cargo/smix-input@2.2.0
