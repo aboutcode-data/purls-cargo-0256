@@ -19,3 +19,5 @@
 - pkg:cargo/libfluxa_core@1.7.0
 - pkg:cargo/libfluxa_core@1.8.0
 - pkg:cargo/libfluxa_core@1.9.0
+- pkg:cargo/libfluxa_core@2.0.0
+- pkg:cargo/libfluxa_core@2.1.0
