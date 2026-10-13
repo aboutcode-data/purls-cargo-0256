@@ -1,3 +1,4 @@
+- pkg:cargo/backbone-payroll@0.10.0
 - pkg:cargo/backbone-payroll@0.3.46
 - pkg:cargo/backbone-payroll@0.3.47
 - pkg:cargo/backbone-payroll@0.3.48
@@ -13,3 +14,4 @@
 - pkg:cargo/backbone-payroll@0.6.1
 - pkg:cargo/backbone-payroll@0.7.0
 - pkg:cargo/backbone-payroll@0.8.0
+- pkg:cargo/backbone-payroll@0.9.0
