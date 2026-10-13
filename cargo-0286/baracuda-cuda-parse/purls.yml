@@ -1,3 +1,4 @@
 - pkg:cargo/baracuda-cuda-parse@0.11.0
 - pkg:cargo/baracuda-cuda-parse@0.14.3
 - pkg:cargo/baracuda-cuda-parse@0.14.4
+- pkg:cargo/baracuda-cuda-parse@0.16.0
