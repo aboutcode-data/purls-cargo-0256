@@ -2,3 +2,5 @@
 - pkg:cargo/backbone-integrations@0.5.22
 - pkg:cargo/backbone-integrations@0.6.0
 - pkg:cargo/backbone-integrations@0.6.1
+- pkg:cargo/backbone-integrations@0.7.0
+- pkg:cargo/backbone-integrations@0.8.0
