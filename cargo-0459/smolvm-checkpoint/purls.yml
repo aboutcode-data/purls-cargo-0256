@@ -31,3 +31,4 @@
 - pkg:cargo/smolvm-checkpoint@1.27.0
 - pkg:cargo/smolvm-checkpoint@1.27.1
 - pkg:cargo/smolvm-checkpoint@1.27.2
+- pkg:cargo/smolvm-checkpoint@1.27.3
