@@ -43,6 +43,7 @@
 - pkg:cargo/smix-runner-client@14.2.0
 - pkg:cargo/smix-runner-client@15.0.0
 - pkg:cargo/smix-runner-client@15.0.1
+- pkg:cargo/smix-runner-client@15.1.0
 - pkg:cargo/smix-runner-client@2.0.0
 - pkg:cargo/smix-runner-client@2.1.0
 - pkg:cargo/smix-runner-client@2.2.0

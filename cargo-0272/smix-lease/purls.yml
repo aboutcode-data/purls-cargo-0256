@@ -11,6 +11,7 @@
 - pkg:cargo/smix-lease@14.2.0
 - pkg:cargo/smix-lease@15.0.0
 - pkg:cargo/smix-lease@15.0.1
+- pkg:cargo/smix-lease@15.1.0
 - pkg:cargo/smix-lease@2.3.0
 - pkg:cargo/smix-lease@3.0.0
 - pkg:cargo/smix-lease@4.0.0
