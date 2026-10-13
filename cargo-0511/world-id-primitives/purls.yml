@@ -10,6 +10,7 @@
 - pkg:cargo/world-id-primitives@0.13.0
 - pkg:cargo/world-id-primitives@0.14.0
 - pkg:cargo/world-id-primitives@0.14.1
+- pkg:cargo/world-id-primitives@0.15.0
 - pkg:cargo/world-id-primitives@0.2.0
 - pkg:cargo/world-id-primitives@0.3.0
 - pkg:cargo/world-id-primitives@0.4.0
