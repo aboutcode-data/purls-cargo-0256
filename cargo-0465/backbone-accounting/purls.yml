@@ -3,5 +3,7 @@
 - pkg:cargo/backbone-accounting@0.11.0
 - pkg:cargo/backbone-accounting@0.11.1
 - pkg:cargo/backbone-accounting@0.11.2
+- pkg:cargo/backbone-accounting@0.12.0
+- pkg:cargo/backbone-accounting@0.13.0
 - pkg:cargo/backbone-accounting@0.9.27
 - pkg:cargo/backbone-accounting@0.9.28
