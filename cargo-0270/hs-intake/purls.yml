@@ -40,6 +40,7 @@
 - pkg:cargo/hs-intake@0.25.2
 - pkg:cargo/hs-intake@0.25.3
 - pkg:cargo/hs-intake@0.25.4
+- pkg:cargo/hs-intake@0.26.0
 - pkg:cargo/hs-intake@0.6.3
 - pkg:cargo/hs-intake@0.7.0
 - pkg:cargo/hs-intake@0.8.0
