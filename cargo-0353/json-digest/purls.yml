@@ -1,3 +1,4 @@
 - pkg:cargo/json-digest@0.0.15
 - pkg:cargo/json-digest@0.0.16
 - pkg:cargo/json-digest@0.0.5
+- pkg:cargo/json-digest@0.1.0
