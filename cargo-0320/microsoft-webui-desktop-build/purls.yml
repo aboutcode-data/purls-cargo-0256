@@ -1,3 +1,4 @@
 - pkg:cargo/microsoft-webui-desktop-build@0.0.30
 - pkg:cargo/microsoft-webui-desktop-build@3.0.0
 - pkg:cargo/microsoft-webui-desktop-build@3.0.1
+- pkg:cargo/microsoft-webui-desktop-build@3.0.2
