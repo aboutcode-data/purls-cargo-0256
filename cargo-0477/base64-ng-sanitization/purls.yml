@@ -18,3 +18,4 @@
 - pkg:cargo/base64-ng-sanitization@2.0.2
 - pkg:cargo/base64-ng-sanitization@2.0.3
 - pkg:cargo/base64-ng-sanitization@2.0.4
+- pkg:cargo/base64-ng-sanitization@2.1.0
