@@ -72,3 +72,4 @@
 - pkg:cargo/s2n-quic-xdp@0.88.0
 - pkg:cargo/s2n-quic-xdp@0.89.0
 - pkg:cargo/s2n-quic-xdp@0.90.0
+- pkg:cargo/s2n-quic-xdp@0.91.0
