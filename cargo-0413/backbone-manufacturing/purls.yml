@@ -1,4 +1,6 @@
 - pkg:cargo/backbone-manufacturing@0.10.0
+- pkg:cargo/backbone-manufacturing@0.11.0
+- pkg:cargo/backbone-manufacturing@0.12.0
 - pkg:cargo/backbone-manufacturing@0.5.25
 - pkg:cargo/backbone-manufacturing@0.5.26
 - pkg:cargo/backbone-manufacturing@0.6.0
