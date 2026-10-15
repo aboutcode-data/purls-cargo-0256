@@ -34,3 +34,4 @@
 - pkg:cargo/sharedstate@4.0.0
 - pkg:cargo/sharedstate@4.1.0
 - pkg:cargo/sharedstate@4.1.1
+- pkg:cargo/sharedstate@4.2.0
