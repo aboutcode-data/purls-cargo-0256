@@ -33,6 +33,7 @@
 - pkg:cargo/doido-jobs@0.0.30-test7
 - pkg:cargo/doido-jobs@0.0.31
 - pkg:cargo/doido-jobs@0.0.32-test1
+- pkg:cargo/doido-jobs@0.0.32-test2
 - pkg:cargo/doido-jobs@0.0.6
 - pkg:cargo/doido-jobs@0.0.7
 - pkg:cargo/doido-jobs@0.0.9
