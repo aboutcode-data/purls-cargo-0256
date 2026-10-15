@@ -11,3 +11,4 @@
 - pkg:cargo/udb-client@0.5.31
 - pkg:cargo/udb-client@0.5.32
 - pkg:cargo/udb-client@0.5.33
+- pkg:cargo/udb-client@0.5.34
