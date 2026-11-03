@@ -9,6 +9,8 @@
 - pkg:cargo/tinycbor-derive@0.15.0
 - pkg:cargo/tinycbor-derive@0.15.1
 - pkg:cargo/tinycbor-derive@0.15.2
+- pkg:cargo/tinycbor-derive@0.15.3
+- pkg:cargo/tinycbor-derive@0.15.4
 - pkg:cargo/tinycbor-derive@0.2.0
 - pkg:cargo/tinycbor-derive@0.2.1
 - pkg:cargo/tinycbor-derive@0.2.2
