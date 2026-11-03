@@ -41,6 +41,7 @@
 - pkg:cargo/sendly@3.37.0
 - pkg:cargo/sendly@3.37.1
 - pkg:cargo/sendly@3.38.0
+- pkg:cargo/sendly@3.39.0
 - pkg:cargo/sendly@3.4.0
 - pkg:cargo/sendly@3.5.2
 - pkg:cargo/sendly@3.5.3
@@ -49,3 +50,10 @@
 - pkg:cargo/sendly@3.8.1
 - pkg:cargo/sendly@3.8.2
 - pkg:cargo/sendly@3.9.0
+- pkg:cargo/sendly@4.0.0
+- pkg:cargo/sendly@4.0.1
+- pkg:cargo/sendly@5.0.0
+- pkg:cargo/sendly@5.1.0
+- pkg:cargo/sendly@6.0.0
+- pkg:cargo/sendly@6.0.1
+- pkg:cargo/sendly@7.0.0
