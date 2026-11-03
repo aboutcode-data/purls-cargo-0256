@@ -2,6 +2,8 @@
 - pkg:cargo/tinysearch@0.1.1
 - pkg:cargo/tinysearch@0.1.2
 - pkg:cargo/tinysearch@0.10.0
+- pkg:cargo/tinysearch@0.11.0
+- pkg:cargo/tinysearch@0.11.1
 - pkg:cargo/tinysearch@0.2.0
 - pkg:cargo/tinysearch@0.3.0
 - pkg:cargo/tinysearch@0.3.1
