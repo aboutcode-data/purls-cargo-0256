@@ -1,7 +1,13 @@
 - pkg:cargo/qubed@0.1.0
 - pkg:cargo/qubed@0.1.1
+- pkg:cargo/qubed@0.4.10
+- pkg:cargo/qubed@0.4.11
+- pkg:cargo/qubed@0.4.12
+- pkg:cargo/qubed@0.4.13
 - pkg:cargo/qubed@0.4.3
 - pkg:cargo/qubed@0.4.4
 - pkg:cargo/qubed@0.4.5
 - pkg:cargo/qubed@0.4.6
 - pkg:cargo/qubed@0.4.7
+- pkg:cargo/qubed@0.4.8
+- pkg:cargo/qubed@0.4.9
