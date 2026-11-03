@@ -104,3 +104,9 @@
 - pkg:cargo/liter-llm-proxy@2.2.0
 - pkg:cargo/liter-llm-proxy@2.2.1
 - pkg:cargo/liter-llm-proxy@2.2.3
+- pkg:cargo/liter-llm-proxy@2.2.4
+- pkg:cargo/liter-llm-proxy@2.3.0
+- pkg:cargo/liter-llm-proxy@2.4.0
+- pkg:cargo/liter-llm-proxy@2.4.1
+- pkg:cargo/liter-llm-proxy@2.4.2
+- pkg:cargo/liter-llm-proxy@2.4.4
