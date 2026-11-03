@@ -1,0 +1,2 @@
+- pkg:cargo/graphql-strip-sensitive-literals@0.1.0
+- pkg:cargo/graphql-strip-sensitive-literals@0.2.0
