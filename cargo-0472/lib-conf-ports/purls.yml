@@ -4,3 +4,6 @@
 - pkg:cargo/lib-conf-ports@0.2.5
 - pkg:cargo/lib-conf-ports@0.3.0
 - pkg:cargo/lib-conf-ports@0.3.2
+- pkg:cargo/lib-conf-ports@0.4.0
+- pkg:cargo/lib-conf-ports@0.4.1
+- pkg:cargo/lib-conf-ports@0.4.2
