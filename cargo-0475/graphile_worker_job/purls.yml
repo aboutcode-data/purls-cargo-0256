@@ -12,3 +12,7 @@
 - pkg:cargo/graphile_worker_job@0.1.7
 - pkg:cargo/graphile_worker_job@0.1.8
 - pkg:cargo/graphile_worker_job@0.1.9
+- pkg:cargo/graphile_worker_job@0.2.0
+- pkg:cargo/graphile_worker_job@0.2.1
+- pkg:cargo/graphile_worker_job@0.2.2
+- pkg:cargo/graphile_worker_job@0.2.3
