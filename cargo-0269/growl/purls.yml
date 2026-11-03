@@ -1,4 +1,11 @@
+- pkg:cargo/growl@0.10.0
+- pkg:cargo/growl@0.10.1
 - pkg:cargo/growl@0.3.0
 - pkg:cargo/growl@0.4.0
 - pkg:cargo/growl@0.5.0
 - pkg:cargo/growl@0.5.1
+- pkg:cargo/growl@0.5.2
+- pkg:cargo/growl@0.6.0
+- pkg:cargo/growl@0.6.1
+- pkg:cargo/growl@0.7.0
+- pkg:cargo/growl@0.9.0
