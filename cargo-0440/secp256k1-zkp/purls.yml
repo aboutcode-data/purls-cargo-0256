@@ -2,6 +2,7 @@
 - pkg:cargo/secp256k1-zkp@0.10.0
 - pkg:cargo/secp256k1-zkp@0.10.1
 - pkg:cargo/secp256k1-zkp@0.11.0
+- pkg:cargo/secp256k1-zkp@0.11.2
 - pkg:cargo/secp256k1-zkp@0.2.0
 - pkg:cargo/secp256k1-zkp@0.2.1
 - pkg:cargo/secp256k1-zkp@0.3.0
