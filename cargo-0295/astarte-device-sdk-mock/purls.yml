@@ -17,6 +17,10 @@
 - pkg:cargo/astarte-device-sdk-mock@0.14.1
 - pkg:cargo/astarte-device-sdk-mock@0.14.2
 - pkg:cargo/astarte-device-sdk-mock@0.14.3
+- pkg:cargo/astarte-device-sdk-mock@0.14.4
+- pkg:cargo/astarte-device-sdk-mock@0.14.5
+- pkg:cargo/astarte-device-sdk-mock@0.15.0
+- pkg:cargo/astarte-device-sdk-mock@0.15.1
 - pkg:cargo/astarte-device-sdk-mock@0.8.0
 - pkg:cargo/astarte-device-sdk-mock@0.8.1
 - pkg:cargo/astarte-device-sdk-mock@0.8.2
