@@ -13,3 +13,4 @@
 - pkg:cargo/serde-intermediate-derive@1.6.0
 - pkg:cargo/serde-intermediate-derive@1.6.1
 - pkg:cargo/serde-intermediate-derive@1.6.2
+- pkg:cargo/serde-intermediate-derive@1.6.3
