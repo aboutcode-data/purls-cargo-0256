@@ -7,3 +7,5 @@
 - pkg:cargo/mwa_hyperdrive@0.6.1
 - pkg:cargo/mwa_hyperdrive@0.7.0
 - pkg:cargo/mwa_hyperdrive@0.8.0
+- pkg:cargo/mwa_hyperdrive@0.8.1
+- pkg:cargo/mwa_hyperdrive@0.9.0
