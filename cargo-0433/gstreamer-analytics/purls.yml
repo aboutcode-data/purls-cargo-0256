@@ -17,3 +17,4 @@
 - pkg:cargo/gstreamer-analytics@0.25.0-alpha.1
 - pkg:cargo/gstreamer-analytics@0.25.0-alpha.2
 - pkg:cargo/gstreamer-analytics@0.25.2
+- pkg:cargo/gstreamer-analytics@0.25.4
