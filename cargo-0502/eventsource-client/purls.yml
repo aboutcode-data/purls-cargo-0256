@@ -20,6 +20,7 @@
 - pkg:cargo/eventsource-client@0.17.4
 - pkg:cargo/eventsource-client@0.17.5
 - pkg:cargo/eventsource-client@0.18.0
+- pkg:cargo/eventsource-client@0.18.1
 - pkg:cargo/eventsource-client@0.2.0
 - pkg:cargo/eventsource-client@0.3.0
 - pkg:cargo/eventsource-client@0.3.1
