@@ -6,3 +6,4 @@
 - pkg:cargo/librqbit-buffers@9.0.0
 - pkg:cargo/librqbit-buffers@9.0.0-rc.0
 - pkg:cargo/librqbit-buffers@9.0.1
+- pkg:cargo/librqbit-buffers@9.1.0
