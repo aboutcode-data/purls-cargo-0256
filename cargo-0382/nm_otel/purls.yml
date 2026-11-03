@@ -17,7 +17,19 @@
 - pkg:cargo/nm_otel@0.4.15
 - pkg:cargo/nm_otel@0.4.16
 - pkg:cargo/nm_otel@0.4.17
+- pkg:cargo/nm_otel@0.4.18
+- pkg:cargo/nm_otel@0.4.19
 - pkg:cargo/nm_otel@0.4.2
+- pkg:cargo/nm_otel@0.4.20
+- pkg:cargo/nm_otel@0.4.21
+- pkg:cargo/nm_otel@0.4.22
+- pkg:cargo/nm_otel@0.4.23
+- pkg:cargo/nm_otel@0.4.24
+- pkg:cargo/nm_otel@0.4.25
+- pkg:cargo/nm_otel@0.4.26
+- pkg:cargo/nm_otel@0.4.27
+- pkg:cargo/nm_otel@0.4.28
+- pkg:cargo/nm_otel@0.4.29
 - pkg:cargo/nm_otel@0.4.3
 - pkg:cargo/nm_otel@0.4.4
 - pkg:cargo/nm_otel@0.4.5
@@ -25,3 +37,7 @@
 - pkg:cargo/nm_otel@0.4.7
 - pkg:cargo/nm_otel@0.4.8
 - pkg:cargo/nm_otel@0.4.9
+- pkg:cargo/nm_otel@0.5.0
+- pkg:cargo/nm_otel@0.6.0
+- pkg:cargo/nm_otel@0.6.1
+- pkg:cargo/nm_otel@0.7.0

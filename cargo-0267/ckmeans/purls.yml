@@ -15,3 +15,6 @@
 - pkg:cargo/ckmeans@1.0.6
 - pkg:cargo/ckmeans@1.2.0
 - pkg:cargo/ckmeans@1.5.2
+- pkg:cargo/ckmeans@2.0.0
+- pkg:cargo/ckmeans@2.1.0
+- pkg:cargo/ckmeans@2.2.0
