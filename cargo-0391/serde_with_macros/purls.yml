@@ -42,6 +42,8 @@
 - pkg:cargo/serde_with_macros@3.20.0
 - pkg:cargo/serde_with_macros@3.21.0
 - pkg:cargo/serde_with_macros@3.22.0
+- pkg:cargo/serde_with_macros@3.23.0
+- pkg:cargo/serde_with_macros@3.24.0
 - pkg:cargo/serde_with_macros@3.3.0
 - pkg:cargo/serde_with_macros@3.4.0
 - pkg:cargo/serde_with_macros@3.5.0
