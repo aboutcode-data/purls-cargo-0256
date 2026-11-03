@@ -1,0 +1,4 @@
+- pkg:cargo/axum-open-id-connect@0.2.0-alpha.4
+- pkg:cargo/axum-open-id-connect@0.2.0-alpha.6
+- pkg:cargo/axum-open-id-connect@0.2.0-alpha.7
+- pkg:cargo/axum-open-id-connect@0.2.0-alpha.9
