@@ -1,3 +1,6 @@
 - pkg:cargo/seedelf-display@0.4.10
 - pkg:cargo/seedelf-display@0.4.8
 - pkg:cargo/seedelf-display@0.4.9
+- pkg:cargo/seedelf-display@0.5.0
+- pkg:cargo/seedelf-display@0.6.0
+- pkg:cargo/seedelf-display@0.6.1
