@@ -46,6 +46,12 @@
 - pkg:cargo/everruns-openai@0.28.0
 - pkg:cargo/everruns-openai@0.29.0
 - pkg:cargo/everruns-openai@0.30.0
+- pkg:cargo/everruns-openai@0.31.0
+- pkg:cargo/everruns-openai@0.32.0
+- pkg:cargo/everruns-openai@0.33.0
+- pkg:cargo/everruns-openai@0.34.1
+- pkg:cargo/everruns-openai@0.34.2
+- pkg:cargo/everruns-openai@0.35.0
 - pkg:cargo/everruns-openai@0.8.33
 - pkg:cargo/everruns-openai@0.8.34
 - pkg:cargo/everruns-openai@0.8.35
