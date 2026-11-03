@@ -21,3 +21,7 @@
 - pkg:cargo/axdevice_base@0.6.1
 - pkg:cargo/axdevice_base@0.6.2
 - pkg:cargo/axdevice_base@0.6.3
+- pkg:cargo/axdevice_base@0.6.4
+- pkg:cargo/axdevice_base@0.7.0
+- pkg:cargo/axdevice_base@0.7.1
+- pkg:cargo/axdevice_base@0.7.2
