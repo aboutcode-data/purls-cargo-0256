@@ -13,3 +13,4 @@
 - pkg:cargo/async-recursion@1.0.5
 - pkg:cargo/async-recursion@1.1.0
 - pkg:cargo/async-recursion@1.1.1
+- pkg:cargo/async-recursion@1.2.0
