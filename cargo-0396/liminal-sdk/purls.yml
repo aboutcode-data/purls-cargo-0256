@@ -47,6 +47,7 @@
 - pkg:cargo/liminal-sdk@0.20.7
 - pkg:cargo/liminal-sdk@0.20.8
 - pkg:cargo/liminal-sdk@0.20.9
+- pkg:cargo/liminal-sdk@0.21.0
 - pkg:cargo/liminal-sdk@0.3.0
 - pkg:cargo/liminal-sdk@0.3.1
 - pkg:cargo/liminal-sdk@0.3.2
