@@ -63,7 +63,10 @@
 - pkg:cargo/async-proto@0.26.15
 - pkg:cargo/async-proto@0.26.16
 - pkg:cargo/async-proto@0.26.17
+- pkg:cargo/async-proto@0.26.18
+- pkg:cargo/async-proto@0.26.19
 - pkg:cargo/async-proto@0.26.2
+- pkg:cargo/async-proto@0.26.20
 - pkg:cargo/async-proto@0.26.3
 - pkg:cargo/async-proto@0.26.4
 - pkg:cargo/async-proto@0.26.5
