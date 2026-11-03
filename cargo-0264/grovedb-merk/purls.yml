@@ -7,3 +7,6 @@
 - pkg:cargo/grovedb-merk@2.2.1
 - pkg:cargo/grovedb-merk@3.0.0
 - pkg:cargo/grovedb-merk@3.1.0
+- pkg:cargo/grovedb-merk@6.0.1
+- pkg:cargo/grovedb-merk@6.1.0
+- pkg:cargo/grovedb-merk@6.1.1

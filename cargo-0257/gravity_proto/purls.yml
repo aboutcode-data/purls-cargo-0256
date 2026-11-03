@@ -1,4 +1,9 @@
 - pkg:cargo/gravity_proto@0.1.0
+- pkg:cargo/gravity_proto@0.10.0
+- pkg:cargo/gravity_proto@0.11.0
+- pkg:cargo/gravity_proto@0.11.1
+- pkg:cargo/gravity_proto@0.11.2
+- pkg:cargo/gravity_proto@0.12.0
 - pkg:cargo/gravity_proto@0.2.0
 - pkg:cargo/gravity_proto@0.2.1
 - pkg:cargo/gravity_proto@0.2.2
