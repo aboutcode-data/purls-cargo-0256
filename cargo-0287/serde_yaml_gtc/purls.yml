@@ -8,3 +8,5 @@
 - pkg:cargo/serde_yaml_gtc@2.6.0-dev.26557372726
 - pkg:cargo/serde_yaml_gtc@2.6.28789766602
 - pkg:cargo/serde_yaml_gtc@2.6.29816201036
+- pkg:cargo/serde_yaml_gtc@2.6.36539179578
+- pkg:cargo/serde_yaml_gtc@2.6.37436772465
