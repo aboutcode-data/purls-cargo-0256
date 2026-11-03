@@ -5,3 +5,4 @@
 - pkg:cargo/kunobi-auth@0.12.0
 - pkg:cargo/kunobi-auth@0.13.0
 - pkg:cargo/kunobi-auth@1.0.0
+- pkg:cargo/kunobi-auth@1.1.0
