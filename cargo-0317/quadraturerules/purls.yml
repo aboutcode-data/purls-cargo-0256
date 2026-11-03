@@ -1,5 +1,7 @@
 - pkg:cargo/quadraturerules@0.0.2
 - pkg:cargo/quadraturerules@0.0.3
+- pkg:cargo/quadraturerules@0.10.0
+- pkg:cargo/quadraturerules@0.12.0
 - pkg:cargo/quadraturerules@0.2.0
 - pkg:cargo/quadraturerules@0.3.1
 - pkg:cargo/quadraturerules@0.3.2
