@@ -7,3 +7,4 @@
 - pkg:cargo/fmtguard@0.2.6
 - pkg:cargo/fmtguard@0.2.7
 - pkg:cargo/fmtguard@0.2.8
+- pkg:cargo/fmtguard@0.4.2
