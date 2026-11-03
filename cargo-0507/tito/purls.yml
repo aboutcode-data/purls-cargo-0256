@@ -39,6 +39,17 @@
 - pkg:cargo/tito@0.1.7
 - pkg:cargo/tito@0.1.8
 - pkg:cargo/tito@0.1.9
+- pkg:cargo/tito@0.11.1
+- pkg:cargo/tito@0.12.0
+- pkg:cargo/tito@0.13.0
+- pkg:cargo/tito@0.14.0
+- pkg:cargo/tito@0.14.1
+- pkg:cargo/tito@0.15.0
+- pkg:cargo/tito@0.16.0
+- pkg:cargo/tito@0.16.1
+- pkg:cargo/tito@0.16.2
+- pkg:cargo/tito@0.16.3
+- pkg:cargo/tito@0.17.0
 - pkg:cargo/tito@0.2.0
 - pkg:cargo/tito@0.2.1
 - pkg:cargo/tito@0.2.2
@@ -95,3 +106,8 @@
 - pkg:cargo/tito@0.7.0
 - pkg:cargo/tito@0.7.5
 - pkg:cargo/tito@0.7.6
+- pkg:cargo/tito@0.7.7
+- pkg:cargo/tito@0.7.8
+- pkg:cargo/tito@0.8.0
+- pkg:cargo/tito@0.9.0
+- pkg:cargo/tito@0.9.1
