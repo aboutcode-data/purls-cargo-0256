@@ -35,7 +35,14 @@
 - pkg:cargo/jffi@0.4.16
 - pkg:cargo/jffi@0.4.17
 - pkg:cargo/jffi@0.4.18
+- pkg:cargo/jffi@0.4.19
 - pkg:cargo/jffi@0.4.2
+- pkg:cargo/jffi@0.4.20
+- pkg:cargo/jffi@0.4.21
+- pkg:cargo/jffi@0.4.22
+- pkg:cargo/jffi@0.4.23
+- pkg:cargo/jffi@0.4.24
+- pkg:cargo/jffi@0.4.25
 - pkg:cargo/jffi@0.4.3
 - pkg:cargo/jffi@0.4.4
 - pkg:cargo/jffi@0.4.5
