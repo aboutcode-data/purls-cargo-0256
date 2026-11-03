@@ -9,3 +9,4 @@
 - pkg:cargo/query-string-builder@0.6.0
 - pkg:cargo/query-string-builder@0.7.0
 - pkg:cargo/query-string-builder@0.7.1
+- pkg:cargo/query-string-builder@0.8.0
