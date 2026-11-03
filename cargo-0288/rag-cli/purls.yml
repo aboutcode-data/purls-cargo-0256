@@ -18,3 +18,4 @@
 - pkg:cargo/rag-cli@1.1.4
 - pkg:cargo/rag-cli@1.2.0
 - pkg:cargo/rag-cli@2.0.0
+- pkg:cargo/rag-cli@2.1.0
