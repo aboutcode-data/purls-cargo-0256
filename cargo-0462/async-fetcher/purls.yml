@@ -5,6 +5,7 @@
 - pkg:cargo/async-fetcher@0.10.1
 - pkg:cargo/async-fetcher@0.11.0
 - pkg:cargo/async-fetcher@0.12.0
+- pkg:cargo/async-fetcher@0.12.1
 - pkg:cargo/async-fetcher@0.3.0-alpha.3
 - pkg:cargo/async-fetcher@0.4.0
 - pkg:cargo/async-fetcher@0.4.1
