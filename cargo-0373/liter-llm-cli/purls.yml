@@ -110,3 +110,4 @@
 - pkg:cargo/liter-llm-cli@2.4.1
 - pkg:cargo/liter-llm-cli@2.4.2
 - pkg:cargo/liter-llm-cli@2.4.4
+- pkg:cargo/liter-llm-cli@2.5.0
