@@ -5,6 +5,12 @@
 - pkg:cargo/fraiseql-codegen@2.13.1
 - pkg:cargo/fraiseql-codegen@2.14.0
 - pkg:cargo/fraiseql-codegen@2.14.1
+- pkg:cargo/fraiseql-codegen@2.15.0
+- pkg:cargo/fraiseql-codegen@2.16.0
+- pkg:cargo/fraiseql-codegen@2.17.0
+- pkg:cargo/fraiseql-codegen@2.17.1
+- pkg:cargo/fraiseql-codegen@2.18.0
+- pkg:cargo/fraiseql-codegen@2.19.0
 - pkg:cargo/fraiseql-codegen@2.4.0
 - pkg:cargo/fraiseql-codegen@2.5.0
 - pkg:cargo/fraiseql-codegen@2.6.0
