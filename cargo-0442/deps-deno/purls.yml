@@ -1,0 +1,13 @@
+- pkg:cargo/deps-deno@0.11.0
+- pkg:cargo/deps-deno@0.11.1
+- pkg:cargo/deps-deno@0.12.0
+- pkg:cargo/deps-deno@0.12.1
+- pkg:cargo/deps-deno@0.13.0
+- pkg:cargo/deps-deno@0.14.0
+- pkg:cargo/deps-deno@1.0.0
+- pkg:cargo/deps-deno@1.0.1
+- pkg:cargo/deps-deno@1.1.0
+- pkg:cargo/deps-deno@1.2.0
+- pkg:cargo/deps-deno@2.0.0
+- pkg:cargo/deps-deno@3.0.0
+- pkg:cargo/deps-deno@4.0.0
