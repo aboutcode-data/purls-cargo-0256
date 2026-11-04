@@ -11,3 +11,4 @@
 - pkg:cargo/delegate-attr@0.2.8
 - pkg:cargo/delegate-attr@0.2.9
 - pkg:cargo/delegate-attr@0.3.0
+- pkg:cargo/delegate-attr@0.3.1
