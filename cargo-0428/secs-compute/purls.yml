@@ -12,6 +12,7 @@
 - pkg:cargo/secs-compute@0.15.2
 - pkg:cargo/secs-compute@0.15.3
 - pkg:cargo/secs-compute@0.16.0
+- pkg:cargo/secs-compute@0.17.0
 - pkg:cargo/secs-compute@0.2.0
 - pkg:cargo/secs-compute@0.3.0
 - pkg:cargo/secs-compute@0.4.0
