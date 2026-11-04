@@ -174,7 +174,17 @@
 - pkg:cargo/deno_websocket@0.253.0
 - pkg:cargo/deno_websocket@0.254.0
 - pkg:cargo/deno_websocket@0.255.0
+- pkg:cargo/deno_websocket@0.256.0
+- pkg:cargo/deno_websocket@0.257.0
+- pkg:cargo/deno_websocket@0.258.0
+- pkg:cargo/deno_websocket@0.259.0
 - pkg:cargo/deno_websocket@0.26.0
+- pkg:cargo/deno_websocket@0.260.0
+- pkg:cargo/deno_websocket@0.261.0
+- pkg:cargo/deno_websocket@0.262.0
+- pkg:cargo/deno_websocket@0.263.0
+- pkg:cargo/deno_websocket@0.264.0
+- pkg:cargo/deno_websocket@0.265.0
 - pkg:cargo/deno_websocket@0.27.0
 - pkg:cargo/deno_websocket@0.28.0
 - pkg:cargo/deno_websocket@0.29.0

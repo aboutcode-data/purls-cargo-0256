@@ -163,6 +163,16 @@
 - pkg:cargo/deno_http@0.246.0
 - pkg:cargo/deno_http@0.247.0
 - pkg:cargo/deno_http@0.248.0
+- pkg:cargo/deno_http@0.249.0
+- pkg:cargo/deno_http@0.250.0
+- pkg:cargo/deno_http@0.251.0
+- pkg:cargo/deno_http@0.252.0
+- pkg:cargo/deno_http@0.253.0
+- pkg:cargo/deno_http@0.254.0
+- pkg:cargo/deno_http@0.255.0
+- pkg:cargo/deno_http@0.256.0
+- pkg:cargo/deno_http@0.257.0
+- pkg:cargo/deno_http@0.258.0
 - pkg:cargo/deno_http@0.26.0
 - pkg:cargo/deno_http@0.27.0
 - pkg:cargo/deno_http@0.28.0
