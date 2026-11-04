@@ -20,3 +20,7 @@
 - pkg:cargo/fsel@3.4.1-kiwicrab
 - pkg:cargo/fsel@3.5.0-kiwicrab
 - pkg:cargo/fsel@3.5.1-kiwicrab
+- pkg:cargo/fsel@3.5.2-kiwicrab
+- pkg:cargo/fsel@3.6.0-kiwicrab
+- pkg:cargo/fsel@3.7.0-kiwicrab
+- pkg:cargo/fsel@4.0.0-nyamabeetle
