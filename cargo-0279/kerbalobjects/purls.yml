@@ -49,3 +49,6 @@
 - pkg:cargo/kerbalobjects@4.0.1
 - pkg:cargo/kerbalobjects@4.0.2
 - pkg:cargo/kerbalobjects@4.0.3
+- pkg:cargo/kerbalobjects@4.0.4
+- pkg:cargo/kerbalobjects@4.1.0
+- pkg:cargo/kerbalobjects@4.1.1
