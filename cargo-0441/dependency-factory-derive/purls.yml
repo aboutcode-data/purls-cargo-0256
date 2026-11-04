@@ -1,0 +1,3 @@
+- pkg:cargo/dependency-factory-derive@0.0.1
+- pkg:cargo/dependency-factory-derive@0.0.2
+- pkg:cargo/dependency-factory-derive@0.0.3

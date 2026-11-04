@@ -3,3 +3,5 @@
 - pkg:cargo/dependency-injector@0.2.1
 - pkg:cargo/dependency-injector@0.2.2
 - pkg:cargo/dependency-injector@1.0.0
+- pkg:cargo/dependency-injector@2.0.0
+- pkg:cargo/dependency-injector@2.1.0

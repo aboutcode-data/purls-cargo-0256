@@ -1,1 +1,3 @@
 - pkg:cargo/dependency-injector-derive@0.1.0
+- pkg:cargo/dependency-injector-derive@2.0.0
+- pkg:cargo/dependency-injector-derive@2.1.0
