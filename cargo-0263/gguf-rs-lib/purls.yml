@@ -1,2 +1,7 @@
 - pkg:cargo/gguf-rs-lib@0.2.4
 - pkg:cargo/gguf-rs-lib@0.2.5
+- pkg:cargo/gguf-rs-lib@0.3.0
+- pkg:cargo/gguf-rs-lib@0.3.1
+- pkg:cargo/gguf-rs-lib@0.3.2
+- pkg:cargo/gguf-rs-lib@0.3.3
+- pkg:cargo/gguf-rs-lib@0.3.4

@@ -12,4 +12,5 @@
 - pkg:cargo/ggez-assets_manager@0.6.1
 - pkg:cargo/ggez-assets_manager@0.7.0
 - pkg:cargo/ggez-assets_manager@0.8.0
+- pkg:cargo/ggez-assets_manager@0.9.0
 - pkg:cargo/ggez-assets_manager@0.9.0-rc0

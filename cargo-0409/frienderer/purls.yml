@@ -13,6 +13,11 @@
 - pkg:cargo/frienderer@0.14.0
 - pkg:cargo/frienderer@0.14.2
 - pkg:cargo/frienderer@0.15.0
+- pkg:cargo/frienderer@0.16.0
+- pkg:cargo/frienderer@0.17.0
+- pkg:cargo/frienderer@0.18.0
+- pkg:cargo/frienderer@0.18.1
+- pkg:cargo/frienderer@0.18.2
 - pkg:cargo/frienderer@0.2.0
 - pkg:cargo/frienderer@0.3.0
 - pkg:cargo/frienderer@0.4.0
