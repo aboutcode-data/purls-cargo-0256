@@ -1,0 +1,5 @@
+- pkg:cargo/turbopuffer@0.0.0
+- pkg:cargo/turbopuffer@0.1.0-alpha.1
+- pkg:cargo/turbopuffer@0.1.0-alpha.2
+- pkg:cargo/turbopuffer@0.1.0-beta.1
+- pkg:cargo/turbopuffer@0.1.0-beta.2
