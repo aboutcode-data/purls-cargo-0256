@@ -11,3 +11,4 @@
 - pkg:cargo/defmt-parser@0.4.1
 - pkg:cargo/defmt-parser@1.0.0
 - pkg:cargo/defmt-parser@1.0.0-rc.1
+- pkg:cargo/defmt-parser@1.1.0

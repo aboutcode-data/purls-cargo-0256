@@ -12,6 +12,7 @@
 - pkg:cargo/defmt@0.3.10
 - pkg:cargo/defmt@0.3.100
 - pkg:cargo/defmt@0.3.100-rc.1
+- pkg:cargo/defmt@0.3.101
 - pkg:cargo/defmt@0.3.2
 - pkg:cargo/defmt@0.3.3
 - pkg:cargo/defmt@0.3.4
@@ -26,3 +27,5 @@
 - pkg:cargo/defmt@1.0.0-rc.1
 - pkg:cargo/defmt@1.0.1
 - pkg:cargo/defmt@1.1.0
+- pkg:cargo/defmt@1.1.1
+- pkg:cargo/defmt@1.2.0
