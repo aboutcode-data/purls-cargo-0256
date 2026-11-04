@@ -4,3 +4,6 @@
 - pkg:cargo/defined@0.2.3
 - pkg:cargo/defined@0.2.5
 - pkg:cargo/defined@0.3.0
+- pkg:cargo/defined@0.5.0
+- pkg:cargo/defined@0.5.1
+- pkg:cargo/defined@0.5.3
