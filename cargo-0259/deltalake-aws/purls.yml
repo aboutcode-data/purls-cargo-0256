@@ -20,3 +20,4 @@
 - pkg:cargo/deltalake-aws@0.8.0
 - pkg:cargo/deltalake-aws@0.9.0
 - pkg:cargo/deltalake-aws@0.9.1
+- pkg:cargo/deltalake-aws@1.0.0
