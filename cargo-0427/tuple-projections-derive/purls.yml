@@ -1,1 +1,2 @@
 - pkg:cargo/tuple-projections-derive@0.1.0
+- pkg:cargo/tuple-projections-derive@0.1.2
