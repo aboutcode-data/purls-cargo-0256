@@ -1,5 +1,11 @@
 - pkg:cargo/rlst@0.1.0
 - pkg:cargo/rlst@0.1.1
+- pkg:cargo/rlst@0.10.0
+- pkg:cargo/rlst@0.10.1
+- pkg:cargo/rlst@0.10.2
+- pkg:cargo/rlst@0.10.3
+- pkg:cargo/rlst@0.11.0
+- pkg:cargo/rlst@0.12.0
 - pkg:cargo/rlst@0.2.0
 - pkg:cargo/rlst@0.2.1
 - pkg:cargo/rlst@0.4.0
@@ -7,3 +13,5 @@
 - pkg:cargo/rlst@0.6.0
 - pkg:cargo/rlst@0.6.1
 - pkg:cargo/rlst@0.7.0
+- pkg:cargo/rlst@0.8.0
+- pkg:cargo/rlst@0.9.0

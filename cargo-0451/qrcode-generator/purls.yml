@@ -25,3 +25,5 @@
 - pkg:cargo/qrcode-generator@6.0.0
 - pkg:cargo/qrcode-generator@6.0.1
 - pkg:cargo/qrcode-generator@6.1.0
+- pkg:cargo/qrcode-generator@6.1.1
+- pkg:cargo/qrcode-generator@6.1.2
