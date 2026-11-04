@@ -5,3 +5,10 @@
 - pkg:cargo/vizij-graph-core@2.3.0
 - pkg:cargo/vizij-graph-core@2.4.0
 - pkg:cargo/vizij-graph-core@2.5.0
+- pkg:cargo/vizij-graph-core@2.6.0
+- pkg:cargo/vizij-graph-core@3.0.0
+- pkg:cargo/vizij-graph-core@3.1.0
+- pkg:cargo/vizij-graph-core@3.1.1
+- pkg:cargo/vizij-graph-core@4.0.0
+- pkg:cargo/vizij-graph-core@4.0.1
+- pkg:cargo/vizij-graph-core@5.0.0
