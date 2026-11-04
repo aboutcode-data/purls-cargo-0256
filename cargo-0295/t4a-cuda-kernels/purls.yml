@@ -1,1 +1,2 @@
 - pkg:cargo/t4a-cuda-kernels@0.1.0
+- pkg:cargo/t4a-cuda-kernels@0.1.1
