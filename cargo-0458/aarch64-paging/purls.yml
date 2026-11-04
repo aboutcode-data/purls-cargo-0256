@@ -3,6 +3,8 @@
 - pkg:cargo/aarch64-paging@0.11.0
 - pkg:cargo/aarch64-paging@0.12.0
 - pkg:cargo/aarch64-paging@0.12.1
+- pkg:cargo/aarch64-paging@0.12.2
+- pkg:cargo/aarch64-paging@0.12.3
 - pkg:cargo/aarch64-paging@0.2.0
 - pkg:cargo/aarch64-paging@0.2.1
 - pkg:cargo/aarch64-paging@0.3.0
