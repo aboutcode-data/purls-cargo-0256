@@ -1,1 +1,4 @@
 - pkg:cargo/kern-shared-cli@0.7.6
+- pkg:cargo/kern-shared-cli@0.7.8
+- pkg:cargo/kern-shared-cli@0.8.0
+- pkg:cargo/kern-shared-cli@0.8.1
