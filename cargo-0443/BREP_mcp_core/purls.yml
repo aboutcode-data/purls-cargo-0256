@@ -1,1 +1,8 @@
 - pkg:cargo/BREP_mcp_core@0.3.0
+- pkg:cargo/BREP_mcp_core@0.4.0
+- pkg:cargo/BREP_mcp_core@0.5.0
+- pkg:cargo/BREP_mcp_core@0.6.0
+- pkg:cargo/BREP_mcp_core@0.6.1
+- pkg:cargo/BREP_mcp_core@0.7.0
+- pkg:cargo/BREP_mcp_core@0.8.0
+- pkg:cargo/BREP_mcp_core@0.9.0
