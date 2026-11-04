@@ -1,3 +1,5 @@
 - pkg:cargo/t4a-gemm-common@0.19.0
 - pkg:cargo/t4a-gemm-common@0.20.0
 - pkg:cargo/t4a-gemm-common@0.20.1
+- pkg:cargo/t4a-gemm-common@0.20.2
+- pkg:cargo/t4a-gemm-common@0.20.3
