@@ -167,6 +167,7 @@
 - pkg:cargo/quil-rs@0.37.1-rc.2
 - pkg:cargo/quil-rs@0.37.2
 - pkg:cargo/quil-rs@0.37.2-rc.0
+- pkg:cargo/quil-rs@0.37.3-beta.0
 - pkg:cargo/quil-rs@0.37.3-rc.0
 - pkg:cargo/quil-rs@0.37.3-rc.1
 - pkg:cargo/quil-rs@0.37.3-rc.2
