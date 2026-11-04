@@ -23,3 +23,8 @@
 - pkg:cargo/key-paths-core@1.5.0
 - pkg:cargo/key-paths-core@1.6.0
 - pkg:cargo/key-paths-core@1.7.0
+- pkg:cargo/key-paths-core@2.0.0
+- pkg:cargo/key-paths-core@2.0.1
+- pkg:cargo/key-paths-core@2.0.2
+- pkg:cargo/key-paths-core@2.0.4
+- pkg:cargo/key-paths-core@2.1.0

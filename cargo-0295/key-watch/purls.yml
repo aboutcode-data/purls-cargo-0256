@@ -1,1 +1,4 @@
 - pkg:cargo/key-watch@1.1.0
+- pkg:cargo/key-watch@2.0.0
+- pkg:cargo/key-watch@2.0.1
+- pkg:cargo/key-watch@3.0.0
