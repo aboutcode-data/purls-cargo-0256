@@ -5,6 +5,11 @@
 - pkg:cargo/ggen-core@2.5.1
 - pkg:cargo/ggen-core@2.6.0
 - pkg:cargo/ggen-core@2.7.1
+- pkg:cargo/ggen-core@26.5.19
+- pkg:cargo/ggen-core@26.6.11
+- pkg:cargo/ggen-core@26.6.25
+- pkg:cargo/ggen-core@26.7.2
+- pkg:cargo/ggen-core@26.7.3
 - pkg:cargo/ggen-core@3.0.0
 - pkg:cargo/ggen-core@3.2.0
 - pkg:cargo/ggen-core@3.4.0

@@ -1,3 +1,11 @@
+- pkg:cargo/ggen-config@26.10.11
+- pkg:cargo/ggen-config@26.10.12
+- pkg:cargo/ggen-config@26.15.2
+- pkg:cargo/ggen-config@26.5.19
+- pkg:cargo/ggen-config@26.6.11
+- pkg:cargo/ggen-config@26.6.25
+- pkg:cargo/ggen-config@26.7.2
+- pkg:cargo/ggen-config@26.7.3
 - pkg:cargo/ggen-config@4.0.0
 - pkg:cargo/ggen-config@5.0.0
 - pkg:cargo/ggen-config@5.0.1
