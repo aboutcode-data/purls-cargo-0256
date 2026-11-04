@@ -14,3 +14,6 @@
 - pkg:cargo/job-orchestrator@2.2.0
 - pkg:cargo/job-orchestrator@2.2.2
 - pkg:cargo/job-orchestrator@2.2.3
+- pkg:cargo/job-orchestrator@2.2.4
+- pkg:cargo/job-orchestrator@2.3.0
+- pkg:cargo/job-orchestrator@2.3.1
