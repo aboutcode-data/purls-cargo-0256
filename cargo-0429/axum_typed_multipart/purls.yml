@@ -24,6 +24,7 @@
 - pkg:cargo/axum_typed_multipart@0.16.6
 - pkg:cargo/axum_typed_multipart@0.16.7
 - pkg:cargo/axum_typed_multipart@0.16.8
+- pkg:cargo/axum_typed_multipart@0.17.0
 - pkg:cargo/axum_typed_multipart@0.2.0
 - pkg:cargo/axum_typed_multipart@0.3.0
 - pkg:cargo/axum_typed_multipart@0.3.1
