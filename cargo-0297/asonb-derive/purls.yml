@@ -3,3 +3,4 @@
 - pkg:cargo/asonb-derive@3.1.2
 - pkg:cargo/asonb-derive@3.2.1
 - pkg:cargo/asonb-derive@3.2.2
+- pkg:cargo/asonb-derive@3.3.0
