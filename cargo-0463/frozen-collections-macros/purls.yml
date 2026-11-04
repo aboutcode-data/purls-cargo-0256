@@ -7,3 +7,4 @@
 - pkg:cargo/frozen-collections-macros@0.7.0
 - pkg:cargo/frozen-collections-macros@0.8.0
 - pkg:cargo/frozen-collections-macros@0.9.1
+- pkg:cargo/frozen-collections-macros@0.9.3
