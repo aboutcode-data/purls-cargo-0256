@@ -3,6 +3,9 @@
 - pkg:cargo/librotenado@0.12.0
 - pkg:cargo/librotenado@0.13.0
 - pkg:cargo/librotenado@0.14.0
+- pkg:cargo/librotenado@0.15.0
+- pkg:cargo/librotenado@0.16.0
+- pkg:cargo/librotenado@0.17.0
 - pkg:cargo/librotenado@0.7.3
 - pkg:cargo/librotenado@0.8.0
 - pkg:cargo/librotenado@0.9.0
