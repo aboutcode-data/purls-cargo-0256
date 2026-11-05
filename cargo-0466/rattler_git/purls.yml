@@ -15,6 +15,7 @@
 - pkg:cargo/rattler_git@0.3.16
 - pkg:cargo/rattler_git@0.3.17
 - pkg:cargo/rattler_git@0.3.18
+- pkg:cargo/rattler_git@0.3.19
 - pkg:cargo/rattler_git@0.3.2
 - pkg:cargo/rattler_git@0.3.3
 - pkg:cargo/rattler_git@0.3.4
