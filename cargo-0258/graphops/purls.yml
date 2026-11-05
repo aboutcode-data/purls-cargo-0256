@@ -15,3 +15,4 @@
 - pkg:cargo/graphops@0.5.1
 - pkg:cargo/graphops@0.5.2
 - pkg:cargo/graphops@0.5.3
+- pkg:cargo/graphops@0.6.0
