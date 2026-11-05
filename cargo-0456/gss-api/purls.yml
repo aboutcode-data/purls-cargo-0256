@@ -1,2 +1,3 @@
 - pkg:cargo/gss-api@0.0.0
 - pkg:cargo/gss-api@0.1.0
+- pkg:cargo/gss-api@0.2.0-rc.0
