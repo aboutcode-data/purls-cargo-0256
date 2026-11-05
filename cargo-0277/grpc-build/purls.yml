@@ -27,3 +27,4 @@
 - pkg:cargo/grpc-build@6.1.1
 - pkg:cargo/grpc-build@7.0.0
 - pkg:cargo/grpc-build@8.0.0
+- pkg:cargo/grpc-build@8.0.1
