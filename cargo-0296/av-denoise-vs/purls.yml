@@ -9,4 +9,5 @@
 - pkg:cargo/av-denoise-vs@0.5.0-alpha2
 - pkg:cargo/av-denoise-vs@0.5.0-alpha3
 - pkg:cargo/av-denoise-vs@0.5.0-alpha4
+- pkg:cargo/av-denoise-vs@0.6.0
 - pkg:cargo/av-denoise-vs@0.6.0-alpha4
