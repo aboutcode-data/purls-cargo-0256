@@ -1,1 +1,2 @@
 - pkg:cargo/dpdk-stdlib-tcp@0.3.0
+- pkg:cargo/dpdk-stdlib-tcp@0.3.1
