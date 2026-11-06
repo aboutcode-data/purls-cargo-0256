@@ -112,3 +112,4 @@
 - pkg:cargo/liter-llm-proxy@2.4.4
 - pkg:cargo/liter-llm-proxy@2.5.0
 - pkg:cargo/liter-llm-proxy@2.6.0
+- pkg:cargo/liter-llm-proxy@2.6.1
