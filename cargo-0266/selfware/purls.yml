@@ -25,6 +25,7 @@
 - pkg:cargo/selfware@0.9.1
 - pkg:cargo/selfware@0.9.12
 - pkg:cargo/selfware@0.9.13
+- pkg:cargo/selfware@0.9.14
 - pkg:cargo/selfware@0.9.2
 - pkg:cargo/selfware@0.9.3
 - pkg:cargo/selfware@0.9.4
