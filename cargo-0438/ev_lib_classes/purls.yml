@@ -12,6 +12,7 @@
 - pkg:cargo/ev_lib_classes@0.16.1
 - pkg:cargo/ev_lib_classes@0.17.0
 - pkg:cargo/ev_lib_classes@0.18.0
+- pkg:cargo/ev_lib_classes@0.19.0
 - pkg:cargo/ev_lib_classes@0.2.0
 - pkg:cargo/ev_lib_classes@0.3.0
 - pkg:cargo/ev_lib_classes@0.3.1
