@@ -3,3 +3,4 @@
 - pkg:cargo/t4a-gemm-common@0.20.1
 - pkg:cargo/t4a-gemm-common@0.20.2
 - pkg:cargo/t4a-gemm-common@0.20.3
+- pkg:cargo/t4a-gemm-common@0.20.4
