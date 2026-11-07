@@ -1,3 +1,4 @@
+- pkg:cargo/vitest-dedup@0.10.0
 - pkg:cargo/vitest-dedup@0.2.0
 - pkg:cargo/vitest-dedup@0.2.1
 - pkg:cargo/vitest-dedup@0.3.0
