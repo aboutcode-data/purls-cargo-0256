@@ -8,6 +8,7 @@
 - pkg:cargo/qubit-spi@0.13.2
 - pkg:cargo/qubit-spi@0.14.0
 - pkg:cargo/qubit-spi@0.14.1
+- pkg:cargo/qubit-spi@0.14.2
 - pkg:cargo/qubit-spi@0.2.0
 - pkg:cargo/qubit-spi@0.2.1
 - pkg:cargo/qubit-spi@0.2.2
