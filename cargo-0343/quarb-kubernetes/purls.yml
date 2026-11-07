@@ -46,6 +46,7 @@
 - pkg:cargo/quarb-kubernetes@0.50.0
 - pkg:cargo/quarb-kubernetes@0.51.0
 - pkg:cargo/quarb-kubernetes@0.52.0
+- pkg:cargo/quarb-kubernetes@0.53.0
 - pkg:cargo/quarb-kubernetes@0.6.0
 - pkg:cargo/quarb-kubernetes@0.7.0
 - pkg:cargo/quarb-kubernetes@0.8.0
