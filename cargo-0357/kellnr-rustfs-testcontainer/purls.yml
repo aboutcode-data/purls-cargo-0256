@@ -20,3 +20,4 @@
 - pkg:cargo/kellnr-rustfs-testcontainer@6.7.0
 - pkg:cargo/kellnr-rustfs-testcontainer@6.8.0
 - pkg:cargo/kellnr-rustfs-testcontainer@6.9.0
+- pkg:cargo/kellnr-rustfs-testcontainer@7.0.0
