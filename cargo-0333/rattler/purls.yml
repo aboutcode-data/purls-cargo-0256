@@ -182,6 +182,7 @@
 - pkg:cargo/rattler@0.55.4
 - pkg:cargo/rattler@0.55.5
 - pkg:cargo/rattler@0.55.6
+- pkg:cargo/rattler@0.55.7
 - pkg:cargo/rattler@0.6.0
 - pkg:cargo/rattler@0.7.0
 - pkg:cargo/rattler@0.8.0
