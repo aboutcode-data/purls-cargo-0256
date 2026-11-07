@@ -14,3 +14,4 @@
 - pkg:cargo/victron_ble@0.7.0
 - pkg:cargo/victron_ble@1.0.0
 - pkg:cargo/victron_ble@1.1.0
+- pkg:cargo/victron_ble@1.2.0
