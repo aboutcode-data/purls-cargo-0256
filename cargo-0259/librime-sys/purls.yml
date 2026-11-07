@@ -1,2 +1,3 @@
 - pkg:cargo/librime-sys@0.3.0
 - pkg:cargo/librime-sys@0.4.0
+- pkg:cargo/librime-sys@0.5.0
