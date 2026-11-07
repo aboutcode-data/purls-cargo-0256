@@ -5,6 +5,8 @@
 - pkg:cargo/vision-calibration-detect@0.14.0
 - pkg:cargo/vision-calibration-detect@0.15.0
 - pkg:cargo/vision-calibration-detect@0.16.0
+- pkg:cargo/vision-calibration-detect@0.17.0
+- pkg:cargo/vision-calibration-detect@0.18.0
 - pkg:cargo/vision-calibration-detect@0.5.0
 - pkg:cargo/vision-calibration-detect@0.5.1
 - pkg:cargo/vision-calibration-detect@0.6.0
