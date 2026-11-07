@@ -28,3 +28,5 @@
 - pkg:cargo/turul-a2a-aws-lambda@0.2.4
 - pkg:cargo/turul-a2a-aws-lambda@0.2.5
 - pkg:cargo/turul-a2a-aws-lambda@0.2.6
+- pkg:cargo/turul-a2a-aws-lambda@0.2.7
+- pkg:cargo/turul-a2a-aws-lambda@0.2.8
