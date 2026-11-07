@@ -1,2 +1,3 @@
 - pkg:cargo/vix-input@1.8.0
 - pkg:cargo/vix-input@2.0.0
+- pkg:cargo/vix-input@2.0.1
