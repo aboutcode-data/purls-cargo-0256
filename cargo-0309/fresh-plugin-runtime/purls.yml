@@ -53,3 +53,4 @@
 - pkg:cargo/fresh-plugin-runtime@0.5.3
 - pkg:cargo/fresh-plugin-runtime@0.5.4
 - pkg:cargo/fresh-plugin-runtime@0.5.7
+- pkg:cargo/fresh-plugin-runtime@0.5.8
