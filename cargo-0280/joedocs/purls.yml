@@ -1,1 +1,4 @@
 - pkg:cargo/joedocs@0.1.0
+- pkg:cargo/joedocs@0.1.1
+- pkg:cargo/joedocs@0.1.2
+- pkg:cargo/joedocs@0.2.0
