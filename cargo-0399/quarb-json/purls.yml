@@ -56,6 +56,7 @@
 - pkg:cargo/quarb-json@0.54.0
 - pkg:cargo/quarb-json@0.55.0
 - pkg:cargo/quarb-json@0.56.0
+- pkg:cargo/quarb-json@0.57.0
 - pkg:cargo/quarb-json@0.6.0
 - pkg:cargo/quarb-json@0.7.0
 - pkg:cargo/quarb-json@0.8.0
