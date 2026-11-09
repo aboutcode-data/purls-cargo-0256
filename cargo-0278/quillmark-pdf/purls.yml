@@ -41,6 +41,7 @@
 - pkg:cargo/quillmark-pdf@0.134.0
 - pkg:cargo/quillmark-pdf@0.134.1
 - pkg:cargo/quillmark-pdf@0.135.0
+- pkg:cargo/quillmark-pdf@0.136.0
 - pkg:cargo/quillmark-pdf@0.94.0
 - pkg:cargo/quillmark-pdf@0.95.1
 - pkg:cargo/quillmark-pdf@0.96.0
