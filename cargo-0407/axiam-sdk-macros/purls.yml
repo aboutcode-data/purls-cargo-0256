@@ -49,3 +49,4 @@
 - pkg:cargo/axiam-sdk-macros@1.1.3
 - pkg:cargo/axiam-sdk-macros@1.2.2
 - pkg:cargo/axiam-sdk-macros@1.2.5
+- pkg:cargo/axiam-sdk-macros@1.3.0
