@@ -51,6 +51,7 @@
 - pkg:cargo/quarb-atrep@0.54.0
 - pkg:cargo/quarb-atrep@0.55.0
 - pkg:cargo/quarb-atrep@0.56.0
+- pkg:cargo/quarb-atrep@0.57.0
 - pkg:cargo/quarb-atrep@0.6.0
 - pkg:cargo/quarb-atrep@0.7.0
 - pkg:cargo/quarb-atrep@0.8.0
