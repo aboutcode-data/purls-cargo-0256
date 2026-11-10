@@ -6,4 +6,5 @@
 - pkg:cargo/tigr_asgi_contract_rs@0.3.2
 - pkg:cargo/tigr_asgi_contract_rs@0.3.2-dev1
 - pkg:cargo/tigr_asgi_contract_rs@0.3.4
+- pkg:cargo/tigr_asgi_contract_rs@0.3.5
 - pkg:cargo/tigr_asgi_contract_rs@0.3.5-dev6
