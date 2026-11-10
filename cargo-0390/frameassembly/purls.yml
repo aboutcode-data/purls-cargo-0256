@@ -20,3 +20,5 @@
 - pkg:cargo/frameassembly@1.4.4
 - pkg:cargo/frameassembly@1.4.5
 - pkg:cargo/frameassembly@1.4.6
+- pkg:cargo/frameassembly@1.5.0
+- pkg:cargo/frameassembly@1.5.1

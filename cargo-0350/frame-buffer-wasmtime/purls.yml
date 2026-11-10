@@ -4,3 +4,4 @@
 - pkg:cargo/frame-buffer-wasmtime@0.3.1
 - pkg:cargo/frame-buffer-wasmtime@0.4.0
 - pkg:cargo/frame-buffer-wasmtime@0.5.0
+- pkg:cargo/frame-buffer-wasmtime@0.5.1
