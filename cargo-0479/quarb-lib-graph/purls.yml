@@ -11,3 +11,4 @@
 - pkg:cargo/quarb-lib-graph@0.55.0
 - pkg:cargo/quarb-lib-graph@0.56.0
 - pkg:cargo/quarb-lib-graph@0.57.0
+- pkg:cargo/quarb-lib-graph@0.58.0
