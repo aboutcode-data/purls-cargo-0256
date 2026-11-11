@@ -5,3 +5,4 @@
 - pkg:cargo/keeper-secrets-manager-core@17.1.0
 - pkg:cargo/keeper-secrets-manager-core@17.2.0
 - pkg:cargo/keeper-secrets-manager-core@17.3.0
+- pkg:cargo/keeper-secrets-manager-core@17.4.0
