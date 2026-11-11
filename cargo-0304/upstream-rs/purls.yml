@@ -80,6 +80,8 @@
 - pkg:cargo/upstream-rs@2.21.0
 - pkg:cargo/upstream-rs@2.21.1
 - pkg:cargo/upstream-rs@2.21.2
+- pkg:cargo/upstream-rs@2.22.0
+- pkg:cargo/upstream-rs@2.22.1
 - pkg:cargo/upstream-rs@2.3.0
 - pkg:cargo/upstream-rs@2.4.0
 - pkg:cargo/upstream-rs@2.4.1
