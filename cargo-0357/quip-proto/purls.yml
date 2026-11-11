@@ -16,3 +16,4 @@
 - pkg:cargo/quip-proto@0.0.5
 - pkg:cargo/quip-proto@0.0.6
 - pkg:cargo/quip-proto@0.0.7
+- pkg:cargo/quip-proto@0.0.8
