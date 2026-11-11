@@ -65,6 +65,7 @@
 - pkg:cargo/djvu-rs@0.42.0
 - pkg:cargo/djvu-rs@0.43.0
 - pkg:cargo/djvu-rs@0.44.0
+- pkg:cargo/djvu-rs@0.44.1
 - pkg:cargo/djvu-rs@0.5.0
 - pkg:cargo/djvu-rs@0.5.1
 - pkg:cargo/djvu-rs@0.5.2

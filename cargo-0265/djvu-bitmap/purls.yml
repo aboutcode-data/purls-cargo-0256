@@ -52,3 +52,4 @@
 - pkg:cargo/djvu-bitmap@0.42.0
 - pkg:cargo/djvu-bitmap@0.43.0
 - pkg:cargo/djvu-bitmap@0.44.0
+- pkg:cargo/djvu-bitmap@0.44.1
