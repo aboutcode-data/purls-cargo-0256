@@ -34,6 +34,9 @@
 - pkg:cargo/spider_firewall@2.35.19
 - pkg:cargo/spider_firewall@2.35.2
 - pkg:cargo/spider_firewall@2.35.20
+- pkg:cargo/spider_firewall@2.35.21
+- pkg:cargo/spider_firewall@2.35.22
+- pkg:cargo/spider_firewall@2.35.23
 - pkg:cargo/spider_firewall@2.35.3
 - pkg:cargo/spider_firewall@2.35.4
 - pkg:cargo/spider_firewall@2.35.5
@@ -41,3 +44,15 @@
 - pkg:cargo/spider_firewall@2.35.7
 - pkg:cargo/spider_firewall@2.35.8
 - pkg:cargo/spider_firewall@2.35.9
+- pkg:cargo/spider_firewall@2.36.0
+- pkg:cargo/spider_firewall@2.36.1
+- pkg:cargo/spider_firewall@2.36.2
+- pkg:cargo/spider_firewall@2.36.3
+- pkg:cargo/spider_firewall@2.36.4
+- pkg:cargo/spider_firewall@2.37.0
+- pkg:cargo/spider_firewall@2.38.0
+- pkg:cargo/spider_firewall@2.39.0
+- pkg:cargo/spider_firewall@2.40.0
+- pkg:cargo/spider_firewall@2.41.0
+- pkg:cargo/spider_firewall@2.42.0
+- pkg:cargo/spider_firewall@2.42.1
