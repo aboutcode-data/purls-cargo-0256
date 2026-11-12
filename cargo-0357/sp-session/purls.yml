@@ -54,6 +54,8 @@
 - pkg:cargo/sp-session@42.0.0
 - pkg:cargo/sp-session@43.0.0
 - pkg:cargo/sp-session@44.0.0
+- pkg:cargo/sp-session@45.0.0
+- pkg:cargo/sp-session@46.0.0
 - pkg:cargo/sp-session@5.0.0
 - pkg:cargo/sp-session@6.0.0
 - pkg:cargo/sp-session@7.0.0
