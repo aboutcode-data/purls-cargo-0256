@@ -9,3 +9,4 @@
 - pkg:cargo/unftp-auth-pam@0.2.7
 - pkg:cargo/unftp-auth-pam@0.2.8
 - pkg:cargo/unftp-auth-pam@0.3.0
+- pkg:cargo/unftp-auth-pam@0.3.1
