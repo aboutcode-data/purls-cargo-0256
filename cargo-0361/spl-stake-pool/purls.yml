@@ -12,3 +12,5 @@
 - pkg:cargo/spl-stake-pool@2.0.1
 - pkg:cargo/spl-stake-pool@2.0.2
 - pkg:cargo/spl-stake-pool@2.0.3
+- pkg:cargo/spl-stake-pool@2.1.1
+- pkg:cargo/spl-stake-pool@2.2.0
