@@ -17,6 +17,10 @@
 - pkg:cargo/codlet-sqlx@0.17.0
 - pkg:cargo/codlet-sqlx@0.17.1
 - pkg:cargo/codlet-sqlx@0.18.0
+- pkg:cargo/codlet-sqlx@0.19.0
+- pkg:cargo/codlet-sqlx@0.19.1
+- pkg:cargo/codlet-sqlx@0.20.0
+- pkg:cargo/codlet-sqlx@0.21.0
 - pkg:cargo/codlet-sqlx@0.5.0
 - pkg:cargo/codlet-sqlx@0.6.0
 - pkg:cargo/codlet-sqlx@0.7.0
