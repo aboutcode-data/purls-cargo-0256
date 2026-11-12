@@ -1,3 +1,14 @@
+- pkg:cargo/dtop@0.10.0
+- pkg:cargo/dtop@0.10.1
+- pkg:cargo/dtop@0.10.2
+- pkg:cargo/dtop@0.10.3
+- pkg:cargo/dtop@0.10.4
+- pkg:cargo/dtop@0.10.5
+- pkg:cargo/dtop@0.10.6
+- pkg:cargo/dtop@0.11.0
+- pkg:cargo/dtop@0.11.1
+- pkg:cargo/dtop@0.11.2
+- pkg:cargo/dtop@0.11.3
 - pkg:cargo/dtop@0.3.10
 - pkg:cargo/dtop@0.3.11
 - pkg:cargo/dtop@0.3.12
@@ -48,3 +59,4 @@
 - pkg:cargo/dtop@0.9.1
 - pkg:cargo/dtop@0.9.2
 - pkg:cargo/dtop@0.9.3
+- pkg:cargo/dtop@0.9.4
