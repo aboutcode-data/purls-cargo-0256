@@ -1,3 +1,4 @@
 - pkg:cargo/count-lines@1.0.0
 - pkg:cargo/count-lines@1.0.1
 - pkg:cargo/count-lines@1.0.2
+- pkg:cargo/count-lines@1.1.0
