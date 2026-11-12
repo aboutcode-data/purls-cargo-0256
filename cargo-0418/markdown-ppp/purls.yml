@@ -16,6 +16,9 @@
 - pkg:cargo/markdown-ppp@2.1.0
 - pkg:cargo/markdown-ppp@2.1.1
 - pkg:cargo/markdown-ppp@2.1.2
+- pkg:cargo/markdown-ppp@2.10.0
+- pkg:cargo/markdown-ppp@2.11.0
+- pkg:cargo/markdown-ppp@2.12.0
 - pkg:cargo/markdown-ppp@2.2.0
 - pkg:cargo/markdown-ppp@2.2.1
 - pkg:cargo/markdown-ppp@2.3.0
