@@ -13,6 +13,7 @@
 - pkg:cargo/rmodbus@0.12.0
 - pkg:cargo/rmodbus@0.12.1
 - pkg:cargo/rmodbus@0.12.2
+- pkg:cargo/rmodbus@0.13.0
 - pkg:cargo/rmodbus@0.2.0
 - pkg:cargo/rmodbus@0.2.1
 - pkg:cargo/rmodbus@0.2.2
