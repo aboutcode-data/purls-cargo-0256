@@ -5,3 +5,7 @@
 - pkg:cargo/coreimage@0.3.2
 - pkg:cargo/coreimage@0.3.3
 - pkg:cargo/coreimage@0.3.4
+- pkg:cargo/coreimage@0.4.0
+- pkg:cargo/coreimage@0.5.0
+- pkg:cargo/coreimage@0.5.1
+- pkg:cargo/coreimage@0.5.2

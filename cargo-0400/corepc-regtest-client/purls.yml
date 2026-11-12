@@ -1,0 +1,2 @@
+- pkg:cargo/corepc-regtest-client@0.17.0
+- pkg:cargo/corepc-regtest-client@0.18.0
