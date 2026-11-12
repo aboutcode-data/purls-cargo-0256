@@ -8,3 +8,5 @@
 - pkg:cargo/uniffi-runtime-javascript@0.31.0-3
 - pkg:cargo/uniffi-runtime-javascript@0.31.0-4
 - pkg:cargo/uniffi-runtime-javascript@0.31.0-5
+- pkg:cargo/uniffi-runtime-javascript@0.31.0-6
+- pkg:cargo/uniffi-runtime-javascript@0.31.0-7

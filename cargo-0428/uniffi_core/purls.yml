@@ -28,3 +28,5 @@
 - pkg:cargo/uniffi_core@0.31.1
 - pkg:cargo/uniffi_core@0.31.2
 - pkg:cargo/uniffi_core@0.32.0
+- pkg:cargo/uniffi_core@0.32.1
+- pkg:cargo/uniffi_core@0.32.2
