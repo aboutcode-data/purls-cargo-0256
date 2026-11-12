@@ -1,3 +1,6 @@
+- pkg:cargo/uu_checksum_common@0.10.0
+- pkg:cargo/uu_checksum_common@0.11.0
+- pkg:cargo/uu_checksum_common@0.12.0
 - pkg:cargo/uu_checksum_common@0.6.0
 - pkg:cargo/uu_checksum_common@0.7.0
 - pkg:cargo/uu_checksum_common@0.8.0
