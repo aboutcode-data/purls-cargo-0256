@@ -6,6 +6,7 @@
 - pkg:cargo/ckx-sdk@0.13.0
 - pkg:cargo/ckx-sdk@0.13.0-dev.1
 - pkg:cargo/ckx-sdk@0.13.0-test.1
+- pkg:cargo/ckx-sdk@0.14.0-dev.1
 - pkg:cargo/ckx-sdk@0.7.0-dev.1
 - pkg:cargo/ckx-sdk@0.8.0-dev.1
 - pkg:cargo/ckx-sdk@0.9.0
