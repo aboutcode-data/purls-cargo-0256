@@ -11,3 +11,8 @@
 - pkg:cargo/llama-cpp-sys-3@0.5.9
 - pkg:cargo/llama-cpp-sys-3@0.6.0
 - pkg:cargo/llama-cpp-sys-3@0.7.0
+- pkg:cargo/llama-cpp-sys-3@0.8.0
+- pkg:cargo/llama-cpp-sys-3@0.8.1
+- pkg:cargo/llama-cpp-sys-3@0.8.2
+- pkg:cargo/llama-cpp-sys-3@0.8.3
+- pkg:cargo/llama-cpp-sys-3@0.8.4
