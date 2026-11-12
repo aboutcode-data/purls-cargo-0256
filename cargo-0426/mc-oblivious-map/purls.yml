@@ -2,3 +2,4 @@
 - pkg:cargo/mc-oblivious-map@2.0.0
 - pkg:cargo/mc-oblivious-map@2.2.0
 - pkg:cargo/mc-oblivious-map@2.3.0
+- pkg:cargo/mc-oblivious-map@3.0.0
