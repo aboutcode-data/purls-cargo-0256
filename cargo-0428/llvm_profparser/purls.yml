@@ -8,6 +8,13 @@
 - pkg:cargo/llvm_profparser@0.1.1
 - pkg:cargo/llvm_profparser@0.1.1-alpha1
 - pkg:cargo/llvm_profparser@0.10.0
+- pkg:cargo/llvm_profparser@0.11.0
+- pkg:cargo/llvm_profparser@0.12.0
+- pkg:cargo/llvm_profparser@0.13.0
+- pkg:cargo/llvm_profparser@0.13.1
+- pkg:cargo/llvm_profparser@0.14.0
+- pkg:cargo/llvm_profparser@0.15.0
+- pkg:cargo/llvm_profparser@0.16.0
 - pkg:cargo/llvm_profparser@0.2.0
 - pkg:cargo/llvm_profparser@0.3.0
 - pkg:cargo/llvm_profparser@0.3.1
