@@ -10,6 +10,8 @@
 - pkg:cargo/jetstream_wireformat@15.1.0
 - pkg:cargo/jetstream_wireformat@15.2.0
 - pkg:cargo/jetstream_wireformat@16.0.0
+- pkg:cargo/jetstream_wireformat@16.3.0
+- pkg:cargo/jetstream_wireformat@16.3.1
 - pkg:cargo/jetstream_wireformat@5.0.0
 - pkg:cargo/jetstream_wireformat@5.1.4
 - pkg:cargo/jetstream_wireformat@5.2.0
