@@ -1,0 +1,4 @@
+- pkg:cargo/sparse-vector-rs@1.0.0
+- pkg:cargo/sparse-vector-rs@1.1.0
+- pkg:cargo/sparse-vector-rs@2.0.0
+- pkg:cargo/sparse-vector-rs@3.0.0
