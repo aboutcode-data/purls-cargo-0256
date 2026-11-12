@@ -1,0 +1,15 @@
+- pkg:cargo/zakura-test@0.0.0
+- pkg:cargo/zakura-test@1.0.0
+- pkg:cargo/zakura-test@1.0.0-rc3
+- pkg:cargo/zakura-test@1.0.0-rc6
+- pkg:cargo/zakura-test@1.0.1-rc0
+- pkg:cargo/zakura-test@2.0.0
+- pkg:cargo/zakura-test@2.0.1
+- pkg:cargo/zakura-test@2.1.0
+- pkg:cargo/zakura-test@2.1.0-rc1
+- pkg:cargo/zakura-test@2.1.0-rc2
+- pkg:cargo/zakura-test@2.2.0
+- pkg:cargo/zakura-test@3.0.0
+- pkg:cargo/zakura-test@3.0.0-rc2
+- pkg:cargo/zakura-test@4.0.0
+- pkg:cargo/zakura-test@4.1.0
