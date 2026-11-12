@@ -1,3 +1,5 @@
 - pkg:cargo/consortium-ipc-transport-uart-unix@0.1.0
 - pkg:cargo/consortium-ipc-transport-uart-unix@0.2.0
 - pkg:cargo/consortium-ipc-transport-uart-unix@0.3.0
+- pkg:cargo/consortium-ipc-transport-uart-unix@0.4.0
+- pkg:cargo/consortium-ipc-transport-uart-unix@0.5.0
