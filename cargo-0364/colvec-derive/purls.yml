@@ -2,3 +2,4 @@
 - pkg:cargo/colvec-derive@0.0.1
 - pkg:cargo/colvec-derive@0.0.2
 - pkg:cargo/colvec-derive@0.0.3
+- pkg:cargo/colvec-derive@0.0.4
