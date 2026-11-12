@@ -28,3 +28,4 @@
 - pkg:cargo/mavspec_rust_derive@0.6.5
 - pkg:cargo/mavspec_rust_derive@0.6.6
 - pkg:cargo/mavspec_rust_derive@0.6.7
+- pkg:cargo/mavspec_rust_derive@0.7.0-rc.1
