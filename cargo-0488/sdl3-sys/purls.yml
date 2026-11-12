@@ -49,3 +49,7 @@
 - pkg:cargo/sdl3-sys@0.6.6%2BSDL-3.4.10
 - pkg:cargo/sdl3-sys@0.6.7%2BSDL-3.4.12
 - pkg:cargo/sdl3-sys@0.6.8%2BSDL-3.4.14
+- pkg:cargo/sdl3-sys@0.7.0%2BSDL-3.4.16
+- pkg:cargo/sdl3-sys@0.7.1%2BSDL-3.4.16
+- pkg:cargo/sdl3-sys@0.7.2%2BSDL-3.4.18
+- pkg:cargo/sdl3-sys@0.7.3%2BSDL-3.4.20
