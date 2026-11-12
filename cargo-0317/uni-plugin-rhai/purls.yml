@@ -17,3 +17,8 @@
 - pkg:cargo/uni-plugin-rhai@3.2.0
 - pkg:cargo/uni-plugin-rhai@3.3.0
 - pkg:cargo/uni-plugin-rhai@3.4.0
+- pkg:cargo/uni-plugin-rhai@4.0.0
+- pkg:cargo/uni-plugin-rhai@4.1.0
+- pkg:cargo/uni-plugin-rhai@4.1.1
+- pkg:cargo/uni-plugin-rhai@5.0.0
+- pkg:cargo/uni-plugin-rhai@5.1.0

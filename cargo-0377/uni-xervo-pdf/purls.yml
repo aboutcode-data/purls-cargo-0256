@@ -1,2 +1,6 @@
 - pkg:cargo/uni-xervo-pdf@0.15.0
 - pkg:cargo/uni-xervo-pdf@0.17.0
+- pkg:cargo/uni-xervo-pdf@0.18.0
+- pkg:cargo/uni-xervo-pdf@0.18.1
+- pkg:cargo/uni-xervo-pdf@0.19.0
+- pkg:cargo/uni-xervo-pdf@0.19.1
