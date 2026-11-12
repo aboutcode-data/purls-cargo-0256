@@ -9,3 +9,11 @@
 - pkg:cargo/mcumgrctl@0.14.1
 - pkg:cargo/mcumgrctl@0.15.0
 - pkg:cargo/mcumgrctl@0.16.0
+- pkg:cargo/mcumgrctl@0.17.0
+- pkg:cargo/mcumgrctl@0.17.1
+- pkg:cargo/mcumgrctl@0.18.0
+- pkg:cargo/mcumgrctl@0.19.0
+- pkg:cargo/mcumgrctl@0.19.1
+- pkg:cargo/mcumgrctl@0.19.2
+- pkg:cargo/mcumgrctl@0.19.3
+- pkg:cargo/mcumgrctl@0.20.0
