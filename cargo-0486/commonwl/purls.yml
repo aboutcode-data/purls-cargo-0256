@@ -9,6 +9,8 @@
 - pkg:cargo/commonwl@0.13.2
 - pkg:cargo/commonwl@0.14.0
 - pkg:cargo/commonwl@0.14.1
+- pkg:cargo/commonwl@0.15.0
+- pkg:cargo/commonwl@0.15.1
 - pkg:cargo/commonwl@0.3.0
 - pkg:cargo/commonwl@0.4.1
 - pkg:cargo/commonwl@0.4.2

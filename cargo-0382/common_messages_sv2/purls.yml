@@ -5,6 +5,7 @@
 - pkg:cargo/common_messages_sv2@0.1.5
 - pkg:cargo/common_messages_sv2@0.1.7
 - pkg:cargo/common_messages_sv2@1.0.0
+- pkg:cargo/common_messages_sv2@10.0.0
 - pkg:cargo/common_messages_sv2@2.0.0
 - pkg:cargo/common_messages_sv2@3.0.0
 - pkg:cargo/common_messages_sv2@4.0.0
@@ -16,3 +17,4 @@
 - pkg:cargo/common_messages_sv2@7.1.0
 - pkg:cargo/common_messages_sv2@7.2.0
 - pkg:cargo/common_messages_sv2@8.0.0
+- pkg:cargo/common_messages_sv2@9.0.0
