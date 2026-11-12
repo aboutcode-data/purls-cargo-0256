@@ -21,3 +21,4 @@
 - pkg:cargo/treeherder-dl@2.2.4
 - pkg:cargo/treeherder-dl@2.2.5
 - pkg:cargo/treeherder-dl@3.0.0
+- pkg:cargo/treeherder-dl@3.0.1
