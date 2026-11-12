@@ -1,0 +1,4 @@
+- pkg:cargo/maat-plugin-build@0.18.4
+- pkg:cargo/maat-plugin-build@0.18.5
+- pkg:cargo/maat-plugin-build@0.19.0
+- pkg:cargo/maat-plugin-build@0.20.5
