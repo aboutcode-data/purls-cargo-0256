@@ -57,6 +57,8 @@
 - pkg:cargo/trusty-review@0.4.0
 - pkg:cargo/trusty-review@0.4.1
 - pkg:cargo/trusty-review@0.4.2
+- pkg:cargo/trusty-review@0.40.1
+- pkg:cargo/trusty-review@0.40.2
 - pkg:cargo/trusty-review@0.5.0
 - pkg:cargo/trusty-review@0.6.0
 - pkg:cargo/trusty-review@0.6.1
