@@ -15,6 +15,8 @@
 - pkg:cargo/wgsl_to_wgpu@0.17.0
 - pkg:cargo/wgsl_to_wgpu@0.17.1
 - pkg:cargo/wgsl_to_wgpu@0.18.0
+- pkg:cargo/wgsl_to_wgpu@0.19.0
+- pkg:cargo/wgsl_to_wgpu@0.19.1
 - pkg:cargo/wgsl_to_wgpu@0.2.0
 - pkg:cargo/wgsl_to_wgpu@0.3.0
 - pkg:cargo/wgsl_to_wgpu@0.3.1
