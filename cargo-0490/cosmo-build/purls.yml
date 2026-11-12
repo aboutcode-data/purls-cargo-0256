@@ -1,5 +1,16 @@
 - pkg:cargo/cosmo-build@1.0.0
+- pkg:cargo/cosmo-build@10.0.0
 - pkg:cargo/cosmo-build@2.0.0
 - pkg:cargo/cosmo-build@3.0.0
 - pkg:cargo/cosmo-build@4.0.0
 - pkg:cargo/cosmo-build@5.0.0
+- pkg:cargo/cosmo-build@5.0.1
+- pkg:cargo/cosmo-build@5.0.2
+- pkg:cargo/cosmo-build@5.0.3
+- pkg:cargo/cosmo-build@6.0.0
+- pkg:cargo/cosmo-build@6.0.1
+- pkg:cargo/cosmo-build@6.0.2
+- pkg:cargo/cosmo-build@7.0.0
+- pkg:cargo/cosmo-build@8.0.0
+- pkg:cargo/cosmo-build@9.0.0
+- pkg:cargo/cosmo-build@9.0.1
