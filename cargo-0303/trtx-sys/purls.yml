@@ -9,3 +9,5 @@
 - pkg:cargo/trtx-sys@0.7.1%2Brtx1.5
 - pkg:cargo/trtx-sys@0.8.0%2Brtx1.5
 - pkg:cargo/trtx-sys@0.8.1%2Brtx1.6
+- pkg:cargo/trtx-sys@0.9.0%2Brtx1.7
+- pkg:cargo/trtx-sys@0.9.1%2Brtx1.7
