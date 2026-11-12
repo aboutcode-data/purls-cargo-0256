@@ -9,6 +9,7 @@
 - pkg:cargo/ssh_format@0.13.5
 - pkg:cargo/ssh_format@0.14.0
 - pkg:cargo/ssh_format@0.14.1
+- pkg:cargo/ssh_format@0.14.2
 - pkg:cargo/ssh_format@0.4.7
 - pkg:cargo/ssh_format@0.5.0
 - pkg:cargo/ssh_format@0.5.1
