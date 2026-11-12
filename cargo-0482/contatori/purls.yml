@@ -17,3 +17,5 @@
 - pkg:cargo/contatori@0.7.3
 - pkg:cargo/contatori@0.7.4
 - pkg:cargo/contatori@0.7.5
+- pkg:cargo/contatori@0.8.0
+- pkg:cargo/contatori@0.9.0
