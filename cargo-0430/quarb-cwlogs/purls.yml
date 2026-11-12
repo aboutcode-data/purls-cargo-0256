@@ -49,3 +49,5 @@
 - pkg:cargo/quarb-cwlogs@0.56.0
 - pkg:cargo/quarb-cwlogs@0.57.0
 - pkg:cargo/quarb-cwlogs@0.58.0
+- pkg:cargo/quarb-cwlogs@0.59.0
+- pkg:cargo/quarb-cwlogs@0.60.0
