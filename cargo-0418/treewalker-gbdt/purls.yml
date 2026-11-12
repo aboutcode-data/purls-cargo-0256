@@ -1,1 +1,4 @@
 - pkg:cargo/treewalker-gbdt@1.0.0
+- pkg:cargo/treewalker-gbdt@2.0.0
+- pkg:cargo/treewalker-gbdt@3.2.2
+- pkg:cargo/treewalker-gbdt@3.3.0
