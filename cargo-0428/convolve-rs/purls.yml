@@ -7,3 +7,6 @@
 - pkg:cargo/convolve-rs@1.1.3
 - pkg:cargo/convolve-rs@1.1.4
 - pkg:cargo/convolve-rs@1.2.0
+- pkg:cargo/convolve-rs@1.2.1
+- pkg:cargo/convolve-rs@2.0.0
+- pkg:cargo/convolve-rs@2.1.0

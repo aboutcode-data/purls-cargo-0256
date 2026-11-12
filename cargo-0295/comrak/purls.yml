@@ -88,6 +88,11 @@
 - pkg:cargo/comrak@0.52.0
 - pkg:cargo/comrak@0.53.0
 - pkg:cargo/comrak@0.54.0
+- pkg:cargo/comrak@0.55.0
+- pkg:cargo/comrak@0.56.0
+- pkg:cargo/comrak@0.57.0
+- pkg:cargo/comrak@0.58.0
+- pkg:cargo/comrak@0.59.0
 - pkg:cargo/comrak@0.6.0
 - pkg:cargo/comrak@0.6.1
 - pkg:cargo/comrak@0.6.2
@@ -98,3 +103,4 @@
 - pkg:cargo/comrak@0.8.2
 - pkg:cargo/comrak@0.9.0
 - pkg:cargo/comrak@0.9.1
+- pkg:cargo/comrak@1.0.0-rc.1
