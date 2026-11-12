@@ -4,3 +4,7 @@
 - pkg:cargo/unix-ancillary@0.2.2
 - pkg:cargo/unix-ancillary@0.3.0
 - pkg:cargo/unix-ancillary@0.4.0
+- pkg:cargo/unix-ancillary@0.5.0
+- pkg:cargo/unix-ancillary@0.6.0
+- pkg:cargo/unix-ancillary@0.6.1
+- pkg:cargo/unix-ancillary@0.6.2
