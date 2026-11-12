@@ -15,7 +15,15 @@
 - pkg:cargo/splashboard@1.6.0
 - pkg:cargo/splashboard@2.0.0
 - pkg:cargo/splashboard@2.1.0
+- pkg:cargo/splashboard@2.10.0
+- pkg:cargo/splashboard@2.10.1
+- pkg:cargo/splashboard@2.10.2
+- pkg:cargo/splashboard@2.10.4
 - pkg:cargo/splashboard@2.2.0
 - pkg:cargo/splashboard@2.3.0
 - pkg:cargo/splashboard@2.4.0
 - pkg:cargo/splashboard@2.5.0
+- pkg:cargo/splashboard@2.6.0
+- pkg:cargo/splashboard@2.7.0
+- pkg:cargo/splashboard@2.8.0
+- pkg:cargo/splashboard@2.9.0
