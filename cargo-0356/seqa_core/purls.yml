@@ -17,3 +17,5 @@
 - pkg:cargo/seqa_core@5.0.0
 - pkg:cargo/seqa_core@7.0.2
 - pkg:cargo/seqa_core@7.0.3
+- pkg:cargo/seqa_core@8.0.0
+- pkg:cargo/seqa_core@9.0.0
