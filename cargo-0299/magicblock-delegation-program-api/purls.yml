@@ -3,3 +3,6 @@
 - pkg:cargo/magicblock-delegation-program-api@0.3.0
 - pkg:cargo/magicblock-delegation-program-api@2.0.0
 - pkg:cargo/magicblock-delegation-program-api@3.0.0
+- pkg:cargo/magicblock-delegation-program-api@3.1.0
+- pkg:cargo/magicblock-delegation-program-api@4.0.0
+- pkg:cargo/magicblock-delegation-program-api@4.0.1

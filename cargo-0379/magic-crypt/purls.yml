@@ -29,3 +29,6 @@
 - pkg:cargo/magic-crypt@3.1.9
 - pkg:cargo/magic-crypt@4.0.0
 - pkg:cargo/magic-crypt@4.0.1
+- pkg:cargo/magic-crypt@5.0.0
+- pkg:cargo/magic-crypt@5.0.1
+- pkg:cargo/magic-crypt@6.0.0
