@@ -2,6 +2,8 @@
 - pkg:cargo/config_watcher@0.10.1
 - pkg:cargo/config_watcher@0.10.2
 - pkg:cargo/config_watcher@0.11.0
+- pkg:cargo/config_watcher@0.12.0
+- pkg:cargo/config_watcher@0.12.1
 - pkg:cargo/config_watcher@0.8.0
 - pkg:cargo/config_watcher@0.9.0
 - pkg:cargo/config_watcher@0.9.1
