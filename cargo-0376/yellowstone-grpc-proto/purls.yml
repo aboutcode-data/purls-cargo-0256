@@ -27,6 +27,9 @@
 - pkg:cargo/yellowstone-grpc-proto@12.5.0
 - pkg:cargo/yellowstone-grpc-proto@12.6.0
 - pkg:cargo/yellowstone-grpc-proto@12.7.0
+- pkg:cargo/yellowstone-grpc-proto@13.0.0
+- pkg:cargo/yellowstone-grpc-proto@14.0.0
+- pkg:cargo/yellowstone-grpc-proto@14.0.1
 - pkg:cargo/yellowstone-grpc-proto@2.0.0
 - pkg:cargo/yellowstone-grpc-proto@3.0.0
 - pkg:cargo/yellowstone-grpc-proto@3.1.1
