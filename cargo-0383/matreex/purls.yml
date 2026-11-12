@@ -90,6 +90,17 @@
 - pkg:cargo/matreex@0.42.4
 - pkg:cargo/matreex@0.42.5
 - pkg:cargo/matreex@0.42.6
+- pkg:cargo/matreex@0.42.7
+- pkg:cargo/matreex@0.42.8
+- pkg:cargo/matreex@0.42.9
+- pkg:cargo/matreex@0.43.0
+- pkg:cargo/matreex@0.44.0
+- pkg:cargo/matreex@0.44.1
+- pkg:cargo/matreex@0.44.2
+- pkg:cargo/matreex@0.44.3
+- pkg:cargo/matreex@0.44.4
+- pkg:cargo/matreex@0.44.5
+- pkg:cargo/matreex@0.44.6
 - pkg:cargo/matreex@0.5.0
 - pkg:cargo/matreex@0.5.1
 - pkg:cargo/matreex@0.6.0
