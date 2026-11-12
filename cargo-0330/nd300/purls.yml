@@ -25,3 +25,5 @@
 - pkg:cargo/nd300@3.7.1
 - pkg:cargo/nd300@3.7.2
 - pkg:cargo/nd300@3.7.3
+- pkg:cargo/nd300@4.0.1
+- pkg:cargo/nd300@4.0.2
