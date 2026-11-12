@@ -4,3 +4,4 @@
 - pkg:cargo/llama-cpp-v3@0.1.5
 - pkg:cargo/llama-cpp-v3@0.1.6
 - pkg:cargo/llama-cpp-v3@0.1.7
+- pkg:cargo/llama-cpp-v3@0.1.8
