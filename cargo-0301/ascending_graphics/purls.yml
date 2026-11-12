@@ -64,6 +64,7 @@
 - pkg:cargo/ascending_graphics@0.45.0
 - pkg:cargo/ascending_graphics@0.46.0
 - pkg:cargo/ascending_graphics@0.47.0
+- pkg:cargo/ascending_graphics@0.47.1
 - pkg:cargo/ascending_graphics@0.5.0
 - pkg:cargo/ascending_graphics@0.6.0
 - pkg:cargo/ascending_graphics@0.7.0
