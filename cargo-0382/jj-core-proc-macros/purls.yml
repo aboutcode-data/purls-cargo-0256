@@ -1,0 +1,5 @@
+- pkg:cargo/jj-core-proc-macros@0.45.0
+- pkg:cargo/jj-core-proc-macros@0.45.1
+- pkg:cargo/jj-core-proc-macros@0.46.0
+- pkg:cargo/jj-core-proc-macros@0.47.0
+- pkg:cargo/jj-core-proc-macros@0.47.1
