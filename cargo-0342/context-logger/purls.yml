@@ -8,3 +8,4 @@
 - pkg:cargo/context-logger@0.2.0-pre.2
 - pkg:cargo/context-logger@0.2.0-pre.3
 - pkg:cargo/context-logger@0.2.0-rc.1
+- pkg:cargo/context-logger@0.2.1
