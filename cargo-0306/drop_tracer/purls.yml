@@ -6,3 +6,4 @@
 - pkg:cargo/drop_tracer@0.4.0
 - pkg:cargo/drop_tracer@0.5.0
 - pkg:cargo/drop_tracer@0.6.0
+- pkg:cargo/drop_tracer@0.6.1
