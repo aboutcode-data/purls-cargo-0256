@@ -1,5 +1,13 @@
 - pkg:cargo/sdr-aaronia-rs@0.1.0
 - pkg:cargo/sdr-aaronia-rs@0.1.1
+- pkg:cargo/sdr-aaronia-rs@0.10.0
+- pkg:cargo/sdr-aaronia-rs@0.11.0
+- pkg:cargo/sdr-aaronia-rs@0.11.1
+- pkg:cargo/sdr-aaronia-rs@0.11.2
+- pkg:cargo/sdr-aaronia-rs@0.12.0
+- pkg:cargo/sdr-aaronia-rs@0.13.0
+- pkg:cargo/sdr-aaronia-rs@0.13.1
+- pkg:cargo/sdr-aaronia-rs@0.13.3
 - pkg:cargo/sdr-aaronia-rs@0.2.4
 - pkg:cargo/sdr-aaronia-rs@0.2.6
 - pkg:cargo/sdr-aaronia-rs@0.2.7
@@ -20,3 +28,8 @@
 - pkg:cargo/sdr-aaronia-rs@0.7.4
 - pkg:cargo/sdr-aaronia-rs@0.7.5
 - pkg:cargo/sdr-aaronia-rs@0.7.6
+- pkg:cargo/sdr-aaronia-rs@0.7.7
+- pkg:cargo/sdr-aaronia-rs@0.8.0
+- pkg:cargo/sdr-aaronia-rs@0.8.1
+- pkg:cargo/sdr-aaronia-rs@0.8.2
+- pkg:cargo/sdr-aaronia-rs@0.9.0
