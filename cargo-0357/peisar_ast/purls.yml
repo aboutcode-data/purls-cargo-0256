@@ -6,3 +6,5 @@
 - pkg:cargo/peisar_ast@1.2.13
 - pkg:cargo/peisar_ast@1.2.14
 - pkg:cargo/peisar_ast@1.2.15
+- pkg:cargo/peisar_ast@1.2.16
+- pkg:cargo/peisar_ast@1.2.17
