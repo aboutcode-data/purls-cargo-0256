@@ -11,6 +11,10 @@
 - pkg:cargo/trusty-installer@0.13.8
 - pkg:cargo/trusty-installer@0.14.0
 - pkg:cargo/trusty-installer@0.15.0
+- pkg:cargo/trusty-installer@0.16.0
+- pkg:cargo/trusty-installer@0.16.1
+- pkg:cargo/trusty-installer@0.17.0
+- pkg:cargo/trusty-installer@0.17.1
 - pkg:cargo/trusty-installer@0.2.0
 - pkg:cargo/trusty-installer@0.3.0
 - pkg:cargo/trusty-installer@0.4.0
