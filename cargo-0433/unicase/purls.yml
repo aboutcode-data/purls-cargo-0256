@@ -16,6 +16,7 @@
 - pkg:cargo/unicase@1.4.2
 - pkg:cargo/unicase@2.0.0
 - pkg:cargo/unicase@2.1.0
+- pkg:cargo/unicase@2.10.0
 - pkg:cargo/unicase@2.2.0
 - pkg:cargo/unicase@2.3.0
 - pkg:cargo/unicase@2.4.0
