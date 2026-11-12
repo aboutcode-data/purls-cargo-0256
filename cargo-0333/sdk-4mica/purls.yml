@@ -2,6 +2,8 @@
 - pkg:cargo/sdk-4mica@1.0.0
 - pkg:cargo/sdk-4mica@1.1.0
 - pkg:cargo/sdk-4mica@1.2.0
+- pkg:cargo/sdk-4mica@2.0.0
 - pkg:cargo/sdk-4mica@2.0.0-alpha.1
 - pkg:cargo/sdk-4mica@2.0.0-alpha.2
 - pkg:cargo/sdk-4mica@2.0.0-alpha.3
+- pkg:cargo/sdk-4mica@2.0.0-alpha.4
