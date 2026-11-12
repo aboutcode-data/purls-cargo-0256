@@ -1,3 +1,4 @@
 - pkg:cargo/smtc-modem-cores@0.1.0
 - pkg:cargo/smtc-modem-cores@0.2.0
 - pkg:cargo/smtc-modem-cores@0.2.1
+- pkg:cargo/smtc-modem-cores@0.3.0
