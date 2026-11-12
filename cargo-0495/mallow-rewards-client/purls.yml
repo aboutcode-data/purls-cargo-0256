@@ -1,2 +1,4 @@
 - pkg:cargo/mallow-rewards-client@0.1.0
 - pkg:cargo/mallow-rewards-client@0.2.0
+- pkg:cargo/mallow-rewards-client@1.0.0
+- pkg:cargo/mallow-rewards-client@1.0.0-alpha.0
