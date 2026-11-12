@@ -7,7 +7,10 @@
 - pkg:cargo/matchmaker-partial-macros@0.0.28
 - pkg:cargo/matchmaker-partial-macros@0.0.29
 - pkg:cargo/matchmaker-partial-macros@0.0.3
+- pkg:cargo/matchmaker-partial-macros@0.0.30
 - pkg:cargo/matchmaker-partial-macros@0.0.4
 - pkg:cargo/matchmaker-partial-macros@0.0.5
 - pkg:cargo/matchmaker-partial-macros@0.0.7
 - pkg:cargo/matchmaker-partial-macros@0.0.9
+- pkg:cargo/matchmaker-partial-macros@0.1.4
+- pkg:cargo/matchmaker-partial-macros@0.1.7
