@@ -27,6 +27,7 @@
 - pkg:cargo/mako-nbw@0.30.0
 - pkg:cargo/mako-nbw@0.31.0
 - pkg:cargo/mako-nbw@0.32.0
+- pkg:cargo/mako-nbw@0.33.0
 - pkg:cargo/mako-nbw@0.4.0
 - pkg:cargo/mako-nbw@0.5.0
 - pkg:cargo/mako-nbw@0.6.0
