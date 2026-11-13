@@ -38,3 +38,4 @@
 - pkg:cargo/wgpu-types@29.0.4
 - pkg:cargo/wgpu-types@30.0.0
 - pkg:cargo/wgpu-types@30.0.1
+- pkg:cargo/wgpu-types@30.0.2
