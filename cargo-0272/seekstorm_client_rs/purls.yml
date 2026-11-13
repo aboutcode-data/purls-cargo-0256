@@ -20,3 +20,4 @@
 - pkg:cargo/seekstorm_client_rs@3.4.5
 - pkg:cargo/seekstorm_client_rs@4.0.0
 - pkg:cargo/seekstorm_client_rs@4.0.1
+- pkg:cargo/seekstorm_client_rs@5.0.0
