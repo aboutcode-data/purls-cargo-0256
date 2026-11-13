@@ -100,3 +100,4 @@
 - pkg:cargo/kube-derive@4.0.0
 - pkg:cargo/kube-derive@4.2.0
 - pkg:cargo/kube-derive@5.0.0
+- pkg:cargo/kube-derive@5.1.0
