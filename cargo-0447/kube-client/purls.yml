@@ -59,3 +59,4 @@
 - pkg:cargo/kube-client@4.0.0
 - pkg:cargo/kube-client@4.2.0
 - pkg:cargo/kube-client@5.0.0
+- pkg:cargo/kube-client@5.1.0
