@@ -10,3 +10,5 @@
 - pkg:cargo/market-search@0.2.9
 - pkg:cargo/market-search@0.5.0
 - pkg:cargo/market-search@0.6.0
+- pkg:cargo/market-search@0.6.1
+- pkg:cargo/market-search@0.6.2
