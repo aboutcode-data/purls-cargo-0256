@@ -1,4 +1,5 @@
 - pkg:cargo/qubit-fs-local@0.10.0
 - pkg:cargo/qubit-fs-local@0.10.1
 - pkg:cargo/qubit-fs-local@0.10.2
+- pkg:cargo/qubit-fs-local@0.11.1
 - pkg:cargo/qubit-fs-local@0.9.0

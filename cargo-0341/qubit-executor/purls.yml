@@ -19,3 +19,5 @@
 - pkg:cargo/qubit-executor@0.7.0
 - pkg:cargo/qubit-executor@0.8.0
 - pkg:cargo/qubit-executor@0.9.0
+- pkg:cargo/qubit-executor@0.9.3
+- pkg:cargo/qubit-executor@0.9.4
