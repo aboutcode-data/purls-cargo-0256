@@ -7,6 +7,7 @@
 - pkg:cargo/persistant-migrate@0.16.4
 - pkg:cargo/persistant-migrate@0.16.6
 - pkg:cargo/persistant-migrate@0.16.8
+- pkg:cargo/persistant-migrate@0.17.1
 - pkg:cargo/persistant-migrate@0.8.19
 - pkg:cargo/persistant-migrate@0.8.20
 - pkg:cargo/persistant-migrate@0.8.21
