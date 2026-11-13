@@ -54,6 +54,7 @@
 - pkg:cargo/spar-cli@0.4.33
 - pkg:cargo/spar-cli@0.4.34
 - pkg:cargo/spar-cli@0.4.35
+- pkg:cargo/spar-cli@0.4.36
 - pkg:cargo/spar-cli@0.4.4
 - pkg:cargo/spar-cli@0.4.5
 - pkg:cargo/spar-cli@0.4.6
