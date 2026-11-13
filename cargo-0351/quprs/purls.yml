@@ -1,3 +1,7 @@
 - pkg:cargo/quprs@0.15.0
 - pkg:cargo/quprs@0.15.0-rc.1
 - pkg:cargo/quprs@0.15.0-rc.2
+- pkg:cargo/quprs@0.15.1
+- pkg:cargo/quprs@0.15.1-rc.1
+- pkg:cargo/quprs@0.16.0
+- pkg:cargo/quprs@0.16.0-rc.1
