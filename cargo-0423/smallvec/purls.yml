@@ -86,3 +86,4 @@
 - pkg:cargo/smallvec@2.0.0-beta.2
 - pkg:cargo/smallvec@2.0.0-beta.3
 - pkg:cargo/smallvec@2.0.0-beta.4
+- pkg:cargo/smallvec@2.0.0-beta.5
