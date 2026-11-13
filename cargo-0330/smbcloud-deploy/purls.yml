@@ -24,3 +24,4 @@
 - pkg:cargo/smbcloud-deploy@1.1.1
 - pkg:cargo/smbcloud-deploy@1.1.2
 - pkg:cargo/smbcloud-deploy@1.2.0
+- pkg:cargo/smbcloud-deploy@1.2.1
