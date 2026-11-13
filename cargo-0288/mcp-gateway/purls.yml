@@ -38,6 +38,7 @@
 - pkg:cargo/mcp-gateway@3.4.0
 - pkg:cargo/mcp-gateway@3.5.0
 - pkg:cargo/mcp-gateway@3.5.1
+- pkg:cargo/mcp-gateway@3.5.2
 - pkg:cargo/mcp-gateway@4.0.0-beta.1
 - pkg:cargo/mcp-gateway@4.0.0-beta.2
 - pkg:cargo/mcp-gateway@4.0.0-beta.3
