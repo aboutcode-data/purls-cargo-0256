@@ -193,3 +193,4 @@
 - pkg:cargo/autd3-firmware-emulator@37.0.1
 - pkg:cargo/autd3-firmware-emulator@38.0.0
 - pkg:cargo/autd3-firmware-emulator@38.0.1
+- pkg:cargo/autd3-firmware-emulator@38.1.0

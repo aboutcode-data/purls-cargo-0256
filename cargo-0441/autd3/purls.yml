@@ -233,6 +233,7 @@
 - pkg:cargo/autd3@37.0.1
 - pkg:cargo/autd3@38.0.0
 - pkg:cargo/autd3@38.0.1
+- pkg:cargo/autd3@38.1.0
 - pkg:cargo/autd3@8.1.0
 - pkg:cargo/autd3@8.1.1
 - pkg:cargo/autd3@8.1.2

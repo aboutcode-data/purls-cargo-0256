@@ -218,6 +218,7 @@
 - pkg:cargo/autd3-driver@37.0.1
 - pkg:cargo/autd3-driver@38.0.0
 - pkg:cargo/autd3-driver@38.0.1
+- pkg:cargo/autd3-driver@38.1.0
 - pkg:cargo/autd3-driver@8.1.0
 - pkg:cargo/autd3-driver@8.1.1
 - pkg:cargo/autd3-driver@8.1.2

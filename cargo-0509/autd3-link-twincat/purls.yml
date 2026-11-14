@@ -217,6 +217,7 @@
 - pkg:cargo/autd3-link-twincat@37.0.1
 - pkg:cargo/autd3-link-twincat@38.0.0
 - pkg:cargo/autd3-link-twincat@38.0.1
+- pkg:cargo/autd3-link-twincat@38.1.0
 - pkg:cargo/autd3-link-twincat@8.1.0
 - pkg:cargo/autd3-link-twincat@8.1.1
 - pkg:cargo/autd3-link-twincat@8.1.2
