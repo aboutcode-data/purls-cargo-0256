@@ -1,1 +1,3 @@
 - pkg:cargo/azure_storage_sas@0.1.0
+- pkg:cargo/azure_storage_sas@1.0.0
+- pkg:cargo/azure_storage_sas@1.1.0-beta.1
