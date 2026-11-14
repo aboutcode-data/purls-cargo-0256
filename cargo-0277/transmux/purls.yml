@@ -41,6 +41,7 @@
 - pkg:cargo/transmux@0.29.0
 - pkg:cargo/transmux@0.29.1
 - pkg:cargo/transmux@0.30.0
+- pkg:cargo/transmux@0.31.0
 - pkg:cargo/transmux@0.4.1
 - pkg:cargo/transmux@0.5.0
 - pkg:cargo/transmux@0.6.0
