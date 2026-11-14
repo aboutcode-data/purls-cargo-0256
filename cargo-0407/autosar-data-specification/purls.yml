@@ -12,6 +12,7 @@
 - pkg:cargo/autosar-data-specification@0.2.0
 - pkg:cargo/autosar-data-specification@0.20.0
 - pkg:cargo/autosar-data-specification@0.21.0
+- pkg:cargo/autosar-data-specification@0.23.0
 - pkg:cargo/autosar-data-specification@0.3.0
 - pkg:cargo/autosar-data-specification@0.4.0
 - pkg:cargo/autosar-data-specification@0.5.0
