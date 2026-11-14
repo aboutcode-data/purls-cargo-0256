@@ -11,6 +11,13 @@
 - pkg:cargo/yui-cli@0.14.1
 - pkg:cargo/yui-cli@0.15.0
 - pkg:cargo/yui-cli@0.15.1
+- pkg:cargo/yui-cli@0.15.2
+- pkg:cargo/yui-cli@0.15.3
+- pkg:cargo/yui-cli@0.15.4
+- pkg:cargo/yui-cli@0.16.0
+- pkg:cargo/yui-cli@0.17.0
+- pkg:cargo/yui-cli@0.18.0
+- pkg:cargo/yui-cli@0.18.1
 - pkg:cargo/yui-cli@0.2.0
 - pkg:cargo/yui-cli@0.3.0
 - pkg:cargo/yui-cli@0.4.0
