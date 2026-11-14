@@ -11,3 +11,4 @@
 - pkg:cargo/cf_speedtest@0.6.1
 - pkg:cargo/cf_speedtest@0.6.3
 - pkg:cargo/cf_speedtest@0.8.0
+- pkg:cargo/cf_speedtest@0.8.1
