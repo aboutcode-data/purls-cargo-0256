@@ -41,3 +41,6 @@
 - pkg:cargo/iref@4.0.2
 - pkg:cargo/iref@4.1.0
 - pkg:cargo/iref@4.2.0
+- pkg:cargo/iref@4.3.0
+- pkg:cargo/iref@4.4.0
+- pkg:cargo/iref@5.0.0
