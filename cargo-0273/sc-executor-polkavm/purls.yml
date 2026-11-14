@@ -13,3 +13,5 @@
 - pkg:cargo/sc-executor-polkavm@0.40.0
 - pkg:cargo/sc-executor-polkavm@0.41.0
 - pkg:cargo/sc-executor-polkavm@0.42.0
+- pkg:cargo/sc-executor-polkavm@0.43.0
+- pkg:cargo/sc-executor-polkavm@0.44.0
