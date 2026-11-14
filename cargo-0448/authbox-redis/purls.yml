@@ -1,0 +1,6 @@
+- pkg:cargo/authbox-redis@1.1.2
+- pkg:cargo/authbox-redis@1.2.2
+- pkg:cargo/authbox-redis@1.2.3
+- pkg:cargo/authbox-redis@1.2.4
+- pkg:cargo/authbox-redis@3.0.0
+- pkg:cargo/authbox-redis@3.0.0-rc.1
