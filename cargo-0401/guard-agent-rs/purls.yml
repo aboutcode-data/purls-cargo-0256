@@ -1,1 +1,8 @@
 - pkg:cargo/guard-agent-rs@0.0.1
+- pkg:cargo/guard-agent-rs@3.0.2
+- pkg:cargo/guard-agent-rs@3.1.0
+- pkg:cargo/guard-agent-rs@3.2.0
+- pkg:cargo/guard-agent-rs@3.2.1
+- pkg:cargo/guard-agent-rs@3.2.2
+- pkg:cargo/guard-agent-rs@3.2.3
+- pkg:cargo/guard-agent-rs@3.2.4
