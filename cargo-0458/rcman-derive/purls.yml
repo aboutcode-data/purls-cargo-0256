@@ -8,3 +8,12 @@
 - pkg:cargo/rcman-derive@0.1.7
 - pkg:cargo/rcman-derive@0.1.8
 - pkg:cargo/rcman-derive@0.1.9
+- pkg:cargo/rcman-derive@0.2.0
+- pkg:cargo/rcman-derive@0.2.1
+- pkg:cargo/rcman-derive@0.2.2
+- pkg:cargo/rcman-derive@0.2.3
+- pkg:cargo/rcman-derive@0.2.4
+- pkg:cargo/rcman-derive@0.2.5
+- pkg:cargo/rcman-derive@0.2.6
+- pkg:cargo/rcman-derive@0.2.7
+- pkg:cargo/rcman-derive@0.2.8
