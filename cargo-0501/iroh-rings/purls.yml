@@ -9,3 +9,6 @@
 - pkg:cargo/iroh-rings@0.6.1
 - pkg:cargo/iroh-rings@0.7.0
 - pkg:cargo/iroh-rings@0.7.2
+- pkg:cargo/iroh-rings@0.8.0
+- pkg:cargo/iroh-rings@0.8.1
+- pkg:cargo/iroh-rings@0.8.2
