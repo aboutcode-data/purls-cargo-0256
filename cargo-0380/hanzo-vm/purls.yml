@@ -2,3 +2,5 @@
 - pkg:cargo/hanzo-vm@1.1.21
 - pkg:cargo/hanzo-vm@1.1.22
 - pkg:cargo/hanzo-vm@2.0.0
+- pkg:cargo/hanzo-vm@2.0.1
+- pkg:cargo/hanzo-vm@2.0.2
