@@ -17,6 +17,7 @@
 - pkg:cargo/ksynth@0.2.0
 - pkg:cargo/ksynth@0.20.0
 - pkg:cargo/ksynth@0.22.0
+- pkg:cargo/ksynth@0.23.0
 - pkg:cargo/ksynth@0.3.0
 - pkg:cargo/ksynth@0.4.0
 - pkg:cargo/ksynth@0.4.1
