@@ -8,3 +8,7 @@
 - pkg:cargo/glyphslib@0.2.5
 - pkg:cargo/glyphslib@0.2.6
 - pkg:cargo/glyphslib@0.2.7
+- pkg:cargo/glyphslib@0.2.8
+- pkg:cargo/glyphslib@0.3.0
+- pkg:cargo/glyphslib@0.4.0
+- pkg:cargo/glyphslib@0.4.1
