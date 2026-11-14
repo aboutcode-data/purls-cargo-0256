@@ -37,7 +37,12 @@
 - pkg:cargo/ocula@0.1.43
 - pkg:cargo/ocula@0.1.44
 - pkg:cargo/ocula@0.1.45
+- pkg:cargo/ocula@0.1.46
+- pkg:cargo/ocula@0.1.47
+- pkg:cargo/ocula@0.1.48
+- pkg:cargo/ocula@0.1.49
 - pkg:cargo/ocula@0.1.5
+- pkg:cargo/ocula@0.1.50
 - pkg:cargo/ocula@0.1.6
 - pkg:cargo/ocula@0.1.7
 - pkg:cargo/ocula@0.1.8
