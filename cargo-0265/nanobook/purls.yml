@@ -5,6 +5,12 @@
 - pkg:cargo/nanobook@0.16.2
 - pkg:cargo/nanobook@0.17.0
 - pkg:cargo/nanobook@0.17.2
+- pkg:cargo/nanobook@0.18.0
+- pkg:cargo/nanobook@0.18.1
+- pkg:cargo/nanobook@0.19.0
+- pkg:cargo/nanobook@0.19.1
+- pkg:cargo/nanobook@0.19.2
+- pkg:cargo/nanobook@0.19.3
 - pkg:cargo/nanobook@0.2.0
 - pkg:cargo/nanobook@0.3.0
 - pkg:cargo/nanobook@0.4.0
