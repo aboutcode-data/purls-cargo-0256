@@ -8,3 +8,5 @@
 - pkg:cargo/pupactor_macro@0.2.3
 - pkg:cargo/pupactor_macro@0.2.4
 - pkg:cargo/pupactor_macro@0.2.5
+- pkg:cargo/pupactor_macro@0.2.6
+- pkg:cargo/pupactor_macro@0.2.7
