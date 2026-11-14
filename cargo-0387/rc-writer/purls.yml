@@ -10,3 +10,4 @@
 - pkg:cargo/rc-writer@1.1.7
 - pkg:cargo/rc-writer@1.1.8
 - pkg:cargo/rc-writer@1.1.9
+- pkg:cargo/rc-writer@1.2.0
