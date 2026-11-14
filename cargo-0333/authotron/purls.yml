@@ -3,3 +3,7 @@
 - pkg:cargo/authotron@0.3.3
 - pkg:cargo/authotron@0.3.3-dev.1
 - pkg:cargo/authotron@0.3.3-dev.2
+- pkg:cargo/authotron@0.3.4
+- pkg:cargo/authotron@0.3.5
+- pkg:cargo/authotron@0.3.6
+- pkg:cargo/authotron@0.3.7
