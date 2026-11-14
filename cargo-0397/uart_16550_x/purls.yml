@@ -1,0 +1,2 @@
+- pkg:cargo/uart_16550_x@0.3.2
+- pkg:cargo/uart_16550_x@0.3.3
