@@ -12,3 +12,4 @@
 - pkg:cargo/sc-simnode@2503.1.0
 - pkg:cargo/sc-simnode@2506.0.0
 - pkg:cargo/sc-simnode@2512.0.0
+- pkg:cargo/sc-simnode@2606.0.0
