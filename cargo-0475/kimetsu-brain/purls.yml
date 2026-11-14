@@ -16,8 +16,13 @@
 - pkg:cargo/kimetsu-brain@1.0.0
 - pkg:cargo/kimetsu-brain@1.5.1
 - pkg:cargo/kimetsu-brain@2.0.0
+- pkg:cargo/kimetsu-brain@2.10.0
+- pkg:cargo/kimetsu-brain@2.11.0
 - pkg:cargo/kimetsu-brain@2.5.0
 - pkg:cargo/kimetsu-brain@2.5.2
 - pkg:cargo/kimetsu-brain@2.5.3
 - pkg:cargo/kimetsu-brain@2.6.0
 - pkg:cargo/kimetsu-brain@2.6.1
+- pkg:cargo/kimetsu-brain@2.7.0
+- pkg:cargo/kimetsu-brain@2.8.0
+- pkg:cargo/kimetsu-brain@2.9.0
