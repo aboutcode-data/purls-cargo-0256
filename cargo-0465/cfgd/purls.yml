@@ -1,3 +1,6 @@
+- pkg:cargo/cfgd@0.10.0
+- pkg:cargo/cfgd@0.11.0
+- pkg:cargo/cfgd@0.12.0
 - pkg:cargo/cfgd@0.3.2
 - pkg:cargo/cfgd@0.3.3
 - pkg:cargo/cfgd@0.3.4
@@ -10,3 +13,4 @@
 - pkg:cargo/cfgd@0.6.2
 - pkg:cargo/cfgd@0.7.0
 - pkg:cargo/cfgd@0.8.0
+- pkg:cargo/cfgd@0.9.0
