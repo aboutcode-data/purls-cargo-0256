@@ -1,3 +1,7 @@
 - pkg:cargo/audioadapter-buffers@1.0.0
 - pkg:cargo/audioadapter-buffers@2.0.0
 - pkg:cargo/audioadapter-buffers@3.0.0
+- pkg:cargo/audioadapter-buffers@4.0.0
+- pkg:cargo/audioadapter-buffers@5.0.0
+- pkg:cargo/audioadapter-buffers@5.1.0
+- pkg:cargo/audioadapter-buffers@5.2.0
