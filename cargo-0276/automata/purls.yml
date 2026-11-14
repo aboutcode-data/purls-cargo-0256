@@ -2,3 +2,6 @@
 - pkg:cargo/automata@0.0.2
 - pkg:cargo/automata@0.0.3
 - pkg:cargo/automata@0.0.4
+- pkg:cargo/automata@0.1.0
+- pkg:cargo/automata@0.2.0
+- pkg:cargo/automata@0.2.1
