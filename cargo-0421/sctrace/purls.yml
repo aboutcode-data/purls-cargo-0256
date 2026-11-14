@@ -10,3 +10,5 @@
 - pkg:cargo/sctrace@0.17.1
 - pkg:cargo/sctrace@0.17.2
 - pkg:cargo/sctrace@0.18.0
+- pkg:cargo/sctrace@0.18.1
+- pkg:cargo/sctrace@0.19.0
