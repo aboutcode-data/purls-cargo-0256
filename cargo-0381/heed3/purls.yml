@@ -2,3 +2,5 @@
 - pkg:cargo/heed3@0.22.0
 - pkg:cargo/heed3@0.22.1
 - pkg:cargo/heed3@0.22.1-nested-rtxns
+- pkg:cargo/heed3@0.23.0
+- pkg:cargo/heed3@0.23.1
