@@ -83,7 +83,12 @@
 - pkg:cargo/harper-comments@1.8.0
 - pkg:cargo/harper-comments@1.9.0
 - pkg:cargo/harper-comments@2.0.0
+- pkg:cargo/harper-comments@2.10.0
+- pkg:cargo/harper-comments@2.11.0
+- pkg:cargo/harper-comments@2.13.0
 - pkg:cargo/harper-comments@2.4.0
 - pkg:cargo/harper-comments@2.5.0
 - pkg:cargo/harper-comments@2.7.0
 - pkg:cargo/harper-comments@2.8.0
+- pkg:cargo/harper-comments@3.0.0
+- pkg:cargo/harper-comments@3.2.0
