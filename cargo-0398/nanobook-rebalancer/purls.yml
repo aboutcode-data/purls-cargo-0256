@@ -1,3 +1,6 @@
+- pkg:cargo/nanobook-rebalancer@0.10.0
+- pkg:cargo/nanobook-rebalancer@0.10.1
+- pkg:cargo/nanobook-rebalancer@0.10.2
 - pkg:cargo/nanobook-rebalancer@0.2.0
 - pkg:cargo/nanobook-rebalancer@0.3.0
 - pkg:cargo/nanobook-rebalancer@0.3.1
@@ -7,3 +10,4 @@
 - pkg:cargo/nanobook-rebalancer@0.8.1
 - pkg:cargo/nanobook-rebalancer@0.8.2
 - pkg:cargo/nanobook-rebalancer@0.8.4
+- pkg:cargo/nanobook-rebalancer@0.9.0
