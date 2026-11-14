@@ -18,3 +18,4 @@
 - pkg:cargo/kiteconnect-async-wasm@1.0.7
 - pkg:cargo/kiteconnect-async-wasm@1.0.8
 - pkg:cargo/kiteconnect-async-wasm@1.0.9
+- pkg:cargo/kiteconnect-async-wasm@2.0.0
