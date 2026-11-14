@@ -6,6 +6,8 @@
 - pkg:cargo/pub-sub-client@0.13.2
 - pkg:cargo/pub-sub-client@0.13.3
 - pkg:cargo/pub-sub-client@0.13.4
+- pkg:cargo/pub-sub-client@0.13.5
+- pkg:cargo/pub-sub-client@0.13.6
 - pkg:cargo/pub-sub-client@0.4.1
 - pkg:cargo/pub-sub-client@0.5.0
 - pkg:cargo/pub-sub-client@0.6.0
