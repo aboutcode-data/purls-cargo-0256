@@ -1,3 +1,5 @@
 - pkg:cargo/hornbill_apilib@0.1.0
 - pkg:cargo/hornbill_apilib@0.2.0
 - pkg:cargo/hornbill_apilib@0.3.0
+- pkg:cargo/hornbill_apilib@0.4.0
+- pkg:cargo/hornbill_apilib@0.5.0

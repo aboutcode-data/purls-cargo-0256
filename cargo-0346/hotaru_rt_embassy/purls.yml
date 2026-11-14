@@ -1,3 +1,4 @@
 - pkg:cargo/hotaru_rt_embassy@0.8.3
 - pkg:cargo/hotaru_rt_embassy@0.8.4
 - pkg:cargo/hotaru_rt_embassy@0.8.5
+- pkg:cargo/hotaru_rt_embassy@0.8.6
