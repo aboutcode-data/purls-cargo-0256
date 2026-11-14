@@ -5,3 +5,4 @@
 - pkg:cargo/hfcast@0.68.0
 - pkg:cargo/hfcast@1.6.1
 - pkg:cargo/hfcast@2.13.3
+- pkg:cargo/hfcast@2.14.0
