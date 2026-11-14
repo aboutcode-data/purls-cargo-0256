@@ -17,3 +17,5 @@
 - pkg:cargo/kqueue@1.0.8
 - pkg:cargo/kqueue@1.1.0
 - pkg:cargo/kqueue@1.1.1
+- pkg:cargo/kqueue@1.2.0
+- pkg:cargo/kqueue@1.2.1

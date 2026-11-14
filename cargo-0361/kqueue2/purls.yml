@@ -1,1 +1,2 @@
 - pkg:cargo/kqueue2@0.2.2
+- pkg:cargo/kqueue2@0.2.3
