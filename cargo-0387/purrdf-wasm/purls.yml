@@ -27,3 +27,8 @@
 - pkg:cargo/purrdf-wasm@2.0.0
 - pkg:cargo/purrdf-wasm@2.0.1
 - pkg:cargo/purrdf-wasm@2.0.2
+- pkg:cargo/purrdf-wasm@3.0.0
+- pkg:cargo/purrdf-wasm@3.0.1
+- pkg:cargo/purrdf-wasm@4.0.0
+- pkg:cargo/purrdf-wasm@4.0.1
+- pkg:cargo/purrdf-wasm@4.0.2
