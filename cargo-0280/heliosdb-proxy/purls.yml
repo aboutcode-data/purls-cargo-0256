@@ -9,3 +9,11 @@
 - pkg:cargo/heliosdb-proxy@1.3.1
 - pkg:cargo/heliosdb-proxy@1.4.0
 - pkg:cargo/heliosdb-proxy@1.5.0
+- pkg:cargo/heliosdb-proxy@1.6.0
+- pkg:cargo/heliosdb-proxy@1.6.1
+- pkg:cargo/heliosdb-proxy@1.7.0
+- pkg:cargo/heliosdb-proxy@1.8.0
+- pkg:cargo/heliosdb-proxy@1.9.0
+- pkg:cargo/heliosdb-proxy@2.0.0
+- pkg:cargo/heliosdb-proxy@2.1.0
+- pkg:cargo/heliosdb-proxy@2.2.0
