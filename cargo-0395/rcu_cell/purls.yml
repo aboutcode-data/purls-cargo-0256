@@ -28,3 +28,6 @@
 - pkg:cargo/rcu_cell@1.1.6
 - pkg:cargo/rcu_cell@1.2.0
 - pkg:cargo/rcu_cell@1.2.1
+- pkg:cargo/rcu_cell@1.2.2
+- pkg:cargo/rcu_cell@1.2.3
+- pkg:cargo/rcu_cell@1.2.4
