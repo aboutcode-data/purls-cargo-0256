@@ -10,6 +10,12 @@
 - pkg:cargo/hara-abi@0.1.19
 - pkg:cargo/hara-abi@0.1.20
 - pkg:cargo/hara-abi@0.1.21
+- pkg:cargo/hara-abi@0.1.23
+- pkg:cargo/hara-abi@0.1.24
+- pkg:cargo/hara-abi@0.1.25
+- pkg:cargo/hara-abi@0.1.26
+- pkg:cargo/hara-abi@0.1.27
+- pkg:cargo/hara-abi@0.1.28
 - pkg:cargo/hara-abi@0.1.6
 - pkg:cargo/hara-abi@0.1.7
 - pkg:cargo/hara-abi@0.1.8
