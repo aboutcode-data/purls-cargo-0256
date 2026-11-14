@@ -4,3 +4,7 @@
 - pkg:cargo/idempotent@0.1.2
 - pkg:cargo/idempotent@0.2.0
 - pkg:cargo/idempotent@0.3.0
+- pkg:cargo/idempotent@1.0.0
+- pkg:cargo/idempotent@1.1.0
+- pkg:cargo/idempotent@2.0.0
+- pkg:cargo/idempotent@3.0.0
