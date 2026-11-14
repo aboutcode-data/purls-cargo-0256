@@ -1,1 +1,3 @@
 - pkg:cargo/nalog@1.0.0
+- pkg:cargo/nalog@2.0.0
+- pkg:cargo/nalog@2.0.1
