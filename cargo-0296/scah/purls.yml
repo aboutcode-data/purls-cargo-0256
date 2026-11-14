@@ -9,8 +9,10 @@
 - pkg:cargo/scah@0.0.18
 - pkg:cargo/scah@0.0.19
 - pkg:cargo/scah@0.0.20
+- pkg:cargo/scah@0.0.21
 - pkg:cargo/scah@0.0.5
 - pkg:cargo/scah@0.0.6
 - pkg:cargo/scah@0.0.7
 - pkg:cargo/scah@0.0.8
 - pkg:cargo/scah@0.0.9
+- pkg:cargo/scah@0.1.0
