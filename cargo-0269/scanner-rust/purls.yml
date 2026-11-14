@@ -34,3 +34,5 @@
 - pkg:cargo/scanner-rust@2.0.7
 - pkg:cargo/scanner-rust@2.0.8
 - pkg:cargo/scanner-rust@2.0.9
+- pkg:cargo/scanner-rust@3.0.0
+- pkg:cargo/scanner-rust@3.0.1
