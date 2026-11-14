@@ -1,1 +1,4 @@
 - pkg:cargo/scaphandre-driver-rs@1.0.0
+- pkg:cargo/scaphandre-driver-rs@1.0.5
+- pkg:cargo/scaphandre-driver-rs@1.0.6
+- pkg:cargo/scaphandre-driver-rs@1.0.7
