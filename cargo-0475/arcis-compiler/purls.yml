@@ -11,6 +11,7 @@
 - pkg:cargo/arcis-compiler@0.13.2
 - pkg:cargo/arcis-compiler@0.14.1
 - pkg:cargo/arcis-compiler@0.15.0
+- pkg:cargo/arcis-compiler@0.16.0
 - pkg:cargo/arcis-compiler@0.6.0
 - pkg:cargo/arcis-compiler@0.6.0-alpha
 - pkg:cargo/arcis-compiler@0.6.1
