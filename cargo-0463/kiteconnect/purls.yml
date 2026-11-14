@@ -6,3 +6,5 @@
 - pkg:cargo/kiteconnect@0.2.7
 - pkg:cargo/kiteconnect@0.2.8
 - pkg:cargo/kiteconnect@0.2.9
+- pkg:cargo/kiteconnect@1.0.0
+- pkg:cargo/kiteconnect@1.0.1
