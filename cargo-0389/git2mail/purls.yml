@@ -9,3 +9,8 @@
 - pkg:cargo/git2mail@0.4.4
 - pkg:cargo/git2mail@0.4.5
 - pkg:cargo/git2mail@0.4.6
+- pkg:cargo/git2mail@0.4.7
+- pkg:cargo/git2mail@0.5.0
+- pkg:cargo/git2mail@0.6.0
+- pkg:cargo/git2mail@0.7.0
+- pkg:cargo/git2mail@0.8.0

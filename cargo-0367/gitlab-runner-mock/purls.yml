@@ -13,3 +13,4 @@
 - pkg:cargo/gitlab-runner-mock@0.3.0
 - pkg:cargo/gitlab-runner-mock@0.3.1
 - pkg:cargo/gitlab-runner-mock@0.3.2
+- pkg:cargo/gitlab-runner-mock@0.4.0
