@@ -1,1 +1,4 @@
+- pkg:cargo/git-credential-oo7@0.7.0
 - pkg:cargo/git-credential-oo7@0.7.0-alpha
+- pkg:cargo/git-credential-oo7@0.7.0-beta
+- pkg:cargo/git-credential-oo7@0.7.1
