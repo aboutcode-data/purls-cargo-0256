@@ -1,1 +1,7 @@
 - pkg:cargo/sql-fun-core@0.1.1
+- pkg:cargo/sql-fun-core@0.1.2-snapshot3
+- pkg:cargo/sql-fun-core@0.2.0
+- pkg:cargo/sql-fun-core@0.2.0-rc1
+- pkg:cargo/sql-fun-core@0.2.0-rc2
+- pkg:cargo/sql-fun-core@0.2.0-rc3
+- pkg:cargo/sql-fun-core@0.2.0-snapshot7
