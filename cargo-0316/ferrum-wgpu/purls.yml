@@ -2,3 +2,4 @@
 - pkg:cargo/ferrum-wgpu@0.1.1
 - pkg:cargo/ferrum-wgpu@0.2.0
 - pkg:cargo/ferrum-wgpu@0.2.1
+- pkg:cargo/ferrum-wgpu@0.2.2
