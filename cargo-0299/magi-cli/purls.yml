@@ -225,6 +225,7 @@
 - pkg:cargo/magi-cli@0.237.4
 - pkg:cargo/magi-cli@0.238.0
 - pkg:cargo/magi-cli@0.238.1
+- pkg:cargo/magi-cli@0.238.2
 - pkg:cargo/magi-cli@0.24.0
 - pkg:cargo/magi-cli@0.25.0
 - pkg:cargo/magi-cli@0.26.0
