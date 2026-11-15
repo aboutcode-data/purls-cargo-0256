@@ -46,4 +46,10 @@
 - pkg:cargo/dex-blob-cache@1.35.0
 - pkg:cargo/dex-blob-cache@1.37.0
 - pkg:cargo/dex-blob-cache@1.38.0
+- pkg:cargo/dex-blob-cache@1.39.0
 - pkg:cargo/dex-blob-cache@1.4.0
+- pkg:cargo/dex-blob-cache@1.40.0
+- pkg:cargo/dex-blob-cache@1.43.0
+- pkg:cargo/dex-blob-cache@1.44.0
+- pkg:cargo/dex-blob-cache@1.45.0
+- pkg:cargo/dex-blob-cache@1.45.1
