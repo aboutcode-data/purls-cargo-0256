@@ -47,3 +47,4 @@
 - pkg:cargo/isahc@1.8.3
 - pkg:cargo/isahc@2.0.0
 - pkg:cargo/isahc@2.0.1
+- pkg:cargo/isahc@2.0.2
