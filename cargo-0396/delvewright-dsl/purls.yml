@@ -19,3 +19,5 @@
 - pkg:cargo/delvewright-dsl@0.38.0
 - pkg:cargo/delvewright-dsl@0.39.0
 - pkg:cargo/delvewright-dsl@0.56.0
+- pkg:cargo/delvewright-dsl@0.69.0
+- pkg:cargo/delvewright-dsl@0.71.0
