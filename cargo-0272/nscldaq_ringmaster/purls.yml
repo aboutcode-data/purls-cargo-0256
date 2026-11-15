@@ -15,6 +15,8 @@
 - pkg:cargo/nscldaq_ringmaster@0.2.10
 - pkg:cargo/nscldaq_ringmaster@0.2.11
 - pkg:cargo/nscldaq_ringmaster@0.2.13
+- pkg:cargo/nscldaq_ringmaster@0.2.15
+- pkg:cargo/nscldaq_ringmaster@0.2.16
 - pkg:cargo/nscldaq_ringmaster@0.2.2
 - pkg:cargo/nscldaq_ringmaster@0.2.6
 - pkg:cargo/nscldaq_ringmaster@0.2.7
