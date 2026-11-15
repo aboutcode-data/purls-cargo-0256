@@ -1,1 +1,3 @@
 - pkg:cargo/fusb302b@0.0.1
+- pkg:cargo/fusb302b@0.1.0
+- pkg:cargo/fusb302b@0.2.0
