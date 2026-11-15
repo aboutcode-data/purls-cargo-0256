@@ -7,6 +7,12 @@
 - pkg:cargo/kobako-wasmtime@0.13.0
 - pkg:cargo/kobako-wasmtime@0.13.1
 - pkg:cargo/kobako-wasmtime@0.14.0
+- pkg:cargo/kobako-wasmtime@0.15.0
+- pkg:cargo/kobako-wasmtime@0.16.0
+- pkg:cargo/kobako-wasmtime@0.17.0
+- pkg:cargo/kobako-wasmtime@0.18.0
+- pkg:cargo/kobako-wasmtime@0.19.0
+- pkg:cargo/kobako-wasmtime@0.20.0
 - pkg:cargo/kobako-wasmtime@0.6.1
 - pkg:cargo/kobako-wasmtime@0.7.0
 - pkg:cargo/kobako-wasmtime@0.8.0
