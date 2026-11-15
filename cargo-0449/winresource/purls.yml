@@ -18,3 +18,6 @@
 - pkg:cargo/winresource@0.1.29
 - pkg:cargo/winresource@0.1.30
 - pkg:cargo/winresource@0.1.31
+- pkg:cargo/winresource@0.1.32
+- pkg:cargo/winresource@0.1.33
+- pkg:cargo/winresource@0.1.34
