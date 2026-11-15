@@ -219,3 +219,4 @@
 - pkg:cargo/cortiq-server@0.8.95
 - pkg:cargo/cortiq-server@0.8.96
 - pkg:cargo/cortiq-server@0.8.97
+- pkg:cargo/cortiq-server@0.8.98
