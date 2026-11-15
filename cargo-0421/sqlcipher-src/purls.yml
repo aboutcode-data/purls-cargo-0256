@@ -1,2 +1,7 @@
 - pkg:cargo/sqlcipher-src@0.1.0
 - pkg:cargo/sqlcipher-src@0.1.1
+- pkg:cargo/sqlcipher-src@419.0.3%2Bsqlcipher-4.19.0-sqlite-3.53.4-libtomcrypt-1.18.2
+- pkg:cargo/sqlcipher-src@419.0.4%2Bsqlcipher-4.19.0-sqlite-3.53.4-libtomcrypt-1.18.2
+- pkg:cargo/sqlcipher-src@419.0.5%2Bsqlcipher-4.19.0-sqlite-3.53.4-libtomcrypt-1.18.2
+- pkg:cargo/sqlcipher-src@419.0.6%2Bsqlcipher-4.19.0-sqlite-3.53.4-libtomcrypt-1.18.2
+- pkg:cargo/sqlcipher-src@420.0.0%2Bsqlcipher-4.20.0-sqlite-3.54.1-libtomcrypt-1.18.2

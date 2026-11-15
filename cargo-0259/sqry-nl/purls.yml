@@ -38,6 +38,7 @@
 - pkg:cargo/sqry-nl@20.0.1
 - pkg:cargo/sqry-nl@20.0.3
 - pkg:cargo/sqry-nl@20.0.5
+- pkg:cargo/sqry-nl@21.0.0
 - pkg:cargo/sqry-nl@4.10.0
 - pkg:cargo/sqry-nl@4.10.1
 - pkg:cargo/sqry-nl@4.10.13

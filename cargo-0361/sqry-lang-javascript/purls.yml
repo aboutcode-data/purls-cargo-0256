@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-lang-javascript@30.0.0
 - pkg:cargo/sqry-lang-javascript@30.0.1
 - pkg:cargo/sqry-lang-javascript@31.0.0
+- pkg:cargo/sqry-lang-javascript@32.0.1
+- pkg:cargo/sqry-lang-javascript@33.0.0
+- pkg:cargo/sqry-lang-javascript@33.0.1
 - pkg:cargo/sqry-lang-javascript@4.10.0
 - pkg:cargo/sqry-lang-javascript@4.10.1
 - pkg:cargo/sqry-lang-javascript@4.10.13
