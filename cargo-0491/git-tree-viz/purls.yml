@@ -2,3 +2,4 @@
 - pkg:cargo/git-tree-viz@0.2.1
 - pkg:cargo/git-tree-viz@0.2.5
 - pkg:cargo/git-tree-viz@0.3.6
+- pkg:cargo/git-tree-viz@1.3.1
