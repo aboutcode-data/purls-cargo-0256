@@ -9,3 +9,4 @@
 - pkg:cargo/deps-github-actions@2.0.0
 - pkg:cargo/deps-github-actions@3.0.0
 - pkg:cargo/deps-github-actions@4.0.0
+- pkg:cargo/deps-github-actions@5.0.0

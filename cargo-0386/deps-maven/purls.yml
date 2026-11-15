@@ -21,3 +21,4 @@
 - pkg:cargo/deps-maven@2.0.0
 - pkg:cargo/deps-maven@3.0.0
 - pkg:cargo/deps-maven@4.0.0
+- pkg:cargo/deps-maven@5.0.0

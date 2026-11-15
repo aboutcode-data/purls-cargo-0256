@@ -19,3 +19,4 @@
 - pkg:cargo/deps-composer@2.0.0
 - pkg:cargo/deps-composer@3.0.0
 - pkg:cargo/deps-composer@4.0.0
+- pkg:cargo/deps-composer@5.0.0
