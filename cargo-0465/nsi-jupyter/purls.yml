@@ -1,2 +1,4 @@
+- pkg:cargo/nsi-jupyter@0.10.0
 - pkg:cargo/nsi-jupyter@0.7.0
 - pkg:cargo/nsi-jupyter@0.8.0
+- pkg:cargo/nsi-jupyter@0.9.0
