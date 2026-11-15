@@ -8,3 +8,10 @@
 - pkg:cargo/kobe-xrpl@1.1.1
 - pkg:cargo/kobe-xrpl@2.0.0
 - pkg:cargo/kobe-xrpl@2.0.1
+- pkg:cargo/kobe-xrpl@3.0.0
+- pkg:cargo/kobe-xrpl@3.1.0
+- pkg:cargo/kobe-xrpl@3.1.1
+- pkg:cargo/kobe-xrpl@3.2.0
+- pkg:cargo/kobe-xrpl@3.3.0
+- pkg:cargo/kobe-xrpl@3.4.0
+- pkg:cargo/kobe-xrpl@4.0.0
