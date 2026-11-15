@@ -5,3 +5,8 @@
 - pkg:cargo/mt_dataset@0.11.1
 - pkg:cargo/mt_dataset@0.11.2
 - pkg:cargo/mt_dataset@0.11.3
+- pkg:cargo/mt_dataset@0.12.0
+- pkg:cargo/mt_dataset@0.12.1
+- pkg:cargo/mt_dataset@0.13.0
+- pkg:cargo/mt_dataset@0.14.0
+- pkg:cargo/mt_dataset@0.14.1
