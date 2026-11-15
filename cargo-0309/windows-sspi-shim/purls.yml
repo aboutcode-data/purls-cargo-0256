@@ -1,0 +1,2 @@
+- pkg:cargo/windows-sspi-shim@0.1.0
+- pkg:cargo/windows-sspi-shim@0.1.0-dev
