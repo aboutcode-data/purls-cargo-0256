@@ -11,6 +11,7 @@
 - pkg:cargo/authkestra-store-testsuite@0.14.0
 - pkg:cargo/authkestra-store-testsuite@0.15.0
 - pkg:cargo/authkestra-store-testsuite@0.15.1
+- pkg:cargo/authkestra-store-testsuite@0.15.2
 - pkg:cargo/authkestra-store-testsuite@0.7.2
 - pkg:cargo/authkestra-store-testsuite@0.8.0
 - pkg:cargo/authkestra-store-testsuite@0.8.1
