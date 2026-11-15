@@ -10,3 +10,11 @@
 - pkg:cargo/wingfoil-python@3.2.0
 - pkg:cargo/wingfoil-python@3.3.0
 - pkg:cargo/wingfoil-python@4.0.1
+- pkg:cargo/wingfoil-python@6.0.2
+- pkg:cargo/wingfoil-python@6.0.3
+- pkg:cargo/wingfoil-python@6.0.4
+- pkg:cargo/wingfoil-python@6.0.5
+- pkg:cargo/wingfoil-python@7.0.0
+- pkg:cargo/wingfoil-python@7.0.1
+- pkg:cargo/wingfoil-python@8.0.0
+- pkg:cargo/wingfoil-python@9.0.0
