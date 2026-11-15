@@ -50,6 +50,7 @@
 - pkg:cargo/wild-doc-script-deno@0.20.7
 - pkg:cargo/wild-doc-script-deno@0.20.8
 - pkg:cargo/wild-doc-script-deno@0.20.9
+- pkg:cargo/wild-doc-script-deno@0.21.0
 - pkg:cargo/wild-doc-script-deno@0.3.0
 - pkg:cargo/wild-doc-script-deno@0.4.0
 - pkg:cargo/wild-doc-script-deno@0.4.1
