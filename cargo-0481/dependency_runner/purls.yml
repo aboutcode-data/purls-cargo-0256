@@ -13,3 +13,4 @@
 - pkg:cargo/dependency_runner@1.4.0
 - pkg:cargo/dependency_runner@1.4.1
 - pkg:cargo/dependency_runner@1.5.0
+- pkg:cargo/dependency_runner@1.6.0
