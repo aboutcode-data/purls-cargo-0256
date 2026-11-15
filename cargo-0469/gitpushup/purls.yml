@@ -2,3 +2,4 @@
 - pkg:cargo/gitpushup@0.1.13
 - pkg:cargo/gitpushup@0.1.14
 - pkg:cargo/gitpushup@0.1.16
+- pkg:cargo/gitpushup@0.2.0
