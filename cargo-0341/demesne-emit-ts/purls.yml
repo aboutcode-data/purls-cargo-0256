@@ -2,3 +2,5 @@
 - pkg:cargo/demesne-emit-ts@1.1.0
 - pkg:cargo/demesne-emit-ts@1.2.1
 - pkg:cargo/demesne-emit-ts@2.0.0
+- pkg:cargo/demesne-emit-ts@3.0.0
+- pkg:cargo/demesne-emit-ts@4.0.0
