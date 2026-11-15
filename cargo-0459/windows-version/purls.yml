@@ -7,3 +7,4 @@
 - pkg:cargo/windows-version@0.1.5
 - pkg:cargo/windows-version@0.1.6
 - pkg:cargo/windows-version@0.1.7
+- pkg:cargo/windows-version@0.100.0
