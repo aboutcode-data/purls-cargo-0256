@@ -10,3 +10,4 @@
 - pkg:cargo/triage-tui@0.6.1
 - pkg:cargo/triage-tui@0.6.2
 - pkg:cargo/triage-tui@0.7.0
+- pkg:cargo/triage-tui@0.8.0
