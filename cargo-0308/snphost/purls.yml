@@ -6,3 +6,5 @@
 - pkg:cargo/snphost@0.5.0
 - pkg:cargo/snphost@0.6.1
 - pkg:cargo/snphost@0.7.0
+- pkg:cargo/snphost@0.8.0
+- pkg:cargo/snphost@0.9.0
