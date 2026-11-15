@@ -38,3 +38,7 @@
 - pkg:cargo/gix-commitgraph@0.37.0
 - pkg:cargo/gix-commitgraph@0.37.1
 - pkg:cargo/gix-commitgraph@0.38.0
+- pkg:cargo/gix-commitgraph@0.39.0
+- pkg:cargo/gix-commitgraph@0.40.0
+- pkg:cargo/gix-commitgraph@0.41.0
+- pkg:cargo/gix-commitgraph@0.42.0

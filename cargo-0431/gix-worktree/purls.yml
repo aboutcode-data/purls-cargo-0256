@@ -53,3 +53,7 @@
 - pkg:cargo/gix-worktree@0.53.0
 - pkg:cargo/gix-worktree@0.54.0
 - pkg:cargo/gix-worktree@0.55.0
+- pkg:cargo/gix-worktree@0.56.0
+- pkg:cargo/gix-worktree@0.57.0
+- pkg:cargo/gix-worktree@0.58.0
+- pkg:cargo/gix-worktree@0.59.0
