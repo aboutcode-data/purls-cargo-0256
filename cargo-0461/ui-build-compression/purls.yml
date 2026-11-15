@@ -4,3 +4,5 @@
 - pkg:cargo/ui-build-compression@1.1.2
 - pkg:cargo/ui-build-compression@1.1.3
 - pkg:cargo/ui-build-compression@1.1.5
+- pkg:cargo/ui-build-compression@2.0.0
+- pkg:cargo/ui-build-compression@2.0.1
