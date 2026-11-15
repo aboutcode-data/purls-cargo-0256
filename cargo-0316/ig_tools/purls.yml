@@ -1,3 +1,4 @@
 - pkg:cargo/ig_tools@0.1.0-unstable
 - pkg:cargo/ig_tools@0.2.0
 - pkg:cargo/ig_tools@0.2.1
+- pkg:cargo/ig_tools@0.3.0-alpha
