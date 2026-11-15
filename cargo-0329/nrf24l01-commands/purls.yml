@@ -3,3 +3,5 @@
 - pkg:cargo/nrf24l01-commands@1.0.2
 - pkg:cargo/nrf24l01-commands@1.1.2
 - pkg:cargo/nrf24l01-commands@2.0.0
+- pkg:cargo/nrf24l01-commands@3.0.0
+- pkg:cargo/nrf24l01-commands@4.0.0
