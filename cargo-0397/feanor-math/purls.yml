@@ -97,6 +97,10 @@
 - pkg:cargo/feanor-math@3.5.19
 - pkg:cargo/feanor-math@3.5.2
 - pkg:cargo/feanor-math@3.5.20
+- pkg:cargo/feanor-math@3.5.21
+- pkg:cargo/feanor-math@3.5.22
+- pkg:cargo/feanor-math@3.5.23
+- pkg:cargo/feanor-math@3.5.24
 - pkg:cargo/feanor-math@3.5.3
 - pkg:cargo/feanor-math@3.5.4
 - pkg:cargo/feanor-math@3.5.5
@@ -104,3 +108,6 @@
 - pkg:cargo/feanor-math@3.5.7
 - pkg:cargo/feanor-math@3.5.8
 - pkg:cargo/feanor-math@3.5.9
+- pkg:cargo/feanor-math@3.6.0
+- pkg:cargo/feanor-math@3.6.1
+- pkg:cargo/feanor-math@3.6.2
