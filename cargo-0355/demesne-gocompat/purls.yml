@@ -2,3 +2,5 @@
 - pkg:cargo/demesne-gocompat@1.1.0
 - pkg:cargo/demesne-gocompat@1.2.1
 - pkg:cargo/demesne-gocompat@2.0.0
+- pkg:cargo/demesne-gocompat@3.0.0
+- pkg:cargo/demesne-gocompat@4.0.0
