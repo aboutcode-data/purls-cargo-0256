@@ -19,6 +19,7 @@
 - pkg:cargo/ifc-lite-export@27.0.0
 - pkg:cargo/ifc-lite-export@27.1.0
 - pkg:cargo/ifc-lite-export@28.2.0
+- pkg:cargo/ifc-lite-export@28.3.0
 - pkg:cargo/ifc-lite-export@4.1.1
 - pkg:cargo/ifc-lite-export@4.1.2
 - pkg:cargo/ifc-lite-export@4.1.3
