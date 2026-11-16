@@ -9,3 +9,4 @@
 - pkg:cargo/smbpndk-cli@0.3.5
 - pkg:cargo/smbpndk-cli@0.3.6
 - pkg:cargo/smbpndk-cli@0.3.7
+- pkg:cargo/smbpndk-cli@0.4.0
