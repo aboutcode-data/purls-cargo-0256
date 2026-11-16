@@ -4,3 +4,4 @@
 - pkg:cargo/spiral-datafusion@0.1.14
 - pkg:cargo/spiral-datafusion@0.1.15
 - pkg:cargo/spiral-datafusion@0.1.16
+- pkg:cargo/spiral-datafusion@0.1.17
