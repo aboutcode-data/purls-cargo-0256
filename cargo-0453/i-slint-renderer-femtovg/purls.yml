@@ -19,6 +19,7 @@
 - pkg:cargo/i-slint-renderer-femtovg@1.17.1
 - pkg:cargo/i-slint-renderer-femtovg@1.18.0
 - pkg:cargo/i-slint-renderer-femtovg@1.18.1
+- pkg:cargo/i-slint-renderer-femtovg@1.19.0
 - pkg:cargo/i-slint-renderer-femtovg@1.2.0
 - pkg:cargo/i-slint-renderer-femtovg@1.2.1
 - pkg:cargo/i-slint-renderer-femtovg@1.2.2
