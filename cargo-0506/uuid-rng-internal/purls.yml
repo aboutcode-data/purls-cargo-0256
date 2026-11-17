@@ -28,3 +28,4 @@
 - pkg:cargo/uuid-rng-internal@1.29.0
 - pkg:cargo/uuid-rng-internal@1.29.1
 - pkg:cargo/uuid-rng-internal@1.29.2
+- pkg:cargo/uuid-rng-internal@1.29.3
