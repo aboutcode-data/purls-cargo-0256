@@ -12,6 +12,8 @@
 - pkg:cargo/zakura-network@14.0.0
 - pkg:cargo/zakura-network@15.0.0
 - pkg:cargo/zakura-network@16.0.0
+- pkg:cargo/zakura-network@17.0.0
+- pkg:cargo/zakura-network@18.0.0
 - pkg:cargo/zakura-network@2.0.0
 - pkg:cargo/zakura-network@3.0.0
 - pkg:cargo/zakura-network@3.0.0-rc0
