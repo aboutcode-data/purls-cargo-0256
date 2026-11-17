@@ -10,6 +10,7 @@
 - pkg:cargo/endpoint-gen@1.13.1
 - pkg:cargo/endpoint-gen@1.14.0
 - pkg:cargo/endpoint-gen@1.15.0
+- pkg:cargo/endpoint-gen@1.16.0
 - pkg:cargo/endpoint-gen@1.3.4
 - pkg:cargo/endpoint-gen@1.4.0
 - pkg:cargo/endpoint-gen@1.5.0
