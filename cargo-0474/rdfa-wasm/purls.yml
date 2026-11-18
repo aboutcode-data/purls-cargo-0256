@@ -9,7 +9,17 @@
 - pkg:cargo/rdfa-wasm@0.3.10
 - pkg:cargo/rdfa-wasm@0.3.11
 - pkg:cargo/rdfa-wasm@0.3.12
+- pkg:cargo/rdfa-wasm@0.3.13
+- pkg:cargo/rdfa-wasm@0.3.14
+- pkg:cargo/rdfa-wasm@0.3.15
+- pkg:cargo/rdfa-wasm@0.3.16
+- pkg:cargo/rdfa-wasm@0.3.17
+- pkg:cargo/rdfa-wasm@0.3.18
+- pkg:cargo/rdfa-wasm@0.3.19
 - pkg:cargo/rdfa-wasm@0.3.2
+- pkg:cargo/rdfa-wasm@0.3.20
+- pkg:cargo/rdfa-wasm@0.3.21
+- pkg:cargo/rdfa-wasm@0.3.22
 - pkg:cargo/rdfa-wasm@0.3.3
 - pkg:cargo/rdfa-wasm@0.3.4
 - pkg:cargo/rdfa-wasm@0.3.5
@@ -17,3 +27,4 @@
 - pkg:cargo/rdfa-wasm@0.3.7
 - pkg:cargo/rdfa-wasm@0.3.8
 - pkg:cargo/rdfa-wasm@0.3.9
+- pkg:cargo/rdfa-wasm@0.4.0
