@@ -233,6 +233,8 @@
 - pkg:cargo/hegeltest-macros@0.52.4
 - pkg:cargo/hegeltest-macros@0.52.5
 - pkg:cargo/hegeltest-macros@0.52.6
+- pkg:cargo/hegeltest-macros@0.52.7
+- pkg:cargo/hegeltest-macros@0.53.0
 - pkg:cargo/hegeltest-macros@0.6.0
 - pkg:cargo/hegeltest-macros@0.6.1
 - pkg:cargo/hegeltest-macros@0.6.2
