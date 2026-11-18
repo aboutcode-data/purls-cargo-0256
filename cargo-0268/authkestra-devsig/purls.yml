@@ -12,6 +12,7 @@
 - pkg:cargo/authkestra-devsig@0.15.0
 - pkg:cargo/authkestra-devsig@0.15.1
 - pkg:cargo/authkestra-devsig@0.15.2
+- pkg:cargo/authkestra-devsig@0.15.3
 - pkg:cargo/authkestra-devsig@0.2.5
 - pkg:cargo/authkestra-devsig@0.3.0
 - pkg:cargo/authkestra-devsig@0.3.1
