@@ -31,6 +31,7 @@
 - pkg:cargo/debian-changelog@0.2.23
 - pkg:cargo/debian-changelog@0.2.24
 - pkg:cargo/debian-changelog@0.2.25
+- pkg:cargo/debian-changelog@0.2.26
 - pkg:cargo/debian-changelog@0.2.3
 - pkg:cargo/debian-changelog@0.2.4
 - pkg:cargo/debian-changelog@0.2.5
