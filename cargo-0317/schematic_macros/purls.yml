@@ -86,6 +86,8 @@
 - pkg:cargo/schematic_macros@0.20.7
 - pkg:cargo/schematic_macros@0.20.8
 - pkg:cargo/schematic_macros@0.20.9
+- pkg:cargo/schematic_macros@0.21.0
+- pkg:cargo/schematic_macros@0.21.1
 - pkg:cargo/schematic_macros@0.3.0
 - pkg:cargo/schematic_macros@0.3.1
 - pkg:cargo/schematic_macros@0.3.2
