@@ -1,0 +1,9 @@
+- pkg:cargo/daimon-provider-llamacpp@0.20.0
+- pkg:cargo/daimon-provider-llamacpp@0.21.0
+- pkg:cargo/daimon-provider-llamacpp@0.22.0
+- pkg:cargo/daimon-provider-llamacpp@0.22.1
+- pkg:cargo/daimon-provider-llamacpp@0.22.2
+- pkg:cargo/daimon-provider-llamacpp@0.22.3
+- pkg:cargo/daimon-provider-llamacpp@0.23.0
+- pkg:cargo/daimon-provider-llamacpp@0.24.0
+- pkg:cargo/daimon-provider-llamacpp@0.25.0

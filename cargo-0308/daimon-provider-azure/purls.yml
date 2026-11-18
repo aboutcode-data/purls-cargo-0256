@@ -4,3 +4,15 @@
 - pkg:cargo/daimon-provider-azure@0.14.0
 - pkg:cargo/daimon-provider-azure@0.15.0
 - pkg:cargo/daimon-provider-azure@0.16.0
+- pkg:cargo/daimon-provider-azure@0.17.0
+- pkg:cargo/daimon-provider-azure@0.18.0
+- pkg:cargo/daimon-provider-azure@0.18.1
+- pkg:cargo/daimon-provider-azure@0.20.0
+- pkg:cargo/daimon-provider-azure@0.21.0
+- pkg:cargo/daimon-provider-azure@0.22.0
+- pkg:cargo/daimon-provider-azure@0.22.1
+- pkg:cargo/daimon-provider-azure@0.22.2
+- pkg:cargo/daimon-provider-azure@0.22.3
+- pkg:cargo/daimon-provider-azure@0.23.0
+- pkg:cargo/daimon-provider-azure@0.24.0
+- pkg:cargo/daimon-provider-azure@0.25.0
