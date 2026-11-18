@@ -95,3 +95,4 @@
 - pkg:cargo/fresh-editor@0.5.4
 - pkg:cargo/fresh-editor@0.5.7
 - pkg:cargo/fresh-editor@0.5.8
+- pkg:cargo/fresh-editor@0.5.9
