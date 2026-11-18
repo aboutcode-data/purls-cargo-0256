@@ -29,3 +29,5 @@
 - pkg:cargo/theframework@0.9.3
 - pkg:cargo/theframework@0.9.7
 - pkg:cargo/theframework@0.91.0
+- pkg:cargo/theframework@0.93.0
+- pkg:cargo/theframework@0.95.0
