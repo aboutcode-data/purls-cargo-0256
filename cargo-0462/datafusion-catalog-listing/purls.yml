@@ -19,3 +19,10 @@
 - pkg:cargo/datafusion-catalog-listing@52.5.0
 - pkg:cargo/datafusion-catalog-listing@53.0.0
 - pkg:cargo/datafusion-catalog-listing@53.1.0
+- pkg:cargo/datafusion-catalog-listing@54.0.0
+- pkg:cargo/datafusion-catalog-listing@54.1.0
+- pkg:cargo/datafusion-catalog-listing@54.2.0
+- pkg:cargo/datafusion-catalog-listing@55.0.0
+- pkg:cargo/datafusion-catalog-listing@55.1.0
+- pkg:cargo/datafusion-catalog-listing@55.2.0
+- pkg:cargo/datafusion-catalog-listing@55.3.0

@@ -15,6 +15,7 @@
 - pkg:cargo/datachannel@0.14.0
 - pkg:cargo/datachannel@0.15.0
 - pkg:cargo/datachannel@0.16.0
+- pkg:cargo/datachannel@0.16.1
 - pkg:cargo/datachannel@0.2.0
 - pkg:cargo/datachannel@0.2.1
 - pkg:cargo/datachannel@0.3.0
