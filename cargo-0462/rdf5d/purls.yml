@@ -48,3 +48,4 @@
 - pkg:cargo/rdf5d@0.6.2
 - pkg:cargo/rdf5d@0.6.3
 - pkg:cargo/rdf5d@0.6.4
+- pkg:cargo/rdf5d@0.7.0-rc.1
