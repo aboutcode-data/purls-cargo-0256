@@ -6,3 +6,4 @@
 - pkg:cargo/turbovault-git@3.2.0
 - pkg:cargo/turbovault-git@4.0.0
 - pkg:cargo/turbovault-git@4.0.1
+- pkg:cargo/turbovault-git@4.1.0
