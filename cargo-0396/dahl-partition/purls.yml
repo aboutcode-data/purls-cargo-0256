@@ -8,3 +8,5 @@
 - pkg:cargo/dahl-partition@0.5.2
 - pkg:cargo/dahl-partition@0.5.3
 - pkg:cargo/dahl-partition@0.5.5
+- pkg:cargo/dahl-partition@0.5.6
+- pkg:cargo/dahl-partition@0.5.7
