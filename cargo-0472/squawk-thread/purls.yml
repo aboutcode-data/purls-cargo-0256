@@ -28,3 +28,4 @@
 - pkg:cargo/squawk-thread@2.70.0
 - pkg:cargo/squawk-thread@2.71.0
 - pkg:cargo/squawk-thread@2.72.0
+- pkg:cargo/squawk-thread@2.73.0
