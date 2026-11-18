@@ -43,3 +43,4 @@
 - pkg:cargo/elephantry@5.3.0
 - pkg:cargo/elephantry@5.3.1
 - pkg:cargo/elephantry@5.3.2
+- pkg:cargo/elephantry@6.0.0
