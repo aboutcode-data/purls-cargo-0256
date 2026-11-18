@@ -16,3 +16,4 @@
 - pkg:cargo/sqlx-postgres@0.8.6
 - pkg:cargo/sqlx-postgres@0.9.0
 - pkg:cargo/sqlx-postgres@0.9.0-alpha.1
+- pkg:cargo/sqlx-postgres@0.9.1
