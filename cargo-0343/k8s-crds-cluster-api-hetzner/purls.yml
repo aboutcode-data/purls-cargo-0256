@@ -1,2 +1,3 @@
 - pkg:cargo/k8s-crds-cluster-api-hetzner@1.0.12
 - pkg:cargo/k8s-crds-cluster-api-hetzner@1.0.7
+- pkg:cargo/k8s-crds-cluster-api-hetzner@1.1.10

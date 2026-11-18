@@ -18,3 +18,5 @@
 - pkg:cargo/k8s-crds-cert-manager@1.20.1
 - pkg:cargo/k8s-crds-cert-manager@1.20.2
 - pkg:cargo/k8s-crds-cert-manager@1.20.3
+- pkg:cargo/k8s-crds-cert-manager@1.21.1
+- pkg:cargo/k8s-crds-cert-manager@1.21.3
