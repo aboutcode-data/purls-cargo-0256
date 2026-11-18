@@ -43,6 +43,7 @@
 - pkg:cargo/un-bien-relay@0.7.9-dev.20261011
 - pkg:cargo/un-bien-relay@0.8.0
 - pkg:cargo/un-bien-relay@0.8.1-dev.20261015
+- pkg:cargo/un-bien-relay@0.8.10
 - pkg:cargo/un-bien-relay@0.8.2-dev.20261015
 - pkg:cargo/un-bien-relay@0.8.3
 - pkg:cargo/un-bien-relay@0.8.4
