@@ -78,3 +78,6 @@
 - pkg:cargo/fusible@2.5.0
 - pkg:cargo/fusible@2.5.1
 - pkg:cargo/fusible@2.5.2
+- pkg:cargo/fusible@2.5.3
+- pkg:cargo/fusible@2.5.4
+- pkg:cargo/fusible@2.5.5
