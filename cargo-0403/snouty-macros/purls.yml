@@ -1,4 +1,6 @@
 - pkg:cargo/snouty-macros@0.10.0
+- pkg:cargo/snouty-macros@0.11.0
+- pkg:cargo/snouty-macros@0.11.0-rc.1
 - pkg:cargo/snouty-macros@0.7.0
 - pkg:cargo/snouty-macros@0.7.0-rc.3
 - pkg:cargo/snouty-macros@0.7.1
