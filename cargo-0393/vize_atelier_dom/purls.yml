@@ -738,6 +738,8 @@
 - pkg:cargo/vize_atelier_dom@0.78.0
 - pkg:cargo/vize_atelier_dom@0.780.0
 - pkg:cargo/vize_atelier_dom@0.781.0
+- pkg:cargo/vize_atelier_dom@0.782.0
+- pkg:cargo/vize_atelier_dom@0.783.0
 - pkg:cargo/vize_atelier_dom@0.79.0
 - pkg:cargo/vize_atelier_dom@0.8.0
 - pkg:cargo/vize_atelier_dom@0.80.0
