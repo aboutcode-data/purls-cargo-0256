@@ -1,5 +1,11 @@
 - pkg:cargo/lspkit@0.0.1
 - pkg:cargo/lspkit@0.1.0
+- pkg:cargo/lspkit@0.10.0
+- pkg:cargo/lspkit@0.10.1
 - pkg:cargo/lspkit@0.3.0
 - pkg:cargo/lspkit@0.4.0
 - pkg:cargo/lspkit@0.5.0
+- pkg:cargo/lspkit@0.6.0
+- pkg:cargo/lspkit@0.7.0
+- pkg:cargo/lspkit@0.8.0
+- pkg:cargo/lspkit@0.9.0
