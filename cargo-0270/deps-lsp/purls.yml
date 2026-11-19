@@ -38,3 +38,4 @@
 - pkg:cargo/deps-lsp@3.0.0
 - pkg:cargo/deps-lsp@4.0.0
 - pkg:cargo/deps-lsp@5.0.0
+- pkg:cargo/deps-lsp@6.0.0
