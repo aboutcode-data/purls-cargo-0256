@@ -26,3 +26,6 @@
 - pkg:cargo/hai-cli@1.9.0
 - pkg:cargo/hai-cli@2.0.0-beta.1
 - pkg:cargo/hai-cli@2.0.0-beta.2
+- pkg:cargo/hai-cli@2.0.0-beta.3
+- pkg:cargo/hai-cli@2.0.0-beta.4
+- pkg:cargo/hai-cli@2.0.0-beta.5
