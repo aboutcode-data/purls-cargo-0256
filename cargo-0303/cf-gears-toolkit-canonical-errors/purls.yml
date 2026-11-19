@@ -1,5 +1,6 @@
 - pkg:cargo/cf-gears-toolkit-canonical-errors@0.10.0
 - pkg:cargo/cf-gears-toolkit-canonical-errors@0.10.1
+- pkg:cargo/cf-gears-toolkit-canonical-errors@0.10.2
 - pkg:cargo/cf-gears-toolkit-canonical-errors@0.7.3
 - pkg:cargo/cf-gears-toolkit-canonical-errors@0.7.4
 - pkg:cargo/cf-gears-toolkit-canonical-errors@0.7.5
