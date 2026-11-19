@@ -23,3 +23,10 @@
 - pkg:cargo/datafusion-sqllogictest@52.5.0
 - pkg:cargo/datafusion-sqllogictest@53.0.0
 - pkg:cargo/datafusion-sqllogictest@53.1.0
+- pkg:cargo/datafusion-sqllogictest@54.0.0
+- pkg:cargo/datafusion-sqllogictest@54.1.0
+- pkg:cargo/datafusion-sqllogictest@54.2.0
+- pkg:cargo/datafusion-sqllogictest@55.0.0
+- pkg:cargo/datafusion-sqllogictest@55.1.0
+- pkg:cargo/datafusion-sqllogictest@55.2.0
+- pkg:cargo/datafusion-sqllogictest@55.3.0
