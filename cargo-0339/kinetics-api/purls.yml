@@ -25,3 +25,5 @@
 - pkg:cargo/kinetics-api@0.19.4
 - pkg:cargo/kinetics-api@0.19.5
 - pkg:cargo/kinetics-api@0.19.6
+- pkg:cargo/kinetics-api@0.20.0
+- pkg:cargo/kinetics-api@0.20.1
