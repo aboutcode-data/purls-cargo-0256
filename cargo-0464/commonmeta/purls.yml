@@ -31,6 +31,8 @@
 - pkg:cargo/commonmeta@0.12.5
 - pkg:cargo/commonmeta@0.12.6
 - pkg:cargo/commonmeta@0.12.7
+- pkg:cargo/commonmeta@0.12.8
+- pkg:cargo/commonmeta@0.12.9
 - pkg:cargo/commonmeta@0.2.0
 - pkg:cargo/commonmeta@0.2.1
 - pkg:cargo/commonmeta@0.2.2
