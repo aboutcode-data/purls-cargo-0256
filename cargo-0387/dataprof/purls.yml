@@ -1,3 +1,9 @@
+- pkg:cargo/dataprof@0.10.0
+- pkg:cargo/dataprof@0.11.0
+- pkg:cargo/dataprof@0.12.0
+- pkg:cargo/dataprof@0.13.0
+- pkg:cargo/dataprof@0.13.1
+- pkg:cargo/dataprof@0.14.0
 - pkg:cargo/dataprof@0.3.0
 - pkg:cargo/dataprof@0.3.1
 - pkg:cargo/dataprof@0.3.5
@@ -27,3 +33,6 @@
 - pkg:cargo/dataprof@0.6.2
 - pkg:cargo/dataprof@0.7.0
 - pkg:cargo/dataprof@0.7.1
+- pkg:cargo/dataprof@0.8.0
+- pkg:cargo/dataprof@0.8.1
+- pkg:cargo/dataprof@0.9.0
