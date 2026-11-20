@@ -61,6 +61,8 @@
 - pkg:cargo/spacetimedb-sats@2.14.0
 - pkg:cargo/spacetimedb-sats@2.14.1
 - pkg:cargo/spacetimedb-sats@2.15.0
+- pkg:cargo/spacetimedb-sats@2.16.0
+- pkg:cargo/spacetimedb-sats@2.16.1
 - pkg:cargo/spacetimedb-sats@2.2.0
 - pkg:cargo/spacetimedb-sats@2.3.0
 - pkg:cargo/spacetimedb-sats@2.4.0
