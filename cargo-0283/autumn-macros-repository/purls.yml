@@ -1,3 +1,4 @@
 - pkg:cargo/autumn-macros-repository@0.10.0
+- pkg:cargo/autumn-macros-repository@0.11.0
 - pkg:cargo/autumn-macros-repository@0.8.0
 - pkg:cargo/autumn-macros-repository@0.9.0
