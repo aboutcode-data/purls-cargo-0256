@@ -1,2 +1,3 @@
+- pkg:cargo/coordinode-cluster@0.10.0
 - pkg:cargo/coordinode-cluster@0.8.0
 - pkg:cargo/coordinode-cluster@0.9.0
