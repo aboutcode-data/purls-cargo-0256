@@ -14,3 +14,5 @@
 - pkg:cargo/matchmaker-partial-macros@0.0.9
 - pkg:cargo/matchmaker-partial-macros@0.1.4
 - pkg:cargo/matchmaker-partial-macros@0.1.7
+- pkg:cargo/matchmaker-partial-macros@0.1.8
+- pkg:cargo/matchmaker-partial-macros@0.1.9
