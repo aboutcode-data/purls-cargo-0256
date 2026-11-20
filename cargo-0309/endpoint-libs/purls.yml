@@ -77,3 +77,4 @@
 - pkg:cargo/endpoint-libs@4.1.0
 - pkg:cargo/endpoint-libs@4.2.0
 - pkg:cargo/endpoint-libs@4.2.1
+- pkg:cargo/endpoint-libs@4.3.0
