@@ -1,4 +1,5 @@
 - pkg:cargo/gsmm2-metric@0.1.0
+- pkg:cargo/gsmm2-metric@0.10.1
 - pkg:cargo/gsmm2-metric@0.2.0
 - pkg:cargo/gsmm2-metric@0.3.0
 - pkg:cargo/gsmm2-metric@0.4.0
