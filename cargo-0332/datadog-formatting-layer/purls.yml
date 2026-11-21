@@ -11,3 +11,4 @@
 - pkg:cargo/datadog-formatting-layer@5.0.0
 - pkg:cargo/datadog-formatting-layer@6.0.0
 - pkg:cargo/datadog-formatting-layer@7.0.0
+- pkg:cargo/datadog-formatting-layer@8.0.0
