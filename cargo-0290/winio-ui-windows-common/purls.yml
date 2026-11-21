@@ -18,3 +18,4 @@
 - pkg:cargo/winio-ui-windows-common@0.8.0-beta.1
 - pkg:cargo/winio-ui-windows-common@0.8.0-beta.2
 - pkg:cargo/winio-ui-windows-common@0.8.0-beta.3
+- pkg:cargo/winio-ui-windows-common@0.8.0-beta.4
