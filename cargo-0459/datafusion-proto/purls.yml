@@ -59,5 +59,12 @@
 - pkg:cargo/datafusion-proto@52.5.0
 - pkg:cargo/datafusion-proto@53.0.0
 - pkg:cargo/datafusion-proto@53.1.0
+- pkg:cargo/datafusion-proto@54.0.0
+- pkg:cargo/datafusion-proto@54.1.0
+- pkg:cargo/datafusion-proto@54.2.0
+- pkg:cargo/datafusion-proto@55.0.0
+- pkg:cargo/datafusion-proto@55.1.0
+- pkg:cargo/datafusion-proto@55.2.0
+- pkg:cargo/datafusion-proto@55.3.0
 - pkg:cargo/datafusion-proto@8.0.0
 - pkg:cargo/datafusion-proto@9.0.0

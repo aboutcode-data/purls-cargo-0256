@@ -1,0 +1,4 @@
+- pkg:cargo/datafusion-proto-models@55.0.0
+- pkg:cargo/datafusion-proto-models@55.1.0
+- pkg:cargo/datafusion-proto-models@55.2.0
+- pkg:cargo/datafusion-proto-models@55.3.0
