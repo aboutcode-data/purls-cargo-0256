@@ -6,3 +6,10 @@
 - pkg:cargo/dfir_rs@0.15.0
 - pkg:cargo/dfir_rs@0.16.0
 - pkg:cargo/dfir_rs@0.17.0-alpha.0
+- pkg:cargo/dfir_rs@0.17.0-alpha.1
+- pkg:cargo/dfir_rs@0.17.0-alpha.2
+- pkg:cargo/dfir_rs@0.17.0-alpha.3
+- pkg:cargo/dfir_rs@0.17.0-alpha.4
+- pkg:cargo/dfir_rs@0.17.0-alpha.5
+- pkg:cargo/dfir_rs@0.17.0-alpha.6
+- pkg:cargo/dfir_rs@0.17.0-alpha.7
