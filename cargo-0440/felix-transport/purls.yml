@@ -16,3 +16,5 @@
 - pkg:cargo/felix-transport@0.7.0-preview.2
 - pkg:cargo/felix-transport@0.7.1
 - pkg:cargo/felix-transport@0.7.2
+- pkg:cargo/felix-transport@0.7.3
+- pkg:cargo/felix-transport@0.8.0-preview.1
