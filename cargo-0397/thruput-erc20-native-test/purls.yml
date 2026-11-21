@@ -6,3 +6,4 @@
 - pkg:cargo/thruput-erc20-native-test@0.61.1
 - pkg:cargo/thruput-erc20-native-test@0.61.2
 - pkg:cargo/thruput-erc20-native-test@0.61.3
+- pkg:cargo/thruput-erc20-native-test@0.62.0
