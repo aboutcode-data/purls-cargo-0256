@@ -3,6 +3,9 @@
 - pkg:cargo/lepticons@0.11.0
 - pkg:cargo/lepticons@0.12.0
 - pkg:cargo/lepticons@0.12.1
+- pkg:cargo/lepticons@0.13.0
+- pkg:cargo/lepticons@0.13.1
+- pkg:cargo/lepticons@0.13.2
 - pkg:cargo/lepticons@0.7.0
 - pkg:cargo/lepticons@0.8.0
 - pkg:cargo/lepticons@0.9.0
