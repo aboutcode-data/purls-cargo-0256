@@ -1,5 +1,6 @@
 - pkg:cargo/damascus@0.0.10
 - pkg:cargo/damascus@0.0.11
+- pkg:cargo/damascus@0.0.12
 - pkg:cargo/damascus@0.0.3
 - pkg:cargo/damascus@0.0.4
 - pkg:cargo/damascus@0.0.5
