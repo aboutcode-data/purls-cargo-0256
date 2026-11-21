@@ -4,3 +4,4 @@
 - pkg:cargo/demesne-emit-sql@2.0.0
 - pkg:cargo/demesne-emit-sql@3.0.0
 - pkg:cargo/demesne-emit-sql@4.0.0
+- pkg:cargo/demesne-emit-sql@5.0.0
