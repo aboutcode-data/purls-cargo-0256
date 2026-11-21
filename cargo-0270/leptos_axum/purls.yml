@@ -99,6 +99,7 @@
 - pkg:cargo/leptos_axum@0.8.0-rc2
 - pkg:cargo/leptos_axum@0.8.0-rc3
 - pkg:cargo/leptos_axum@0.8.1
+- pkg:cargo/leptos_axum@0.8.10
 - pkg:cargo/leptos_axum@0.8.2
 - pkg:cargo/leptos_axum@0.8.3
 - pkg:cargo/leptos_axum@0.8.4
@@ -108,3 +109,7 @@
 - pkg:cargo/leptos_axum@0.8.8
 - pkg:cargo/leptos_axum@0.8.9
 - pkg:cargo/leptos_axum@0.9.0-alpha
+- pkg:cargo/leptos_axum@0.9.0-beta
+- pkg:cargo/leptos_axum@0.9.0-beta2
+- pkg:cargo/leptos_axum@0.9.0-rc0
+- pkg:cargo/leptos_axum@0.9.0-rc1
