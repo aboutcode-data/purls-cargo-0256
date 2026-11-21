@@ -41,6 +41,7 @@
 - pkg:cargo/mako-engine@0.4.0
 - pkg:cargo/mako-engine@0.40.0
 - pkg:cargo/mako-engine@0.41.0
+- pkg:cargo/mako-engine@0.42.0
 - pkg:cargo/mako-engine@0.5.0
 - pkg:cargo/mako-engine@0.6.0
 - pkg:cargo/mako-engine@0.7.0
