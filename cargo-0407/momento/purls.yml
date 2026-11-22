@@ -99,6 +99,9 @@
 - pkg:cargo/momento@0.66.0
 - pkg:cargo/momento@0.67.0
 - pkg:cargo/momento@0.68.0
+- pkg:cargo/momento@0.68.1
+- pkg:cargo/momento@0.68.2
+- pkg:cargo/momento@0.69.0
 - pkg:cargo/momento@0.7.0
 - pkg:cargo/momento@0.7.1
 - pkg:cargo/momento@0.7.2
@@ -108,6 +111,10 @@
 - pkg:cargo/momento@0.7.6
 - pkg:cargo/momento@0.7.7
 - pkg:cargo/momento@0.7.8
+- pkg:cargo/momento@0.70.0
+- pkg:cargo/momento@0.71.0
+- pkg:cargo/momento@0.72.0
+- pkg:cargo/momento@0.72.1
 - pkg:cargo/momento@0.8.1
 - pkg:cargo/momento@0.8.2
 - pkg:cargo/momento@0.8.3
