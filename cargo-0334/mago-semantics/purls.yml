@@ -178,6 +178,7 @@
 - pkg:cargo/mago-semantics@1.60.0
 - pkg:cargo/mago-semantics@1.60.1
 - pkg:cargo/mago-semantics@1.60.2
+- pkg:cargo/mago-semantics@1.61.0
 - pkg:cargo/mago-semantics@1.7.0
 - pkg:cargo/mago-semantics@1.8.0
 - pkg:cargo/mago-semantics@1.9.0
