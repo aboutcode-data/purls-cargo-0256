@@ -16,7 +16,14 @@
 - pkg:cargo/modalkit@0.0.23
 - pkg:cargo/modalkit@0.0.24
 - pkg:cargo/modalkit@0.0.25
+- pkg:cargo/modalkit@0.0.26
+- pkg:cargo/modalkit@0.0.27
+- pkg:cargo/modalkit@0.0.28
+- pkg:cargo/modalkit@0.0.29
 - pkg:cargo/modalkit@0.0.3
+- pkg:cargo/modalkit@0.0.30
+- pkg:cargo/modalkit@0.0.31
+- pkg:cargo/modalkit@0.0.32
 - pkg:cargo/modalkit@0.0.4
 - pkg:cargo/modalkit@0.0.5
 - pkg:cargo/modalkit@0.0.6
