@@ -38,3 +38,6 @@
 - pkg:cargo/ferroid-tonic-core@1.0.1
 - pkg:cargo/ferroid-tonic-core@1.0.2
 - pkg:cargo/ferroid-tonic-core@2.0.0
+- pkg:cargo/ferroid-tonic-core@3.0.0
+- pkg:cargo/ferroid-tonic-core@3.1.0
+- pkg:cargo/ferroid-tonic-core@3.1.1
