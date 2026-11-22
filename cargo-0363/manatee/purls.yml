@@ -2,6 +2,7 @@
 - pkg:cargo/manatee@0.10.0
 - pkg:cargo/manatee@0.10.0-alpha.1
 - pkg:cargo/manatee@0.10.0-alpha.2
+- pkg:cargo/manatee@0.11.0
 - pkg:cargo/manatee@0.2.0
 - pkg:cargo/manatee@0.3.0
 - pkg:cargo/manatee@0.4.0
