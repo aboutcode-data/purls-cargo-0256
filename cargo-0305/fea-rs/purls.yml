@@ -34,3 +34,5 @@
 - pkg:cargo/fea-rs@0.8.1
 - pkg:cargo/fea-rs@0.9.0
 - pkg:cargo/fea-rs@0.9.1
+- pkg:cargo/fea-rs@1.0.0
+- pkg:cargo/fea-rs@2.0.0
