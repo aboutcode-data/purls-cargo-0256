@@ -21,3 +21,4 @@
 - pkg:cargo/article_scraper@3.0.0-alpha1
 - pkg:cargo/article_scraper@3.0.1
 - pkg:cargo/article_scraper@3.0.2
+- pkg:cargo/article_scraper@4.0.0
