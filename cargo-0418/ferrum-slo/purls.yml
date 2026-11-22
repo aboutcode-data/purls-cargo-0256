@@ -9,3 +9,5 @@
 - pkg:cargo/ferrum-slo@0.18.5
 - pkg:cargo/ferrum-slo@0.19.0
 - pkg:cargo/ferrum-slo@0.19.1
+- pkg:cargo/ferrum-slo@0.20.0
+- pkg:cargo/ferrum-slo@0.20.1

@@ -15,6 +15,8 @@
 - pkg:cargo/ferrum-types@0.18.5
 - pkg:cargo/ferrum-types@0.19.0
 - pkg:cargo/ferrum-types@0.19.1
+- pkg:cargo/ferrum-types@0.20.0
+- pkg:cargo/ferrum-types@0.20.1
 - pkg:cargo/ferrum-types@0.3.0
 - pkg:cargo/ferrum-types@0.4.0
 - pkg:cargo/ferrum-types@0.5.0
