@@ -35,6 +35,7 @@
 - pkg:cargo/willbooster-tree-sitter-dart@22.0.0
 - pkg:cargo/willbooster-tree-sitter-dart@22.0.1
 - pkg:cargo/willbooster-tree-sitter-dart@22.0.2
+- pkg:cargo/willbooster-tree-sitter-dart@22.0.3
 - pkg:cargo/willbooster-tree-sitter-dart@3.0.0
 - pkg:cargo/willbooster-tree-sitter-dart@4.0.0
 - pkg:cargo/willbooster-tree-sitter-dart@5.0.0
