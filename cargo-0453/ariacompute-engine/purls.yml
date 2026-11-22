@@ -42,3 +42,4 @@
 - pkg:cargo/ariacompute-engine@2.4.2
 - pkg:cargo/ariacompute-engine@2.5.0
 - pkg:cargo/ariacompute-engine@2.5.1
+- pkg:cargo/ariacompute-engine@2.5.3
