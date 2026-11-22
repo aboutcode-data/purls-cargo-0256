@@ -5,3 +5,6 @@
 - pkg:cargo/model2vec-rs@0.1.4
 - pkg:cargo/model2vec-rs@0.2.0
 - pkg:cargo/model2vec-rs@0.2.1
+- pkg:cargo/model2vec-rs@0.3.0
+- pkg:cargo/model2vec-rs@0.4.0
+- pkg:cargo/model2vec-rs@0.5.0
