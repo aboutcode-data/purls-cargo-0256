@@ -14,3 +14,8 @@
 - pkg:cargo/ferogram-derive@0.6.2
 - pkg:cargo/ferogram-derive@0.6.3
 - pkg:cargo/ferogram-derive@0.6.4
+- pkg:cargo/ferogram-derive@0.6.5
+- pkg:cargo/ferogram-derive@0.6.6
+- pkg:cargo/ferogram-derive@0.6.7
+- pkg:cargo/ferogram-derive@0.6.7-b1
+- pkg:cargo/ferogram-derive@0.6.7-b2
