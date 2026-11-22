@@ -46,6 +46,7 @@
 - pkg:cargo/mstak@0.12.32
 - pkg:cargo/mstak@0.12.33
 - pkg:cargo/mstak@0.12.34
+- pkg:cargo/mstak@0.12.35
 - pkg:cargo/mstak@0.12.4
 - pkg:cargo/mstak@0.12.5
 - pkg:cargo/mstak@0.12.6
