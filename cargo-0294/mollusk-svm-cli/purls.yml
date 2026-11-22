@@ -22,6 +22,16 @@
 - pkg:cargo/mollusk-svm-cli@0.14.0-agave-4.2.0-beta.2
 - pkg:cargo/mollusk-svm-cli@0.14.0-agave-4.2.0-rc.0
 - pkg:cargo/mollusk-svm-cli@0.15.0
+- pkg:cargo/mollusk-svm-cli@0.15.0-agave-4.3.0-beta.0
+- pkg:cargo/mollusk-svm-cli@0.15.1
+- pkg:cargo/mollusk-svm-cli@0.16.0
+- pkg:cargo/mollusk-svm-cli@0.16.1
+- pkg:cargo/mollusk-svm-cli@0.16.2
+- pkg:cargo/mollusk-svm-cli@0.16.3
+- pkg:cargo/mollusk-svm-cli@0.16.4
+- pkg:cargo/mollusk-svm-cli@0.17.0
+- pkg:cargo/mollusk-svm-cli@0.17.1
+- pkg:cargo/mollusk-svm-cli@0.17.1-agave-4.5.0-alpha.4
 - pkg:cargo/mollusk-svm-cli@0.2.0
 - pkg:cargo/mollusk-svm-cli@0.2.1
 - pkg:cargo/mollusk-svm-cli@0.3.0
