@@ -1,2 +1,4 @@
 - pkg:cargo/smolvm-paths@1.35.4
 - pkg:cargo/smolvm-paths@1.35.5
+- pkg:cargo/smolvm-paths@1.36.0
+- pkg:cargo/smolvm-paths@1.36.1
