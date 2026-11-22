@@ -12,3 +12,4 @@
 - pkg:cargo/configurant@0.5.43
 - pkg:cargo/configurant@0.6.3
 - pkg:cargo/configurant@0.7.2
+- pkg:cargo/configurant@0.8.6
