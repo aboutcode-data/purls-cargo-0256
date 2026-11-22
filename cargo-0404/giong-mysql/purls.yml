@@ -4,4 +4,7 @@
 - pkg:cargo/giong-mysql@0.6.0
 - pkg:cargo/giong-mysql@0.7.0
 - pkg:cargo/giong-mysql@0.8.0
+- pkg:cargo/giong-mysql@1.0.0
 - pkg:cargo/giong-mysql@1.0.0-rc.1
+- pkg:cargo/giong-mysql@1.0.1
+- pkg:cargo/giong-mysql@1.1.0
