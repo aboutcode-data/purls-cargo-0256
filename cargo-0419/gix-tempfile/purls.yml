@@ -30,6 +30,7 @@
 - pkg:cargo/gix-tempfile@25.0.0
 - pkg:cargo/gix-tempfile@26.0.0
 - pkg:cargo/gix-tempfile@26.0.1
+- pkg:cargo/gix-tempfile@27.0.0
 - pkg:cargo/gix-tempfile@3.0.2
 - pkg:cargo/gix-tempfile@4.0.0
 - pkg:cargo/gix-tempfile@4.1.0
