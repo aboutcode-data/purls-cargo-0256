@@ -1,5 +1,6 @@
 - pkg:cargo/gix-chunk@0.10.0
 - pkg:cargo/gix-chunk@0.10.1
+- pkg:cargo/gix-chunk@0.10.2
 - pkg:cargo/gix-chunk@0.4.1
 - pkg:cargo/gix-chunk@0.4.10
 - pkg:cargo/gix-chunk@0.4.11

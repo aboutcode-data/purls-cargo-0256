@@ -52,3 +52,4 @@
 - pkg:cargo/gix-discover@0.56.0
 - pkg:cargo/gix-discover@0.57.0
 - pkg:cargo/gix-discover@0.57.1
+- pkg:cargo/gix-discover@0.58.0
