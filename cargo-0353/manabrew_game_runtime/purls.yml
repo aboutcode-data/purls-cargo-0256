@@ -68,6 +68,7 @@
 - pkg:cargo/manabrew_game_runtime@0.4.15
 - pkg:cargo/manabrew_game_runtime@0.4.17
 - pkg:cargo/manabrew_game_runtime@0.4.18
+- pkg:cargo/manabrew_game_runtime@0.4.19
 - pkg:cargo/manabrew_game_runtime@0.4.2
 - pkg:cargo/manabrew_game_runtime@0.4.3
 - pkg:cargo/manabrew_game_runtime@0.4.4
