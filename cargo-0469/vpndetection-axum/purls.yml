@@ -38,3 +38,4 @@
 - pkg:cargo/vpndetection-axum@4.0.1
 - pkg:cargo/vpndetection-axum@4.0.2
 - pkg:cargo/vpndetection-axum@4.0.3
+- pkg:cargo/vpndetection-axum@4.0.4
