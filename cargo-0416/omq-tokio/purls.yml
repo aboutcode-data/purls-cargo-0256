@@ -62,6 +62,8 @@
 - pkg:cargo/omq-tokio@0.37.1
 - pkg:cargo/omq-tokio@0.38.0
 - pkg:cargo/omq-tokio@0.38.1
+- pkg:cargo/omq-tokio@0.38.2
+- pkg:cargo/omq-tokio@0.38.3
 - pkg:cargo/omq-tokio@0.4.0
 - pkg:cargo/omq-tokio@0.5.0
 - pkg:cargo/omq-tokio@0.5.1
