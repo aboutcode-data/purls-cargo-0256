@@ -7,3 +7,5 @@
 - pkg:cargo/mseq_tracks@0.2.4
 - pkg:cargo/mseq_tracks@0.2.5
 - pkg:cargo/mseq_tracks@1.0.0
+- pkg:cargo/mseq_tracks@2.0.0
+- pkg:cargo/mseq_tracks@3.0.0
