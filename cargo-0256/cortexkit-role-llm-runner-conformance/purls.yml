@@ -157,6 +157,9 @@
 - pkg:cargo/cortexkit-role-llm-runner-conformance@0.17.80
 - pkg:cargo/cortexkit-role-llm-runner-conformance@0.17.81
 - pkg:cargo/cortexkit-role-llm-runner-conformance@0.17.82
+- pkg:cargo/cortexkit-role-llm-runner-conformance@0.17.83
+- pkg:cargo/cortexkit-role-llm-runner-conformance@0.17.84
+- pkg:cargo/cortexkit-role-llm-runner-conformance@0.17.85
 - pkg:cargo/cortexkit-role-llm-runner-conformance@0.17.9
 - pkg:cargo/cortexkit-role-llm-runner-conformance@0.2.0
 - pkg:cargo/cortexkit-role-llm-runner-conformance@0.2.1
