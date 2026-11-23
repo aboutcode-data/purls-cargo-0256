@@ -42,6 +42,7 @@
 - pkg:cargo/dynamo-parsers@11.0.11
 - pkg:cargo/dynamo-parsers@11.0.12
 - pkg:cargo/dynamo-parsers@11.0.13
+- pkg:cargo/dynamo-parsers@11.0.14
 - pkg:cargo/dynamo-parsers@11.0.2
 - pkg:cargo/dynamo-parsers@11.0.3
 - pkg:cargo/dynamo-parsers@11.0.4
