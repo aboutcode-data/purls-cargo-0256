@@ -1,4 +1,5 @@
 - pkg:cargo/coeus-autograd@0.10.0
 - pkg:cargo/coeus-autograd@0.13.0
 - pkg:cargo/coeus-autograd@0.14.0
+- pkg:cargo/coeus-autograd@0.15.0
 - pkg:cargo/coeus-autograd@0.9.0
