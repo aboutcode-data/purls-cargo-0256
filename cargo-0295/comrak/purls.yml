@@ -107,3 +107,4 @@
 - pkg:cargo/comrak@1.0.0-rc.1
 - pkg:cargo/comrak@1.0.0-rc.2
 - pkg:cargo/comrak@1.1.0
+- pkg:cargo/comrak@1.2.0
