@@ -4,3 +4,5 @@
 - pkg:cargo/cufflink-sql-parse@0.2.1
 - pkg:cargo/cufflink-sql-parse@0.2.2-rc.1
 - pkg:cargo/cufflink-sql-parse@0.3.0
+- pkg:cargo/cufflink-sql-parse@0.4.0
+- pkg:cargo/cufflink-sql-parse@0.4.1
