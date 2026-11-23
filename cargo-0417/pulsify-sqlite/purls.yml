@@ -5,4 +5,5 @@
 - pkg:cargo/pulsify-sqlite@13.0.0
 - pkg:cargo/pulsify-sqlite@14.0.0
 - pkg:cargo/pulsify-sqlite@15.0.0
+- pkg:cargo/pulsify-sqlite@16.0.0
 - pkg:cargo/pulsify-sqlite@6.0.0
