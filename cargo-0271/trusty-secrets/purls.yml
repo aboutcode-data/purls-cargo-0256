@@ -13,3 +13,4 @@
 - pkg:cargo/trusty-secrets@0.7.0
 - pkg:cargo/trusty-secrets@0.8.0
 - pkg:cargo/trusty-secrets@0.9.0
+- pkg:cargo/trusty-secrets@0.9.1
