@@ -72,3 +72,7 @@
 - pkg:cargo/dekopon-model-token-governor@0.88.0
 - pkg:cargo/dekopon-model-token-governor@0.89.0
 - pkg:cargo/dekopon-model-token-governor@0.90.0
+- pkg:cargo/dekopon-model-token-governor@0.91.0
+- pkg:cargo/dekopon-model-token-governor@0.92.0
+- pkg:cargo/dekopon-model-token-governor@0.93.0
+- pkg:cargo/dekopon-model-token-governor@0.94.0

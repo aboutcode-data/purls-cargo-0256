@@ -69,3 +69,7 @@
 - pkg:cargo/dekopon-gatewayd@0.88.0
 - pkg:cargo/dekopon-gatewayd@0.89.0
 - pkg:cargo/dekopon-gatewayd@0.90.0
+- pkg:cargo/dekopon-gatewayd@0.91.0
+- pkg:cargo/dekopon-gatewayd@0.92.0
+- pkg:cargo/dekopon-gatewayd@0.93.0
+- pkg:cargo/dekopon-gatewayd@0.94.0

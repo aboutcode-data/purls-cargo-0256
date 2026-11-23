@@ -93,3 +93,7 @@
 - pkg:cargo/dekopon-process@0.88.0
 - pkg:cargo/dekopon-process@0.89.0
 - pkg:cargo/dekopon-process@0.90.0
+- pkg:cargo/dekopon-process@0.91.0
+- pkg:cargo/dekopon-process@0.92.0
+- pkg:cargo/dekopon-process@0.93.0
+- pkg:cargo/dekopon-process@0.94.0
