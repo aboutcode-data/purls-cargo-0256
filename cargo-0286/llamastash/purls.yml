@@ -10,6 +10,7 @@
 - pkg:cargo/llamastash@0.10.1
 - pkg:cargo/llamastash@0.11.0
 - pkg:cargo/llamastash@0.12.0
+- pkg:cargo/llamastash@0.12.1
 - pkg:cargo/llamastash@0.2.0
 - pkg:cargo/llamastash@0.3.0
 - pkg:cargo/llamastash@0.4.0
