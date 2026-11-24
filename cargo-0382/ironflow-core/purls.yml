@@ -101,3 +101,4 @@
 - pkg:cargo/ironflow-core@5.0.2
 - pkg:cargo/ironflow-core@6.0.0
 - pkg:cargo/ironflow-core@6.0.1
+- pkg:cargo/ironflow-core@6.1.0
