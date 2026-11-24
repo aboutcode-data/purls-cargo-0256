@@ -3,3 +3,4 @@
 - pkg:cargo/turboreg-registration@0.26.4
 - pkg:cargo/turboreg-registration@0.27.0
 - pkg:cargo/turboreg-registration@0.28.0
+- pkg:cargo/turboreg-registration@0.28.1
