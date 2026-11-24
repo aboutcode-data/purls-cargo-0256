@@ -180,3 +180,4 @@
 - pkg:cargo/napi-derive@3.7.0
 - pkg:cargo/napi-derive@3.7.0-alpha.0
 - pkg:cargo/napi-derive@3.7.1
+- pkg:cargo/napi-derive@3.7.2
