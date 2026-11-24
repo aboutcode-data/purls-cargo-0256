@@ -10,6 +10,8 @@
 - pkg:cargo/cufflink-native@0.12.2
 - pkg:cargo/cufflink-native@0.12.3
 - pkg:cargo/cufflink-native@0.12.4
+- pkg:cargo/cufflink-native@0.12.5
+- pkg:cargo/cufflink-native@0.12.6
 - pkg:cargo/cufflink-native@0.2.0
 - pkg:cargo/cufflink-native@0.3.0
 - pkg:cargo/cufflink-native@0.4.0
