@@ -15,6 +15,13 @@
 - pkg:cargo/kuroko@0.20.0
 - pkg:cargo/kuroko@0.20.1
 - pkg:cargo/kuroko@0.20.10
+- pkg:cargo/kuroko@0.20.11
+- pkg:cargo/kuroko@0.20.12
+- pkg:cargo/kuroko@0.20.14
+- pkg:cargo/kuroko@0.20.15
+- pkg:cargo/kuroko@0.20.16
+- pkg:cargo/kuroko@0.20.17
+- pkg:cargo/kuroko@0.20.18
 - pkg:cargo/kuroko@0.20.2
 - pkg:cargo/kuroko@0.20.3
 - pkg:cargo/kuroko@0.20.4
