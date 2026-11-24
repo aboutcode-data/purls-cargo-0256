@@ -20,6 +20,9 @@
 - pkg:cargo/cufflink@0.23.0
 - pkg:cargo/cufflink@0.24.0
 - pkg:cargo/cufflink@0.24.1
+- pkg:cargo/cufflink@0.24.2
+- pkg:cargo/cufflink@0.24.3
+- pkg:cargo/cufflink@0.24.4
 - pkg:cargo/cufflink@0.6.0
 - pkg:cargo/cufflink@0.6.1
 - pkg:cargo/cufflink@0.6.2
