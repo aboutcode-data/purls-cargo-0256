@@ -47,6 +47,7 @@
 - pkg:cargo/aicost@0.3.0-rc.2
 - pkg:cargo/aicost@0.3.1
 - pkg:cargo/aicost@0.3.10
+- pkg:cargo/aicost@0.3.11
 - pkg:cargo/aicost@0.3.2
 - pkg:cargo/aicost@0.3.3
 - pkg:cargo/aicost@0.3.4
