@@ -1,0 +1,9 @@
+- pkg:cargo/dep-vet@0.13.0
+- pkg:cargo/dep-vet@0.13.1
+- pkg:cargo/dep-vet@0.13.2
+- pkg:cargo/dep-vet@0.13.3
+- pkg:cargo/dep-vet@0.13.4
+- pkg:cargo/dep-vet@0.13.5
+- pkg:cargo/dep-vet@0.13.6
+- pkg:cargo/dep-vet@0.14.0
+- pkg:cargo/dep-vet@0.15.0
