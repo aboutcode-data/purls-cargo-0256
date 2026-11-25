@@ -5,6 +5,7 @@
 - pkg:cargo/codex-commit@0.5.0
 - pkg:cargo/codex-commit@0.6.0
 - pkg:cargo/codex-commit@0.6.1
+- pkg:cargo/codex-commit@0.6.10
 - pkg:cargo/codex-commit@0.6.2
 - pkg:cargo/codex-commit@0.6.3
 - pkg:cargo/codex-commit@0.6.4
