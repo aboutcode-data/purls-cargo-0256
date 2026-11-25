@@ -4,6 +4,7 @@
 - pkg:cargo/cf-gears-toolkit-security@0.12.1
 - pkg:cargo/cf-gears-toolkit-security@0.13.0
 - pkg:cargo/cf-gears-toolkit-security@0.14.0
+- pkg:cargo/cf-gears-toolkit-security@0.15.0
 - pkg:cargo/cf-gears-toolkit-security@0.7.0
 - pkg:cargo/cf-gears-toolkit-security@0.7.1
 - pkg:cargo/cf-gears-toolkit-security@0.7.2
