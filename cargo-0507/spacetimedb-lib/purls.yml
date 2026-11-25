@@ -71,6 +71,7 @@
 - pkg:cargo/spacetimedb-lib@2.15.0
 - pkg:cargo/spacetimedb-lib@2.16.0
 - pkg:cargo/spacetimedb-lib@2.16.1
+- pkg:cargo/spacetimedb-lib@2.16.3
 - pkg:cargo/spacetimedb-lib@2.2.0
 - pkg:cargo/spacetimedb-lib@2.3.0
 - pkg:cargo/spacetimedb-lib@2.4.0
