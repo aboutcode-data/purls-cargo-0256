@@ -20,3 +20,6 @@
 - pkg:cargo/occt-wasm@7.3.0
 - pkg:cargo/occt-wasm@7.3.1
 - pkg:cargo/occt-wasm@7.3.2
+- pkg:cargo/occt-wasm@7.3.3
+- pkg:cargo/occt-wasm@7.3.4
+- pkg:cargo/occt-wasm@7.3.5
