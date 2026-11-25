@@ -1,2 +1,3 @@
 - pkg:cargo/scx_mlfq@1.0.1
 - pkg:cargo/scx_mlfq@1.3.12
+- pkg:cargo/scx_mlfq@2.0.3
