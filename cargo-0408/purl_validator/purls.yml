@@ -180,6 +180,7 @@
 - pkg:cargo/purl_validator@1.16.201
 - pkg:cargo/purl_validator@1.16.202
 - pkg:cargo/purl_validator@1.16.203
+- pkg:cargo/purl_validator@1.16.204
 - pkg:cargo/purl_validator@1.16.21
 - pkg:cargo/purl_validator@1.16.22
 - pkg:cargo/purl_validator@1.16.23
