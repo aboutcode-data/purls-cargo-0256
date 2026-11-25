@@ -10,3 +10,5 @@
 - pkg:cargo/kiss-vulkan-vocab@0.4.7
 - pkg:cargo/kiss-vulkan-vocab@0.4.8
 - pkg:cargo/kiss-vulkan-vocab@0.4.9
+- pkg:cargo/kiss-vulkan-vocab@0.5.0
+- pkg:cargo/kiss-vulkan-vocab@0.6.0
