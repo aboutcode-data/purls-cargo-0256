@@ -21,6 +21,7 @@
 - pkg:cargo/sp-crypto-ec-utils@0.22.0
 - pkg:cargo/sp-crypto-ec-utils@0.23.0
 - pkg:cargo/sp-crypto-ec-utils@0.24.0
+- pkg:cargo/sp-crypto-ec-utils@0.25.0
 - pkg:cargo/sp-crypto-ec-utils@0.4.0
 - pkg:cargo/sp-crypto-ec-utils@0.5.0
 - pkg:cargo/sp-crypto-ec-utils@0.6.0
