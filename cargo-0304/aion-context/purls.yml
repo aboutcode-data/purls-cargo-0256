@@ -3,3 +3,4 @@
 - pkg:cargo/aion-context@1.0.2
 - pkg:cargo/aion-context@2.0.0
 - pkg:cargo/aion-context@3.0.0
+- pkg:cargo/aion-context@4.0.0
