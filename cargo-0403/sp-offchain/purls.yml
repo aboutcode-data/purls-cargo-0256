@@ -54,6 +54,7 @@
 - pkg:cargo/sp-offchain@42.0.0
 - pkg:cargo/sp-offchain@43.0.0
 - pkg:cargo/sp-offchain@44.0.0
+- pkg:cargo/sp-offchain@45.0.0
 - pkg:cargo/sp-offchain@5.0.0
 - pkg:cargo/sp-offchain@6.0.0
 - pkg:cargo/sp-offchain@7.0.0
