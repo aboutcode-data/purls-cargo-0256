@@ -11,6 +11,7 @@
 - pkg:cargo/wiremux@0.11.11
 - pkg:cargo/wiremux@0.11.12
 - pkg:cargo/wiremux@0.11.13
+- pkg:cargo/wiremux@0.11.14
 - pkg:cargo/wiremux@0.11.2
 - pkg:cargo/wiremux@0.11.3
 - pkg:cargo/wiremux@0.11.4
