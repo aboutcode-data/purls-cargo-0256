@@ -22,6 +22,7 @@
 - pkg:cargo/ifc-lite-processing@28.2.0
 - pkg:cargo/ifc-lite-processing@28.3.0
 - pkg:cargo/ifc-lite-processing@30.0.0
+- pkg:cargo/ifc-lite-processing@30.1.0
 - pkg:cargo/ifc-lite-processing@4.0.0
 - pkg:cargo/ifc-lite-processing@4.1.0
 - pkg:cargo/ifc-lite-processing@4.1.1
