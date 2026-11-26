@@ -8,3 +8,4 @@
 - pkg:cargo/tree-sitter-bpftrace@0.4.0
 - pkg:cargo/tree-sitter-bpftrace@0.4.1
 - pkg:cargo/tree-sitter-bpftrace@0.5.0
+- pkg:cargo/tree-sitter-bpftrace@0.6.1
