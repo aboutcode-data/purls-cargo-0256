@@ -2,3 +2,4 @@
 - pkg:cargo/aidaemon-client-protocol@0.22.1
 - pkg:cargo/aidaemon-client-protocol@0.23.1
 - pkg:cargo/aidaemon-client-protocol@0.24.0
+- pkg:cargo/aidaemon-client-protocol@0.25.0
