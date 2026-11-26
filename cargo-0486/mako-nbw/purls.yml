@@ -46,6 +46,7 @@
 - pkg:cargo/mako-nbw@0.44.0
 - pkg:cargo/mako-nbw@0.45.0
 - pkg:cargo/mako-nbw@0.46.0
+- pkg:cargo/mako-nbw@0.47.0
 - pkg:cargo/mako-nbw@0.5.0
 - pkg:cargo/mako-nbw@0.6.0
 - pkg:cargo/mako-nbw@0.7.0
