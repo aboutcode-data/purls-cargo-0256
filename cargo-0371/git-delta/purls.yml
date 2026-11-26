@@ -38,6 +38,7 @@
 - pkg:cargo/git-delta@0.21.0
 - pkg:cargo/git-delta@0.21.1
 - pkg:cargo/git-delta@0.21.2
+- pkg:cargo/git-delta@0.22.0
 - pkg:cargo/git-delta@0.3.0
 - pkg:cargo/git-delta@0.4.0
 - pkg:cargo/git-delta@0.4.1
