@@ -18,3 +18,5 @@
 - pkg:cargo/trace-index@0.5.4
 - pkg:cargo/trace-index@0.5.5
 - pkg:cargo/trace-index@0.5.6
+- pkg:cargo/trace-index@0.6.0
+- pkg:cargo/trace-index@0.6.1
