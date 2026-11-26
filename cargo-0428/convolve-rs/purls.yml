@@ -14,3 +14,4 @@
 - pkg:cargo/convolve-rs@2.3.0
 - pkg:cargo/convolve-rs@2.4.0
 - pkg:cargo/convolve-rs@3.0.0
+- pkg:cargo/convolve-rs@3.0.1
