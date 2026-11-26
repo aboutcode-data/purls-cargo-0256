@@ -42,5 +42,6 @@
 - pkg:cargo/trie-db@0.30.1
 - pkg:cargo/trie-db@0.31.0
 - pkg:cargo/trie-db@0.32.0
+- pkg:cargo/trie-db@0.33.0
 - pkg:cargo/trie-db@0.9.0
 - pkg:cargo/trie-db@0.9.1
