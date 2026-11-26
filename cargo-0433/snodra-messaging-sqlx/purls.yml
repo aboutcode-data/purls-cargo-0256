@@ -1,2 +1,5 @@
 - pkg:cargo/snodra-messaging-sqlx@0.6.0
 - pkg:cargo/snodra-messaging-sqlx@0.6.1
+- pkg:cargo/snodra-messaging-sqlx@0.7.0
+- pkg:cargo/snodra-messaging-sqlx@0.7.1
+- pkg:cargo/snodra-messaging-sqlx@0.8.0
