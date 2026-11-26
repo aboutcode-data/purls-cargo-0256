@@ -100,3 +100,5 @@
 - pkg:cargo/historyprovider@3.3.9
 - pkg:cargo/historyprovider@4.0.0
 - pkg:cargo/historyprovider@4.0.1
+- pkg:cargo/historyprovider@4.0.2
+- pkg:cargo/historyprovider@4.1.0
