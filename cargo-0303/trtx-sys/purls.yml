@@ -1,4 +1,5 @@
 - pkg:cargo/trtx-sys@0.1.0
+- pkg:cargo/trtx-sys@0.10.0%2Brtx1.7
 - pkg:cargo/trtx-sys@0.2.0
 - pkg:cargo/trtx-sys@0.3.0
 - pkg:cargo/trtx-sys@0.3.1
