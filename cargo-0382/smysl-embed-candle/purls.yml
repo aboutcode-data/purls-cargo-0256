@@ -6,3 +6,4 @@
 - pkg:cargo/smysl-embed-candle@1.18.0
 - pkg:cargo/smysl-embed-candle@1.19.0
 - pkg:cargo/smysl-embed-candle@1.20.0
+- pkg:cargo/smysl-embed-candle@1.21.0
