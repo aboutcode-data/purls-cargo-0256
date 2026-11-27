@@ -1,1 +1,3 @@
 - pkg:cargo/udp-addr-index@0.1.1
+- pkg:cargo/udp-addr-index@0.1.6
+- pkg:cargo/udp-addr-index@0.2.0
