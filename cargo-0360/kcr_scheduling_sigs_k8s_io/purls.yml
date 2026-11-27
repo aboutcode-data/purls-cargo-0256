@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_scheduling_sigs_k8s_io@2.20250923.34910
 - pkg:cargo/kcr_scheduling_sigs_k8s_io@2.20250930.34951
 - pkg:cargo/kcr_scheduling_sigs_k8s_io@3.20260113.42606
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@3.20260602.81406
