@@ -67,6 +67,7 @@
 - pkg:cargo/dope-net@0.72.0
 - pkg:cargo/dope-net@0.73.0
 - pkg:cargo/dope-net@0.74.0
+- pkg:cargo/dope-net@0.75.0
 - pkg:cargo/dope-net@0.8.0
 - pkg:cargo/dope-net@0.8.1
 - pkg:cargo/dope-net@0.9.0
