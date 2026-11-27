@@ -3,6 +3,8 @@
 - pkg:cargo/json-mel@0.10.2
 - pkg:cargo/json-mel@0.10.3
 - pkg:cargo/json-mel@0.10.4
+- pkg:cargo/json-mel@0.11.0
+- pkg:cargo/json-mel@0.11.1
 - pkg:cargo/json-mel@0.7.0
 - pkg:cargo/json-mel@0.7.1
 - pkg:cargo/json-mel@0.8.0
