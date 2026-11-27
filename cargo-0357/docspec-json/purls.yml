@@ -21,6 +21,8 @@
 - pkg:cargo/docspec-json@1.20.1
 - pkg:cargo/docspec-json@1.21.0
 - pkg:cargo/docspec-json@1.21.1
+- pkg:cargo/docspec-json@1.21.10
+- pkg:cargo/docspec-json@1.21.11
 - pkg:cargo/docspec-json@1.21.2
 - pkg:cargo/docspec-json@1.21.3
 - pkg:cargo/docspec-json@1.21.4
@@ -36,3 +38,5 @@
 - pkg:cargo/docspec-json@1.7.1
 - pkg:cargo/docspec-json@1.8.0
 - pkg:cargo/docspec-json@1.9.0
+- pkg:cargo/docspec-json@2.0.0-rc.1
+- pkg:cargo/docspec-json@2.0.0-rc.2

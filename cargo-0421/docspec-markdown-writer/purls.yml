@@ -18,6 +18,8 @@
 - pkg:cargo/docspec-markdown-writer@1.20.1
 - pkg:cargo/docspec-markdown-writer@1.21.0
 - pkg:cargo/docspec-markdown-writer@1.21.1
+- pkg:cargo/docspec-markdown-writer@1.21.10
+- pkg:cargo/docspec-markdown-writer@1.21.11
 - pkg:cargo/docspec-markdown-writer@1.21.2
 - pkg:cargo/docspec-markdown-writer@1.21.3
 - pkg:cargo/docspec-markdown-writer@1.21.4
@@ -26,3 +28,5 @@
 - pkg:cargo/docspec-markdown-writer@1.21.7
 - pkg:cargo/docspec-markdown-writer@1.21.8
 - pkg:cargo/docspec-markdown-writer@1.21.9
+- pkg:cargo/docspec-markdown-writer@2.0.0-rc.1
+- pkg:cargo/docspec-markdown-writer@2.0.0-rc.2
