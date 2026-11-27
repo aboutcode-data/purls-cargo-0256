@@ -7,3 +7,4 @@
 - pkg:cargo/bitwarden-api-identity@1.0.0
 - pkg:cargo/bitwarden-api-identity@2.0.0
 - pkg:cargo/bitwarden-api-identity@3.0.0
+- pkg:cargo/bitwarden-api-identity@4.0.0
