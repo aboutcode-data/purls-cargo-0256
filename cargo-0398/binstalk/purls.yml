@@ -113,7 +113,16 @@
 - pkg:cargo/binstalk@0.28.80
 - pkg:cargo/binstalk@0.28.81
 - pkg:cargo/binstalk@0.28.9
+- pkg:cargo/binstalk@0.29.0
+- pkg:cargo/binstalk@0.29.1
+- pkg:cargo/binstalk@0.29.2
+- pkg:cargo/binstalk@0.29.3
+- pkg:cargo/binstalk@0.29.4
+- pkg:cargo/binstalk@0.29.5
+- pkg:cargo/binstalk@0.29.6
 - pkg:cargo/binstalk@0.3.0
+- pkg:cargo/binstalk@0.30.0
+- pkg:cargo/binstalk@0.31.0
 - pkg:cargo/binstalk@0.4.0
 - pkg:cargo/binstalk@0.4.1
 - pkg:cargo/binstalk@0.5.0

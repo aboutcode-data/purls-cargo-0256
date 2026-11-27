@@ -52,11 +52,16 @@
 - pkg:cargo/binstalk-downloader@0.13.44
 - pkg:cargo/binstalk-downloader@0.13.45
 - pkg:cargo/binstalk-downloader@0.13.46
+- pkg:cargo/binstalk-downloader@0.13.47
+- pkg:cargo/binstalk-downloader@0.13.48
 - pkg:cargo/binstalk-downloader@0.13.5
 - pkg:cargo/binstalk-downloader@0.13.6
 - pkg:cargo/binstalk-downloader@0.13.7
 - pkg:cargo/binstalk-downloader@0.13.8
 - pkg:cargo/binstalk-downloader@0.13.9
+- pkg:cargo/binstalk-downloader@0.14.0
+- pkg:cargo/binstalk-downloader@0.14.1
+- pkg:cargo/binstalk-downloader@0.14.2
 - pkg:cargo/binstalk-downloader@0.2.0
 - pkg:cargo/binstalk-downloader@0.3.0
 - pkg:cargo/binstalk-downloader@0.3.1
