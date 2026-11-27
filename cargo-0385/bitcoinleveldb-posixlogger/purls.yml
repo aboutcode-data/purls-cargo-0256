@@ -1,1 +1,2 @@
 - pkg:cargo/bitcoinleveldb-posixlogger@0.1.1
+- pkg:cargo/bitcoinleveldb-posixlogger@0.2.0
