@@ -98,4 +98,7 @@
 - pkg:cargo/risc0-build@3.0.3
 - pkg:cargo/risc0-build@3.0.4
 - pkg:cargo/risc0-build@3.0.5
+- pkg:cargo/risc0-build@3.0.6
+- pkg:cargo/risc0-build@3.0.7
+- pkg:cargo/risc0-build@3.0.7-rc.1
 - pkg:cargo/risc0-build@5.0.0-rc.1

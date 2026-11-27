@@ -24,3 +24,4 @@
 - pkg:cargo/risc0-build-ethereum@2.2.2
 - pkg:cargo/risc0-build-ethereum@3.0.0
 - pkg:cargo/risc0-build-ethereum@3.0.1
+- pkg:cargo/risc0-build-ethereum@3.1.0
