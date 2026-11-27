@@ -8,3 +8,4 @@
 - pkg:cargo/biome_css_syntax@0.5.6
 - pkg:cargo/biome_css_syntax@0.5.7
 - pkg:cargo/biome_css_syntax@0.5.8
+- pkg:cargo/biome_css_syntax@0.7.3
