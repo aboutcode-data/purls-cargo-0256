@@ -14,6 +14,9 @@
 - pkg:cargo/fluentci-server@0.2.1
 - pkg:cargo/fluentci-server@0.3.0
 - pkg:cargo/fluentci-server@0.3.1
+- pkg:cargo/fluentci-server@0.3.10
+- pkg:cargo/fluentci-server@0.3.11
+- pkg:cargo/fluentci-server@0.3.12
 - pkg:cargo/fluentci-server@0.3.2
 - pkg:cargo/fluentci-server@0.3.3
 - pkg:cargo/fluentci-server@0.3.4
