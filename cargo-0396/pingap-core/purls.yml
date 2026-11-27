@@ -2,3 +2,7 @@
 - pkg:cargo/pingap-core@0.12.0
 - pkg:cargo/pingap-core@0.13.0
 - pkg:cargo/pingap-core@0.13.1
+- pkg:cargo/pingap-core@0.14.2
+- pkg:cargo/pingap-core@0.15.0
+- pkg:cargo/pingap-core@0.16.0
+- pkg:cargo/pingap-core@0.16.1
