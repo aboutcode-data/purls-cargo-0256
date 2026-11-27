@@ -5,3 +5,4 @@
 - pkg:cargo/dbus-secret-service@4.0.2
 - pkg:cargo/dbus-secret-service@4.0.3
 - pkg:cargo/dbus-secret-service@4.1.0
+- pkg:cargo/dbus-secret-service@4.2.0
