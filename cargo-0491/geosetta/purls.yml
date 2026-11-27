@@ -6,3 +6,5 @@
 - pkg:cargo/geosetta@0.23.0
 - pkg:cargo/geosetta@0.24.0
 - pkg:cargo/geosetta@0.25.0
+- pkg:cargo/geosetta@0.26.1
+- pkg:cargo/geosetta@0.27.0
