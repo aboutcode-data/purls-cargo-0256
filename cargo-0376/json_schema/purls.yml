@@ -7,3 +7,4 @@
 - pkg:cargo/json_schema@1.7.4
 - pkg:cargo/json_schema@1.7.5
 - pkg:cargo/json_schema@1.8.0
+- pkg:cargo/json_schema@1.8.3
