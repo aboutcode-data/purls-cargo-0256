@@ -69,3 +69,4 @@
 - pkg:cargo/pin-project-internal@1.1.7
 - pkg:cargo/pin-project-internal@1.1.8
 - pkg:cargo/pin-project-internal@1.1.9
+- pkg:cargo/pin-project-internal@1.2.0
