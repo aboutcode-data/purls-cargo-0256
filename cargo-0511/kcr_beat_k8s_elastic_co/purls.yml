@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_beat_k8s_elastic_co@2.20250925.165717
 - pkg:cargo/kcr_beat_k8s_elastic_co@2.20251002.165617
 - pkg:cargo/kcr_beat_k8s_elastic_co@3.20260115.172011
+- pkg:cargo/kcr_beat_k8s_elastic_co@3.20260604.190837

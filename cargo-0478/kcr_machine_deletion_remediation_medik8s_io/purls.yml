@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_machine_deletion_remediation_medik8s_io@2.20250914.213042
 - pkg:cargo/kcr_machine_deletion_remediation_medik8s_io@2.20250928.213107
 - pkg:cargo/kcr_machine_deletion_remediation_medik8s_io@3.20260118.213516
+- pkg:cargo/kcr_machine_deletion_remediation_medik8s_io@3.20260531.223011

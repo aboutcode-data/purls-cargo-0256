@@ -12,3 +12,5 @@
 - pkg:cargo/kcr_tempo_grafana_com@2.20251219.151557
 - pkg:cargo/kcr_tempo_grafana_com@2.20260109.151635
 - pkg:cargo/kcr_tempo_grafana_com@3.20260116.151731
+- pkg:cargo/kcr_tempo_grafana_com@3.20260529.180759
+- pkg:cargo/kcr_tempo_grafana_com@3.20260605.170918
