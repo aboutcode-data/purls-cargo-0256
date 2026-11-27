@@ -1,4 +1,6 @@
 - pkg:cargo/fluxer-neptunium@0.1.0
+- pkg:cargo/fluxer-neptunium@0.10.0
+- pkg:cargo/fluxer-neptunium@0.10.1
 - pkg:cargo/fluxer-neptunium@0.2.0
 - pkg:cargo/fluxer-neptunium@0.2.1
 - pkg:cargo/fluxer-neptunium@0.2.2
@@ -20,3 +22,17 @@
 - pkg:cargo/fluxer-neptunium@0.6.0
 - pkg:cargo/fluxer-neptunium@0.6.1
 - pkg:cargo/fluxer-neptunium@0.6.2
+- pkg:cargo/fluxer-neptunium@0.6.3
+- pkg:cargo/fluxer-neptunium@0.7.0
+- pkg:cargo/fluxer-neptunium@0.7.1
+- pkg:cargo/fluxer-neptunium@0.7.2
+- pkg:cargo/fluxer-neptunium@0.7.3
+- pkg:cargo/fluxer-neptunium@0.8.0
+- pkg:cargo/fluxer-neptunium@0.8.1
+- pkg:cargo/fluxer-neptunium@0.8.2
+- pkg:cargo/fluxer-neptunium@0.8.3
+- pkg:cargo/fluxer-neptunium@0.8.4
+- pkg:cargo/fluxer-neptunium@0.8.5
+- pkg:cargo/fluxer-neptunium@0.9.1
+- pkg:cargo/fluxer-neptunium@0.9.2
+- pkg:cargo/fluxer-neptunium@0.9.3
