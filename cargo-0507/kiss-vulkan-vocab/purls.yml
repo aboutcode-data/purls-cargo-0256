@@ -4,6 +4,11 @@
 - pkg:cargo/kiss-vulkan-vocab@0.28.0
 - pkg:cargo/kiss-vulkan-vocab@0.29.0
 - pkg:cargo/kiss-vulkan-vocab@0.3.0
+- pkg:cargo/kiss-vulkan-vocab@0.30.1
+- pkg:cargo/kiss-vulkan-vocab@0.30.3
+- pkg:cargo/kiss-vulkan-vocab@0.30.4
+- pkg:cargo/kiss-vulkan-vocab@0.30.8
+- pkg:cargo/kiss-vulkan-vocab@0.30.9
 - pkg:cargo/kiss-vulkan-vocab@0.4.0
 - pkg:cargo/kiss-vulkan-vocab@0.4.1
 - pkg:cargo/kiss-vulkan-vocab@0.4.2
