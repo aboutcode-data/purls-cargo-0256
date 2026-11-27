@@ -158,3 +158,4 @@
 - pkg:cargo/glean@70.3.0
 - pkg:cargo/glean@71.0.0
 - pkg:cargo/glean@71.1.0
+- pkg:cargo/glean@71.2.0
