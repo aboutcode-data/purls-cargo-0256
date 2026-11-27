@@ -6,6 +6,9 @@
 - pkg:cargo/pistonite-cu-proc-macros@0.1.5
 - pkg:cargo/pistonite-cu-proc-macros@0.2.0
 - pkg:cargo/pistonite-cu-proc-macros@0.2.1
+- pkg:cargo/pistonite-cu-proc-macros@0.2.10
+- pkg:cargo/pistonite-cu-proc-macros@0.2.11
+- pkg:cargo/pistonite-cu-proc-macros@0.2.12
 - pkg:cargo/pistonite-cu-proc-macros@0.2.2
 - pkg:cargo/pistonite-cu-proc-macros@0.2.3
 - pkg:cargo/pistonite-cu-proc-macros@0.2.4
