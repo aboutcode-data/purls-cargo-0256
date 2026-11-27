@@ -1,3 +1,4 @@
 - pkg:cargo/ts_kv_store@0.0.0-alpha0
 - pkg:cargo/ts_kv_store@0.5.0
 - pkg:cargo/ts_kv_store@0.6.1
+- pkg:cargo/ts_kv_store@0.7.1
