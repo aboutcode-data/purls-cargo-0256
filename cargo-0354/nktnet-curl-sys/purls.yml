@@ -1,0 +1,3 @@
+- pkg:cargo/nktnet-curl-sys@0.4.91-nktnet.1%2Bcurl-8.22.0
+- pkg:cargo/nktnet-curl-sys@0.4.91-nktnet.2%2Bcurl-8.22.0
+- pkg:cargo/nktnet-curl-sys@0.4.91-nktnet.3%2Bcurl-8.22.0
