@@ -26,6 +26,9 @@
 - pkg:cargo/rig-neo4j@0.3.6
 - pkg:cargo/rig-neo4j@0.3.7
 - pkg:cargo/rig-neo4j@0.3.8
+- pkg:cargo/rig-neo4j@0.38.1
+- pkg:cargo/rig-neo4j@0.38.2
+- pkg:cargo/rig-neo4j@0.39.0
 - pkg:cargo/rig-neo4j@0.4.0
 - pkg:cargo/rig-neo4j@0.4.1
 - pkg:cargo/rig-neo4j@0.4.2
@@ -36,6 +39,16 @@
 - pkg:cargo/rig-neo4j@0.4.7
 - pkg:cargo/rig-neo4j@0.4.8
 - pkg:cargo/rig-neo4j@0.4.9
+- pkg:cargo/rig-neo4j@0.40.0
+- pkg:cargo/rig-neo4j@0.41.0
+- pkg:cargo/rig-neo4j@0.42.0
+- pkg:cargo/rig-neo4j@0.43.0
+- pkg:cargo/rig-neo4j@0.44.0
+- pkg:cargo/rig-neo4j@0.45.0
+- pkg:cargo/rig-neo4j@0.46.0
+- pkg:cargo/rig-neo4j@0.46.0-rc.1
+- pkg:cargo/rig-neo4j@0.47.0
+- pkg:cargo/rig-neo4j@0.47.1
 - pkg:cargo/rig-neo4j@0.5.0
 - pkg:cargo/rig-neo4j@0.5.1
 - pkg:cargo/rig-neo4j@0.5.2
@@ -43,3 +56,4 @@
 - pkg:cargo/rig-neo4j@0.5.4
 - pkg:cargo/rig-neo4j@0.5.5
 - pkg:cargo/rig-neo4j@0.5.6
+- pkg:cargo/rig-neo4j@0.5.7
