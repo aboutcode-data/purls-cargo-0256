@@ -28,3 +28,5 @@
 - pkg:cargo/tsoracle@2.3.4
 - pkg:cargo/tsoracle@2.3.5
 - pkg:cargo/tsoracle@2.3.6
+- pkg:cargo/tsoracle@2.3.7
+- pkg:cargo/tsoracle@2.4.0
