@@ -1,0 +1,4 @@
+- pkg:cargo/pipedash-plugins@0.12.0
+- pkg:cargo/pipedash-plugins@0.13.0
+- pkg:cargo/pipedash-plugins@0.14.0
+- pkg:cargo/pipedash-plugins@0.15.0
