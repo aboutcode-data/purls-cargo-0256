@@ -1,1 +1,2 @@
 - pkg:cargo/hdds-latency-probe@0.1.0
+- pkg:cargo/hdds-latency-probe@1.5.0
