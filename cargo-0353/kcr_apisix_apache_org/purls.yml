@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_apisix_apache_org@2.20250925.202142
 - pkg:cargo/kcr_apisix_apache_org@2.20251002.202111
 - pkg:cargo/kcr_apisix_apache_org@3.20260115.202731
+- pkg:cargo/kcr_apisix_apache_org@3.20260604.214144

@@ -23,3 +23,5 @@
 - pkg:cargo/kcr_crd_projectcalico_org@2.20251224.114605
 - pkg:cargo/kcr_crd_projectcalico_org@3.20260114.114843
 - pkg:cargo/kcr_crd_projectcalico_org@3.20260128.115023
+- pkg:cargo/kcr_crd_projectcalico_org@3.20260603.160343
+- pkg:cargo/kcr_crd_projectcalico_org@3.20260617.143806

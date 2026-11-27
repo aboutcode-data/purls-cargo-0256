@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_cloudwatchlogs_services_k8s_aws@2.20250922.164058
 - pkg:cargo/kcr_cloudwatchlogs_services_k8s_aws@2.20250929.163326
 - pkg:cargo/kcr_cloudwatchlogs_services_k8s_aws@3.20260112.164740
+- pkg:cargo/kcr_cloudwatchlogs_services_k8s_aws@3.20260601.203648
