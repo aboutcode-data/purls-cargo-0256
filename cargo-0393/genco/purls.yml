@@ -54,6 +54,8 @@
 - pkg:cargo/genco@0.2.5
 - pkg:cargo/genco@0.2.6
 - pkg:cargo/genco@0.2.7
+- pkg:cargo/genco@0.20.0
+- pkg:cargo/genco@0.20.1
 - pkg:cargo/genco@0.3.0
 - pkg:cargo/genco@0.3.1
 - pkg:cargo/genco@0.3.10
