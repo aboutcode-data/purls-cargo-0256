@@ -2,3 +2,5 @@
 - pkg:cargo/dotcat@1.1.0
 - pkg:cargo/dotcat@1.1.1
 - pkg:cargo/dotcat@1.1.2
+- pkg:cargo/dotcat@2.0.0
+- pkg:cargo/dotcat@2.0.1
