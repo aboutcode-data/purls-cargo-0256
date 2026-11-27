@@ -21,3 +21,4 @@
 - pkg:cargo/json-patch@4.0.0
 - pkg:cargo/json-patch@4.1.0
 - pkg:cargo/json-patch@4.2.0
+- pkg:cargo/json-patch@5.0.0
