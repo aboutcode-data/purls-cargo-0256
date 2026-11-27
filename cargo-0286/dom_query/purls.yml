@@ -31,6 +31,7 @@
 - pkg:cargo/dom_query@0.26.0
 - pkg:cargo/dom_query@0.27.0
 - pkg:cargo/dom_query@0.28.0
+- pkg:cargo/dom_query@0.29.0
 - pkg:cargo/dom_query@0.3.0
 - pkg:cargo/dom_query@0.3.1
 - pkg:cargo/dom_query@0.3.2
@@ -38,6 +39,7 @@
 - pkg:cargo/dom_query@0.3.4
 - pkg:cargo/dom_query@0.3.5
 - pkg:cargo/dom_query@0.3.6
+- pkg:cargo/dom_query@0.30.0
 - pkg:cargo/dom_query@0.4.0
 - pkg:cargo/dom_query@0.4.1
 - pkg:cargo/dom_query@0.4.2
