@@ -122,3 +122,7 @@
 - pkg:cargo/gemini-client-api@7.5.3
 - pkg:cargo/gemini-client-api@7.5.4
 - pkg:cargo/gemini-client-api@7.5.5
+- pkg:cargo/gemini-client-api@7.6.0
+- pkg:cargo/gemini-client-api@7.6.1
+- pkg:cargo/gemini-client-api@7.7.0
+- pkg:cargo/gemini-client-api@7.7.1
