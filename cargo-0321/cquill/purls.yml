@@ -1,4 +1,11 @@
 - pkg:cargo/cquill@0.0.1
+- pkg:cargo/cquill@0.0.10
+- pkg:cargo/cquill@0.0.10-alpha.1
+- pkg:cargo/cquill@0.0.10-beta.1
+- pkg:cargo/cquill@0.0.10-rc.1
+- pkg:cargo/cquill@0.0.11-alpha.1
+- pkg:cargo/cquill@0.0.11-alpha.2
+- pkg:cargo/cquill@0.0.11-alpha.3
 - pkg:cargo/cquill@0.0.2
 - pkg:cargo/cquill@0.0.3
 - pkg:cargo/cquill@0.0.4
