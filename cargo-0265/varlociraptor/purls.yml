@@ -96,6 +96,11 @@
 - pkg:cargo/varlociraptor@8.0.0
 - pkg:cargo/varlociraptor@8.1.0
 - pkg:cargo/varlociraptor@8.1.1
+- pkg:cargo/varlociraptor@8.10.0
+- pkg:cargo/varlociraptor@8.11.0
+- pkg:cargo/varlociraptor@8.12.0
+- pkg:cargo/varlociraptor@8.12.1
+- pkg:cargo/varlociraptor@8.13.0
 - pkg:cargo/varlociraptor@8.2.0
 - pkg:cargo/varlociraptor@8.3.0
 - pkg:cargo/varlociraptor@8.4.0
