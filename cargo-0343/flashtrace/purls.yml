@@ -1,0 +1,8 @@
+- pkg:cargo/flashtrace@0.0.0-bootstrap
+- pkg:cargo/flashtrace@0.13.0
+- pkg:cargo/flashtrace@0.13.1
+- pkg:cargo/flashtrace@0.13.2
+- pkg:cargo/flashtrace@0.13.3
+- pkg:cargo/flashtrace@0.14.0
+- pkg:cargo/flashtrace@0.15.0
+- pkg:cargo/flashtrace@0.15.1
