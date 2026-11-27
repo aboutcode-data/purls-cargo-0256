@@ -1,2 +1,5 @@
 - pkg:cargo/flodl-hf@0.5.2
 - pkg:cargo/flodl-hf@0.5.3
+- pkg:cargo/flodl-hf@0.6.0
+- pkg:cargo/flodl-hf@0.7.0
+- pkg:cargo/flodl-hf@0.8.0
