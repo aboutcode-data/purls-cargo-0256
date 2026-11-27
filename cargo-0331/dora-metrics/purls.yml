@@ -80,3 +80,4 @@
 - pkg:cargo/dora-metrics@1.0.0-rc1
 - pkg:cargo/dora-metrics@1.0.1
 - pkg:cargo/dora-metrics@1.1.0
+- pkg:cargo/dora-metrics@1.2.0-rc.1
