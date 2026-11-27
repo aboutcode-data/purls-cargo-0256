@@ -36,6 +36,8 @@
 - pkg:cargo/generator@0.8.0
 - pkg:cargo/generator@0.8.1
 - pkg:cargo/generator@0.8.10
+- pkg:cargo/generator@0.8.11
+- pkg:cargo/generator@0.8.12
 - pkg:cargo/generator@0.8.2
 - pkg:cargo/generator@0.8.3
 - pkg:cargo/generator@0.8.4
