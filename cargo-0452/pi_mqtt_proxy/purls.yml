@@ -13,3 +13,4 @@
 - pkg:cargo/pi_mqtt_proxy@0.6.0
 - pkg:cargo/pi_mqtt_proxy@0.7.0
 - pkg:cargo/pi_mqtt_proxy@0.8.0
+- pkg:cargo/pi_mqtt_proxy@0.8.1

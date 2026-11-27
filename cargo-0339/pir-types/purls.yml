@@ -6,3 +6,13 @@
 - pkg:cargo/pir-types@0.3.0-rc.4
 - pkg:cargo/pir-types@0.3.0-rc.5
 - pkg:cargo/pir-types@0.3.0-rc.6
+- pkg:cargo/pir-types@0.4.0
+- pkg:cargo/pir-types@0.5.0
+- pkg:cargo/pir-types@0.6.0
+- pkg:cargo/pir-types@0.6.1
+- pkg:cargo/pir-types@0.6.2
+- pkg:cargo/pir-types@0.6.3
+- pkg:cargo/pir-types@0.6.4
+- pkg:cargo/pir-types@0.7.0
+- pkg:cargo/pir-types@0.8.0
+- pkg:cargo/pir-types@0.9.0
