@@ -73,3 +73,5 @@
 - pkg:cargo/general-mq@0.4.4
 - pkg:cargo/general-mq@0.4.5
 - pkg:cargo/general-mq@0.4.6
+- pkg:cargo/general-mq@0.4.7
+- pkg:cargo/general-mq@0.4.8
