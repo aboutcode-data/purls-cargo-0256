@@ -1,2 +1,7 @@
 - pkg:cargo/pixelfold-core@0.6.0
 - pkg:cargo/pixelfold-core@1.0.0
+- pkg:cargo/pixelfold-core@2.0.0
+- pkg:cargo/pixelfold-core@2.1.0
+- pkg:cargo/pixelfold-core@3.0.0
+- pkg:cargo/pixelfold-core@4.0.0
+- pkg:cargo/pixelfold-core@5.0.0

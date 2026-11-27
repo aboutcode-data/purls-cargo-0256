@@ -1,2 +1,7 @@
 - pkg:cargo/pixelfold-tui@0.6.0
 - pkg:cargo/pixelfold-tui@1.0.0
+- pkg:cargo/pixelfold-tui@2.0.0
+- pkg:cargo/pixelfold-tui@2.1.0
+- pkg:cargo/pixelfold-tui@3.0.0
+- pkg:cargo/pixelfold-tui@4.0.0
+- pkg:cargo/pixelfold-tui@5.0.0
