@@ -1,6 +1,7 @@
 - pkg:cargo/biblib@0.1.0
 - pkg:cargo/biblib@0.1.1
 - pkg:cargo/biblib@0.1.2
+- pkg:cargo/biblib@0.10.0
 - pkg:cargo/biblib@0.2.0
 - pkg:cargo/biblib@0.2.1
 - pkg:cargo/biblib@0.2.2
@@ -21,3 +22,4 @@
 - pkg:cargo/biblib@0.7.2
 - pkg:cargo/biblib@0.8.0
 - pkg:cargo/biblib@0.8.1
+- pkg:cargo/biblib@0.9.0
