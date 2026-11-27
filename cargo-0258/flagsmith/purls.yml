@@ -8,3 +8,12 @@
 - pkg:cargo/flagsmith@1.5.0
 - pkg:cargo/flagsmith@2.0.0
 - pkg:cargo/flagsmith@2.1.0
+- pkg:cargo/flagsmith@2.1.1
+- pkg:cargo/flagsmith@3.0.0
+- pkg:cargo/flagsmith@3.1.0
+- pkg:cargo/flagsmith@3.1.1
+- pkg:cargo/flagsmith@3.1.2
+- pkg:cargo/flagsmith@3.2.0
+- pkg:cargo/flagsmith@3.3.0
+- pkg:cargo/flagsmith@3.4.0
+- pkg:cargo/flagsmith@3.5.0
