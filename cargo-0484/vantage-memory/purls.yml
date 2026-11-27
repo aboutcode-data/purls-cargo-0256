@@ -16,3 +16,4 @@
 - pkg:cargo/vantage-memory@4.0.2
 - pkg:cargo/vantage-memory@4.1.0
 - pkg:cargo/vantage-memory@5.0.0
+- pkg:cargo/vantage-memory@5.0.1
