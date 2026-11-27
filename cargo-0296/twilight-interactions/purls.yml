@@ -16,6 +16,8 @@
 - pkg:cargo/twilight-interactions@0.16.1
 - pkg:cargo/twilight-interactions@0.16.2
 - pkg:cargo/twilight-interactions@0.17.0
+- pkg:cargo/twilight-interactions@0.17.1
+- pkg:cargo/twilight-interactions@0.18.0
 - pkg:cargo/twilight-interactions@0.7.0
 - pkg:cargo/twilight-interactions@0.7.1
 - pkg:cargo/twilight-interactions@0.7.2
