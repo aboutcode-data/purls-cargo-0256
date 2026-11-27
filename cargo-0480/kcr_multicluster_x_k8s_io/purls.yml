@@ -12,3 +12,5 @@
 - pkg:cargo/kcr_multicluster_x_k8s_io@2.20251015.94754
 - pkg:cargo/kcr_multicluster_x_k8s_io@2.20251217.95300
 - pkg:cargo/kcr_multicluster_x_k8s_io@3.20260114.95425
+- pkg:cargo/kcr_multicluster_x_k8s_io@3.20260603.141407
+- pkg:cargo/kcr_multicluster_x_k8s_io@3.20260617.130058

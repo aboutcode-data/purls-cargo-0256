@@ -16,3 +16,6 @@
 - pkg:cargo/kcr_ps_percona_com@2.20251106.163912
 - pkg:cargo/kcr_ps_percona_com@2.20251120.163854
 - pkg:cargo/kcr_ps_percona_com@3.20260115.165106
+- pkg:cargo/kcr_ps_percona_com@3.20260604.182749
+- pkg:cargo/kcr_ps_percona_com@3.20260611.185251
+- pkg:cargo/kcr_ps_percona_com@3.20260618.183322

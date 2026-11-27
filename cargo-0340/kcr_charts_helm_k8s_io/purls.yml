@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_charts_helm_k8s_io@2.20250914.204044
 - pkg:cargo/kcr_charts_helm_k8s_io@2.20250928.204059
 - pkg:cargo/kcr_charts_helm_k8s_io@3.20260118.204613
+- pkg:cargo/kcr_charts_helm_k8s_io@3.20260531.213439

@@ -14,3 +14,6 @@
 - pkg:cargo/kcr_workloads_kubeblocks_io@2.20260106.194621
 - pkg:cargo/kcr_workloads_kubeblocks_io@3.20260113.194332
 - pkg:cargo/kcr_workloads_kubeblocks_io@3.20260127.195147
+- pkg:cargo/kcr_workloads_kubeblocks_io@3.20260602.220842
+- pkg:cargo/kcr_workloads_kubeblocks_io@3.20260609.212107
+- pkg:cargo/kcr_workloads_kubeblocks_io@3.20260616.220109
