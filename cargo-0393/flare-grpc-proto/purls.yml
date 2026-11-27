@@ -1,0 +1,6 @@
+- pkg:cargo/flare-grpc-proto@0.1.0
+- pkg:cargo/flare-grpc-proto@1.0.3
+- pkg:cargo/flare-grpc-proto@2.0.0
+- pkg:cargo/flare-grpc-proto@2.0.1
+- pkg:cargo/flare-grpc-proto@2.1.0
+- pkg:cargo/flare-grpc-proto@2.2.0
