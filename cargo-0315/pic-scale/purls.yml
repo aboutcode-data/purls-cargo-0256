@@ -78,6 +78,9 @@
 - pkg:cargo/pic-scale@0.7.1
 - pkg:cargo/pic-scale@0.7.10
 - pkg:cargo/pic-scale@0.7.11
+- pkg:cargo/pic-scale@0.7.12
+- pkg:cargo/pic-scale@0.7.13
+- pkg:cargo/pic-scale@0.7.14
 - pkg:cargo/pic-scale@0.7.2
 - pkg:cargo/pic-scale@0.7.3
 - pkg:cargo/pic-scale@0.7.4
