@@ -65,3 +65,9 @@
 - pkg:cargo/twitch_oauth_token@4.3.0
 - pkg:cargo/twitch_oauth_token@4.3.1
 - pkg:cargo/twitch_oauth_token@4.4.0
+- pkg:cargo/twitch_oauth_token@4.4.1
+- pkg:cargo/twitch_oauth_token@5.0.0
+- pkg:cargo/twitch_oauth_token@5.0.1
+- pkg:cargo/twitch_oauth_token@6.0.0
+- pkg:cargo/twitch_oauth_token@7.0.0
+- pkg:cargo/twitch_oauth_token@8.0.0
