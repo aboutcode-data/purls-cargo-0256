@@ -1,3 +1,5 @@
 - pkg:cargo/download-ticks@1.6.0
 - pkg:cargo/download-ticks@1.7.0
 - pkg:cargo/download-ticks@1.7.1
+- pkg:cargo/download-ticks@1.8.0
+- pkg:cargo/download-ticks@1.8.1
