@@ -1,0 +1,9 @@
+- pkg:cargo/xbp-k8s@10.43.0
+- pkg:cargo/xbp-k8s@10.46.0
+- pkg:cargo/xbp-k8s@10.57.0
+- pkg:cargo/xbp-k8s@10.63.0
+- pkg:cargo/xbp-k8s@10.63.1
+- pkg:cargo/xbp-k8s@11.0.1
+- pkg:cargo/xbp-k8s@11.0.2
+- pkg:cargo/xbp-k8s@11.1.7
+- pkg:cargo/xbp-k8s@11.2.0
