@@ -11,3 +11,6 @@
 - pkg:cargo/ygrep-cli@3.5.1
 - pkg:cargo/ygrep-cli@4.0.0
 - pkg:cargo/ygrep-cli@4.0.1
+- pkg:cargo/ygrep-cli@4.0.2
+- pkg:cargo/ygrep-cli@4.0.3
+- pkg:cargo/ygrep-cli@4.0.4
