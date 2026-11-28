@@ -33,3 +33,4 @@
 - pkg:cargo/libheif-sys@5.2.0%2B1.21.2
 - pkg:cargo/libheif-sys@5.3.0%2B1.23.0
 - pkg:cargo/libheif-sys@5.3.1%2B1.23.1
+- pkg:cargo/libheif-sys@5.3.2%2B1.23.7
