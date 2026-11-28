@@ -1,6 +1,7 @@
 - pkg:cargo/taktwerk@0.1.0
 - pkg:cargo/taktwerk@0.13.3
 - pkg:cargo/taktwerk@0.13.4
+- pkg:cargo/taktwerk@0.13.5
 - pkg:cargo/taktwerk@0.2.0
 - pkg:cargo/taktwerk@0.3.0
 - pkg:cargo/taktwerk@0.3.1
