@@ -19,3 +19,8 @@
 - pkg:cargo/tank-mongodb@0.41.0
 - pkg:cargo/tank-mongodb@0.42.0
 - pkg:cargo/tank-mongodb@0.44.0
+- pkg:cargo/tank-mongodb@0.45.0
+- pkg:cargo/tank-mongodb@0.46.0
+- pkg:cargo/tank-mongodb@0.47.0
+- pkg:cargo/tank-mongodb@0.48.0
+- pkg:cargo/tank-mongodb@0.49.0
