@@ -6,6 +6,7 @@
 - pkg:cargo/hopr-network-graph@0.12.1
 - pkg:cargo/hopr-network-graph@0.12.2
 - pkg:cargo/hopr-network-graph@0.13.0
+- pkg:cargo/hopr-network-graph@0.13.1
 - pkg:cargo/hopr-network-graph@0.3.1
 - pkg:cargo/hopr-network-graph@0.3.4
 - pkg:cargo/hopr-network-graph@0.5.0
