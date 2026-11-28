@@ -62,3 +62,4 @@
 - pkg:cargo/lindera-tantivy@4.0.0
 - pkg:cargo/lindera-tantivy@5.0.1
 - pkg:cargo/lindera-tantivy@6.2.0
+- pkg:cargo/lindera-tantivy@7.0.0
