@@ -160,6 +160,7 @@
 - pkg:cargo/zerv@0.8.43
 - pkg:cargo/zerv@0.8.44
 - pkg:cargo/zerv@0.8.45
+- pkg:cargo/zerv@0.8.46
 - pkg:cargo/zerv@0.8.5
 - pkg:cargo/zerv@0.8.6
 - pkg:cargo/zerv@0.8.7
