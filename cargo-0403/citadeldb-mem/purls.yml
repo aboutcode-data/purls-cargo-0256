@@ -23,3 +23,4 @@
 - pkg:cargo/citadeldb-mem@2.6.0
 - pkg:cargo/citadeldb-mem@2.6.1
 - pkg:cargo/citadeldb-mem@2.7.0
+- pkg:cargo/citadeldb-mem@3.0.0

@@ -26,3 +26,4 @@
 - pkg:cargo/citadeldb-sql-json-path@2.6.0
 - pkg:cargo/citadeldb-sql-json-path@2.6.1
 - pkg:cargo/citadeldb-sql-json-path@2.7.0
+- pkg:cargo/citadeldb-sql-json-path@3.0.0
