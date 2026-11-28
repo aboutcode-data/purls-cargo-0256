@@ -19,3 +19,4 @@
 - pkg:cargo/libcint-src@0.5.1
 - pkg:cargo/libcint-src@0.6.0
 - pkg:cargo/libcint-src@0.6.1
+- pkg:cargo/libcint-src@0.6.2
