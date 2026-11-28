@@ -3,3 +3,5 @@
 - pkg:cargo/qdatagram@0.6.0
 - pkg:cargo/qdatagram@0.6.1
 - pkg:cargo/qdatagram@0.6.1-beta.1
+- pkg:cargo/qdatagram@0.6.2
+- pkg:cargo/qdatagram@0.7.0
