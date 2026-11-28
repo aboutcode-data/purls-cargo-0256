@@ -22,3 +22,5 @@
 - pkg:cargo/light-openid@2.0.8
 - pkg:cargo/light-openid@2.0.9
 - pkg:cargo/light-openid@2.1.0
+- pkg:cargo/light-openid@2.2.0
+- pkg:cargo/light-openid@2.2.1
