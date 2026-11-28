@@ -16,6 +16,7 @@
 - pkg:cargo/memprocfs@5.17.5
 - pkg:cargo/memprocfs@5.17.9
 - pkg:cargo/memprocfs@5.18.1
+- pkg:cargo/memprocfs@5.19.0
 - pkg:cargo/memprocfs@5.4.0
 - pkg:cargo/memprocfs@5.4.1
 - pkg:cargo/memprocfs@5.4.2
