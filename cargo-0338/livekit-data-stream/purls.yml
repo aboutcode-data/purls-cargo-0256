@@ -9,3 +9,5 @@
 - pkg:cargo/livekit-data-stream@0.1.8
 - pkg:cargo/livekit-data-stream@0.1.9
 - pkg:cargo/livekit-data-stream@0.2.0
+- pkg:cargo/livekit-data-stream@0.2.1
+- pkg:cargo/livekit-data-stream@0.3.0
