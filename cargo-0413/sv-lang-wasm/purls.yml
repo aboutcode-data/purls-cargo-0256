@@ -1,0 +1,15 @@
+- pkg:cargo/sv-lang-wasm@0.1.0%2Bslang.11.0
+- pkg:cargo/sv-lang-wasm@0.1.1%2Bslang.11.0
+- pkg:cargo/sv-lang-wasm@0.1.10%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.11%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.12%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.13%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.14%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.2%2Bslang.11.0
+- pkg:cargo/sv-lang-wasm@0.1.3%2Bslang.11.0
+- pkg:cargo/sv-lang-wasm@0.1.4%2Bslang.11.0
+- pkg:cargo/sv-lang-wasm@0.1.5%2Bslang.11.0
+- pkg:cargo/sv-lang-wasm@0.1.6%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.7%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.8%2Bslang.12.0
+- pkg:cargo/sv-lang-wasm@0.1.9%2Bslang.12.0
