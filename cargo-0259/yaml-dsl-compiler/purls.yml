@@ -14,4 +14,16 @@
 - pkg:cargo/yaml-dsl-compiler@0.1.7-snapshot.20261109224455
 - pkg:cargo/yaml-dsl-compiler@0.1.8
 - pkg:cargo/yaml-dsl-compiler@0.1.8-snapshot.20261119051228
+- pkg:cargo/yaml-dsl-compiler@0.1.9
 - pkg:cargo/yaml-dsl-compiler@0.1.9-snapshot.20261120234936
+- pkg:cargo/yaml-dsl-compiler@0.1.9-snapshot.20261122184251
+- pkg:cargo/yaml-dsl-compiler@0.1.9-snapshot.20261122214021
+- pkg:cargo/yaml-dsl-compiler@0.2.0
+- pkg:cargo/yaml-dsl-compiler@0.2.1-snapshot.20261126043041
+- pkg:cargo/yaml-dsl-compiler@0.2.1-snapshot.20261126053956
+- pkg:cargo/yaml-dsl-compiler@0.2.1-snapshot.20261126055546
+- pkg:cargo/yaml-dsl-compiler@0.3.0
+- pkg:cargo/yaml-dsl-compiler@0.3.1
+- pkg:cargo/yaml-dsl-compiler@0.3.1-snapshot.20261127014043
+- pkg:cargo/yaml-dsl-compiler@0.3.1-snapshot.20261127025140
+- pkg:cargo/yaml-dsl-compiler@0.3.1-snapshot.20261127035247
