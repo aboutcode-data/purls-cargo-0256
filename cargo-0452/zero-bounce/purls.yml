@@ -9,3 +9,8 @@
 - pkg:cargo/zero-bounce@1.2.0
 - pkg:cargo/zero-bounce@2.0.11
 - pkg:cargo/zero-bounce@2.1.0
+- pkg:cargo/zero-bounce@2.1.2
+- pkg:cargo/zero-bounce@2.1.3
+- pkg:cargo/zero-bounce@3.0.0
+- pkg:cargo/zero-bounce@4.0.0
+- pkg:cargo/zero-bounce@4.1.0
