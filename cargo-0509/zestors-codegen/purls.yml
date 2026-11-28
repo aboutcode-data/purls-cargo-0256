@@ -3,3 +3,6 @@
 - pkg:cargo/zestors-codegen@0.0.3
 - pkg:cargo/zestors-codegen@0.1.0
 - pkg:cargo/zestors-codegen@0.1.1
+- pkg:cargo/zestors-codegen@0.2.0
+- pkg:cargo/zestors-codegen@0.3.0
+- pkg:cargo/zestors-codegen@0.3.1
