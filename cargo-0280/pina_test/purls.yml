@@ -16,3 +16,4 @@
 - pkg:cargo/pina_test@0.23.0
 - pkg:cargo/pina_test@0.24.0
 - pkg:cargo/pina_test@0.25.0
+- pkg:cargo/pina_test@0.25.1
