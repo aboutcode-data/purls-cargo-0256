@@ -4,3 +4,4 @@
 - pkg:cargo/settings_loader@1.1.0
 - pkg:cargo/settings_loader@1.2.0
 - pkg:cargo/settings_loader@1.2.1
+- pkg:cargo/settings_loader@2.0.0
