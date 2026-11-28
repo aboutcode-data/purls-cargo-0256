@@ -10,6 +10,7 @@
 - pkg:cargo/scp-dev-core@0.4.18
 - pkg:cargo/scp-dev-core@0.4.19
 - pkg:cargo/scp-dev-core@0.4.2
+- pkg:cargo/scp-dev-core@0.4.20
 - pkg:cargo/scp-dev-core@0.4.3
 - pkg:cargo/scp-dev-core@0.4.4
 - pkg:cargo/scp-dev-core@0.4.5
