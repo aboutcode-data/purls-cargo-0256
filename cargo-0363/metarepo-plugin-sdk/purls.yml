@@ -12,3 +12,8 @@
 - pkg:cargo/metarepo-plugin-sdk@0.51.0
 - pkg:cargo/metarepo-plugin-sdk@0.52.0
 - pkg:cargo/metarepo-plugin-sdk@0.77.0
+- pkg:cargo/metarepo-plugin-sdk@0.80.0
+- pkg:cargo/metarepo-plugin-sdk@0.81.0
+- pkg:cargo/metarepo-plugin-sdk@0.81.1
+- pkg:cargo/metarepo-plugin-sdk@0.83.0
+- pkg:cargo/metarepo-plugin-sdk@0.84.0
