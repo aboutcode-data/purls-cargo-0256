@@ -16,5 +16,11 @@
 - pkg:cargo/tari_template_abi@0.19.1
 - pkg:cargo/tari_template_abi@0.20.0
 - pkg:cargo/tari_template_abi@0.20.1
+- pkg:cargo/tari_template_abi@0.21.0
+- pkg:cargo/tari_template_abi@0.22.0
+- pkg:cargo/tari_template_abi@0.23.0
+- pkg:cargo/tari_template_abi@0.23.1
+- pkg:cargo/tari_template_abi@0.24.0
+- pkg:cargo/tari_template_abi@0.24.1
 - pkg:cargo/tari_template_abi@0.3.0
 - pkg:cargo/tari_template_abi@0.7.0
