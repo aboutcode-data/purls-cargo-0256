@@ -66,6 +66,7 @@
 - pkg:cargo/scheduler-gpui-unofficial@1.29.1
 - pkg:cargo/scheduler-gpui-unofficial@1.29.2
 - pkg:cargo/scheduler-gpui-unofficial@1.29.3
+- pkg:cargo/scheduler-gpui-unofficial@1.30.2
 - pkg:cargo/scheduler-gpui-unofficial@1.7.2
 - pkg:cargo/scheduler-gpui-unofficial@1.8.2
 - pkg:cargo/scheduler-gpui-unofficial@1.9.0
