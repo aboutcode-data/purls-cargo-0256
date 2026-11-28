@@ -48,3 +48,4 @@
 - pkg:cargo/litex-lang@1.1.1-beta
 - pkg:cargo/litex-lang@1.1.10-beta
 - pkg:cargo/litex-lang@1.1.5-beta
+- pkg:cargo/litex-lang@1.2.2-beta
