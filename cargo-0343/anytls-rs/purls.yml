@@ -6,3 +6,6 @@
 - pkg:cargo/anytls-rs@0.5.1
 - pkg:cargo/anytls-rs@0.5.2
 - pkg:cargo/anytls-rs@0.5.4
+- pkg:cargo/anytls-rs@0.5.5
+- pkg:cargo/anytls-rs@0.5.6
+- pkg:cargo/anytls-rs@0.5.7
