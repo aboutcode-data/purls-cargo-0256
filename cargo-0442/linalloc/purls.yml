@@ -4,3 +4,4 @@
 - pkg:cargo/linalloc@2.0.0
 - pkg:cargo/linalloc@2.0.1
 - pkg:cargo/linalloc@2.0.2
+- pkg:cargo/linalloc@3.0.0
