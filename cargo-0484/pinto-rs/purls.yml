@@ -47,6 +47,7 @@
 - pkg:cargo/pinto-rs@0.17.21
 - pkg:cargo/pinto-rs@0.17.22
 - pkg:cargo/pinto-rs@0.17.23
+- pkg:cargo/pinto-rs@0.17.26
 - pkg:cargo/pinto-rs@0.17.4
 - pkg:cargo/pinto-rs@0.17.5
 - pkg:cargo/pinto-rs@0.17.7
