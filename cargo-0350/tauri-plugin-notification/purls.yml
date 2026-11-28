@@ -38,6 +38,11 @@
 - pkg:cargo/tauri-plugin-notification@2.4.0
 - pkg:cargo/tauri-plugin-notification@2.5.0
 - pkg:cargo/tauri-plugin-notification@2.5.1
+- pkg:cargo/tauri-plugin-notification@2.6.0
+- pkg:cargo/tauri-plugin-notification@2.7.0
+- pkg:cargo/tauri-plugin-notification@2.8.0
+- pkg:cargo/tauri-plugin-notification@2.8.1
 - pkg:cargo/tauri-plugin-notification@3.0.0-alpha.0
 - pkg:cargo/tauri-plugin-notification@3.0.0-alpha.1
 - pkg:cargo/tauri-plugin-notification@3.0.0-alpha.2
+- pkg:cargo/tauri-plugin-notification@3.0.0-alpha.3
