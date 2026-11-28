@@ -11,6 +11,7 @@
 - pkg:cargo/svd-rs@0.14.10
 - pkg:cargo/svd-rs@0.14.11
 - pkg:cargo/svd-rs@0.14.12
+- pkg:cargo/svd-rs@0.14.13
 - pkg:cargo/svd-rs@0.14.2
 - pkg:cargo/svd-rs@0.14.3
 - pkg:cargo/svd-rs@0.14.4
