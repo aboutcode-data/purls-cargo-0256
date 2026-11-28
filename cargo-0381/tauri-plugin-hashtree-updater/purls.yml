@@ -6,3 +6,4 @@
 - pkg:cargo/tauri-plugin-hashtree-updater@0.2.50
 - pkg:cargo/tauri-plugin-hashtree-updater@0.2.51
 - pkg:cargo/tauri-plugin-hashtree-updater@0.2.52
+- pkg:cargo/tauri-plugin-hashtree-updater@0.3.0
