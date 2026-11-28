@@ -1,1 +1,3 @@
 - pkg:cargo/tidecoin-node-parity@0.1.0
+- pkg:cargo/tidecoin-node-parity@0.2.0
+- pkg:cargo/tidecoin-node-parity@0.2.1
