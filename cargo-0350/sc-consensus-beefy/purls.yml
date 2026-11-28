@@ -33,6 +33,7 @@
 - pkg:cargo/sc-consensus-beefy@39.0.0
 - pkg:cargo/sc-consensus-beefy@4.0.0
 - pkg:cargo/sc-consensus-beefy@40.0.0
+- pkg:cargo/sc-consensus-beefy@41.0.0
 - pkg:cargo/sc-consensus-beefy@5.0.0
 - pkg:cargo/sc-consensus-beefy@6.0.0
 - pkg:cargo/sc-consensus-beefy@6.1.0-dev.2
