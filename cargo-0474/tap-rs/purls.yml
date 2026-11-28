@@ -7,3 +7,6 @@
 - pkg:cargo/tap-rs@1.5.1
 - pkg:cargo/tap-rs@1.5.3
 - pkg:cargo/tap-rs@1.5.6
+- pkg:cargo/tap-rs@1.6.0
+- pkg:cargo/tap-rs@1.6.1
+- pkg:cargo/tap-rs@1.6.3

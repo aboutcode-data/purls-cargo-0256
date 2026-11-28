@@ -4,6 +4,9 @@
 - pkg:cargo/tar-codec@0.0.12
 - pkg:cargo/tar-codec@0.0.13
 - pkg:cargo/tar-codec@0.0.14
+- pkg:cargo/tar-codec@0.0.15
+- pkg:cargo/tar-codec@0.0.16
+- pkg:cargo/tar-codec@0.0.17
 - pkg:cargo/tar-codec@0.0.4
 - pkg:cargo/tar-codec@0.0.5
 - pkg:cargo/tar-codec@0.0.6
