@@ -7,3 +7,5 @@
 - pkg:cargo/tauri-plugin-python@0.3.6
 - pkg:cargo/tauri-plugin-python@0.3.7
 - pkg:cargo/tauri-plugin-python@0.3.9
+- pkg:cargo/tauri-plugin-python@0.4.0
+- pkg:cargo/tauri-plugin-python@0.4.1

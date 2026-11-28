@@ -57,3 +57,14 @@
 - pkg:cargo/tauri-plugin-serialplugin@3.0.5
 - pkg:cargo/tauri-plugin-serialplugin@3.0.6
 - pkg:cargo/tauri-plugin-serialplugin@3.0.7
+- pkg:cargo/tauri-plugin-serialplugin@3.0.8
+- pkg:cargo/tauri-plugin-serialplugin@3.0.9
+- pkg:cargo/tauri-plugin-serialplugin@4.0.0
+- pkg:cargo/tauri-plugin-serialplugin@4.1.0
+- pkg:cargo/tauri-plugin-serialplugin@4.2.0
+- pkg:cargo/tauri-plugin-serialplugin@4.2.1
+- pkg:cargo/tauri-plugin-serialplugin@4.2.2
+- pkg:cargo/tauri-plugin-serialplugin@4.2.3
+- pkg:cargo/tauri-plugin-serialplugin@4.2.4
+- pkg:cargo/tauri-plugin-serialplugin@4.2.5
+- pkg:cargo/tauri-plugin-serialplugin@4.2.6
