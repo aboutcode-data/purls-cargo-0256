@@ -5,6 +5,7 @@
 - pkg:cargo/scanastudio-client@0.2.13
 - pkg:cargo/scanastudio-client@0.2.14
 - pkg:cargo/scanastudio-client@0.2.15
+- pkg:cargo/scanastudio-client@0.2.16
 - pkg:cargo/scanastudio-client@0.2.4
 - pkg:cargo/scanastudio-client@0.2.5
 - pkg:cargo/scanastudio-client@0.2.6
