@@ -1,5 +1,17 @@
 - pkg:cargo/fhir-terminology@0.1.0
 - pkg:cargo/fhir-terminology@0.1.105
+- pkg:cargo/fhir-terminology@0.1.114
+- pkg:cargo/fhir-terminology@0.1.115
+- pkg:cargo/fhir-terminology@0.1.118
+- pkg:cargo/fhir-terminology@0.1.120
+- pkg:cargo/fhir-terminology@0.1.121
+- pkg:cargo/fhir-terminology@0.1.141
+- pkg:cargo/fhir-terminology@0.1.142
+- pkg:cargo/fhir-terminology@0.1.143
+- pkg:cargo/fhir-terminology@0.1.144
+- pkg:cargo/fhir-terminology@0.1.147
+- pkg:cargo/fhir-terminology@0.1.148
+- pkg:cargo/fhir-terminology@0.1.149
 - pkg:cargo/fhir-terminology@0.1.16
 - pkg:cargo/fhir-terminology@0.1.19
 - pkg:cargo/fhir-terminology@0.1.22
@@ -12,3 +24,5 @@
 - pkg:cargo/fhir-terminology@0.1.92
 - pkg:cargo/fhir-terminology@0.1.97
 - pkg:cargo/fhir-terminology@0.1.98
+- pkg:cargo/fhir-terminology@0.3.1
+- pkg:cargo/fhir-terminology@0.7.0

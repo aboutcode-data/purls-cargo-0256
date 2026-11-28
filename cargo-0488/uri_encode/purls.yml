@@ -3,3 +3,4 @@
 - pkg:cargo/uri_encode@1.0.2
 - pkg:cargo/uri_encode@1.0.3
 - pkg:cargo/uri_encode@1.0.4
+- pkg:cargo/uri_encode@1.0.5
