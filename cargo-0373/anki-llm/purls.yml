@@ -11,6 +11,8 @@
 - pkg:cargo/anki-llm@2.0.18
 - pkg:cargo/anki-llm@2.0.19
 - pkg:cargo/anki-llm@2.0.2
+- pkg:cargo/anki-llm@2.0.20
+- pkg:cargo/anki-llm@2.0.21
 - pkg:cargo/anki-llm@2.0.3
 - pkg:cargo/anki-llm@2.0.4
 - pkg:cargo/anki-llm@2.0.5
